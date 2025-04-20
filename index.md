@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Habitable Life
 ---
+
+Welcome to habitable life
 
