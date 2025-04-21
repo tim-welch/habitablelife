@@ -3,4 +3,4 @@ author: Timothy Welch
 description: Building a life you can live in
 theme: minima
 minima:
-  skin: auto
+  skin: solarized
