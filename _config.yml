@@ -1,5 +1,6 @@
-theme: minima
 title: Habitable Life
 author: Timothy Welch
 description: Building a life you can live in
-skin: dark
+theme: minima
+minima:
+  skin: auto
