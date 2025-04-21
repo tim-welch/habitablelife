@@ -2,5 +2,5 @@
 title: Habitable Life
 ---
 
-Welcome to habitable life
+Welcome to habitable life, my blog where are share my thoughts about creating a life that can be lived in. I talk about faith, Christianity, learning, and habits that help me live the best life I can.
 
