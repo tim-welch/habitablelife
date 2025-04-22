@@ -1,6 +1,6 @@
 ---
-title: Understanding Presuppositions in Bible Study
-date: 2025-04-21
+title: Observation - What does this passage say?
+date: 2025-04-22
 aliases:
     - observation
 ---
