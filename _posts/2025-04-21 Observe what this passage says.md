@@ -1,5 +1,5 @@
 ---
-title: Observation - What does this passage say
+title: Observe what this passage says
 date: 2025-04-21
 ---
 
