@@ -1,6 +1,7 @@
 title: Habitable Life
 author: Timothy Welch
 description: Building a life you can live in
+baseurl: /habitablelife
 theme: minima
 minima:
   skin: solarized
