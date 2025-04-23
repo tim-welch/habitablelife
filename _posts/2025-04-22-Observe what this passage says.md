@@ -3,7 +3,7 @@ title: Observe what this passage says
 date: 2025-04-22
 ---
 
-The first step in studying the Bible is observation: carefully examining the text to understand what it says. This means spending time with the passage, reading it multiple times. Fifteen to 20 readings is a good target. Don’t rush. Let the text speak to you through repetition and familiarity.
+The first step in studying the Bible is **observation**: carefully examining the text to understand what it says. This means spending time with the passage, reading it multiple times. Fifteen to 20 readings is a good target. Don’t rush. Let the text speak to you through repetition and familiarity.
 
 It’s also important to read the passage according to its genre. Poetry, narrative, prophecy, and epistles all follow different patterns and styles, and recognizing this helps you read appropriately. Unless the genre suggests otherwise, read the passage as a complete unit. For example, in a book of poems or short stories, each section might stand alone. But in most cases, the author wrote the passage with a purpose in mind, and it's respectful, as well as wise, to read it in the way they intended.
 
