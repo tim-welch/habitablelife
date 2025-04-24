@@ -5,3 +5,5 @@ baseurl: /habitablelife
 theme: minima
 minima:
   skin: solarized
+plugins:
+  - jekyll-relative-links
