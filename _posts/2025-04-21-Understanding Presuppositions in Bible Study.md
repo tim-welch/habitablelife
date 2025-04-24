@@ -1,5 +1,5 @@
 ---
-title: Understanding Presuppositions in Bible Study
+title: Understanding presuppositions in Bible study
 date: 2025-04-21
 ---
 
