@@ -3,7 +3,7 @@ title: Apply Bible study to your life
 date: 2025-04-24
 ---
 
-Once you’ve [observed the text](2025-04-22-Observe%20what%20this%20passage%20says.md) and [interpreted its meaning]({{ site.baseurl}}{% link _posts/2025-04-23-Interpret what this passage means.md %}), the final step in Bible study is **application**, asking, “So what?” This is where your study becomes personal. Without application, all your effort in understanding what the author said remains just head knowledge. It doesn’t benefit you or anyone else until it transforms how you live, think, and relate to God and others.
+Once you’ve [observed the text]({{ site.baseurl}}{% link _posts/2025-04-22-Observe what this passage says.md %}) and [interpreted its meaning]({{ site.baseurl}}{% link _posts/2025-04-23-Interpret what this passage means.md %}), the final step in Bible study is **application**, asking, “So what?” This is where your study becomes personal. Without application, all your effort in understanding what the author said remains just head knowledge. It doesn’t benefit you or anyone else until it transforms how you live, think, and relate to God and others.
 
 Begin by asking how the message applied to the **original audience**. What was their situation? What challenges or circumstances were they facing? Not everything in the text will apply to us in exactly the same way, so it’s important to recognize what is unique to their time, place, and context.
 
