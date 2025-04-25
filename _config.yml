@@ -2,6 +2,7 @@ title: Habitable Life
 author: Timothy Welch
 description: Building a life you can live in
 baseurl: /habitablelife
+basewebsite: /habitablelife
 theme: minima
 minima:
   skin: solarized
@@ -10,7 +11,5 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-    
-
 # plugins:
 #    - jekyll-feed
