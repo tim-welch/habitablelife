@@ -5,7 +5,7 @@ baseurl: /habitablelife
 basewebsite: /habitablelife
 theme: minima
 minima:
-  skin: solarized
+  skin: dark
 plugins:
   - jekyll-relative-links
 relative_links:
