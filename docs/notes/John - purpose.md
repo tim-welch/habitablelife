@@ -4,7 +4,7 @@ date:
   created: 2025-05-02
 ---
 
-# Why Did John Write This Book?
+# Why Did John Write This Gospel?
 John actually tells us, right near the end of his Gospel (John 20:30–31):
 
 > Jesus performed many other signs in the presence of His disciples, which are not written in this book. But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in His name. 
