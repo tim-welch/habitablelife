@@ -35,7 +35,7 @@ theme:
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight
   - pymdownx.inlinehilite
@@ -62,6 +62,9 @@ extra:
     - icon: fontawesome/solid/blog
       link: https://tim-welch.github.io/habitablelife
 
+extra_css:
+  - stylesheets/backlinks-admonition.css
+
 copyright: Copyright &copy; 2025 Timothy Welch
 
 plugins:
@@ -73,7 +76,8 @@ plugins:
       post_date_format: full
       post_url_format: "note/{slug}"
   - meta
-
+  - backlinks_section:
+      title: Linked mentions
 #nav:
 #  - Home: index.md
 #  - Maps of Content:
