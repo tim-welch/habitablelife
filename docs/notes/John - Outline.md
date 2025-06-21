@@ -1,5 +1,5 @@
 ---
-title:  The Gospel of John
+title:  The Gospel of John Outline
 date:
   created: 2025-06-21
 ---
