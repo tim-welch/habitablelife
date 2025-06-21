@@ -60,11 +60,25 @@ God draws, grants, teaches, gives. But He doesn’t force. Those who respond to 
 
 Even though I am already a believer, this changed how I think about three key parts of following Jesus:
 
-**Evangelism**: Our job is to share the good news of what Jesus has done. We can plead with people and answer their questions, but we can’t make them believe. Only God can teach their hearts. That frees us from pressure while reminding us how important our role still is.
+### Evangelism: Speak Boldly, Trust God, Be Patient
 
-**Discipleship**: We’re not done learning once we believe. We need to keep hearing and learning from the Father. Discipleship isn’t about knowing all the answers. It’s about staying in a posture of humility and growth.
+I'm beginning to see how crucial evangelism really is. If no one shares the good news, how can people even begin to hear and learn from God? But even as we speak, we need to remember that **we aren't the ones saving people**. God is the one teaching. The other person is responsible for how they respond.
 
-**God’s Word**: There are lots of ways we might hear from God. But the main way God teaches us is through His Word. If we want to hear and learn from the Father, we need to be in the Bible, honestly and often. See [my bible study process](../maps-of-content/my-bible-study-process.md) to learn how I approach scripture.
+That takes the pressure off. Evangelism isn't about winning arguments or closing deals. It's about bearing witness to what Jesus has done. We speak clearly and passionately, and then trust that God is working through our words to help others hear and learn and believe.
+
+### Discipleship: We're Never Done Learning
+
+Believing in Jesus is not the finish line. It's the beginning. We continue to hear and learn from the Father as we follow Jesus day by day. Discipleship is a lifelong process of transformation.
+
+We won't always understand everything right away. That's okay. The point is to keep listening, keep learning, keep growing. Faith isn't static. It's dynamic.
+
+### God's Word: The Primary Way God Teaches
+
+There are many ways God can speak to us—through people, circumstances, even conscience. But the primary way God teaches His disciples is through His Word.
+
+If we want to hear and learn from the Father, we need to read and study Scripture. We need to sit under sound teaching. We need to engage with what God has already revealed. Scripture isn't just information. It's the voice of the living God, speaking to His people.
+
+ See [my bible study process](../maps-of-content/my-bible-study-process.md) to learn how I approach scripture.
 
 ## Final Thoughts
 
