@@ -6,6 +6,8 @@ date:
 
 #  The Gospel of John
 
+<!-- more -->
+
 ## In the Beginning Was the Word (1:1–1:18)
 [John 1:1-1:18](../Bible/John%201_1-1_18.md)
 
