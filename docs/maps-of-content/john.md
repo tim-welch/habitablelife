@@ -22,7 +22,7 @@
 ### Do You Want to Be Healed? (5:1–47)
 [John 5:1-47](../Bible/John%205_1-47.md)
 ### I Am the Bread of Life (6:1–71)
-
+[John 6 - Wrestling With The Father's Drawing](../notes/John%206%20-%20Wrestling%20With%20The%20Father's%20Drawing.md)
 #### A Boy With Five Barley Loaves and Two Small Fish (6:1-15)
 [John 6:1-15](../Bible/John%206_1-15.md)
 #### It is I; Do Not be Afraid (6:16-21)
