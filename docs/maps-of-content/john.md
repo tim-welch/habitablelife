@@ -6,8 +6,26 @@
 
 ## Come and See (1:19-4:54)
 
-### The first disciples drawn by testimony and signs (1:19–2:11)
-[John 1:19-2:11](../Bible/John%201_19-2_11.md)
+### John the Baptist’s Testimony (John 1:19-34)
+#### A Voice Calling In the Wilderness (John 1:19–28)
+[John 1:19-28](../Bible/John%201_19-28.md)
+
+####  Behold the Lamb of God (John 1:29–34)
+[John 1:29-34](../Bible/John%201_29-34.md)
+
+### The first disciples drawn (1:35–51)
+
+#### Andrew and Another Disciple Follow Jesus (John 1:35–39)
+[John 1:35-39](../Bible/John%201_35-39.md)
+
+####  Simon Peter Meets Jesus (John 1:40–42)
+[John 1:40-42](../Bible/John%201_40-42.md)
+
+#### Philip and Nathanael (John 1:43–51)
+[John 1:43-51](../Bible/John%201_43-51.md)
+
+###  The Wedding at Cana (John 2:1–11)
+[John 2:1-11](../Bible/John%202_1-11.md)
 
 ### Zeal for My Father’s House (2:12–2:25)
 [John 2:12-25](../Bible/John%202_12-25.md)
