@@ -3,26 +3,21 @@
 
 ## In the Beginning Was the Word (1:1–1:18)
 [John 1:1-1:18](../Bible/John%201_1-1_18.md)
+[John 1_1-18 - The Word Became Flesh](../notes/John%201_1-18%20-%20The%20Word%20Became%20Flesh.md)
 
 ## Come and See (1:19-4:54)
 
 ### John the Baptist’s Testimony (John 1:19-34)
 #### A Voice Calling In the Wilderness (John 1:19–28)
 [John 1:19-28](../Bible/John%201_19-28.md)
+[John 1_19-28 - A Voice Calling In the Wilderness](../notes/John%201_19-28%20-%20A%20Voice%20Calling%20In%20the%20Wilderness.md)
 
 ####  Behold the Lamb of God (John 1:29–34)
 [John 1:29-34](../Bible/John%201_29-34.md)
+[John 1_29-34 - The Lamb of God](../notes/John%201_29-34%20-%20The%20Lamb%20of%20God.md)
 
 ### The first disciples drawn (1:35–51)
-
-#### Andrew and Another Disciple Follow Jesus (John 1:35–39)
-[John 1:35-39](../Bible/John%201_35-39.md)
-
-####  Simon Peter Meets Jesus (John 1:40–42)
-[John 1:40-42](../Bible/John%201_40-42.md)
-
-#### Philip and Nathanael (John 1:43–51)
-[John 1:43-51](../Bible/John%201_43-51.md)
+[John 1:35-51](../Bible/John%201_35-51.md)
 
 ###  The Wedding at Cana (John 2:1–11)
 [John 2:1-11](../Bible/John%202_1-11.md)
