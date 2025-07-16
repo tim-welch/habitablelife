@@ -1,5 +1,5 @@
 ---
-title: Jesus: Connecting Heaven and Earth
+title: "Jesus: Connecting Heaven and Earth"
 date: 
   created: 2025-07-16
 ---
