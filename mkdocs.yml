@@ -80,6 +80,14 @@ plugins:
       title: Linked mentions
       ignore_links_to:
       - index.md
+  # https://github.com/daxcore/mkdocs-obsidian-interactive-graph-plugin
+  # https://github.com/GooRoo/mkdocs-obsidian-bridge
+  # https://github.com/ndy2/mkdocs-obsidian-support-plugin
+  # Requires using wikilinks, so this probably means I need to get rid of the blog
+  # structure I have.
+  # - mkdocs-obsidian-interactive-graph-plugin
+  
+
 #nav:
 #  - Home: index.md
 #  - Maps of Content:
