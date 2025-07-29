@@ -14,12 +14,14 @@ Writing is thinking. Writing isn't just recording our completed thoughts. We don
 
 <!-- more -->
 - [How to Take Smart Notes](../sources/How%20to%20Take%20Smart%20Notes.md)
-- [Zettelkasten](Zettelkasten.md)
 - [What a Permanent Note Is](What%20a%20Permanent%20Note%20Is.md)
-- [Freewriting](Freewriting.md)
 - [Writing is Iterative](Writing%20is%20Iterative.md)
+
+<!--
+- [Zettelkasten](Zettelkasten.md)
+- [Freewriting](Freewriting.md)
 - [Writing is testing for our ideas](Writing%20is%20testing%20for%20our%20ideas.md)
 - [Write Early; Write Often](Write%20Early;%20Write%20Often.md)
 - [What makes a thought atomic](What%20makes%20a%20thought%20atomic.md)
-
+-->
 
