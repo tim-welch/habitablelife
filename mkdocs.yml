@@ -1,5 +1,7 @@
 site_name: Habitable Life
 site_url: https://tim-welch.github.io/blog-material
+site_author: Timothy Welch
+copyright: Copyright &copy; 2025 Timothy Welch
 
 theme:
   name: material
@@ -17,29 +19,55 @@ theme:
     - navigation.indexes
     # - navigation.tabs
     - toc.follow
+    - content.code.copy
   palette:
-    - scheme: slate
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: deep purple
       toggle:
         icon: material/weather-sunny
         name: Dark mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
       primary: deep orange
       accent: deep purple
-
-    - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: deep orange
-      accent: deep purple
 
 markdown_extensions:
-  - attr_list
+  - markdown.extensions.admonition
+  - markdown.extensions.attr_list
+  - markdown.extensions.codehilite:
+      guess_lang: false
+  - markdown.extensions.def_list
+  - markdown.extensions.footnotes
+  - markdown.extensions.meta
+  - markdown.extensions.toc:
+      permalink: true
+
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
   - pymdownx.highlight
   - pymdownx.inlinehilite
-  - pymdownx.snippets
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -48,11 +76,10 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
-  - admonition
-  - pymdownx.details
-  - pymdownx.smartsymbols
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.details
 
 extra:
   generator: true
@@ -65,28 +92,27 @@ extra:
 extra_css:
   - stylesheets/backlinks-admonition.css
 
-copyright: Copyright &copy; 2025 Timothy Welch
-
 plugins:
   - search
+  - offline
   - tags
+  - meta
+  - glightbox:
+      skip_classes: 
+        - collapse-btn
+  - nodegraph:
+      graphfile: "nodegraph.html"  
+  - backlinks_section:
+      title: Linked mentions
+      ignore_links_to:
+      - index.md
   - blog:
       blog_dir: .
       post_dir: "{blog}/notes"
       blog_toc: true
       post_date_format: full
       post_url_format: "note/{slug}"
-  - meta
-  - backlinks_section:
-      title: Linked mentions
-      ignore_links_to:
-      - index.md
-  # https://github.com/daxcore/mkdocs-obsidian-interactive-graph-plugin
-  # https://github.com/GooRoo/mkdocs-obsidian-bridge
-  # https://github.com/ndy2/mkdocs-obsidian-support-plugin
-  # Requires using wikilinks, so this probably means I need to get rid of the blog
-  # structure I have.
-  # - mkdocs-obsidian-interactive-graph-plugin
+
   
 
 #nav:
