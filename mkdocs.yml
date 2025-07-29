@@ -119,5 +119,5 @@ plugins:
 #  - Home: index.md
 #  - Maps of Content:
 #    - Examples: maps/examples.md
-not_in_nav:
-  /Bible/*
+# not_in_nav:
+#   /Bible/*

@@ -7,4 +7,4 @@ Permanent notes are meant to be kept forever. They contain all relevant informat
 
 <!-- more -->
 
-- [How to Take Smart Notes](../sources/How%20to%20Take%20Smart%20Notes.md)
+- [How to Take Smart Notes](How%20to%20Take%20Smart%20Notes.md)

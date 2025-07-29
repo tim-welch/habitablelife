@@ -5,9 +5,7 @@ date:
 ---
 
 # Jesus: Connecting Heaven and Earth
-[John 1:35-51](../Bible/John%201_35-51.md)
-
-Jesus came to bring all people to God. He is the ladder Jacob dreamed of, the Son of Man Daniel prophesied about, and the Lamb of God foreshadowed by the Jewish sacrificial system. The glory and magnitude of this revelation is so great that once we have learned and believed it, we cannot keep it to ourselves. We see this in John the Baptist, Andrew and Philip. All of them responded to Jesus by inviting others to come and see.
+In John 1:35-51 we learn that Jesus came to bring all people to God. He is the ladder Jacob dreamed of, the Son of Man Daniel prophesied about, and the Lamb of God foreshadowed by the Jewish sacrificial system. The glory and magnitude of this revelation is so great that once we have learned and believed it, we cannot keep it to ourselves. We see this in John the Baptist, Andrew and Philip. All of them responded to Jesus by inviting others to come and see.
 
 <!-- more -->
 

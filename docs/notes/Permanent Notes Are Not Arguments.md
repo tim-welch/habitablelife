@@ -8,5 +8,5 @@ A permanent note is not a full argument. It’s one single thought that can be u
 
 <!-- more -->
 
-- [How to Take Smart Notes](../sources/How%20to%20Take%20Smart%20Notes.md)
+- [How to Take Smart Notes](How%20to%20Take%20Smart%20Notes.md)
 - [What a Permanent Note Is](What%20a%20Permanent%20Note%20Is.md)
