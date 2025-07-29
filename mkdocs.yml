@@ -69,6 +69,7 @@ copyright: Copyright &copy; 2025 Timothy Welch
 
 plugins:
   - search
+  - tags
   - blog:
       blog_dir: .
       post_dir: "{blog}/notes"
