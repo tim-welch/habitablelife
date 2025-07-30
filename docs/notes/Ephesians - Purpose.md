@@ -27,3 +27,5 @@ In light of all that God has done, Paul urges the Ephesians to live in a way tha
 Paul encourages them to leave behind their old way of living and to "put on the new self." This new life involves renewing their minds, showing love and forgiveness, and imitating God. They are to live in right relationship with one another, both in their families and in the workplace. Rather than being controlled by anything else, they are to be filled with the Spirit.
 
 Paul reminds them that God has equipped them with everything they need: truth, righteousness, faith, Scripture, and salvation. With these gifts, along with constant prayer, they can walk in a manner worthy of the calling they received when they first believed.
+
+[John - Author and recipients](John%20-%20Author%20and%20recipients.md)
