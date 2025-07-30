@@ -12,6 +12,9 @@ Paul tells us plainly why he wrote his letter to the Ephesians. In Ephesians 4:1
 
 Paul is encouraging believers to live in a way that reflects the calling they received when they placed their faith in Jesus. He begins the letter by reminding them of all the blessings they received in Christ. Then he shifts to instructing them on how to live in response to those blessings. Much like [James](James - purpose.md), Paul calls believers not only to believe but also to live out their faith in daily life.
 
+
+[John - Author and recipients](John%20-%20Author%20and%20recipients.md)
+
 <!-- more -->
 
 ## Blessed in Christ
@@ -27,5 +30,3 @@ In light of all that God has done, Paul urges the Ephesians to live in a way tha
 Paul encourages them to leave behind their old way of living and to "put on the new self." This new life involves renewing their minds, showing love and forgiveness, and imitating God. They are to live in right relationship with one another, both in their families and in the workplace. Rather than being controlled by anything else, they are to be filled with the Spirit.
 
 Paul reminds them that God has equipped them with everything they need: truth, righteousness, faith, Scripture, and salvation. With these gifts, along with constant prayer, they can walk in a manner worthy of the calling they received when they first believed.
-
-[John - Author and recipients](John%20-%20Author%20and%20recipients.md)
