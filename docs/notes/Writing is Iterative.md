@@ -1,5 +1,5 @@
 ---
-title: Writing is Iterative
+title: "Writing is Iterative"
 date: 
   created: 2025-07-28
 

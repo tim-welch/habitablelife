@@ -1,5 +1,5 @@
 ---
-title: Observe what this passage says
+title: "Observe what this passage says"
 date: 
   created: 2025-04-22
 ---

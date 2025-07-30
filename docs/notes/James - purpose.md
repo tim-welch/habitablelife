@@ -1,5 +1,5 @@
 ---
-title: James Purpose
+title: "James Purpose"
 date: 
   created: 2025-05-08
 ---

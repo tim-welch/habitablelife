@@ -1,5 +1,5 @@
 ---
-title: Interpret what this passage means
+title: "Interpret what this passage means"
 date: 
   created: 2025-04-23
 ---

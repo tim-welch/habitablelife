@@ -1,5 +1,5 @@
 ---
-title: Writing is Thinking
+title: "Writing is Thinking"
 date: 
   created: 2025-07-28
 ---

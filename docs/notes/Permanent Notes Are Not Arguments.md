@@ -1,5 +1,5 @@
 ---
-title: Permanent Notes Are Not Arguments
+title: "Permanent Notes Are Not Arguments"
 date: 
   created: 2025-07-27
 ---

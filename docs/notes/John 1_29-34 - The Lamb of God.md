@@ -1,5 +1,5 @@
 ---
-title: The Lamb of God
+title: "The Lamb of God"
 date: 
   created: 2025-07-04
 ---

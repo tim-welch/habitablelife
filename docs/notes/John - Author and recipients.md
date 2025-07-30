@@ -1,5 +1,5 @@
 ---
-title: Who wrote the Gospel of John?
+title: "Who wrote the Gospel of John?"
 date: 
   created: 2025-06-23
 ---

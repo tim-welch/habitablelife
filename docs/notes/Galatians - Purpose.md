@@ -1,5 +1,5 @@
 ---
-title: Why Did Paul Write the Letter to the Galatians?
+title: "Why Did Paul Write the Letter to the Galatians?"
 date:
   created: 2025-05-24
 ---

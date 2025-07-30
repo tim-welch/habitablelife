@@ -1,5 +1,5 @@
 ---
-title: How Connecting Notes Generates Insight
+title: "How Connecting Notes Generates Insight"
 date: 
   created: 2025-07-28
 ---

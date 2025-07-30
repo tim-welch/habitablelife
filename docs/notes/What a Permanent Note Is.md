@@ -1,5 +1,5 @@
 ---
-title: What a Permanent Note Is
+title: "What a Permanent Note Is"
 date: 
   created: 2025-07-27
 ---

@@ -1,5 +1,5 @@
 ---
-title: Why Did Paul Write the Letter to the Ephesians?
+title: "Why Did Paul Write the Letter to the Ephesians?"
 date:
   created: 2025-05-09
 ---

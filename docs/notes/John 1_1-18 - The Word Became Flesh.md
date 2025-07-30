@@ -1,5 +1,5 @@
 ---
-title: The Word Became Flesh
+title: "The Word Became Flesh"
 date: 
   created: 2025-06-29
 ---

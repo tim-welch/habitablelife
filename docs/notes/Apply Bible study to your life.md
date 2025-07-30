@@ -1,5 +1,5 @@
 ---
-title: Apply Bible study to your life
+title: "Apply Bible study to your life"
 date: 
   created: 2025-04-24
 ---

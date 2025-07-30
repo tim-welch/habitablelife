@@ -1,5 +1,5 @@
 ---
-title: John's Purpose
+title: "John's Purpose"
 date: 
   created: 2025-05-02
 ---
