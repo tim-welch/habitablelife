@@ -8,8 +8,6 @@ date:
 
 In John 1:1–18 we encounter the major themes of the Gospel as Jesus is revealed to be the eternal Word, the Creator, the Light, the Life, and the One who reveals the Father. John shows us who Jesus is and why He came. He calls every reader to make a choice: receive Him or reject Him. This passage reveals who Jesus is, what He came to do, how witnesses confirmed Him, and how we are to respond.
 
-<!-- more -->
-
 ## The Word as God and Creator
 
 John opens with "in the beginning was the Word". This is reminiscent of Genesis 1 where "in the beginning" God spoke (using words) creation into existence. Jesus is the eternal Word (the _logos_) of God. By using the word logos to identify Jesus, John might have also had the Greeks, who were very philosophical, in mind since _logos_ can also mean thinking and reasoning.

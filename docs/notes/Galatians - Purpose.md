@@ -11,8 +11,6 @@ Early in the letter, Paul expresses his amazement at how quickly the churches in
 
 This concern that the Galatians are turning from the true gospel to a different gospel is the central focus of the entire letter.
 
-<!-- more -->
-
 ## The Concern
 Paul begins by reminding the Galatians that Jesus Christ gave Himself for our sins. He then addresses his main concern: they are turning away from the true gospel. Certain individuals had come among them and were distorting the message of Christ. Specifically, they were teaching that faith in Jesus was not enough and that believers must also follow the law, including circumcision, to be fully accepted by God.
 

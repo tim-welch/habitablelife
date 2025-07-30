@@ -11,8 +11,6 @@ But who wrote it? And who was it for?
 
 These questions matter. Not just for understanding the text, but for understanding its heart. This isn’t just a biography of Jesus. It is testimony. Someone who walked with Jesus wanted you to know what he saw.
 
-<!-- more -->
-
 ## A Personal Voice
 
 The early church believed the author was John the Apostle. He was one of the Twelve and part of Jesus' inner circle. Early believers like Irenaeus and Clement of Alexandria say John wrote later in life, most likely from Ephesus.

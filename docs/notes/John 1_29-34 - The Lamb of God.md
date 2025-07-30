@@ -8,8 +8,6 @@ date:
 
 In John 1:29-34 we learn more about who Jesus is. The day after the scribes and Levites questioned John, Jesus approached him. The very One John was sent to prepare the way for was now coming toward him. Without hesitation, John proclaimed, “Look, the Lamb of God, who takes away the sin of the world!”
 
-<!-- more -->
-
 ## Takes Away Sin
 
 By calling Jesus the Lamb of God, John evokes rich Old Testament imagery. In the Passover (Exodus 12), Israelite families in Egypt were spared God’s judgment through the blood of a lamb. Lambs also played a central role in Israel’s sacrificial system. Likewise, Isaiah foresaw a suffering servant who would be “like a lamb led to the slaughter” (Isaiah 53). In both this Gospel and in Revelation, John consistently calls Jesus the Lamb, a title that points to both His sacrifice and His triumph over sin and death.

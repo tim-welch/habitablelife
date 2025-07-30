@@ -6,8 +6,6 @@ date:
 
 Once you've carefully  [observed a passage](Observe what this passage says.md) and come to terms with what the author is saying, the next step is **interpretation**, seeking to understand what the passage means. This involves uncovering the author's intent, argument, and main points. It's crucial during this stage to set aside your own opinions, assumptions, and theological preferences as much as possible. Let the author, both human and divine, speak for themselves.
 
-<!-- more -->
-
 Start by asking: What was the author’s original purpose in writing this? What argument are they making? What themes or key points are they trying to get across? Your goal is to discover what the text meant to its original audience and how that meaning unfolds within the larger context of Scripture.
 
 The [principles of observation](Observe what this passage says.md) still apply here. You should still avoid adding anything to the passage that isn't there, and you shouldn’t ignore or minimize things that _are_ there. Watch out for common pitfalls, like the **negative inference fallacy**, drawing conclusions from what isn’t said, rather than focusing on what is. Stay grounded in the text, and let the author’s priorities shape your interpretation. Make sure the main thing remains the main thing.

@@ -12,11 +12,6 @@ Paul tells us plainly why he wrote his letter to the Ephesians. In Ephesians 4:1
 
 Paul is encouraging believers to live in a way that reflects the calling they received when they placed their faith in Jesus. He begins the letter by reminding them of all the blessings they received in Christ. Then he shifts to instructing them on how to live in response to those blessings. Much like [James](James - purpose.md), Paul calls believers not only to believe but also to live out their faith in daily life.
 
-
-[John - Author and recipients](John%20-%20Author%20and%20recipients.md)
-
-<!-- more -->
-
 ## Blessed in Christ
 
 Paul opens the letter by describing the incredible blessings believers have received in Christ. God has poured out His glorious grace on us "in the Beloved One." He has given us redemption and forgiveness, not only to the Israelites but also to the Gentiles. This inclusion of the Gentiles reveals a mystery that had been hidden for ages: salvation through Christ is available to all.

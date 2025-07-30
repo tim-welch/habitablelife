@@ -7,8 +7,6 @@ date:
 # A Voice After Silence
 By the time the priests and Levites came to question John the Baptist in John 1:19–28, it had been nearly 400 years since God spoke to the Israelites through a prophet. The last prophet sent by God was Malachi, who prophesied the return of Elijah before the day of the Lord (Malachi 4:5-6). As his questioners learned, John exemplifies the humility and purpose of a true witness. He consistently pointed away from himself and toward the Messiah. In this passage we learn more about who John was and his mission to testify about the Light who became flesh.
 
-<!-- more -->
-
 The people recognized John as a prophet and the masses came to him to hear what he preached and be baptized by him. As crowds flocked to John, the Jewish leaders wanted to find out who he was. They sent priests and Levites to question him. Finding John, they asked him if he was the Christ, Elijah, or the Prophet. John repeatedly denied being any of these just as he was described as not being the Light earlier John 1:6-8.
 
 ## A Voice and The Word

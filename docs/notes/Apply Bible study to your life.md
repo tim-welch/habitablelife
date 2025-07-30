@@ -6,8 +6,6 @@ date:
 
 Once you’ve [observed the text](Observe what this passage says.md) and [interpreted its meaning](Interpret what this passage means.md), the final step in Bible study is **application**, asking, “So what?” This is where your study becomes personal. Without application, all your effort in understanding what the author said remains just head knowledge. It doesn’t benefit you or anyone else until it transforms how you live, think, and relate to God and others.
 
-<!-- more -->
-
 Begin by asking how the message applied to the **original audience**. What was their situation? What challenges or circumstances were they facing? Not everything in the text will apply to us in exactly the same way, so it’s important to recognize what is unique to their time, place, and context.
 
 Then, look for **universal truths** that apply to all people, in every place and time. These are the principles that can bridge the gap between the ancient world and our own. From there, consider how these truths speak to a modern audience, and more personally, how they apply to you.

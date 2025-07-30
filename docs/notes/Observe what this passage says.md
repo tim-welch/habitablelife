@@ -6,8 +6,6 @@ date:
 
 The first step in studying the Bible is **observation**: carefully examining the text to understand what it says. This means spending time with the passage, reading it multiple times. Fifteen to 20 readings is a good target. Don’t rush. Let the text speak to you through repetition and familiarity.
 
-<!-- more -->
-
 It’s also important to read the passage according to its genre. Poetry, narrative, prophecy, and epistles all follow different patterns and styles, and recognizing this helps you read appropriately. Unless the genre suggests otherwise, read the passage as a complete unit. For example, in a book of poems or short stories, each section might stand alone. But in most cases, the author wrote the passage with a purpose in mind, and it's respectful, as well as wise, to read it in the way they intended.
 
 As you read, make a conscious effort to come to terms with the author. This means paying attention to the specific words and phrases they used, and asking what those terms meant to the author and the original audience, not just what they mean to you today. Our modern understanding of a word might not match the original intent. Look for how the author defines their terms within the text. Use multiple translations to see how different people at different times translated the passage, and when needed, consult tools for studying the original Hebrew or Greek to clarify meanings. Be alert for idioms or cultural expressions that might not translate clearly into English. Pay attention to where your [presuppositions](Understanding Presuppositions in Bible Study.md) are imposing meaning to the author's terms that the author did not intend.

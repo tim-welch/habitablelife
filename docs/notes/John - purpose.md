@@ -10,8 +10,6 @@ John actually tells us, right near the end of his Gospel (John 20:30–31):
 
 > Jesus performed many other signs in the presence of His disciples, which are not written in this book. But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in His name. 
 
-<!-- more -->
-
 So, why did John write this book? He chose specific signs and stories to include because he believed they were enough to help his readers believe. He could have written a lot more, but what he included was intentional and purposeful. His goal was clear: that we would believe.
 
 ## What Does John Want Us to Believe?

@@ -8,8 +8,6 @@ date:
 
 John 6 has been one of the most difficult chapters for me to understand. It’s packed with signs, huge crowds, grumbling, confusion, and eventually, a lot of people walking away from Jesus. But what really made me stop and wrestle with it was how Jesus talks about the Father’s role in people coming to Him, and what that means for belief.
 
-<!-- more -->
-
 Jesus says:
 
 - "Everyone the Father gives Me will come to Me" (John 6:37)
