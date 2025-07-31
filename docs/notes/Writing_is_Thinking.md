@@ -10,6 +10,6 @@ tags:
 ---
 Writing is thinking. Writing isn't just recording our completed thoughts. We don't think and _then_ write. It is the process for developing our ideas. When we write, we have to turn our thoughts into words. Instead of just vague ideas in our heads, the process of writing requires us to slow down and articulate the idea in our own words so that it becomes a concise, accurate, and understandable atomic thought.
 
-- [How to Take Smart Notes](How%20to%20Take%20Smart%20Notes.md)
+- [How_to_Take_Smart_Notes](How_to_Take_Smart_Notes.md)
 - [What_a_Permanent_Note_Is](What_a_Permanent_Note_Is.md)
 - [Writing_is_Iterative](Writing_is_Iterative.md)
