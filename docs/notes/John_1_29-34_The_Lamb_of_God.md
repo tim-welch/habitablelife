@@ -16,13 +16,13 @@ The phrase “takes away the sin of the world” reveals the scope of Jesus’ m
 
 ## Jesus Is Greater
 
-John then declared that Jesus is greater than he is, “because He was before me.” The Greek word _protos_, translated as “before,” can refer either to being first in time or first in rank. In Jesus’ case, both are true. As the eternal [Word](John%201_1-18%20-%20The%20Word%20Became%20Flesh.md), Jesus existed before John. And as the Christ, He surpasses John in honor and authority. John had already [admitted](John%201_19-28%20-%20A%20Voice%20Calling%20In%20the%20Wilderness.md) the day before that he was not worthy even to untie Jesus’ sandals.
+John then declared that Jesus is greater than he is, “because He was before me.” The Greek word _protos_, translated as “before,” can refer either to being first in time or first in rank. In Jesus’ case, both are true. As the eternal [Word](John_1_1-18_The_Word_Became_Flesh.md), Jesus existed before John. And as the Christ, He surpasses John in honor and authority. John had already [admitted](John_1_19-28_A_Voice_Calling_In_the_Wilderness.md) the day before that he was not worthy even to untie Jesus’ sandals.
 
 ## Recognizing the Messiah
 
 John continued, “I myself did not know Him.” This may sound confusing. We know from Luke’s Gospel that John leapt in the womb when Mary visited Elizabeth. But John was not referring to personally recognizing Jesus. He was sent to prepare the way for the Messiah and needed a way to identify Him. God had told him, “The man on whom you see the Spirit descend and rest is He who will baptize with the Holy Spirit.” Only when John saw the Spirit descend on Jesus did he know for certain that Jesus is the Son of God.
 
-Like John, we too cannot recognize Jesus rightly without God's help. As Jesus later says, “No one can come to Me unless the Father who sent Me draws him” ([John 6:44](John%206%20-%20Wrestling%20With%20The%20Father's%20Drawing.md)).
+Like John, we too cannot recognize Jesus rightly without God's help. As Jesus later says, “No one can come to Me unless the Father who sent Me draws him” ([John 6:44](John_6_Wrestling_With_The_Fathers_Drawing.md)).
 
 ## The Spirit Who Remains
 

@@ -4,22 +4,22 @@ date:
   created: 2025-04-24
 ---
 #  The Gospel of John
-[Who wrote the Gospel of John?](John%20-%20Author%20and%20recipients.md)
+[Who wrote the Gospel of John?](John_Author_and_recipients.md)
 
 ## In the Beginning Was the Word (1:1–18)
-[The Word Became Flesh](John%201_1-18%20-%20The%20Word%20Became%20Flesh.md)
+[The Word Became Flesh](John_1_1-18_The_Word_Became_Flesh.md)
 
 ## Come and See (1:19-4:54)
 
 ### John the Baptist’s Testimony (John 1:19-34)
 #### A Voice Calling In the Wilderness (John 1:19–28)
-[A Voice Calling In the Wilderness](John%201_19-28%20-%20A%20Voice%20Calling%20In%20the%20Wilderness.md)
+[A Voice Calling In the Wilderness](John_1_19-28_A_Voice_Calling_In_the_Wilderness.md)
 
 ####  Behold the Lamb of God (John 1:29–34)
-[The Lamb of God](John%201_29-34%20-%20The%20Lamb%20of%20God.md)
+[The Lamb of God](John_1_29-34_The_Lamb_of_God.md)
 
 ### The first disciples drawn (1:35–51)
-[Jesus: Connecting Heaven and Earth](John%201_35-51%20-%20Jesus%20Connecting%20Heaven%20and%20Earth.md)
+[Jesus: Connecting Heaven and Earth](John_1_35-51_Jesus_Connecting_Heaven_and_Earth.md)
 
 ###  The Wedding at Cana (John 2:1–11)
 
@@ -38,7 +38,7 @@ date:
 ### Do You Want to Be Healed? (5:1–47)
 
 ### I Am the Bread of Life (6:1–71)
-[Wrestling With The Father's Drawing](John%206%20-%20Wrestling%20With%20The%20Father's%20Drawing.md)
+[Wrestling With The Father's Drawing](John_6_Wrestling_With_The_Fathers_Drawing.md)
 
 #### A Boy With Five Barley Loaves and Two Small Fish (6:1-15)
 

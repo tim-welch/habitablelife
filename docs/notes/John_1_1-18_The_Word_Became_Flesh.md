@@ -44,7 +44,7 @@ But not everyone rejected the Light. And all those who received the Light were g
 
 Unlike Moses, who brought the law, Jesus came in grace and truth from the Father's side to make the Father known. The law of Moses revealed to the Jews who they were: sinners who could not live up to God's expectations. Jesus, on the other hand, revealed the Father. While fulfilling the law, Jesus also offered eternal life with the Father. By receiving Christ, we can become God's children, and Jesus' Father becomes our Father.
 
-From the very beginning of his Gospel, John focuses on the choice all of us have: receive Jesus or reject Him. This theme weaves through the entire Gospel. If fact later John later tells us why he wrote (see [John - purpose](John%20-%20purpose.md)).
+From the very beginning of his Gospel, John focuses on the choice all of us have: receive Jesus or reject Him. This theme weaves through the entire Gospel. If fact later John later tells us why he wrote (see [John_Purpose](John_Purpose.md)).
 
 ## Conclusion: Believe and Receive
 
