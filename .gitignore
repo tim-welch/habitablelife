@@ -1,3 +1,15 @@
+# mkdocs #
+##########
+site
+lib
+
+
+# Python #
+##########
+venv
+.venv
+
+
 # Compiled source #
 ###################
 *.com
