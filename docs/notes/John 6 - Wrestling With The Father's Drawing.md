@@ -76,7 +76,7 @@ There are many ways God can speak to us—through people, circumstances, even co
 
 If we want to hear and learn from the Father, we need to read and study Scripture. We need to sit under sound teaching. We need to engage with what God has already revealed. Scripture isn't just information. It's the voice of the living God, speaking to His people.
 
- See [my bible study process](Inductive%20Bible%20Study%20Method.md) to learn how I approach scripture.
+ See [my bible study process](Inductive_Bible_Study_Method.md) to learn how I approach scripture.
 
 ## Final Thoughts
 
