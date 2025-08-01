@@ -17,7 +17,7 @@ James writes to encourage believers to respond to trials with joy, viewing them 
 
 Immediately after introducing the idea of trials, James provides guidance on how to navigate them: with wisdom. He emphasizes the need for wisdom that comes from God, implying that human wisdom alone is insufficient for handling the challenges believers will encounter. Fortunately, James assures his readers that God gives generously to those who ask and does so without reproach.
 
-However, receiving wisdom requires faith. James warns that those who doubt will struggle, being like a wave of the sea, driven and tossed by the wind. Just as John emphasized the need to [believe in Jesus for salvation](John - purpose.md), James emphasizes the necessity of faith when asking for wisdom. Without faith, double-mindedness results in instability.
+However, receiving wisdom requires faith. James warns that those who doubt will struggle, being like a wave of the sea, driven and tossed by the wind. Just as John emphasized the need to [believe in Jesus for salvation](John_Purpose.md), James emphasizes the necessity of faith when asking for wisdom. Without faith, double-mindedness results in instability.
 
 ## Trials Lead to Maturity
 
