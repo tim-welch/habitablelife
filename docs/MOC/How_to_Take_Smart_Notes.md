@@ -8,6 +8,9 @@ tags:
   - clarity-of-thought
 ---
 # How to Take Smart Notes
+
+![](https://images-na.ssl-images-amazon.com/images/I/41iVa0x-P-L._SL200_.jpg)
+
 - Author: Sönke Ahrens
 - Full Title: How to Take Smart Notes
 - Publication Date: February 24, 2017
