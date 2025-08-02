@@ -89,8 +89,8 @@ extra:
     - icon: fontawesome/solid/blog
       link: https://tim-welch.github.io/habitablelife
 
-extra_css:
-  - stylesheets/backlinks-admonition.css
+# extra_css:
+#   - stylesheets/backlinks-admonition.css
 
 plugins:
   - search
