@@ -1,8 +1,4 @@
----
-title: "Permanent Notes Are Not Arguments"
-date: 
-  created: 2025-07-27
----
+# Permanent Notes Are Not Arguments
 
 A permanent note is not a full argument. It’s one single thought that can be used in any number of arguments as needed. The goal is to capture an idea in a way that makes it reusable and composable across different contexts.
 

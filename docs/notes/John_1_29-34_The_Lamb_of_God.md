@@ -1,9 +1,3 @@
----
-title: "The Lamb of God"
-date: 
-  created: 2025-07-04
----
-
 # The Lamb of God
 
 In John 1:29-34 we learn more about who Jesus is. The day after the scribes and Levites questioned John, Jesus approached him. The very One John was sent to prepare the way for was now coming toward him. Without hesitation, John proclaimed, “Look, the Lamb of God, who takes away the sin of the world!”

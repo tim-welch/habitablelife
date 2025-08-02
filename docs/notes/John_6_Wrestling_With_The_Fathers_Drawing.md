@@ -1,9 +1,3 @@
----
-title: "John 6 - Wrestling With The Father's Drawing"
-date: 
-  created: 2025-06-21
----
-
 # Wrestling with John 6: The Father, the Son, and the Struggle to Believe
 
 John 6 has been one of the most difficult chapters for me to understand. It’s packed with signs, huge crowds, grumbling, confusion, and eventually, a lot of people walking away from Jesus. But what really made me stop and wrestle with it was how Jesus talks about the Father’s role in people coming to Him, and what that means for belief.

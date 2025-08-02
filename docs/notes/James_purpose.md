@@ -1,9 +1,3 @@
----
-title: "James Purpose"
-date: 
-  created: 2025-05-08
----
-
 # Why Did James Write This Letter?
 
 At the beginning of his letter, James states his purpose clearly (James 1:2–4):

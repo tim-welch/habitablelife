@@ -1,8 +1,4 @@
----
-title: "Interpret what this passage means"
-date: 
-  created: 2025-04-23
----
+# Interpret what this passage means
 
 Once you've carefully  [observed a passage](Observe_what_this_passage_says.md) and come to terms with what the author is saying, the next step is **interpretation**, seeking to understand what the passage means. This involves uncovering the author's intent, argument, and main points. It's crucial during this stage to set aside your own opinions, assumptions, and theological preferences as much as possible. Let the author, both human and divine, speak for themselves.
 

@@ -1,9 +1,3 @@
----
-title: "John's Purpose"
-date: 
-  created: 2025-05-02
----
-
 # Why Did John Write This Gospel?
 
 John actually tells us, right near the end of his Gospel (John 20:30–31):

@@ -1,8 +1,3 @@
----
-title: "Who wrote the Gospel of John?"
-date: 
-  created: 2025-06-23
----
 # Who Wrote the Gospel of John, and Why Does It Matter?
 
 John's Gospel feels different: it opens with poetry, it contains Jesus' teachings, and it contains signs that we might believe.
