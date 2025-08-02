@@ -1,8 +1,3 @@
----
-title: "The Gospel of John"
-date: 
-  created: 2025-04-24
----
 #  The Gospel of John
 [Who wrote the Gospel of John?](notes/John_Author_and_recipients.md)
 
