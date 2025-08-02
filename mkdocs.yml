@@ -106,6 +106,7 @@ plugins:
       title: Linked mentions
       ignore_links_to:
       - index.md
+      - tags.md
 #  - blog:
 #      blog_dir: .
 #      post_dir: "{blog}/notes"
