@@ -14,7 +14,7 @@ theme:
   # favicon: assets/favicon.ico
   features:
     - navigation.footer
-    - navigation.sections
+    # - navigation.sections
     - navigation.instant
     - navigation.indexes
     # - navigation.tabs
