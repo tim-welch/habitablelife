@@ -1,28 +1,33 @@
 ---
 tags:
-  - source
-  - book
+  - type-structural
+  - source-book
+  - bible-outline
 ---
 
 #  The Gospel of John
-[Who wrote the Gospel of John?](../notes/John_Author_and_recipients.md)
+This MOC tracks the structure, themes, and signs in John’s Gospel to support study and linking across passages.
+
+- [Who Wrote the Gospel of John, and Why Does It Matter?](../articles/John_Author_and_recipients.md)
+- [Why Did John Write This Gospel?](../articles/John_Purpose.md)
+- [Signs in John](Signs_in_John.md)
 
 ## In the Beginning Was the Word (1:1–18)
-[The Word Became Flesh](../notes/John_1_1-18_The_Word_Became_Flesh.md)
+- [The Word Became Flesh](../articles/John_1_1-18_The_Word_Became_Flesh.md)
 
 ## Come and See (1:19-4:54)
 
 ### John the Baptist’s Testimony (John 1:19-34)
-#### A Voice Calling In the Wilderness (John 1:19–28)
-[A Voice Calling In the Wilderness](../notes/John_1_19-28_A_Voice_Calling_In_the_Wilderness.md)
-
-####  Behold the Lamb of God (John 1:29–34)
-[The Lamb of God](../notes/John_1_29-34_The_Lamb_of_God.md)
+- [A Voice After Silence](../articles/John_1_19-28_A_Voice_Calling_In_the_Wilderness.md)
+- [The Lamb of God](../articles/John_1_29-34_The_Lamb_of_God.md)
 
 ### The first disciples drawn (1:35–51)
-[Jesus: Connecting Heaven and Earth](../notes/John_1_35-51_Jesus_Connecting_Heaven_and_Earth.md)
+- [Jesus: Connecting Heaven and Earth](../articles/John_1_35-51_Jesus_Connecting_Heaven_and_Earth.md)
 
 ###  The Wedding at Cana (John 2:1–11)
+- [The Wedding at Cana](../notes/John_2_1-11_The_Wedding_at_Cana.md)
+- [Signs in John](Signs_in_John.md)
+
 
 ### Zeal for My Father’s House (2:12–2:25)
 
@@ -39,7 +44,7 @@ tags:
 ### Do You Want to Be Healed? (5:1–47)
 
 ### I Am the Bread of Life (6:1–71)
-[Wrestling With The Father's Drawing](../notes/John_6_Wrestling_With_The_Fathers_Drawing.md)
+- [Wrestling with John 6: The Father, the Son, and the Struggle to Believe](../articles/John_6_Wrestling_With_The_Fathers_Drawing.md)
 
 #### A Boy With Five Barley Loaves and Two Small Fish (6:1-15)
 
