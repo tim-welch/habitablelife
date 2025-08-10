@@ -1,0 +1,961 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        
+            
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/dist/vis-network.min.css" integrity="sha512-WgxfT5LWjfszlPHXRmBWHkV2eceiWTOBvrKCNbdgDYTHrT2AeLCGbF4sZlZw3UMN3WtL0tGUoIAKsu8mllg/XA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/vis-network/9.1.2/dist/vis-network.min.js" integrity="sha512-LnvoEWDFrqGHlHmDD2101OrLcbsfkrzoSpvtSQtxK3RMnRV0eOkhhBN2dXHKRrUU8p2DGRTk35n4O8nWSVe1mQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+            
+        
+<center>
+<h1></h1>
+</center>
+
+
+        <script
+          src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+          crossorigin="anonymous"
+        ></script>
+
+
+        <center>
+          <h1></h1>
+        </center>
+        <style type="text/css">
+
+             #mynetwork {
+                 width: 100%;
+                 height: 90vh;
+                 background-color: #222222;
+                 border: 1px solid #222222;
+                 display: flex;
+             }
+
+             
+
+             
+
+             
+
+
+             body {
+                 margin: 0;
+                 padding: 0;
+             }
+
+             .card {
+                min-width: 70vw;
+                min-height: 100vh;
+            }
+            
+                        
+            .left-panel {
+                background: #222222a6;
+                width: 270px;
+                position: absolute;
+                z-index: 2;
+                border-radius: 10px;
+              }
+              
+              .left-panel.collapsed {
+                width: 30px;
+                background: #22222200;
+            }
+            .left-panel.collapsed .panel-content {
+                opacity: 0;
+                visibility: hidden;
+            }
+            .collapse-btn {
+                position: absolute;
+                width: 30px;
+                height: 30px;
+                right: 0%;
+                padding: 2px 2px;
+                color: whitesmoke;
+                background: #222222a6;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                transition: 0.3s;
+                user-select: none;
+            }
+
+            .collapse-btn:hover {
+                background: #747988;
+            }
+
+            .panel-content {
+                flex-direction: column;
+                padding: 5px;
+                gap: 10px;
+                margin-bottom: 20px;
+                margin-top: 30px;
+                gap: 10px;
+            }
+
+            .search-container {
+              margin-bottom: 3px;
+              display: flex;
+              align-items: center;
+              gap: 3px;
+            }
+
+            .search-input {
+              width: 300px;
+              padding: 5px;
+              background-color: white;
+              color: rgb(27, 27, 27);
+              border: 1px solid #ddd;
+              border-radius: 4px;
+              font-size: 16px;
+            }
+
+            .up-btn {
+              width: 30px;
+              height: 30px;
+              display: flex;
+              background-color: hsl(0, 0%, 65%);
+              color: rgb(255, 255, 255);
+              border: 1px solid hsl(0, 0%, 65%);
+              border-radius: 4px;
+              font-size: 16px;
+              cursor: pointer;
+              display: inline-flex;
+              align-items: center;
+              justify-content: center;
+            }
+            .up-btn:hover {
+              background-color:hsl(0, 0%, 71%);
+            }
+            .up-btn:active {
+              background-color:hsl(0, 0%, 65%);
+            }
+            
+            .down-btn {
+              width: 30px;
+              height: 30px;
+              background-color: hsl(0, 0%, 65%);
+              color: rgb(255, 255, 255);
+              border: 1px solid hsl(0, 0%, 65%);
+              border-radius: 4px;
+              font-size: 16px;
+              box-sizing: border-box;
+              cursor: pointer;
+              display: inline-flex;
+              align-items: center;
+              justify-content: center;
+            }
+            .down-btn:hover {
+              background-color:hsl(0, 0%, 71%);
+            }
+            .down-btn:active {
+              background-color:hsl(0, 0%, 65%);
+            }
+
+            .physics-btn {
+              font-size: 13px;
+              padding: 9px 9px;
+              margin-bottom: 3px;
+              background-color: hsl(122, 39%, 49%);
+              color: white;
+              border: none;
+              border-radius: 4px;
+              width: 100%;
+              cursor: pointer;
+            }
+
+            .physics-btn:hover {
+              background-color:hsl(121, 47%, 57%);
+            }
+
+            .save-btn {
+              font-size: 13px;
+              padding: 9px 9px;
+              margin-bottom: 3px;
+              background-color: hsl(194, 42%, 45%);
+              color: white;
+              border: none;
+              border-radius: 4px;
+              width: 100%;
+              cursor: pointer;
+            }
+
+            .save-btn:hover {
+              background-color: hsl(194, 41%, 53%);
+            }
+
+            .reset-btn {
+              font-size: 14px;
+              padding: 9px 9px;
+              margin-bottom: 3px;
+              background-color: hsl(0, 0%, 40%);
+              color: white;
+              border: none;
+              width: 100%;
+              border-radius: 4px;
+              cursor: pointer;
+            }
+
+            .reset-btn:hover {
+              background-color: hsl(0, 0%, 50%);
+            }
+            .home-btn {
+                font-size: 13px;
+                padding: 9px 9px;
+                margin-bottom: 3px;
+                background-color: hsl(0, 0%, 65%);
+                color: white;
+                border: none;
+                border-radius: 4px;
+                width: 100%;
+                cursor: pointer;
+              }
+  
+            .home-btn:hover {
+                background-color: hsl(0, 0%, 71%);
+            }
+
+            input {
+                accent-color: gray;
+            }
+
+            .control-label {
+                opacity: 0.9;
+                top: 0px;
+                left: 0px;
+                font-size: 16px;
+                font-weight: bold;
+                color: #4CAF50;
+                display: block;
+                margin-bottom: 5px;
+                width: 100%;
+            }
+
+            input[type="range"] {
+                color: gray;
+                opacity: 0.5;
+                width: 100%;
+                height: 10px;
+                background: #d3d3d3;
+                outline: none;
+                border-radius: 8px;
+                margin-bottom: 6px;
+            }
+
+        </style>
+    </head>
+
+
+    <body>
+        <div class="card" style="width: 100%">
+            
+            
+
+            <div class="left-panel" id="leftPanel">
+                <button class="collapse-btn" onclick="togglePanel('leftPanel')"> 
+                    <svg width="28px" height="28px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M 11 3.9 V 20.3 M 6 7.4 H 8 M 6 10.9 H 8 M 6 14.5 H 8 M 6.2 20.3 H 17.8 C 18.9 20.3 19.5 20.3 19.9 20.1 C 20.3 19.8 20.6 19.5 20.8 19 C 21 18.6 21 17.9 21 16.6 V 7.7 C 21 6.4 21 5.7 20.8 5.2 C 20.6 4.7 20.3 4.4 19.9 4.1 C 19.5 3.9 18.9 3.9 17.8 3.9 H 6.2 C 5.1 3.9 4.5 3.9 4.1 4.1 C 3.7 4.4 3.4 4.7 3.2 5.2 C 3 5.7 3 6.4 3 7.7 V 16.6 C 3 17.9 3 18.6 3.2 19 C 3.4 19.5 3.7 19.8 4.1 20.1 C 4.5 20.3 5.1 20.3 6.2 20.3 Z" stroke="whitesmoke" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+
+                <div class="panel-content">
+
+                    <div class="search-container">
+                        <input type="text" id="searchInput" class="search-input" placeholder="Search...">
+  
+                        <button id="upButton" class="up-btn" aria-label="Move up">
+                          <svg viewBox="0 0 24 24" width="40" height="40" stroke="white" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 19V5"></path>
+                            <polyline points="5 12 12 5 19 12"></polyline>
+                          </svg>
+                        </button>
+                        
+                        <button id="downButton" class="down-btn" aria-label="Move down">
+                          <svg viewBox="0 0 24 24" width="40" height="40" stroke="white" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M12 5v14"></path>
+                            <polyline points="19 12 12 19 5 12"></polyline>
+                          </svg>
+                        </button>
+  
+                      </div>
+                    <button class="physics-btn" id="btn_physics" >Physics: ON</button>
+                    <button class="save-btn" id="btn_save_node_positions" >Save</button>
+                    <button class="home-btn" id="btn_home_location" >Home</button>
+                    <button class="reset-btn" id="btn_reset_preferences" >Reset</button>
+
+                    <span id="text_gravitationalConstant" class="control-label">
+                        Gravitational Constant
+                    </span>
+                    <input id="slider_gravitationalConstant" 
+                        type="range"
+                        min="-5000"
+                        max="1100">
+                    </input>
+
+                    <span id="text_centralGravity" class="control-label">
+                        CentralGravity
+                    </span>
+                    <input id="slider_centralGravity" 
+                        type="range"
+                        min="0"
+                        max="100">
+                    </input>
+
+                    <span id="text_springConstant" class="control-label">
+                        Spring Constant
+                    </span>
+                    <input id="slider_springConstant" 
+                        type="range"
+                        min="0"
+                        max="100">
+                    </input>
+                    
+                    <span id="text_damping" class="control-label">
+                        Damping
+                    </span>
+                    <input id="slider_damping" 
+                        type="range"
+                        min="0"
+                        max="50">
+                    </input>
+                    
+                    <span id="text_fontSize" class="control-label">
+                        Font Size
+                    </span>
+                    <input id="slider_fontSize" 
+                        type="range"
+                        min="30"
+                        max="200">
+                    </input>
+                    
+                    <span id="text_nodeSize" class="control-label">
+                        Node Size
+                    </span>
+                    <input id="slider_nodeSize" 
+                        type="range"
+                        min="1"
+                        max="100">
+                    </input>
+
+                    <span id="text_edgeLength" class="control-label">
+                        Edge Length
+                    </span>
+                    <input id="slider_edgeLength" 
+                        type="range"
+                        min="1"
+                        max="100">
+                    </input>
+
+                    <span id="text_edgeWidth" class="control-label">
+                        Edge Width
+                    </span>
+                    <input id="slider_edgeWidth" 
+                        type="range"
+                        min="1"
+                        max="100">
+                    </input>
+                    
+                </div>
+                </div>
+
+
+            <div id="mynetwork" class="card-body"></div>
+        </div>
+
+       
+        
+
+        <script>
+            function togglePanel(panelId) {
+                const panel = document.getElementById(panelId);
+                panel.classList.toggle('collapsed');
+                
+                //// Update button text based on panel state
+                // const button = panel.querySelector('.collapse-btn');
+                // if (panelId === 'leftPanel') {
+                //     button.image = "./_sources/svgs/sidebar.svg";
+                //     // button.textContent = panel.classList.contains('collapsed') ? '' : '';
+                // } else {
+                //     button.image = "./_sources/svgs/sidebar.svg";
+                //     // button.textContent = panel.classList.contains('collapsed') ? '' : '';
+                // }
+            }
+
+            togglePanel('leftPanel');
+        </script>
+
+        <script type="text/javascript">
+
+              // initialize global variables.
+              var edges;
+              var nodes;
+              var allNodes;
+              var allEdges;
+              var nodeColors;
+              var originalNodes;
+              var network;
+              var container;
+              var options, data;
+              var filter = {
+                  item : '',
+                  property : '',
+                  value : []
+              };
+
+              
+
+              
+
+              // This method is responsible for drawing the graph, returns the drawn network
+              function drawGraph() {
+                  var container = document.getElementById('mynetwork');
+
+                  
+
+                // parsing and collecting nodes and edges from the python
+                nodes = new vis.DataSet([{"borderWidth": 2, "color": "#00CED1", "font": {"color": "#00CED1"}, "id": 2, "image": "", "label": "index.md", "opacity": 1, "shape": "dot", "size": 62, "url": "index.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 3, "image": "", "label": "How_to_Take_Smart_Notes.md", "opacity": 1, "shape": "dot", "size": 50, "url": "MOC/How_to_Take_Smart_Notes.html", "url2": ""}, {"borderWidth": 2, "color": "#FF1493", "font": {"color": "#FF1493"}, "id": 5, "image": "", "label": "Inductive_Bible_Study_Method.md", "opacity": 1, "shape": "dot", "size": 70, "url": "MOC/Inductive_Bible_Study_Method.html", "url2": ""}, {"borderWidth": 2, "color": "#32CD32", "font": {"color": "#32CD32"}, "id": 6, "image": "", "label": "The_Gospel_of_John.md", "opacity": 1, "shape": "dot", "size": 82, "url": "MOC/The_Gospel_of_John.html", "url2": ""}, {"borderWidth": 2, "color": "#3CB371", "font": {"color": "#3CB371"}, "id": 30, "image": "", "label": "What_an_Atomic_Note_Is.md", "opacity": 1, "shape": "dot", "size": 62, "url": "notes/What_an_Atomic_Note_Is.html", "url2": ""}, {"borderWidth": 2, "color": "#8A2BE2", "font": {"color": "#8A2BE2"}, "id": 31, "image": "", "label": "How_Connecting_Notes_Generates_Insight.md", "opacity": 1, "shape": "dot", "size": 70, "url": "notes/How_Connecting_Notes_Generates_Insight.html", "url2": ""}, {"borderWidth": 2, "color": "#5F9EA0", "font": {"color": "#5F9EA0"}, "id": 37, "image": "", "label": "Writing_is_Thinking.md", "opacity": 1, "shape": "dot", "size": 58, "url": "notes/Writing_is_Thinking.html", "url2": ""}, {"borderWidth": 2, "color": "#FA8072", "font": {"color": "#FA8072"}, "id": 39, "image": "", "label": "Writing_is_Iterative.md", "opacity": 1, "shape": "dot", "size": 58, "url": "notes/Writing_is_Iterative.html", "url2": ""}, {"borderWidth": 2, "color": "#00FA9A", "font": {"color": "#00FA9A"}, "id": 40, "image": "", "label": "Atomic_Notes_Are_Not_Arguments.md", "opacity": 1, "shape": "dot", "size": 70, "url": "notes/Atomic_Notes_Are_Not_Arguments.html", "url2": ""}, {"borderWidth": 2, "color": "#6A5ACD", "font": {"color": "#6A5ACD"}, "id": 42, "image": "", "label": "Zettelkasten_and_Inductive_Bible_Study.md", "opacity": 1, "shape": "dot", "size": 58, "url": "notes/Zettelkasten_and_Inductive_Bible_Study.html", "url2": ""}, {"borderWidth": 2, "color": "#F08080", "font": {"color": "#F08080"}, "id": 46, "image": "", "label": "Apply_Bible_study_to_your_life.md", "opacity": 1, "shape": "dot", "size": 58, "url": "articles/Apply_Bible_study_to_your_life.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 55, "image": "", "label": "Understanding_Presuppositions_in_Bible_Study.md", "opacity": 1, "shape": "dot", "size": 50, "url": "articles/Understanding_Presuppositions_in_Bible_Study.html", "url2": ""}, {"borderWidth": 2, "color": "#FF1493", "font": {"color": "#FF1493"}, "id": 58, "image": "", "label": "Interpret_what_this_passage_means.md", "opacity": 1, "shape": "dot", "size": 58, "url": "articles/Interpret_what_this_passage_means.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 59, "image": "", "label": "Observe_what_this_passage_says.md", "opacity": 1, "shape": "dot", "size": 54, "url": "articles/Observe_what_this_passage_says.html", "url2": ""}, {"borderWidth": 2, "color": "#40E0D0", "font": {"color": "#40E0D0"}, "id": 45, "image": "", "label": "Everything_Iterates.md", "opacity": 1, "shape": "dot", "size": 62, "url": "notes/Everything_Iterates.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 49, "image": "", "label": "John_6_Wrestling_With_The_Fathers_Drawing.md", "opacity": 1, "shape": "dot", "size": 54, "url": "articles/John_6_Wrestling_With_The_Fathers_Drawing.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 7, "image": "", "label": "Signs_in_John.md", "opacity": 1, "shape": "dot", "size": 54, "url": "MOC/Signs_in_John.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 48, "image": "", "label": "John_1_35-51_Jesus_Connecting_Heaven_and_Earth.md", "opacity": 1, "shape": "dot", "size": 50, "url": "articles/John_1_35-51_Jesus_Connecting_Heaven_and_Earth.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 51, "image": "", "label": "John_Purpose.md", "opacity": 1, "shape": "dot", "size": 50, "url": "articles/John_Purpose.html", "url2": ""}, {"borderWidth": 2, "color": "#FFA07A", "font": {"color": "#FFA07A"}, "id": 52, "image": "", "label": "John_1_29-34_The_Lamb_of_God.md", "opacity": 1, "shape": "dot", "size": 62, "url": "articles/John_1_29-34_The_Lamb_of_God.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 53, "image": "", "label": "John_1_1-18_The_Word_Became_Flesh.md", "opacity": 1, "shape": "dot", "size": 54, "url": "articles/John_1_1-18_The_Word_Became_Flesh.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 56, "image": "", "label": "John_1_19-28_A_Voice_Calling_In_the_Wilderness.md", "opacity": 1, "shape": "dot", "size": 54, "url": "articles/John_1_19-28_A_Voice_Calling_In_the_Wilderness.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 57, "image": "", "label": "John_Author_and_recipients.md", "opacity": 1, "shape": "dot", "size": 50, "url": "articles/John_Author_and_recipients.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 29, "image": "", "label": "The_Wedding_at_Cana_flow.md", "opacity": 1, "shape": "dot", "size": 54, "url": "notes/The_Wedding_at_Cana_flow.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 4, "image": "", "label": "Zettelkasten.md", "opacity": 1, "shape": "dot", "size": 50, "url": "MOC/Zettelkasten.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 33, "image": "", "label": "First_Sign_was_Turning_Water_to_Wine.md", "opacity": 1, "shape": "dot", "size": 54, "url": "notes/First_Sign_was_Turning_Water_to_Wine.html", "url2": ""}, {"borderWidth": 2, "color": "#BA55D3", "font": {"color": "#BA55D3"}, "id": 34, "image": "", "label": "Jesus_Reveals_His_Glory.md", "opacity": 1, "shape": "dot", "size": 58, "url": "notes/Jesus_Reveals_His_Glory.html", "url2": ""}, {"borderWidth": 2, "color": "#D2691E", "font": {"color": "#D2691E"}, "id": 43, "image": "", "label": "signs_in_john_lead_to_faith.md", "opacity": 1, "shape": "dot", "size": 62, "url": "notes/signs_in_john_lead_to_faith.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 50, "image": "", "label": "James_purpose.md", "opacity": 1, "shape": "dot", "size": 54, "url": "articles/James_purpose.html", "url2": ""}, {"borderWidth": 2, "color": "#F4A460", "font": {"color": "#F4A460"}, "id": 41, "image": "", "label": "semi-private_miracle_glory_revealed_selectively.md", "opacity": 1, "shape": "dot", "size": 58, "url": "notes/semi-private_miracle_glory_revealed_selectively.html", "url2": ""}, {"borderWidth": 2, "color": "#7B68EE", "font": {"color": "#7B68EE"}, "id": 44, "image": "", "label": "marys_faith_precedes_public_ministry.md", "opacity": 1, "shape": "dot", "size": 58, "url": "notes/marys_faith_precedes_public_ministry.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 32, "image": "", "label": "Galilean_weddings_were_multi-day_communal_events.md", "opacity": 1, "shape": "dot", "size": 54, "url": "notes/Galilean_weddings_were_multi-day_communal_events.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 35, "image": "", "label": "Running_Out_of_Wine_at_a_Galilean_Wedding_was_Shameful.md", "opacity": 1, "shape": "dot", "size": 54, "url": "notes/Running_Out_of_Wine_at_a_Galilean_Wedding_was_Shameful.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 36, "image": "", "label": "Nazareth_is_Close_to_Cana.md", "opacity": 1, "shape": "dot", "size": 54, "url": "notes/Nazareth_is_Close_to_Cana.html", "url2": ""}, {"borderWidth": 2, "color": "#45B7D1", "font": {"color": "#45B7D1"}, "id": 38, "image": "", "label": "first_sign_reveals_jesus_glory_disciples_believe.md", "opacity": 1, "shape": "dot", "size": 58, "url": "notes/first_sign_reveals_jesus_glory_disciples_believe.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 47, "image": "", "label": "Galatians_Purpose.md", "opacity": 1, "shape": "dot", "size": 54, "url": "articles/Galatians_Purpose.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 54, "image": "", "label": "Ephesians_Purpose.md", "opacity": 1, "shape": "dot", "size": 54, "url": "articles/Ephesians_Purpose.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 1, "image": "", "label": "tags.md", "opacity": 1, "shape": "dot", "size": 50, "url": "tags.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 8, "image": "", "label": "John_12.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_12.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 9, "image": "", "label": "John_03.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_03.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 10, "image": "", "label": "John_19.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_19.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 11, "image": "", "label": "John_02.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_02.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 12, "image": "", "label": "John_01.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_01.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 13, "image": "", "label": "John_10.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_10.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 14, "image": "", "label": "John_05.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_05.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 15, "image": "", "label": "John_20.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_20.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 16, "image": "", "label": "John_17.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_17.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 17, "image": "", "label": "John_07.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_07.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 18, "image": "", "label": "John_04.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_04.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 19, "image": "", "label": "John_21.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_21.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 20, "image": "", "label": "John_13.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_13.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 21, "image": "", "label": "John_11.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_11.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 22, "image": "", "label": "John_08.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_08.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 23, "image": "", "label": "John_09.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_09.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 24, "image": "", "label": "John_16.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_16.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 25, "image": "", "label": "John_06.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_06.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 26, "image": "", "label": "John_14.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_14.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 27, "image": "", "label": "John_15.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_15.html", "url2": ""}, {"borderWidth": 2, "color": "#9CA3AF", "font": {"color": "#9CA3AF"}, "id": 28, "image": "", "label": "John_18.md", "opacity": 1, "shape": "dot", "size": 50, "url": "Bible/John/John_18.html", "url2": ""}]);
+                edges = new vis.DataSet([{"color": "#9CA3AF", "from": 2, "length": 270, "to": 3, "width": 12}, {"color": "#FF1493", "from": 2, "length": 395, "to": 5, "width": 12}, {"color": "#32CD32", "from": 2, "length": 520, "to": 6, "width": 12}, {"color": "#9CA3AF", "from": 3, "length": 305, "to": 30, "width": 12}, {"color": "#9CA3AF", "from": 3, "length": 270, "to": 31, "width": 12}, {"color": "#9CA3AF", "from": 3, "length": 270, "to": 37, "width": 12}, {"color": "#9CA3AF", "from": 3, "length": 270, "to": 39, "width": 12}, {"color": "#9CA3AF", "from": 3, "length": 270, "to": 40, "width": 12}, {"color": "#FF1493", "from": 5, "length": 395, "to": 42, "width": 12}, {"color": "#FF1493", "from": 5, "length": 395, "to": 46, "width": 12}, {"color": "#FF1493", "from": 5, "length": 430, "to": 55, "width": 12}, {"color": "#FF1493", "from": 5, "length": 465, "to": 58, "width": 12}, {"color": "#FF1493", "from": 5, "length": 500, "to": 59, "width": 12}, {"color": "#FF1493", "from": 5, "length": 395, "to": 45, "width": 12}, {"color": "#FF1493", "from": 5, "length": 360, "to": 49, "width": 12}, {"color": "#32CD32", "from": 6, "length": 450, "to": 7, "width": 12}, {"color": "#32CD32", "from": 6, "length": 485, "to": 48, "width": 12}, {"color": "#32CD32", "from": 6, "length": 520, "to": 49, "width": 12}, {"color": "#32CD32", "from": 6, "length": 555, "to": 51, "width": 12}, {"color": "#32CD32", "from": 6, "length": 590, "to": 52, "width": 12}, {"color": "#32CD32", "from": 6, "length": 625, "to": 53, "width": 12}, {"color": "#32CD32", "from": 6, "length": 660, "to": 56, "width": 12}, {"color": "#32CD32", "from": 6, "length": 695, "to": 57, "width": 12}, {"color": "#32CD32", "from": 6, "length": 450, "to": 29, "width": 12}, {"color": "#3CB371", "from": 4, "length": 250, "to": 30, "width": 12}, {"color": "#00FA9A", "from": 4, "length": 260, "to": 40, "width": 12}, {"color": "#9CA3AF", "from": 4, "length": 135, "to": 42, "width": 12}, {"color": "#8A2BE2", "from": 42, "length": 330, "to": 31, "width": 12}, {"color": "#FF1493", "from": 46, "length": 180, "to": 58, "width": 12}, {"color": "#9CA3AF", "from": 46, "length": 215, "to": 59, "width": 12}, {"color": "#FF1493", "from": 55, "length": 215, "to": 58, "width": 12}, {"color": "#9CA3AF", "from": 55, "length": 180, "to": 59, "width": 12}, {"color": "#FF1493", "from": 58, "length": 180, "to": 59, "width": 12}, {"color": "#9CA3AF", "from": 7, "length": 180, "to": 33, "width": 12}, {"color": "#9CA3AF", "from": 7, "length": 215, "to": 34, "width": 12}, {"color": "#9CA3AF", "from": 7, "length": 250, "to": 43, "width": 12}, {"color": "#FFA07A", "from": 49, "length": 215, "to": 52, "width": 12}, {"color": "#9CA3AF", "from": 51, "length": 180, "to": 43, "width": 12}, {"color": "#9CA3AF", "from": 51, "length": 180, "to": 50, "width": 12}, {"color": "#9CA3AF", "from": 51, "length": 180, "to": 53, "width": 12}, {"color": "#FFA07A", "from": 52, "length": 180, "to": 56, "width": 12}, {"color": "#FFA07A", "from": 52, "length": 250, "to": 53, "width": 12}, {"color": "#9CA3AF", "from": 53, "length": 180, "to": 56, "width": 12}, {"color": "#9CA3AF", "from": 29, "length": 135, "to": 41, "width": 12}, {"color": "#9CA3AF", "from": 29, "length": 170, "to": 44, "width": 12}, {"color": "#00FA9A", "from": 30, "length": 330, "to": 40, "width": 12}, {"color": "#3CB371", "from": 30, "length": 215, "to": 37, "width": 12}, {"color": "#00FA9A", "from": 40, "length": 365, "to": 31, "width": 12}, {"color": "#00FA9A", "from": 40, "length": 295, "to": 37, "width": 12}, {"color": "#8A2BE2", "from": 31, "length": 260, "to": 39, "width": 12}, {"color": "#8A2BE2", "from": 31, "length": 225, "to": 45, "width": 12}, {"color": "#FA8072", "from": 39, "length": 215, "to": 37, "width": 12}, {"color": "#FA8072", "from": 39, "length": 250, "to": 45, "width": 12}, {"color": "#9CA3AF", "from": 32, "length": 90, "to": 35, "width": 12}, {"color": "#9CA3AF", "from": 35, "length": 90, "to": 36, "width": 12}, {"color": "#9CA3AF", "from": 33, "length": 135, "to": 34, "width": 12}, {"color": "#45B7D1", "from": 33, "length": 180, "to": 38, "width": 12}, {"color": "#45B7D1", "from": 34, "length": 215, "to": 38, "width": 12}, {"color": "#45B7D1", "from": 38, "length": 215, "to": 41, "width": 12}, {"color": "#45B7D1", "from": 38, "length": 215, "to": 43, "width": 12}, {"color": "#F4A460", "from": 41, "length": 135, "to": 44, "width": 12}, {"color": "#9CA3AF", "from": 47, "length": 135, "to": 50, "width": 12}, {"color": "#9CA3AF", "from": 50, "length": 135, "to": 54, "width": 12}]);
+ 
+                nodeColors = {};
+                allNodes = nodes.get({ returnType: "Object" });
+                for (nodeId in allNodes) {
+                    nodeColors[nodeId] = allNodes[nodeId].color;
+                }
+                
+                // load node positions  
+                var node_positions = {};
+                function saveNodePositions(){
+                    localStorage.setItem('node_positions', JSON.stringify(node_positions));
+                }
+                const savedPositions = localStorage.getItem('node_positions');
+                if (savedPositions) {
+                    const positions = JSON.parse(savedPositions);
+                    // Update each node with its saved po
+                    Object.keys(positions).forEach(nodeId => {
+                        if (nodeId in allNodes){
+                            allNodes[nodeId].x = positions[nodeId].x;
+                            allNodes[nodeId].y = positions[nodeId].y;
+                        }
+                    });
+                }
+
+                allEdges = edges.get({ returnType: "Object" });
+                // adding nodes and edges to the graph
+                data = {nodes: nodes, edges: edges};
+
+                var options = {"nodes": {"font": {"size": 70, "align": "middle"}, "scaling": {"min": 70, "max": 120}, "borderWidth": 0, "size": 100}, "edges": {"color": {"inherit": true}, "smooth": false}, "physics": {"stabilization": {"enabled": false}, "forceAtlas2Based": {"theta": 0.5, "gravitationalConstant": -1100, "centralGravity": 0.009, "springConstant": 0.08, "springLength": 600, "damping": 0.2, "avoidOverlap": 0}, "solver": "forceAtlas2Based", "minVelocity": 0.75, "timestep": 0.5}};
+
+                
+
+
+                
+            
+                // TODO New
+                // Track matched nodes and current position
+                let matchingNodes = [];
+                let currentNodeIndex = -1;
+
+                var viewState = {};
+
+                var default_preferences = {
+                    "centralGravity": 8,
+                    "damping": 20,
+                    "edgeLength": 4,
+                    "edgeWidth": 6,
+                    "fontSize": 43,
+                    "gravitationalConstant": 437,
+                    "nodeSize": 11,
+                    "physics": true,
+                    "springConstant": 5,
+                };
+                
+                var preferences = {
+                    "centralGravity": 8,
+                    "damping": 20,
+                    "edgeLength": 4,
+                    "edgeWidth": 6,
+                    "fontSize": 43,
+                    "gravitationalConstant": 437,
+                    "nodeSize": 11,
+                    "physics": true,
+                    "springConstant": 5,
+                };
+
+                storedPreferences = localStorage.getItem('preferences');
+                if (storedPreferences !== null) {
+                    var savedPreferences = JSON.parse(storedPreferences);
+                    preferences = savedPreferences;
+                }
+                
+                const left_panel = document.getElementById('leftPanel');
+                const left_panel_content = left_panel.querySelector('.panel-content');
+                
+                network = new vis.Network(container, data, options);
+                network.on("click", function(params) {
+                    if (params.nodes.length > 0) {
+                        var node = this.body.data.nodes.get(params.nodes[0]);
+                        if (node.url) {
+                            if (params.event.srcEvent.ctrlKey) {
+                                window.open(node.url, '_blank');
+                            }
+                            else if (params.event.srcEvent.altKey) {
+                                window.open(node.url2, '_blank');
+                            }else {
+                                window.location.href = node.url;
+                            }
+                        }
+                    }
+                    toggleSaveNodePositions()
+                });
+                function loadViewState(){
+                    var savedState = JSON.parse(localStorage.getItem('networkViewState'));
+                    if (savedState) {
+                        network.moveTo({
+                            position: savedState.position,
+                            scale: savedState.scale
+                        });
+                    }
+                }
+
+                function saveViewState(){
+                    var viewPosition = network.getViewPosition();
+                    var scale = network.getScale();
+                    var viewState = {
+                        position: viewPosition,
+                        scale: scale
+                    };
+                    localStorage.setItem('networkViewState', JSON.stringify(viewState));
+                }
+
+                function savePreferences(){
+                    localStorage.setItem('preferences', JSON.stringify(preferences));
+                }
+
+                function loadPhysics(){
+                    var btn = document.getElementById('btn_physics');
+                    if (preferences.physics == true) {
+                        network.setOptions( { physics: true } );
+                        btn.innerHTML = 'Physics: ON';
+                    } else {
+                        network.setOptions( { physics: false } );
+                        btn.innerHTML = 'Physics: OFF';
+                    }
+                }
+                
+                // Add Button and Slider to Control the Physics 
+                function togglePhysics() {
+                    var btn = document.getElementById('btn_physics');
+                    var physics = !network.physics.options.enabled;
+                    network.physics.enabled = physics;
+                    
+                    if (physics) {
+                        preferences.physics = true;
+                        network.setOptions( { physics: true } );
+                        btn.innerHTML = 'Physics: ON';
+                    } else {
+                        preferences.physics = false;
+                        network.setOptions( { physics: false } );
+                        btn.innerHTML = 'Physics: OFF';
+                    }
+                    savePreferences();
+                }
+
+                // Reset all node highlights
+                function resetHighlight() {
+                    nodes.forEach(node => {
+                        nodes.update({
+                        id: node.id,
+                        font: {
+                            color: node.color,
+                            bold: false,
+                            size: preferences.fontSize
+                        }
+                        });
+                    });
+                }
+
+                function searchNode() {
+                    resetHighlight(); // Reset any previous highlights
+                    
+                    const searchTerm = document.getElementById("searchInput").value.toLowerCase();
+                    
+                    // Clear previous search results if search field is empty
+                    if (!searchTerm) {
+                      matchingNodes = [];
+                      currentNodeIndex = -1;
+                      return;
+                    }
+                    
+                    matchingNodes = [];
+                    
+                    // Find nodes containing the search term
+                    nodes.forEach(node => {
+                      if (node.label.toLowerCase().includes(searchTerm)) {
+                        matchingNodes.push(node.id);
+                      }
+                    });
+                    
+                    // Sort the matching nodes to ensure consistent navigation order
+                    matchingNodes.sort((a, b) => a - b);
+
+                    let scale = network.getScale()
+                    if (scale < 1){
+
+                      network.moveTo({
+                        scale: network.getScale() * 1.2
+                      })
+                    }
+                    // Highlight first matching node if any found
+                    if (matchingNodes.length > 0) {
+                      currentNodeIndex = 0;
+                      navigateResults("down");
+                    }
+
+                  }
+                  
+                  // Function to navigate through search results
+                  function navigateResults(direction) {
+                    if (matchingNodes.length === 0) return;
+                    
+                    // Reset highlight on current node
+                    if (currentNodeIndex >= 0) {
+                      nodes.update({
+                        id: matchingNodes[currentNodeIndex],
+                        font: {
+                          color: nodes.get(matchingNodes[currentNodeIndex]).color,
+                          bold: false,
+                          size: preferences.fontSize
+                        }
+                      });
+                    }
+                    
+                    // Update current index based on direction
+                    if (direction === 'up') {
+                      currentNodeIndex = (currentNodeIndex - 1 + matchingNodes.length) % matchingNodes.length;
+                      console.log('up, ', currentNodeIndex + "/" + matchingNodes.length);
+                    } else {
+                      currentNodeIndex = (currentNodeIndex + 1) % matchingNodes.length;
+                      console.log('down, ', currentNodeIndex + "/" + matchingNodes.length);
+                    }
+                    // Highlight the new current node
+                    highlightNode(matchingNodes[currentNodeIndex]);
+                  }
+                  
+                  // Function to highlight a specific node
+                  function highlightNode(nodeId) {
+                    nodes.update({
+                      id: nodeId,
+                      font: {
+                        color: "yellow",
+                        bold: true,
+                        size: preferences.fontSize * 1.2
+                      }
+                    });
+                    
+                    // Get the node position
+                    const nodePosition = network.getPositions([nodeId])[nodeId];
+                    const viewportCenter = network.getViewPosition();
+                    // Focus and center the node on screen
+                    network.moveTo({
+                      position: {
+                        x: nodePosition.x,
+                        y: nodePosition.y
+                      },
+                      offset: {x: 0, y: 0},
+                      animation: {
+                        duration: 500,
+                        easingFunction: "easeInOutQuad"
+                      }
+                    });
+                  }
+
+                  
+                  // Reset all node highlights
+                  function resetHighlight() {
+                    matchingNodes = [];
+                    currentNodeIndex = -1;
+                    
+                    nodes.forEach(node => {
+                      nodes.update({
+                      id: node.id,
+                      font: {
+                          color: node.color,
+                          bold: false,
+                          size: preferences.fontSize
+                      }
+                      });
+                    });
+
+                  }
+                  
+
+                // TODO New
+                // Get DOM elements
+                const searchInput = document.getElementById('searchInput');
+                searchInput.addEventListener('keyup', function(event) {
+                    if (event.key === 'Enter') {
+                        searchNode();
+                    }
+                });
+
+                const upButton = document.getElementById("upButton");
+                upButton.addEventListener('click', () => navigateResults('up'));
+
+                const downButton = document.getElementById("downButton");
+                downButton.addEventListener('click', () => navigateResults('down'));
+
+                // Physics
+                const btn_physics = document.getElementById('btn_physics');
+                btn_physics.onclick = togglePhysics;
+                
+                // Save as Startup
+                const btn_save_node_positions = document.getElementById('btn_save_node_positions');
+                btn_save_node_positions.onclick = toggleSaveNodePositions;
+
+                function toggleSaveNodePositions() {
+                    node_positions = network.getPositions();
+                    saveNodePositions();
+                    savePreferences();
+                    saveViewState();
+                }
+                
+                // Home Location
+                const btn_home_location = document.getElementById('btn_home_location');
+                btn_home_location.onclick = homeLocation;
+
+                // Reset
+                const btn_reset_preferences = document.getElementById('btn_reset_preferences');
+                btn_reset_preferences.onclick = resetPreferences;
+
+                // gravitationalConstant
+                const slider_gravitationalConstant = document.getElementById('slider_gravitationalConstant');
+                slider_gravitationalConstant.value = preferences.gravitationalConstant;
+                slider_gravitationalConstant.oninput = on_slider_gravitationalConstant_input;
+
+                function on_slider_gravitationalConstant_input() {
+                    var gravitationalConstant = document.getElementById('slider_gravitationalConstant').value;
+                    preferences.gravitationalConstant = gravitationalConstant;
+                    value = gravitationalConstant -1100;
+                    network.setOptions( { physics: {"forceAtlas2Based": {gravitationalConstant: value} }} );
+                    savePreferences();
+                }
+                
+                // centralGravity
+                const slider_centralGravity = document.getElementById('slider_centralGravity');
+                slider_centralGravity.value = preferences.centralGravity;
+                slider_centralGravity.oninput = on_slider_centralGravity_input;
+
+                function on_slider_centralGravity_input() {
+                    var centralGravity = document.getElementById('slider_centralGravity').value;
+                    preferences.centralGravity = centralGravity;
+                    value = centralGravity * 0.001;
+                    network.setOptions( { physics: {"forceAtlas2Based": {centralGravity: value} }} );
+                    savePreferences();
+                }
+
+                // sprintConstant
+                const slider_springConstant = document.getElementById('slider_springConstant');
+                slider_springConstant.value = preferences.springConstant;
+                slider_springConstant.oninput = on_slider_springConstant_input;
+
+                function on_slider_springConstant_input() {
+                    var springConstant = document.getElementById('slider_springConstant').value;
+                    preferences.springConstant = springConstant;
+                    value = springConstant * 0.01;
+                    network.setOptions( { physics: {"forceAtlas2Based": {springConstant: value} }} );
+                    savePreferences();
+                }
+
+                // Damping
+                const slider_damping = document.getElementById('slider_damping');
+                slider_damping.value = preferences.damping;
+                slider_damping.oninput = on_slider_damping_input;
+
+                function on_slider_damping_input() {
+                    var damping = document.getElementById('slider_damping').value;
+                    preferences.damping = damping;
+                    value = damping * 0.01;
+                    network.setOptions( { physics: {"forceAtlas2Based": {damping: value} }} );
+                    savePreferences();
+                }
+
+                // fontSize
+                const slider_fontSize = document.getElementById('slider_fontSize');
+                slider_fontSize.value = preferences.fontSize;
+                slider_fontSize.oninput = on_slider_fontSize_input;
+
+                function on_slider_fontSize_input() {
+                    var font_size = document.getElementById('slider_fontSize').value;
+                    preferences.fontSize = font_size;
+                    network.setOptions( { nodes: {"font": {size: parseFloat(font_size)} }} );
+                    savePreferences();
+                }
+
+                // nodeSize
+                const slider_nodeSize = document.getElementById('slider_nodeSize');
+                slider_nodeSize.value = preferences.nodeSize;
+                slider_nodeSize.oninput = on_slider_nodeSize_input;
+
+                var nodes_backup = data.nodes.get();
+
+                function on_slider_nodeSize_input() {
+                    var node_size = document.getElementById('slider_nodeSize').value;
+                    preferences.nodeSize = node_size;
+                    value = node_size * 0.1;
+                    data.nodes.update(nodes_backup);
+                    var nodes = data.nodes.get();
+                    for (var i = 0; i < nodes.length; i++) {
+                        mysize = nodes[i].size * value
+                        nodes[i].size = mysize;
+                    }
+                    data.nodes.update(nodes);
+                    savePreferences();
+                }
+
+                // edgeLength
+                const slider_edgeLength = document.getElementById('slider_edgeLength');
+                slider_edgeLength.value = preferences.edgeLength;
+                slider_edgeLength.oninput = on_slider_edge_input;
+
+                // edgeWidth
+                const slider_edgeWidth = document.getElementById('slider_edgeWidth');
+                slider_edgeWidth.value = preferences.edgeWidth;
+                slider_edgeWidth.oninput = on_slider_edge_input;
+
+                var edges_backup = data.edges.get();
+
+                function on_slider_edge_input() {
+                    var edge_length = document.getElementById('slider_edgeLength').value;
+                    var edge_width = document.getElementById('slider_edgeWidth').value;
+                    preferences.edgeLength = edge_length;
+                    preferences.edgeWidth = edge_width;
+                    data.edges.update(edges_backup);
+                    var edges = data.edges.get();
+                    for (var i = 0; i < edges.length; i++) {
+                        edges[i].length = edges[i].length * edge_length * 0.1;
+                        edges[i].width = edges[i].width * edge_width * 0.1;
+                    }
+                    data.edges.update(edges);
+                    savePreferences();
+                };
+                
+                function loadPreferences(){
+                    on_slider_gravitationalConstant_input();
+                    on_slider_centralGravity_input();
+                    on_slider_springConstant_input();
+                    on_slider_damping_input();
+                    on_slider_fontSize_input();
+                    on_slider_nodeSize_input();
+                    on_slider_edge_input();
+                    loadPhysics();
+                    loadViewState();
+                }
+                
+                function homeLocation(){
+                    viewState = {"position":{"x":122.26498687735877,"y":1344.4657619150016},"scale":0.14563667453404308}
+                    localStorage.setItem('networkViewState', JSON.stringify(viewState));
+                    network.moveTo({
+                        position: viewState.position,
+                        scale: viewState.scale
+                    });
+                }
+
+                function resetPreferences(){
+                    document.getElementById('btn_physics').value = default_preferences.physics;
+                    document.getElementById('slider_gravitationalConstant').value = default_preferences.gravitationalConstant;
+                    document.getElementById('slider_centralGravity').value = default_preferences.centralGravity;
+                    document.getElementById('slider_springConstant').value = default_preferences.springConstant;
+                    document.getElementById('slider_damping').value = default_preferences.damping;
+                    document.getElementById('slider_fontSize').value = default_preferences.fontSize;
+                    document.getElementById('slider_nodeSize').value = default_preferences.nodeSize;
+                    document.getElementById('slider_edgeLength').value = default_preferences.edgeLength;
+                    document.getElementById('slider_edgeWidth').value = default_preferences.edgeWidth;
+
+                    allNodes = nodes.get({ returnType: "Object" });
+                    for (nodeId in allNodes) {
+                        nodeColors[nodeId] = allNodes[nodeId].color;
+                    }
+                    data = {nodes: nodes, edges: edges};
+
+                    network = new vis.Network(container, data, options);
+                    network.on("click", function(params) {
+                        if (params.nodes.length > 0) {
+                            var node = this.body.data.nodes.get(params.nodes[0]);
+                            if (node.url) {
+                                if (params.event.srcEvent.ctrlKey) {
+                                    window.open(node.url, '_blank');
+                                }else {
+                                    window.location.href = node.url;
+                                }
+                            }
+                        }
+                        toggleSaveNodePositions()
+                    });
+
+                    viewState = {"position":{"x":122.26498687735877,"y":1344.4657619150016},"scale":0.14563667453404308}
+                    localStorage.setItem('networkViewState', JSON.stringify(viewState));
+                    network.moveTo({
+                        position: viewState.position,
+                        scale: viewState.scale
+                    });
+
+                    // preferences.physics = true;
+
+                    node_positions = {};
+                    saveNodePositions();
+
+                    preferences = {
+                        "centralGravity": 8,
+                        "damping": 20,
+                        "edgeLength": 4,
+                        "edgeWidth": 6,
+                        "fontSize": 43,
+                        "gravitationalConstant": 437,
+                        "nodeSize": 11,
+                        "physics": true,
+                        "springConstant": 5,
+                    };
+                    savePreferences();
+
+                    loadPreferences();
+                }
+                
+                loadPreferences();
+
+                  // seet physic on / off by dragStart dragEnd
+                //   network.on("dragStart", function(params) {
+                //       if (params.nodes.length > 0) {
+                //         network.setOptions( { physics: true } );
+                //       }
+                //     });
+
+                //   network.on("dragEnd", function(params) {
+                //       if (params.nodes.length > 0) {
+
+                //         network.setOptions( { physics: false } );
+                      
+                //       }
+                //     });
+
+                //   setTimeout(function() {
+                //     network.setOptions( { physics: false } );
+                //     }, 12000);
+                    
+
+                
+
+                  
+                
+                  
+
+                  
+
+
+                  return network;
+
+              }
+              drawGraph();
+        </script>
+    </body>
+</html>
