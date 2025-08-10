@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 14
+
 John 14:1	“Do not let your hearts be troubled. You believe in God; believe in Me as well.
 John 14:2	In My Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you?
 John 14:3	And if I go and prepare a place for you, I will come back and welcome you into My presence, so that you also may be where I am.

@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 19
+
 John 19:1	Then Pilate took Jesus and had Him flogged.
 John 19:2	The soldiers twisted together a crown of thorns, set it on His head, and dressed Him in a purple robe.
 John 19:3	And they went up to Him again and again, saying, “Hail, King of the Jews!” and slapping Him in the face.

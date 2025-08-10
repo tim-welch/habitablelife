@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 21
+
 John 21:1	Later, by the Sea of Tiberias, Jesus again revealed Himself to the disciples. He made Himself known in this way:
 John 21:2	Simon Peter, Thomas called Didymus, Nathanael from Cana in Galilee, the sons of Zebedee, and two other disciples were together.
 John 21:3	Simon Peter told them, “I am going fishing.” “We will go with you,” they said. So they went out and got into the boat, but caught nothing that night.

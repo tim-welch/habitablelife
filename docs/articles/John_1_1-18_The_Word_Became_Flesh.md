@@ -1,3 +1,7 @@
+---
+tags:
+  - type-article
+---
 # The Word Became Flesh
 
 In John 1:1–18 we encounter the major themes of the Gospel as Jesus is revealed to be the eternal Word, the Creator, the Light, the Life, and the One who reveals the Father. John shows us who Jesus is and why He came. He calls every reader to make a choice: receive Him or reject Him. This passage reveals who Jesus is, what He came to do, how witnesses confirmed Him, and how we are to respond.

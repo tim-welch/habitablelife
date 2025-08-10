@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 16
+
 John 16:1	“I have told you these things so that you will not fall away.
 John 16:2	They will put you out of the synagogues. In fact, a time is coming when anyone who kills you will think he is offering a service to God.
 John 16:3	They will do these things because they have not known the Father or Me.

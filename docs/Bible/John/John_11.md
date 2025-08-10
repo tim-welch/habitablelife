@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 11
+
 John 11:1	At this time a man named Lazarus was sick. He lived in Bethany, the village of Mary and her sister Martha.
 John 11:2	(Mary, whose brother Lazarus was sick, was to anoint the Lord with perfume and wipe His feet with her hair.)
 John 11:3	So the sisters sent word to Jesus, “Lord, the one You love is sick.”

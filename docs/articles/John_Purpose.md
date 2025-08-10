@@ -1,3 +1,7 @@
+---
+tags:
+  - type-article
+---
 # Why Did John Write This Gospel?
 
 John actually tells us, right near the end of his Gospel (John 20:30–31):

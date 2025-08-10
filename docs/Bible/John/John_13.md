@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 13
+
 John 13:1	It was now just before the Passover Feast, and Jesus knew that His hour had come to leave this world and return to the Father. Having loved His own who were in the world, He loved them to the very end.
 John 13:2	The evening meal was underway, and the devil had already put into the heart of Judas, the son of Simon Iscariot, to betray Jesus.
 John 13:3	Jesus knew that the Father had delivered all things into His hands, and that He had come from God and was returning to God.

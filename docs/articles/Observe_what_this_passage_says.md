@@ -1,6 +1,6 @@
 ---
 tags:
-  - bible-observation
+  - type-article
 ---
 # Observe what this passage says
 

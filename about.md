@@ -1,6 +1,8 @@
 ---
 title: About
 layout: page
+tags:
+  - type-about
 ---
 
 # About

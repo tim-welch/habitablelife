@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 20
+
 John 20:1	Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance.
 John 20:2	So she came running to Simon Peter and the other disciple, the one whom Jesus loved. “They have taken the Lord out of the tomb,” she said, “and we do not know where they have put Him!”
 John 20:3	Then Peter and the other disciple set out for the tomb.

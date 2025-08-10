@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 12
+
 John 12:1	Six days before the Passover, Jesus came to Bethany, the hometown of Lazarus, whom He had raised from the dead.
 John 12:2	So they hosted a dinner for Jesus there. Martha served, and Lazarus was among those reclining at the table with Him.
 John 12:3	Then Mary took about a pint of expensive perfume, made of pure nard, and she anointed Jesus’ feet and wiped them with her hair. And the house was filled with the fragrance of the perfume.

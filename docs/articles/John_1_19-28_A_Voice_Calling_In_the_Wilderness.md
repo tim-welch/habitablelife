@@ -1,3 +1,8 @@
+---
+tags:
+  - type-article
+---
+
 # A Voice After Silence
 By the time the priests and Levites came to question John the Baptist in John 1:19–28, it had been nearly 400 years since God spoke to the Israelites through a prophet. The last prophet sent by God was Malachi, who prophesied the return of Elijah before the day of the Lord (Malachi 4:5-6). As his questioners learned, John exemplifies the humility and purpose of a true witness. He consistently pointed away from himself and toward the Messiah. In this passage we learn more about who John was and his mission to testify about the Light who became flesh.
 

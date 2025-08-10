@@ -1,3 +1,7 @@
+---
+tags:
+  - type-article
+---
 # Why Did Paul Write the Letter to the Ephesians?
 
 Paul tells us plainly why he wrote his letter to the Ephesians. In Ephesians 4:1, he writes:

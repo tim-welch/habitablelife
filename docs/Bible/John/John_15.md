@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 15
+
 John 15:1	“I am the true vine, and My Father is the keeper of the vineyard.
 John 15:2	He cuts off every branch in Me that bears no fruit, and every branch that does bear fruit, He prunes to make it even more fruitful.
 John 15:3	You are already clean because of the word I have spoken to you.

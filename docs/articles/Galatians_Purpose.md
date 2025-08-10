@@ -1,3 +1,7 @@
+---
+tags:
+  - type-article
+---
 # Why Did Paul Write the Letter to the Galatians?
 
 Early in the letter, Paul expresses his amazement at how quickly the churches in Galatia were turning to a different message (Galatians 1:6):

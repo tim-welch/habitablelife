@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 17
+
 John 17:1	When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You.
 John 17:2	For You granted Him authority over all people, so that He may give eternal life to all those You have given Him.
 John 17:3	Now this is eternal life, that they may know You, the only true God, and Jesus Christ, whom You have sent.

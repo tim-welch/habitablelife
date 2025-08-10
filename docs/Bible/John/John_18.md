@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 18
+
 John 18:1	After Jesus had spoken these words, He went out with His disciples across the Kidron Valley, where they entered a garden.
 John 18:2	Now Judas His betrayer also knew the place, because Jesus had often met there with His disciples.
 John 18:3	So Judas brought a band of soldiers and officers from the chief priests and Pharisees. They arrived at the garden carrying lanterns, torches, and weapons.

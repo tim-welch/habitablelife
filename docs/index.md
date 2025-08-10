@@ -1,3 +1,7 @@
+---
+tags:
+  - type-nav
+---
 # Home
 
 - [Inductive Bible Study Method](MOC/Inductive_Bible_Study_Method.md)

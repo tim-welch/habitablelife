@@ -1,3 +1,10 @@
+---
+tags:
+  - type-bible
+  - source
+---
+# John 10
+
 John 10:1	“Truly, truly, I tell you, whoever does not enter the sheepfold by the gate, but climbs in some other way, is a thief and a robber.
 John 10:2	But the one who enters by the gate is the shepherd of the sheep.
 John 10:3	The gatekeeper opens the gate for him, and the sheep listen for his voice. He calls his own sheep by name and leads them out.

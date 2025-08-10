@@ -1,3 +1,7 @@
+---
+tags:
+  - type-article
+---
 # Apply Bible study to your life
 
 Once you’ve [Observe what this passage says](Observe_what_this_passage_says.md) and [Interpret what this passage means](../articles/Interpret_what_this_passage_means.md), the final step in Bible study is **application**, asking, “So what?” This is where your study becomes personal. Without application, all your effort in understanding what the author said remains just head knowledge. It doesn’t benefit you or anyone else until it transforms how you live, think, and relate to God and others.

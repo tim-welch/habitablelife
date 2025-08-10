@@ -1,3 +1,7 @@
+---
+tags:
+  - type-article
+---
 # Who Wrote the Gospel of John, and Why Does It Matter?
 
 John's Gospel feels different: it opens with poetry, it contains Jesus' teachings, and it contains signs that we might believe.
