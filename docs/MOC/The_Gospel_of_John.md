@@ -25,7 +25,7 @@ This MOC tracks the structure, themes, and signs in John’s Gospel to support s
 - [Jesus: Connecting Heaven and Earth](../articles/John_1_35-51_Jesus_Connecting_Heaven_and_Earth.md)
 
 ###  The Wedding at Cana (John 2:1–11)
-- [The Wedding at Cana](../notes/John_2_1-11_The_Wedding_at_Cana.md)
+- [The Wedding at Cana - Story Flow](../notes/The_Wedding_at_Cana.md)
 - [Signs in John](Signs_in_John.md)
 
 

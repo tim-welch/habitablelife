@@ -1,0 +1,121 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "workspaces-plus:Home",
+      "icon": "home",
+      "name": "Home",
+      "mode": "any",
+      "color": "#09b315"
+    },
+    {
+      "id": "quickadd:choice:69fcc952-4b35-4e6d-b69c-4bf506cfd9e7",
+      "icon": "bike",
+      "name": "Open today's exercise log",
+      "mode": "any",
+      "color": "#000000"
+    },
+    {
+      "id": "quickadd:choice:561d3195-0ac8-416b-b7ac-06fe00b32ec8",
+      "icon": "check-square",
+      "name": "Add new Task",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:ad961c5e-dceb-4b9e-a702-0a181b748427",
+      "icon": "book",
+      "name": "Add new source",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:0950a750-8b19-4c72-94bb-b586616b8f32",
+      "icon": "hammer",
+      "name": "Add new project",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:1df78e2e-c36b-451e-8dad-a4b5fe1b724f",
+      "icon": "book-open",
+      "name": "Add literature note",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:d376038e-f5b6-4ca2-b562-ae7f6a69d96b",
+      "icon": "inbox",
+      "name": "Add fleeting note",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:59352379-2127-41d8-990b-07fdc81fd707",
+      "icon": "file-text",
+      "name": "Add new note",
+      "mode": "any"
+    },
+    {
+      "id": "omnisearch:show-modal",
+      "icon": "lucide-search",
+      "name": "Vault search",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:826e1203-e65c-4ff6-b70c-92ae515ab733",
+      "icon": "alarm-clock",
+      "name": "Add meeting",
+      "mode": "any"
+    },
+    {
+      "id": "daily-notes",
+      "icon": "lucide-calendar-days",
+      "name": "Daily notes: Open today's daily note",
+      "mode": "any",
+      "color": "#2f36f9"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "workspace:toggle-pin",
+      "icon": "lucide-pin",
+      "name": "Toggle pin",
+      "mode": "any",
+      "color": "#8c5522"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Open quick switcher",
+      "Open graph view",
+      "Create new canvas",
+      "Insert template",
+      "Open command palette",
+      "Templater",
+      "Manage workspace layouts",
+      "Open this week",
+      "Create new unique note",
+      "Omnisearch",
+      "Create a new database table",
+      "Open today",
+      "Open today's daily note"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

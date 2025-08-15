@@ -1,0 +1,14 @@
+{
+  "bibleVersion": "esv",
+  "referenceLinkPosition": "Header",
+  "verseFormatting": "Paragraph",
+  "verseNumberFormatting": "^1",
+  "collapsibleVerses": true,
+  "bookTagging": false,
+  "chapterTagging": false,
+  "enableBibleVerseLookupRibbon": false,
+  "optOutToEvents": true,
+  "bookBacklinking": "Bottom",
+  "chapterBacklinking": "None",
+  "advancedSettings": true
+}

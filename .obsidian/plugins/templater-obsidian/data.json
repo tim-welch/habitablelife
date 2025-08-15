@@ -1,0 +1,67 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "Journal/Tasks",
+      "template": "Templates/Task Template.md"
+    },
+    {
+      "folder": "Journal/Projects",
+      "template": "Templates/Project Template.md"
+    },
+    {
+      "folder": "Journal/Meetings",
+      "template": "Templates/Meeting Template.md"
+    },
+    {
+      "folder": "Journal/Daily",
+      "template": "Templates/Daily Template.md"
+    },
+    {
+      "folder": "Journal/Weekly",
+      "template": "Templates/Weekly Template.md"
+    },
+    {
+      "folder": "Journal/Monthly",
+      "template": "Templates/Monthly Template.md"
+    },
+    {
+      "folder": "Journal/Quarterly",
+      "template": "Templates/Quarterly Template.md"
+    },
+    {
+      "folder": "Journal/Yearly",
+      "template": "Templates/Yearly Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    ""
+  ],
+  "intellisense_render": 1,
+  "enable_ribbon_icon": false
+}

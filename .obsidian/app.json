@@ -1,0 +1,28 @@
+{
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "readableLineLength": true,
+  "useTab": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Templates/"
+  ],
+  "attachmentFolderPath": "Attachments",
+  "showInlineTitle": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "drafts",
+  "newLinkFormat": "relative",
+  "propertiesInDocument": "visible",
+  "tabSize": 4,
+  "showUnsupportedFiles": true,
+  "vimMode": false,
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 100
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "985aaadf1d62bf45",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0ef9f80d0b8fea5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e704e323af676535",
+            "type": "leaf",
+            "state": {
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "611433d078997eab",
+    "type": "split",
+    "children": [
+      {
+        "id": "d23a3dbbd19888b5",
+        "type": "tabs",
+        "dimension": 76.46464646464646,
+        "children": [
+          {
+            "id": "dbbc13162e881098",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be4806d244d9bad5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#bible-context",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a1fc9218de050272",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "61bcc7886a3c32f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7fe8fc7ae932a0f8",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2cce7d391c49ff3e",
+        "type": "tabs",
+        "dimension": 23.535353535353533,
+        "children": [
+          {
+            "id": "b79cd8ef5c9288c0",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view-list",
+              "state": {
+                "tags": [
+                  "the-wedding-at-cana",
+                  "bible-interpretation"
+                ],
+                "title": "the-wedding-at-cana bible-interpretation"
+              },
+              "icon": "stacked-levels",
+              "title": "Files with the-wedding-at-cana bible-interpretation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 215.5
+  },
+  "right": {
+    "id": "d9e1cf50b3c65170",
+    "type": "split",
+    "children": [
+      {
+        "id": "50b30d8f2e028c08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "984877c526627847",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "93c8372e68b73e9d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "blog/habitablelife/docs/Bible/John/John_2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from John_2"
+            }
+          },
+          {
+            "id": "6bd4e6c72db35fb3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "960b223c5fdbc9eb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2e4fd394a44f77ac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2994308917696632",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2904b573fa0fde77",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.302083333333333,
+                  "repelStrength": 15.4166666666667,
+                  "linkStrength": 1,
+                  "linkDistance": 206,
+                  "scale": 0.7132754626224422,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-bible-reference:Bible Verse Lookup": false,
+      "cmdr:Home": false,
+      "cmdr:Open today's exercise log": false,
+      "cmdr:Add new Task": false,
+      "cmdr:Add new source": false,
+      "cmdr:Add new project": false,
+      "cmdr:Add literature note": false,
+      "cmdr:Add fleeting note": false,
+      "cmdr:Add new note": false,
+      "cmdr:Vault search": false,
+      "cmdr:Add meeting": false,
+      "cmdr:Daily notes: Open today's daily note": false,
+      "dbfolder:Create a new database table": false,
+      "omnisearch:Omnisearch": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false,
+      "workspaces-plus:Manage workspaces": false
+    }
+  },
+  "active": "e704e323af676535",
+  "lastOpenFiles": [
+    "drafts/test.md",
+    "BSB/01-Genesis/Genesis_9/Genesis_9.md",
+    "BSB/01-Genesis/Genesis_3/Genesis_3.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_8.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_9.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_6.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_7.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_5.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_3.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_4.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_20.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_18.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_2.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_19.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_15.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_17.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_16.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_12.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_14.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_13.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_10.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_11.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_1.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_2/Zephaniah_2_8.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_2/Zephaniah_2_9.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_2/Zephaniah_2_7.md",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_3",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_2",
+    "docs/Bible/BSB/Zephaniah/Zephaniah_1",
+    "docs/Bible/BSB/Zechariah/Zechariah_9",
+    "docs/Bible/BSB/Zechariah/Zechariah_8",
+    "docs/Bible/BSB/Zechariah/Zechariah_7",
+    "docs/Bible/BSB/Zechariah/Zechariah_6",
+    "docs/Bible/BSB/Zechariah/Zechariah_5",
+    "docs/Bible/BSB/Zechariah/Zechariah_4",
+    "docs/Bible/BSB/Zechariah/Zechariah_3"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "accentColor": "#9c5f26",
+  "showViewHeader": true,
+  "cssTheme": "Obsidian Nord",
+  "enabledCssSnippets": [
+    "banner",
+    "cornell",
+    "theme-bluetopaz",
+    "theme-default-and-others",
+    "theme-minimal",
+    "theme-prism",
+    "tufte-sidenotes",
+    "zcornell-hacks",
+    "zLearningVault"
+  ],
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "translucency": false,
+  "theme": "obsidian",
+  "showRibbon": true
+}

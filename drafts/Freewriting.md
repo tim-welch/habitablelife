@@ -1,0 +1,1 @@
+Freewriting is a technique I learned from Accidental Genius
