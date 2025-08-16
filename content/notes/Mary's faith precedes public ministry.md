@@ -1,8 +1,8 @@
 ---
 tags:
   - the-wedding-at-cana
-  - bible-interpretation
-  - type-atomic
+  - bible/interpretation
+  - type/atomic
 ---
 
 When Mary saw that the wine had run out, she requested that Jesus help out. Despite Jesus' reply that "My hour has not yet come", Mary told the servants to "Do whatever He tells you". 

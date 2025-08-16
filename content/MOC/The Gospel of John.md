@@ -1,8 +1,8 @@
 ---
 tags:
-  - type-structural
-  - source-book
-  - bible-outline
+  - type/structural
+  - source/book
+  - bible/outline
 ---
 
 This MOC tracks the structure, themes, and signs in John’s Gospel to support study and linking across passages.

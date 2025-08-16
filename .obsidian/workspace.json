@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/First sign reveals Jesus' glory; disciples believe.md",
-                "mode": "preview",
+                "file": "content/notes/Observation Notes at Verse Level.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "First sign reveals Jesus' glory; disciples believe"
+              "title": "Observation Notes at Verse Level"
             }
           }
         ],
@@ -44,7 +44,6 @@
       {
         "id": "d23a3dbbd19888b5",
         "type": "tabs",
-        "dimension": 76.46464646464646,
         "children": [
           {
             "id": "dbbc13162e881098",
@@ -65,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bible-context",
+                "query": "tag:#RGB",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,39 +98,6 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "7fe8fc7ae932a0f8",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
-          }
-        ]
-      },
-      {
-        "id": "2cce7d391c49ff3e",
-        "type": "tabs",
-        "dimension": 23.535353535353533,
-        "children": [
-          {
-            "id": "b79cd8ef5c9288c0",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view-list",
-              "state": {
-                "tags": [
-                  "the-wedding-at-cana",
-                  "bible-interpretation"
-                ],
-                "title": "the-wedding-at-cana bible-interpretation"
-              },
-              "icon": "stacked-levels",
-              "title": "Files with the-wedding-at-cana bible-interpretation"
             }
           }
         ]
@@ -186,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/First sign reveals Jesus' glory; disciples believe.md",
+                "file": "content/notes/Observation Notes at Verse Level.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of First sign reveals Jesus' glory; disciples believe"
+              "title": "Outline of Observation Notes at Verse Level"
             }
           },
           {
@@ -232,7 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notes/First sign reveals Jesus' glory; disciples believe.md",
+                "file": "content/notes/Observation Notes at Verse Level.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -260,7 +226,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of First sign reveals Jesus' glory; disciples believe"
+              "title": "Graph of Observation Notes at Verse Level"
             }
           }
         ]
@@ -284,7 +250,6 @@
       "cmdr:Vault search": false,
       "cmdr:Add meeting": false,
       "cmdr:Daily notes: Open today's daily note": false,
-      "dbfolder:Create a new database table": false,
       "omnisearch:Omnisearch": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
@@ -297,13 +262,19 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false,
       "workspaces-plus:Manage workspaces": false
     }
   },
   "active": "57d8f42b7ae65306",
   "lastOpenFiles": [
-    "content/articles/index.md",
+    "content/notes/Bible Text Granularity.md",
+    "content/about.md",
+    "content/notes/Observation Notes at Verse Level.md",
+    "content/notes/Verse Headings Inside Chapters.md",
+    "content/tags/type.md",
+    "public/tags/type-og-image.webp",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/Writing-is-Thinking-og-image.webp",
     "public/notes/Writing-is-Iterative-og-image.webp",
@@ -313,12 +284,18 @@
     "public/notes/Semi-private-miracle-Glory-revealed-selectively-og-image.webp",
     "public/notes/Running-out-of-wine-would-shame-the-family-og-image.webp",
     "public/notes/Nazareth-is-Close-to-Cana-og-image.webp",
-    "public/notes/Mary's-faith-precedes-public-ministry-og-image.webp",
-    "public/notes/First-sign-reveals-Jesus'-glory;-disciples-believe.html",
-    "public/tags/index.html",
     "public/index.html",
-    "public/articles/Wrestling-with-no-one-can-come-unless-drawn.html",
-    "Templates",
+    "public/tags/type/atomic.html",
+    "public/tags/type/article.html",
+    "public/tags/bible/outline.html",
+    "public/tags/bible/observation.html",
+    "public/tags/bible/interpretation.html",
+    "public/tags/bible/context.html",
+    "public/tags/bible",
+    "public/tags/bible.html",
+    "public/tags/type/structural.html",
+    "content/notes/First sign reveals Jesus' glory; disciples believe.md",
+    "content/articles/index.md",
     "Bible/Bible - BSB - by block/John 9_1-41.md",
     "Bible/Bible - BSB - by block/John 8_12-59.md",
     "Bible/Bible - BSB - by block/John 6_60-71.md",
@@ -337,17 +314,6 @@
     "Bible/Bible - BSB - by block/John 3_22-36.md",
     "Bible/Bible - BSB - by block/John 2_12-25.md",
     "Bible/Bible - BSB - by block/John 21_24-25.md",
-    "Bible/Bible - BSB - by block/John 21_1-23.md",
-    "Bible/Bible - BSB - by block/John 20_1-29.md",
-    "Bible/Bible - BSB - by block/John 2_1-11.md",
-    "Bible/Bible - BSB - by block/John 20_30-31.md",
-    "Bible/Bible - BSB - by block/John 1_29-34.md",
-    "Bible/Bible - BSB - by block/John 1_19-28.md",
-    "Bible/Bible - BSB - by block/John 1_35-51.md",
-    "Bible/Bible - BSB - by block",
-    "Bible/Bible",
-    "Bible/John",
-    "Bible",
-    "AI Prompts"
+    "Bible/Bible - BSB - by block/John 21_1-23.md"
   ]
 }

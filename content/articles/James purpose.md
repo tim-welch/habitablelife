@@ -1,7 +1,7 @@
 ---
 title: Why Did James Write This Letter?
 tags:
-  - type-article
+  - type/article
 ---
 
 At the beginning of his letter, James states his purpose clearly (James 1:2–4):

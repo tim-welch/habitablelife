@@ -2,7 +2,7 @@
 title: About
 layout: page
 tags:
-  - type-about
+  - type/about
 ---
 
 # About

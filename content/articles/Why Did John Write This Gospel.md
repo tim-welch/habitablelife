@@ -3,7 +3,7 @@ title: "Why Did John Write This Gospel?"
 aliases:
   - "Why Did John Write This Gospel?"
 tags:
-  - type-article
+  - type/article
 ---
 
 John actually tells us, right near the end of his Gospel (John 20:30–31):

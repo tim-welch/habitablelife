@@ -1,8 +1,8 @@
 ---
 title: "Semi-private miracle: Glory revealed selectively"
 tags:
-  - type-atomic
-  - bible-interpretation
+  - type/atomic
+  - bible/interpretation
   - the-wedding-at-cana
 ---
 

@@ -1,7 +1,7 @@
 ---
 tags:
-  - type-structural
-  - bible-observation
+  - type/structural
+  - bible/observation
   - story-flow
   - the-wedding-at-cana
 ---

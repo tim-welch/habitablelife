@@ -1,6 +1,6 @@
 ---
 tags:
-  - type-article
+  - type/article
 ---
 
 Once you’ve [[Observe what this passage says|observed]] and [[Interpret what this passage means|interpretted]], the final step in Bible study is **application**, asking, “So what?” This is where your study becomes personal. Without application, all your effort in understanding what the author said remains just head knowledge. It doesn’t benefit you or anyone else until it transforms how you live, think, and relate to God and others.

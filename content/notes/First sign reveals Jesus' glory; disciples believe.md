@@ -1,9 +1,9 @@
 ---
 tags:
   - the-wedding-at-cana
-  - type-atomic
+  - type/atomic
   - theology
-  - bible-interpretation
+  - bible/interpretation
 ---
 
 When Jesus turned water into wine He revealed His glory, deepening His disciples' faith.

@@ -1,7 +1,7 @@
 ---
 tags:
-  - type-atomic
-  - bible-context
+  - type/atomic
+  - bible/context
   - the-wedding-at-cana
 ---
 

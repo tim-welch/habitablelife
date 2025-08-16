@@ -1,6 +1,6 @@
 ---
 tags:
-  - type-bible
+  - type/bible
   - source
 ---
 # John 11

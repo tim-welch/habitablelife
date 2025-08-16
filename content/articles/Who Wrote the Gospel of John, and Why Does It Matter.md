@@ -3,7 +3,7 @@ title: "Who Wrote the Gospel of John, and Why Does It Matter?"
 aliases:
   - "Who Wrote the Gospel of John, and Why Does It Matter?"
 tags:
-  - type-article
+  - type/article
 ---
 
 John's Gospel feels different: it opens with poetry, it contains Jesus' teachings, and it contains signs that we might believe.

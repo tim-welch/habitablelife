@@ -1,6 +1,6 @@
 ---
 tags:
-  - type-atomic
+  - type/atomic
 ---
 
 

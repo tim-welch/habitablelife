@@ -1,7 +1,7 @@
 ---
 title: Home
 tags:
-  - type-nav
+  - type/nav
 ---
 
 - [[Inductive Bible Study Method]]

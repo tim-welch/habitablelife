@@ -1,6 +1,6 @@
 ---
 tags:
-  - type-auto-moc
+  - type/auto/moc
 ---
 
 

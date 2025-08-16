@@ -1,8 +1,8 @@
 ---
 title: Nazareth is <10 miles from Cana, explaining Mary’s connection
 tags:
-  - type-atomic
-  - bible-context
+  - type/atomic
+  - bible/context
   - the-wedding-at-cana
 ---
 

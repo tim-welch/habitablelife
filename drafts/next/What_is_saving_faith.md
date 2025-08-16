@@ -1,6 +1,6 @@
 ---
 tags:
-  - type-article
+  - type/article
 ---
 
 # What is saving faith?

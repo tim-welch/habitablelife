@@ -1,7 +1,7 @@
 ---
 tags:
-  - type-auto-moc
-  - source-book
+  - type/auto/moc
+  - source/book
   - thinking
   - note-taking
   - writing-as-thinking

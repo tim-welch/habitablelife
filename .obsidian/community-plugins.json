@@ -3,8 +3,6 @@
   "canvas-mindmap",
   "obsidian-bible-reference",
   "cmdr",
-  "dataview",
-  "dbfolder",
   "nldates-obsidian",
   "home-tab",
   "obsidian-columns",
@@ -16,11 +14,12 @@
   "obsidian-style-settings",
   "templater-obsidian",
   "workspaces-plus",
-  "obsidian-tagfolder",
   "obsidian-admonition",
   "advanced-note-composer",
   "table-editor-obsidian",
   "better-word-count",
   "find-unlinked-files",
-  "obsidian-link-converter"
+  "obsidian-link-converter",
+  "tag-wrangler",
+  "obsidian-git"
 ]

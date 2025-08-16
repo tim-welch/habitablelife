@@ -2,7 +2,7 @@
 aliases:
   - presuppositions
 tags:
-  - type-article
+  - type/article
 ---
 
 In mathematics, foundational beliefs are called _axioms_. For example, one axiom says, “The shortest distance between two points is a straight line.” Mathematicians use axioms like these to build logical arguments and prove more complex ideas.
