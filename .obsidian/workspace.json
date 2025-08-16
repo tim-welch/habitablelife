@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cbf5c07caae663c5",
+        "id": "133b3398e9360bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "8c1357e75cda4c4a",
-            "type": "leaf",
-            "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
-          },
-          {
-            "id": "57d8f42b7ae65306",
+            "id": "c96834e227d7ec17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Bible/BSB/01-Genesis/Genesis 1.md",
+                "file": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Genesis 1"
+              "title": "🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#RGB",
+                "query": "tag:#bible/observation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,8 +256,34 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "dbbc13162e881098",
+  "active": "c96834e227d7ec17",
   "lastOpenFiles": [
+    "vault.zip",
+    "content.zip",
+    "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
+    "content/MOC/How to Take Smart Notes.md",
+    "content/MOC/The Gospel of John.md",
+    "content/Literature Notes/John/The Wedding at Cana/The Wedding at Cana.md",
+    "content/Literature Notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md",
+    "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
+    "content/Bible/BSB/43-John/John 2.md",
+    "content/notes/Verse Headings Inside Chapters.md",
+    "content/notes/What an Atomic Note Is.md",
+    "content/notes/Signs in the Gospel of John Lead to Faith.md",
+    "content/notes/Semi-private miracle Glory revealed selectively.md",
+    "content/notes/Running out of wine would shame the family.md",
+    "content/notes/Nazareth is Close to Cana.md",
+    "content/notes/Observations vs. Interpretations.md",
+    "drafts/Application Notes.md",
+    "content/notes/Observation Notes at Verse Level.md",
+    "content/Literature Notes/John/The Wedding at Cana",
+    "content/Literature Notes/John",
+    "content/Literature Notes",
+    "content/Literature Notes.md",
+    "content/notes/First sign reveals Jesus' glory; disciples believe.md",
+    "public/Untitled-og-image.webp",
+    "public/Untitled.html",
+    "content/Bible/BSB/01-Genesis/Genesis 1.md",
     "public/notes/Verse-Headings-Inside-Chapters-og-image.webp",
     "public/notes/Observations-vs.-Interpretations-og-image.webp",
     "public/notes/Observation-Notes-at-Verse-Level-og-image.webp",
@@ -278,42 +293,16 @@
     "public/notes/Applications-as-Practical-Notes-og-image.webp",
     "public/index-og-image.webp",
     "public/about-og-image.webp",
-    "public/Bible/BSB/copyright-og-image.webp",
-    "public/Bible/BSB/66-Revelation/Revelation-9-og-image.webp",
     "public/Bible/BSB/60-1-Peter/1-Peter-5.html",
     "public/Bible/BSB/60-1-Peter/1-Peter-2.html",
     "public/Bible/BSB/60-1-Peter/1-Peter-3.html",
     "public/Bible/BSB/60-1-Peter/index.html",
     "public/Bible/BSB/60-1-Peter/1-Peter-4.html",
-    "public/Bible/BSB/60-1-Peter/1-Peter-1.html",
-    "public/Bible/BSB/60-1-Peter",
-    "public/Bible/BSB/59-James/James-1.html",
-    "public/Bible/BSB/59-James/James-5.html",
-    "public/Bible/BSB/59-James/James-4.html",
-    "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_9.md",
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_8.md",
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_6.md",
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_7.md",
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_5.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_4.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_3.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_27.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_26.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_25.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_24.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_23.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_22.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_21.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_20.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_19.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_2.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_17.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_18.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_16.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_15.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_14.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_13.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_12.md"
+    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_4.md"
   ]
 }

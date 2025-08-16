@@ -22,7 +22,20 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
+      "timestamp": 1755371263334
+    },
+    {
+      "filepath": "content/MOC/How to Take Smart Notes.md",
+      "timestamp": 1755371018504
+    },
+    {
+      "filepath": "content/MOC/The Gospel of John.md",
+      "timestamp": 1755370657619
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

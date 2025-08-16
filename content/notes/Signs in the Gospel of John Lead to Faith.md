@@ -1,7 +1,6 @@
 ---
 tags:
   - type/atomic
-  - bible/interpretation
 ---
 
 John chose the signs he included in his gospel specifically to lead his readers to faith. 

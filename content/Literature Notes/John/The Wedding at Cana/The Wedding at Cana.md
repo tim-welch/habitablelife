@@ -1,7 +1,6 @@
 ---
 tags:
   - type/structural
-  - bible/observation
   - story-flow
   - the-wedding-at-cana
 ---
@@ -17,4 +16,5 @@ tags:
 9. The water becomes wine; only the servants and disciples are aware of the miracle.
 10. The master of the banquet praises the bridegroom for serving the best wine last.
 
-- [[The Gospel of John#The Wedding at Cana (John 2 1–11)|The Wedding at Cana (John 2:1–11)]]
+- [[The Gospel of John#The Wedding at Cana]]
+- [[John 2#John 2 1|John 2:1-11]]
