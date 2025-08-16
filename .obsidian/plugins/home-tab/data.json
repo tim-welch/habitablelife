@@ -22,16 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "about.md",
-      "timestamp": 1755339737243
-    },
-    {
-      "filepath": "Welcome to Reor.md",
-      "timestamp": 1755339719436
-    }
-  ],
+  "recentFilesStore": [],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,

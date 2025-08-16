@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ef9f80d0b8fea5",
+        "id": "cbf5c07caae663c5",
         "type": "tabs",
         "children": [
           {
-            "id": "e704e323af676535",
+            "id": "8c1357e75cda4c4a",
             "type": "leaf",
             "state": {
               "type": "home-tab-view",
@@ -16,8 +16,23 @@
               "icon": "search",
               "title": "Home tab"
             }
+          },
+          {
+            "id": "57d8f42b7ae65306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/First sign reveals Jesus' glory; disciples believe.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "First sign reveals Jesus' glory; disciples believe"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +111,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "2cce7d391c49ff3e",
@@ -124,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 438.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -172,12 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/notes/First sign reveals Jesus' glory; disciples believe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of First sign reveals Jesus' glory; disciples believe"
             }
           },
           {
@@ -217,6 +232,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/notes/First sign reveals Jesus' glory; disciples believe.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -244,14 +260,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of First sign reveals Jesus' glory; disciples believe"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 315.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,43 +301,53 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "e704e323af676535",
+  "active": "57d8f42b7ae65306",
   "lastOpenFiles": [
-    "Welcome to Reor.md",
-    "drafts/Untitled.md",
-    "drafts/test.md",
-    "BSB/01-Genesis/Genesis_9/Genesis_9.md",
-    "BSB/01-Genesis/Genesis_3/Genesis_3.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_8.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_9.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_6.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_7.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_5.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_3.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_4.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_20.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_18.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_2.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_19.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_15.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_17.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_16.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_12.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_14.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_13.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_10.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_11.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_1.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_2/Zephaniah_2_8.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_3",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_2",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_1",
-    "docs/Bible/BSB/Zechariah/Zechariah_9",
-    "docs/Bible/BSB/Zechariah/Zechariah_8",
-    "docs/Bible/BSB/Zechariah/Zechariah_7",
-    "docs/Bible/BSB/Zechariah/Zechariah_6",
-    "docs/Bible/BSB/Zechariah/Zechariah_5",
-    "docs/Bible/BSB/Zechariah/Zechariah_4",
-    "docs/Bible/BSB/Zechariah/Zechariah_3"
+    "broken links output.md",
+    "content/articles/Wrestling with no one can come unless drawn.md",
+    "content/MOC/The Gospel of John.md",
+    "content/articles/The Lamb of God.md",
+    "content/articles/A Voice After Silence.md",
+    "content/articles/The Word Became Flesh.md",
+    "content/articles/James purpose.md",
+    "content/notes/The Wedding at Cana - Story Flow.md",
+    "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
+    "public/notes/Writing-is-Thinking-og-image.webp",
+    "public/notes/Writing-is-Iterative-og-image.webp",
+    "public/notes/What-an-Atomic-Note-Is-og-image.webp",
+    "public/notes/The-Wedding-at-Cana---Story-Flow-og-image.webp",
+    "public/notes/Signs-in-the-Gospel-of-John-Lead-to-Faith-og-image.webp",
+    "public/notes/Semi-private-miracle-Glory-revealed-selectively-og-image.webp",
+    "public/notes/Running-out-of-wine-would-shame-the-family-og-image.webp",
+    "public/notes/Nazareth-is-Close-to-Cana-og-image.webp",
+    "public/notes/Mary's-faith-precedes-public-ministry-og-image.webp",
+    "public/tags/iterative-process.html",
+    "public/tags/story-flow.html",
+    "public/tags/bible-observation.html",
+    "public/tags/connections.html",
+    "public/tags/bible-context.html",
+    "public/tags/bible-interpretation.html",
+    "public/tags/theology.html",
+    "public/tags/the-wedding-at-cana.html",
+    "public/tags/todo.html",
+    "public/tags/type-atomic.html",
+    "content/notes/Signs in the Gospel of John Lead to Faith.md",
+    "content/articles/Galatians Purpose.md",
+    "content/articles/Ephesians Purpose.md",
+    "content/articles/Apply Bible study to your life.md",
+    "content/articles/Interpret what this passage means.md",
+    "content/articles/Jesus Connecting Heaven and Earth.md",
+    "content/articles/Why Did John Write This Gospel.md",
+    "content/articles/Who Wrote the Gospel of John, and Why Does It Matter.md",
+    "content/MOC/Inductive Bible Study Method.md",
+    "content/articles/Observe what this passage says.md",
+    "content/articles/Understanding presuppositions in Bible study.md",
+    "content/MOC/Zettelkasten.md",
+    "content/MOC/Signs in John.md",
+    "content/MOC/How to Take Smart Notes.md",
+    "content/notes/Zettelkasten and Inductive Bible Study.md",
+    "content/notes/Writing is Thinking.md",
+    "content/notes/Writing is Iterative.md",
+    "content/notes/What an Atomic Note Is.md"
   ]
 }

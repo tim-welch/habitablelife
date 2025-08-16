@@ -1,9 +1,14 @@
 {
   "outputFileName": "orphaned files output",
   "disableWorkingLinks": false,
-  "directoriesToIgnore": [],
+  "directoriesToIgnore": [
+    "My docs/",
+    "node_modules/",
+    "public/",
+    "quartz/"
+  ],
   "filesToIgnore": [
-    "Notes/Drafts"
+    ""
   ],
   "fileTypesToIgnore": [],
   "linksToIgnore": [],
@@ -13,16 +18,33 @@
   "ignoreDirectories": true,
   "unresolvedLinksIgnoreDirectories": true,
   "unresolvedLinksOutputFileName": "broken links output",
-  "unresolvedLinksDirectoriesToIgnore": [],
+  "unresolvedLinksDirectoriesToIgnore": [
+    "My docs/",
+    "node_modules/",
+    "public/",
+    "quartz/"
+  ],
   "unresolvedLinksFilesToIgnore": [],
   "unresolvedLinksFileTypesToIgnore": [],
   "unresolvedLinksLinksToIgnore": [],
   "unresolvedLinksTagsToIgnore": [],
-  "withoutTagsDirectoriesToIgnore": [],
-  "withoutTagsFilesToIgnore": [],
+  "withoutTagsDirectoriesToIgnore": [
+    "My docs/",
+    "node_modules/",
+    "public/",
+    "quartz/"
+  ],
+  "withoutTagsFilesToIgnore": [
+    ""
+  ],
   "withoutTagsOutputFileName": "files without tags",
   "emptyFilesOutputFileName": "empty files",
-  "emptyFilesDirectories": [],
+  "emptyFilesDirectories": [
+    "My docs/",
+    "node_modules/",
+    "public/",
+    "quartz/"
+  ],
   "emptyFilesFilesToIgnore": [],
   "emptyFilesIgnoreDirectories": true,
   "openOutputFile": true
