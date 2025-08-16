@@ -1,29 +1,6 @@
 {
-  "choices": [
-    {
-      "id": "d71a13d1-af80-4664-8e49-693379368f3f",
-      "name": "Linked Note",
-      "type": "Macro",
-      "command": false,
-      "macroId": "7390e8b3-68c1-41f3-a623-0b557363860f"
-    }
-  ],
-  "macros": [
-    {
-      "name": "Linked Note",
-      "id": "7390e8b3-68c1-41f3-a623-0b557363860f",
-      "commands": [
-        {
-          "name": "linkednote",
-          "type": "UserScript",
-          "id": "96474d5d-aa92-4b82-9f15-60681392578a",
-          "path": "templates/scripts/linkednote.js",
-          "settings": {}
-        }
-      ],
-      "runOnStartup": false
-    }
-  ],
+  "choices": [],
+  "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
