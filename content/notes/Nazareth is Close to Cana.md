@@ -1,5 +1,4 @@
 ---
-title: Nazareth is <10 miles from Cana
 tags:
   - type/atomic
   - bible/context
