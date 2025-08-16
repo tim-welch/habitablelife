@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
+                "file": "content/Bible/BSB/01-Genesis/Genesis 1.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality"
+              "title": "Genesis 1"
             }
           }
         ],
@@ -269,6 +269,28 @@
   },
   "active": "dbbc13162e881098",
   "lastOpenFiles": [
+    "public/notes/Verse-Headings-Inside-Chapters-og-image.webp",
+    "public/notes/Observations-vs.-Interpretations-og-image.webp",
+    "public/notes/Observation-Notes-at-Verse-Level-og-image.webp",
+    "public/notes/Mapping-Inductive-Study-to-Zettelkasten-og-image.webp",
+    "public/notes/Interpretations-as-Permanent-Notes-og-image.webp",
+    "public/notes/Bible-Text-Granularity-og-image.webp",
+    "public/notes/Applications-as-Practical-Notes-og-image.webp",
+    "public/index-og-image.webp",
+    "public/about-og-image.webp",
+    "public/Bible/BSB/copyright-og-image.webp",
+    "public/Bible/BSB/66-Revelation/Revelation-9-og-image.webp",
+    "public/Bible/BSB/60-1-Peter/1-Peter-5.html",
+    "public/Bible/BSB/60-1-Peter/1-Peter-2.html",
+    "public/Bible/BSB/60-1-Peter/1-Peter-3.html",
+    "public/Bible/BSB/60-1-Peter/index.html",
+    "public/Bible/BSB/60-1-Peter/1-Peter-4.html",
+    "public/Bible/BSB/60-1-Peter/1-Peter-1.html",
+    "public/Bible/BSB/60-1-Peter",
+    "public/Bible/BSB/59-James/James-1.html",
+    "public/Bible/BSB/59-James/James-5.html",
+    "public/Bible/BSB/59-James/James-4.html",
+    "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_9.md",
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_8.md",
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_6.md",
@@ -292,28 +314,6 @@
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_15.md",
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_14.md",
     "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_13.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_12.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_11.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_10.md",
-    "content/Bible/BSB/06-Joshua/Joshua_8",
-    "content/Bible/BSB/06-Joshua/Joshua_9",
-    "content/Bible/BSB/06-Joshua/Joshua_7",
-    "content/Bible/BSB/06-Joshua/Joshua_24",
-    "content/Bible/BSB/06-Joshua/Joshua_6",
-    "content/Bible/BSB/06-Joshua/Joshua_5",
-    "content/Bible/BSB/06-Joshua/Joshua_4",
-    "content/Bible/BSB/06-Joshua/Joshua_3",
-    "content/Bible/BSB/06-Joshua/Joshua_23",
-    "content/Bible/BSB/06-Joshua/Joshua_22",
-    "public/tags/type-og-image.webp",
-    "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
-    "public/notes/Writing-is-Thinking-og-image.webp",
-    "public/notes/Writing-is-Iterative-og-image.webp",
-    "public/notes/What-an-Atomic-Note-Is-og-image.webp",
-    "public/notes/The-Wedding-at-Cana---Story-Flow-og-image.webp",
-    "public/notes/Signs-in-the-Gospel-of-John-Lead-to-Faith-og-image.webp",
-    "public/notes/Semi-private-miracle-Glory-revealed-selectively-og-image.webp",
-    "public/notes/Running-out-of-wine-would-shame-the-family-og-image.webp",
-    "public/notes/Nazareth-is-Close-to-Cana-og-image.webp"
+    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_12.md"
   ]
 }

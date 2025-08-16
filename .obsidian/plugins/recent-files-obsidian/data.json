@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Genesis 1",
+      "path": "content/Bible/BSB/01-Genesis/Genesis 1.md"
+    },
+    {
       "basename": "🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality",
       "path": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Genesis_9",
       "path": "BSB/01-Genesis/Genesis_9/Genesis_9.md"
-    },
-    {
-      "basename": "Genesis_3",
-      "path": "BSB/01-Genesis/Genesis_3/Genesis_3.md"
     }
   ],
   "omittedPaths": [
