@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+tags:
+  - type-nav
 ---
+# Home
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+- [Inductive Bible Study Method](MOC/Inductive_Bible_Study_Method.md)
+- [The Gospel of John](MOC/The_Gospel_of_John.md)
+- [How to Take Smart Notes](MOC/How_to_Take_Smart_Notes.md)
