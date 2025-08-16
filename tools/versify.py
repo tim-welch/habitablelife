@@ -74,21 +74,22 @@ for book in bible_verses["books"]:
     os.makedirs(book_dir, exist_ok=True)
     for chapter in bible_verses["books"][book]["chapters"]:
         chapters = chapters + 1
-        chapter_dir = book_dir.joinpath(f"{book}_{chapter}")
-        chapter_file = chapter_dir.joinpath(f"{book}_{chapter}.md")
+        # chapter_dir = book_dir.joinpath(f"{book} {chapter}")
+        chapter_dir = book_dir
+        chapter_file = chapter_dir.joinpath(f"{book} {chapter}.md")
         os.makedirs(chapter_dir, exist_ok=True)
         with open(chapter_file, "wt", encoding="utf-8") as fchapter:
             fchapter.write(f"# {book} {chapter}\n")
             for verse in bible_verses["books"][book]["chapters"][chapter]:
                 verses = verses + 1
                 verse_text = bible_verses["books"][book]["chapters"][chapter][verse]
-                verse_file = chapter_dir.joinpath(f"{book}_{chapter}_{verse}.md")
-                with open(verse_file, "wt", encoding="utf-8") as f:
-                    f.writelines([
-                        f"# {book} {chapter}:{verse}\n\n",
-                        verse_text,
-                        "\n"])
                 fchapter.write(f"## {book} {chapter}:{verse}\n{verse_text}\n")
+                # verse_file = chapter_dir.joinpath(f"{book} {chapter}_{verse}.md")
+                # with open(verse_file, "wt", encoding="utf-8") as f:
+                #     f.writelines([
+                #         f"# {book} {chapter}:{verse}\n\n",
+                #         verse_text,
+                #         "\n"])
 
 # Summary
 print(f"Found {len(bible_verses["books"])} books, {chapters} chapters, and {verses} verses in this translation")

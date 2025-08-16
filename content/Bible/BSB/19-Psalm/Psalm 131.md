@@ -1,0 +1,7 @@
+# Psalm 131
+## Psalm 131:1
+A song of ascents. Of David. My heart is not proud, O LORD, my eyes are not haughty. I do not aspire to great things or matters too lofty for me.
+## Psalm 131:2
+Surely I have stilled and quieted my soul; like a weaned child with his mother, like a weaned child is my soul within me.
+## Psalm 131:3
+O Israel, put your hope in the LORD, both now and forevermore.
