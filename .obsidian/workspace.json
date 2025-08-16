@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Mapping Inductive Study to Zettelkasten.md",
+                "file": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Mapping Inductive Study to Zettelkasten"
+              "title": "🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality"
             }
           }
         ],
@@ -269,8 +269,8 @@
   },
   "active": "57d8f42b7ae65306",
   "lastOpenFiles": [
-    "content/notes/Applications as Practical Notes.md",
     "content/notes/Mapping Inductive Study to Zettelkasten.md",
+    "content/notes/Applications as Practical Notes.md",
     "content/notes/Interpretations as Permanent Notes.md",
     "content/notes/Observations vs. Interpretations.md",
     "content/notes/Observation Notes at Verse Level.md",

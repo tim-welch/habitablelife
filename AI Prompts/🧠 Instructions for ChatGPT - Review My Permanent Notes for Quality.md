@@ -43,21 +43,21 @@ When I give you **a single note**, review it according to these criteria:
 
 I use tags to identify note types and status:
 
-- **type-structural** – the map that shows how the pieces fit together.
+- **type/structural** – the map that shows how the pieces fit together.
     
-- **type-atomic** – raw observations or insights.
+- **type/atomic** – raw observations or insights.
     
-- **type-auto-moc** – dynamic MOC populated automatically by backlinks.
+- **type/auto/moc** – dynamic MOC populated automatically by backlinks.
     
-- **status-stub** – placeholder note needing development.
+- **status/stub** – placeholder note needing development.
     
-- **bible-observation** – pure observation during Bible study.
+- **bible/observation** – pure observation during Bible study.
     
-- **bible-context** – historical/narrative context of a passage.
+- **bible/context** – historical/narrative context of a passage.
     
-- **bible-interpretation** – interpretation of a Bible passage.
+- **bible/interpretation** – interpretation of a Bible passage.
     
-- **bible-application** – application of a Bible passage.
+- **bible/application** – application of a Bible passage.
     
 
 ---

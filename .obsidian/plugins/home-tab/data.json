@@ -24,7 +24,11 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "content/notes/Untitled.md",
+      "filepath": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
+      "timestamp": 1755367635273
+    },
+    {
+      "filepath": "content/notes/Mapping Inductive Study to Zettelkasten.md",
       "timestamp": 1755367179545
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "content/notes/Observations vs. Interpretations.md",
       "timestamp": 1755366955986
-    },
-    {
-      "filepath": "content/notes/Observation Notes at Verse Level.md",
-      "timestamp": 1755366840695
     }
   ],
   "bookmarkedFileStore": [],
