@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "133b3398e9360bbe",
+        "id": "970ca13a239f3cdb",
         "type": "tabs",
         "children": [
           {
-            "id": "c96834e227d7ec17",
+            "id": "548f0ed266831ed3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality"
+              "title": "TODO"
             }
           }
         ]
@@ -256,10 +256,23 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "c96834e227d7ec17",
+  "active": "548f0ed266831ed3",
   "lastOpenFiles": [
     "vault.zip",
     "content.zip",
+    "content/notes/Zettelkasten and Inductive Bible Study.md",
+    "TODO.md",
+    "content/notes/What an Atomic Note Is.md",
+    "content/notes/Atomic Notes Are Not Arguments.md",
+    "content/notes/Semi-private miracle Glory revealed selectively.md",
+    "content/notes/Running out of wine would shame the family.md",
+    "content/notes/Observations vs. Interpretations.md",
+    "content/notes/Observation Notes at Verse Level.md",
+    "content/notes/Nazareth is Close to Cana.md",
+    "content/notes/Mary's faith precedes public ministry.md",
+    "content/notes/Interpretations as Permanent Notes.md",
+    "content/notes/Mapping Inductive Study to Zettelkasten.md",
+    "content/notes/Galilean weddings were multi-day communal events.md",
     "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
     "content/MOC/How to Take Smart Notes.md",
     "content/MOC/The Gospel of John.md",
@@ -268,14 +281,8 @@
     "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
     "content/Bible/BSB/43-John/John 2.md",
     "content/notes/Verse Headings Inside Chapters.md",
-    "content/notes/What an Atomic Note Is.md",
     "content/notes/Signs in the Gospel of John Lead to Faith.md",
-    "content/notes/Semi-private miracle Glory revealed selectively.md",
-    "content/notes/Running out of wine would shame the family.md",
-    "content/notes/Nazareth is Close to Cana.md",
-    "content/notes/Observations vs. Interpretations.md",
     "drafts/Application Notes.md",
-    "content/notes/Observation Notes at Verse Level.md",
     "content/Literature Notes/John/The Wedding at Cana",
     "content/Literature Notes/John",
     "content/Literature Notes",
@@ -283,7 +290,6 @@
     "content/notes/First sign reveals Jesus' glory; disciples believe.md",
     "public/Untitled-og-image.webp",
     "public/Untitled.html",
-    "content/Bible/BSB/01-Genesis/Genesis 1.md",
     "public/notes/Verse-Headings-Inside-Chapters-og-image.webp",
     "public/notes/Observations-vs.-Interpretations-og-image.webp",
     "public/notes/Observation-Notes-at-Verse-Level-og-image.webp",
@@ -296,13 +302,6 @@
     "public/Bible/BSB/60-1-Peter/1-Peter-5.html",
     "public/Bible/BSB/60-1-Peter/1-Peter-2.html",
     "public/Bible/BSB/60-1-Peter/1-Peter-3.html",
-    "public/Bible/BSB/60-1-Peter/index.html",
-    "public/Bible/BSB/60-1-Peter/1-Peter-4.html",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_9.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_8.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_6.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_7.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_5.md",
-    "content/Bible/BSB/06-Joshua/Joshua_9/Joshua_9_4.md"
+    "public/Bible/BSB/60-1-Peter/index.html"
   ]
 }

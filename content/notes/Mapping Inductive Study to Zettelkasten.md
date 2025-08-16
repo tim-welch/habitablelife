@@ -12,6 +12,8 @@ Inductive study (observation, interpretation, application) aligns with Zettelkas
 
 This mapping allows the Bible study process to integrate seamlessly with smart notes.  
 
+## Connections
+
 - [[Observations vs. Interpretations]]
 - [[Interpretations as Permanent Notes]]
 - [[Applications as Practical Notes]]

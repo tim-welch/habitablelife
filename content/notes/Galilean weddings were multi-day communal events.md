@@ -2,9 +2,10 @@
 tags:
   - type/atomic
   - bible/context
-  - the-wedding-at-cana
 ---
 
+Galilean weddings were multi-day communal events.
 
-- [[The Wedding at Cana|The Wedding at Cana]]
-- [[Running out of wine would shame the family|Running out of wine would shame the family]]
+## Connections
+- [[The Wedding at Cana]]
+- [[Running out of wine would shame the family]]

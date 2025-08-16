@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "TODO",
+      "path": "TODO.md"
+    },
+    {
+      "basename": "Zettelkasten and Inductive Bible Study",
+      "path": "content/notes/Zettelkasten and Inductive Bible Study.md"
+    },
+    {
+      "basename": "What an Atomic Note Is",
+      "path": "content/notes/What an Atomic Note Is.md"
+    },
+    {
+      "basename": "Atomic Notes Are Not Arguments",
+      "path": "content/notes/Atomic Notes Are Not Arguments.md"
+    },
+    {
+      "basename": "Semi-private miracle Glory revealed selectively",
+      "path": "content/notes/Semi-private miracle Glory revealed selectively.md"
+    },
+    {
+      "basename": "Running out of wine would shame the family",
+      "path": "content/notes/Running out of wine would shame the family.md"
+    },
+    {
+      "basename": "Observations vs. Interpretations",
+      "path": "content/notes/Observations vs. Interpretations.md"
+    },
+    {
+      "basename": "Observation Notes at Verse Level",
+      "path": "content/notes/Observation Notes at Verse Level.md"
+    },
+    {
+      "basename": "Nazareth is Close to Cana",
+      "path": "content/notes/Nazareth is Close to Cana.md"
+    },
+    {
+      "basename": "Mary's faith precedes public ministry",
+      "path": "content/notes/Mary's faith precedes public ministry.md"
+    },
+    {
+      "basename": "Interpretations as Permanent Notes",
+      "path": "content/notes/Interpretations as Permanent Notes.md"
+    },
+    {
+      "basename": "Mapping Inductive Study to Zettelkasten",
+      "path": "content/notes/Mapping Inductive Study to Zettelkasten.md"
+    },
+    {
+      "basename": "Galilean weddings were multi-day communal events",
+      "path": "content/notes/Galilean weddings were multi-day communal events.md"
+    },
+    {
       "basename": "🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality",
       "path": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md"
     },
@@ -33,32 +85,8 @@
       "path": "content/notes/Verse Headings Inside Chapters.md"
     },
     {
-      "basename": "What an Atomic Note Is",
-      "path": "content/notes/What an Atomic Note Is.md"
-    },
-    {
       "basename": "Signs in the Gospel of John Lead to Faith",
       "path": "content/notes/Signs in the Gospel of John Lead to Faith.md"
-    },
-    {
-      "basename": "Semi-private miracle Glory revealed selectively",
-      "path": "content/notes/Semi-private miracle Glory revealed selectively.md"
-    },
-    {
-      "basename": "Running out of wine would shame the family",
-      "path": "content/notes/Running out of wine would shame the family.md"
-    },
-    {
-      "basename": "Nazareth is Close to Cana",
-      "path": "content/notes/Nazareth is Close to Cana.md"
-    },
-    {
-      "basename": "Observations vs. Interpretations",
-      "path": "content/notes/Observations vs. Interpretations.md"
-    },
-    {
-      "basename": "Observation Notes at Verse Level",
-      "path": "content/notes/Observation Notes at Verse Level.md"
     },
     {
       "basename": "First sign reveals Jesus' glory; disciples believe",
@@ -69,16 +97,8 @@
       "path": "content/Bible/BSB/01-Genesis/Genesis 1.md"
     },
     {
-      "basename": "Mapping Inductive Study to Zettelkasten",
-      "path": "content/notes/Mapping Inductive Study to Zettelkasten.md"
-    },
-    {
       "basename": "Applications as Practical Notes",
       "path": "content/notes/Applications as Practical Notes.md"
-    },
-    {
-      "basename": "Interpretations as Permanent Notes",
-      "path": "content/notes/Interpretations as Permanent Notes.md"
     },
     {
       "basename": "Bible Text Granularity",
@@ -157,10 +177,6 @@
       "path": "content/MOC/Signs in John.md"
     },
     {
-      "basename": "Zettelkasten and Inductive Bible Study",
-      "path": "content/notes/Zettelkasten and Inductive Bible Study.md"
-    },
-    {
       "basename": "Writing is Thinking",
       "path": "content/notes/Writing is Thinking.md"
     },
@@ -173,20 +189,8 @@
       "path": "content/notes/How Connecting Notes Generates Insight.md"
     },
     {
-      "basename": "Galilean weddings were multi-day communal events",
-      "path": "content/notes/Galilean weddings were multi-day communal events.md"
-    },
-    {
-      "basename": "Mary's faith precedes public ministry",
-      "path": "content/notes/Mary's faith precedes public ministry.md"
-    },
-    {
       "basename": "Everything Iterates",
       "path": "content/notes/Everything Iterates.md"
-    },
-    {
-      "basename": "Atomic Notes Are Not Arguments",
-      "path": "content/notes/Atomic Notes Are Not Arguments.md"
     },
     {
       "basename": "index",
@@ -195,10 +199,6 @@
     {
       "basename": "about",
       "path": "docs/about.md"
-    },
-    {
-      "basename": "Welcome to Reor",
-      "path": "Welcome to Reor.md"
     }
   ],
   "omittedPaths": [
