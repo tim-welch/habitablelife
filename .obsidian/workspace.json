@@ -11,10 +11,14 @@
             "id": "e704e323af676535",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "docs/about.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
         ]
@@ -171,12 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of about"
             }
           },
           {
@@ -216,6 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "docs/about.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,7 +249,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of about"
             }
           }
         ]
@@ -285,6 +291,8 @@
   },
   "active": "e704e323af676535",
   "lastOpenFiles": [
+    "Welcome to Reor.md",
+    "drafts/Untitled.md",
     "drafts/test.md",
     "BSB/01-Genesis/Genesis_9/Genesis_9.md",
     "BSB/01-Genesis/Genesis_3/Genesis_3.md",
@@ -309,8 +317,6 @@
     "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_11.md",
     "docs/Bible/BSB/Zephaniah/Zephaniah_3/Zephaniah_3_1.md",
     "docs/Bible/BSB/Zephaniah/Zephaniah_2/Zephaniah_2_8.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_2/Zephaniah_2_9.md",
-    "docs/Bible/BSB/Zephaniah/Zephaniah_2/Zephaniah_2_7.md",
     "docs/Bible/BSB/Zephaniah/Zephaniah_3",
     "docs/Bible/BSB/Zephaniah/Zephaniah_2",
     "docs/Bible/BSB/Zephaniah/Zephaniah_1",

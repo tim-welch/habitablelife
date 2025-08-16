@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "about",
+      "path": "docs/about.md"
+    },
+    {
+      "basename": "Welcome to Reor",
+      "path": "Welcome to Reor.md"
+    },
+    {
       "basename": "Genesis_9",
       "path": "BSB/01-Genesis/Genesis_9/Genesis_9.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "The_Gospel_of_John",
       "path": "docs/MOC/The_Gospel_of_John.md"
-    },
-    {
-      "basename": "Welcome to Reor",
-      "path": "Welcome to Reor.md"
     },
     {
       "basename": "First_Sign_was_Turning_Water_to_Wine",
