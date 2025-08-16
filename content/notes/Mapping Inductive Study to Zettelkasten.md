@@ -1,7 +1,6 @@
 ---
 tags:
   - type/atomic
-  - bible/application
 ---
 
 Inductive study (observation, interpretation, application) aligns with Zettelkasten’s note types:
@@ -14,9 +13,8 @@ This mapping allows the Bible study process to integrate seamlessly with smart n
 
 ## Connections
 
-- [[Observations vs. Interpretations]]
-- [[Interpretations as Permanent Notes]]
-- [[Applications as Practical Notes]]
 - [[Zettelkasten]]
 - [[Inductive Bible Study Method]]
-- [[How to Take Smart Notes]]
+- [[Observations as Literature Notes]]
+- [[Interpretations as Permanent Notes]]
+- [[Applications as Practical Notes]]

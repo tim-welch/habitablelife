@@ -11,5 +11,5 @@ This demonstrates Mary's faith in Jesus in two ways:
 2. She had faith that Jesus **would** help even if He wasn't ready to reveal Himself publicly
 
 ## Connections
-- [[The Wedding at Cana|The Wedding at Cana]]
-- [[Semi-private miracle Glory revealed selectively|Semi-private miracle: Glory revealed selectively]]
+- [[The Wedding at Cana]]
+- [[Semi-private miracle Glory revealed selectively]]

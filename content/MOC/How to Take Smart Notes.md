@@ -18,3 +18,5 @@ This book is foundational for how I capture and connect ideas.
 - Publication Date: February 24, 2017
 - https://www.amazon.com/dp/1542866502
 
+## Connections
+- My implementation lives in [[Zettelkasten]].

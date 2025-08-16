@@ -28,6 +28,12 @@ I’m writing Permanent Notes for my second brain in the Zettelkasten style. You
 
 ---
 
+### Note format
+
+When reviewing notes, treat any bulleted list under a `## Connections` (or `## Links`, `## See also`) heading as a list of outbound links, not part of the note’s atomic content. These should not trigger atomicity checks.
+
+---
+
 ### When I give you **a single note**, review it according to these criteria:
 
 #### 1. **Atomicity**
@@ -102,3 +108,4 @@ Assess the **health and structure** of my Zettelkasten with these added Bible-st
 - Ask **Socratic questions** to help me clarify thinking.
 - If I misuse a word or confuse concepts, correct me directly.
 - Don’t rewrite the note unless I explicitly ask you to.
+- When giving suggestions, format the output as a markdown todo list that links to the note being reviewed.

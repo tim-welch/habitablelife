@@ -11,4 +11,6 @@ It seems that everything in my life iterates. This note connects several areas o
 - Bible study iterates between observation, interpretation and application. See [[Inductive Bible Study Method|Inductive Bible Study Method]]
 - The Scrum process iterates over sprints between planning, work, and feedback. #todo
 
+## Connections
+
 - [[How Connecting Notes Generates Insight|How Connecting Notes Generates Insight]]
