@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "content/notes/Untitled.md"
+    },
+    {
       "basename": "Observation Notes at Verse Level",
       "path": "content/notes/Observation Notes at Verse Level.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Galilean_weddings_were_multi-day_communal_events",
       "path": "docs/notes/Galilean_weddings_were_multi-day_communal_events.md"
-    },
-    {
-      "basename": "Nazareth_is_Close_to_Cana",
-      "path": "docs/notes/Nazareth_is_Close_to_Cana.md"
     }
   ],
   "omittedPaths": [

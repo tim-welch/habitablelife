@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Observation Notes at Verse Level.md",
+                "file": "content/notes/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Observation Notes at Verse Level"
+              "title": "Untitled"
             }
           }
         ],
@@ -269,9 +269,10 @@
   },
   "active": "57d8f42b7ae65306",
   "lastOpenFiles": [
+    "content/notes/Observation Notes at Verse Level.md",
+    "content/notes/Untitled.md",
     "content/notes/Bible Text Granularity.md",
     "content/about.md",
-    "content/notes/Observation Notes at Verse Level.md",
     "content/notes/Verse Headings Inside Chapters.md",
     "content/tags/type.md",
     "public/tags/type-og-image.webp",
@@ -313,7 +314,6 @@
     "Bible/Bible - BSB - by block/John 4_1-42.md",
     "Bible/Bible - BSB - by block/John 3_22-36.md",
     "Bible/Bible - BSB - by block/John 2_12-25.md",
-    "Bible/Bible - BSB - by block/John 21_24-25.md",
-    "Bible/Bible - BSB - by block/John 21_1-23.md"
+    "Bible/Bible - BSB - by block/John 21_24-25.md"
   ]
 }
