@@ -1,11 +1,10 @@
 ---
 tags:
-  - type/auto/moc
+  - type/moc
 ---
 
 
 This note will link to my notes about my Zettelkasten.
 
 ## Smart Notes
-- Derived from Ahrens’ [[How to Take Smart Notes]].
-- Emphasizes workflow of literature → permanent → project notes.
+My Zettelkasten process is derived from Ahrens’ [[How to Take Smart Notes]], which emphasizes workflow of literature → permanent → project notes.

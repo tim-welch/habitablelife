@@ -16,6 +16,7 @@ I’m writing Permanent Notes for my second brain in the Zettelkasten style. You
 - **bible/application** – application of a Bible passage. (Practical application)
 - **bible/doctrine** – Biblical teaching on a specific topic. (Systematic reading and ideas)
 - **bible/term** – Biblical terminology and phrasing. (Come to terms with the author)
+- **bible/outline** - a outline of a book of the Bible, forming an MOC for the book
 - Other tags are used for categorization.
 
 #### I use folders to group my notes:

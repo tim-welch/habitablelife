@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c3500d3b990d7d9b",
+        "id": "0c3e4bf9f982c652",
         "type": "tabs",
         "children": [
           {
-            "id": "4166e9cfe2730b28",
+            "id": "7e3b4d42d2b3e95d",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/Writing is Iterative.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Writing is Iterative"
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/notes/Writing is Iterative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Writing is Iterative"
             }
           },
           {
@@ -138,12 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "content/notes/Writing is Iterative.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Writing is Iterative"
             }
           },
           {
@@ -170,8 +176,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2994308917696632",
@@ -184,8 +189,9 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "content/notes/Writing is Iterative.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -197,21 +203,21 @@
                   "collapse-color-groups": true,
                   "colorGroups": [],
                   "collapse-display": false,
-                  "showArrow": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
+                  "collapse-forces": false,
                   "centerStrength": 0.302083333333333,
                   "repelStrength": 15.4166666666667,
                   "linkStrength": 1,
                   "linkDistance": 206,
-                  "scale": 0.5087618855792588,
+                  "scale": 0.7132754626224423,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Writing is Iterative"
             }
           }
         ]
@@ -251,11 +257,25 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "dbbc13162e881098",
+  "active": "7e3b4d42d2b3e95d",
   "lastOpenFiles": [
+    "content/notes/Writing is Thinking.md",
+    "content/notes/Writing is Iterative.md",
+    "content/sources/How to Take Smart Notes.md",
+    "content/MOC/Zettelkasten.md",
+    "content/MOC/The Gospel of John.md",
+    "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
+    "content/MOC/Signs in John.md",
+    "content/MOC/Inductive Bible Study Method.md",
+    "content/articles/Understanding presuppositions in Bible study.md",
     "content/Literature Notes/John/The Wedding at Cana/The Wedding at Cana.md",
-    "content/Bible/BSB/43-John/John 2.md",
+    "content/sources",
+    "content/Literature Notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md",
     "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
+    "TODO.md",
+    "content/notes/Semi-private miracle Glory revealed selectively.md",
+    "content/notes/First sign reveals Jesus' glory; disciples believe.md",
+    "content/Bible/BSB/43-John/John 2.md",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/Writing-is-Thinking-og-image.webp",
     "public/notes/Writing-is-Iterative-og-image.webp",
@@ -275,10 +295,6 @@
     "public/notes/Semi-private-miracle-Glory-revealed-selectively.html",
     "public/notes/Everything-Iterates.html",
     "public/notes/Running-out-of-wine-would-shame-the-family.html",
-    "public/notes/Observations-vs.-Interpretations.html",
-    "content/MOC/The Gospel of John.md",
-    "content/Literature Notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md",
-    "content/notes/Semi-private miracle Glory revealed selectively.md",
     "content/notes/Mapping Inductive Study to Zettelkasten.md",
     "broken links output.md",
     "content/notes/Running out of wine would shame the family.md",
@@ -288,16 +304,6 @@
     "content/notes/Mary's faith precedes public ministry.md",
     "content/notes/How Connecting Notes Generates Insight.md",
     "content/notes/Interpretations as Permanent Notes.md",
-    "content/notes/Galilean weddings were multi-day communal events.md",
-    "content/notes/First sign reveals Jesus' glory; disciples believe.md",
-    "content/notes/Everything Iterates.md",
-    "content/notes/Bible Text Granularity.md",
-    "content/notes/Atomic Notes Are Not Arguments.md",
-    "content/notes/Applications as Practical Notes.md",
-    "TODO.md",
-    "content/MOC/How to Take Smart Notes.md",
-    "content/MOC/Zettelkasten.md",
-    "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
-    "content/notes/Zettelkasten and Inductive Bible Study.md"
+    "content/notes/Galilean weddings were multi-day communal events.md"
   ]
 }
