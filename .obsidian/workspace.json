@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Semi-private miracle Glory revealed selectively.md",
+                "file": "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Semi-private miracle Glory revealed selectively"
+              "title": "Jesus Reveals His Glory"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bible/observation",
+                "query": "#John 2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -258,12 +259,39 @@
   },
   "active": "548f0ed266831ed3",
   "lastOpenFiles": [
+    "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
+    "public/notes/Writing-is-Thinking-og-image.webp",
+    "public/notes/Writing-is-Iterative-og-image.webp",
+    "public/notes/What-an-Atomic-Note-Is-og-image.webp",
+    "public/notes/Verse-Headings-Inside-Chapters-og-image.webp",
+    "public/notes/Signs-in-the-Gospel-of-John-Lead-to-Faith-og-image.webp",
+    "public/notes/Semi-private-miracle-Glory-revealed-selectively-og-image.webp",
+    "public/notes/Running-out-of-wine-would-shame-the-family-og-image.webp",
+    "public/notes/Observations-vs.-Interpretations-og-image.webp",
+    "public/notes/Observation-Notes-at-Verse-Level-og-image.webp",
+    "public/notes/Nazareth-is-Close-to-Cana-og-image.webp",
+    "public/notes/Zettelkasten-and-Inductive-Bible-Study.html",
+    "public/notes/What-an-Atomic-Note-Is.html",
+    "public/notes/Writing-is-Thinking.html",
+    "public/notes/Writing-is-Iterative.html",
+    "public/notes/Verse-Headings-Inside-Chapters.html",
+    "public/notes/Signs-in-the-Gospel-of-John-Lead-to-Faith.html",
+    "public/notes/Semi-private-miracle-Glory-revealed-selectively.html",
+    "public/notes/Everything-Iterates.html",
+    "public/notes/Running-out-of-wine-would-shame-the-family.html",
+    "public/notes/Observations-vs.-Interpretations.html",
+    "content/Literature Notes/John/The Wedding at Cana/The Wedding at Cana.md",
+    "content/MOC/The Gospel of John.md",
+    "content/Literature Notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md",
+    "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
+    "content/notes/Semi-private miracle Glory revealed selectively.md",
+    "content/notes/Mapping Inductive Study to Zettelkasten.md",
+    "broken links output.md",
     "content/notes/Running out of wine would shame the family.md",
     "content/notes/Observations vs. Interpretations.md",
     "content/notes/Observation Notes at Verse Level.md",
     "content/notes/Nazareth is Close to Cana.md",
     "content/notes/Mary's faith precedes public ministry.md",
-    "content/notes/Mapping Inductive Study to Zettelkasten.md",
     "content/notes/How Connecting Notes Generates Insight.md",
     "content/notes/Interpretations as Permanent Notes.md",
     "content/notes/Galilean weddings were multi-day communal events.md",
@@ -276,33 +304,6 @@
     "content/MOC/How to Take Smart Notes.md",
     "content/MOC/Zettelkasten.md",
     "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
-    "vault.zip",
-    "content.zip",
-    "content/notes/Zettelkasten and Inductive Bible Study.md",
-    "content/notes/What an Atomic Note Is.md",
-    "content/notes/Semi-private miracle Glory revealed selectively.md",
-    "content/MOC/The Gospel of John.md",
-    "content/Literature Notes/John/The Wedding at Cana/The Wedding at Cana.md",
-    "content/Literature Notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md",
-    "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
-    "content/Bible/BSB/43-John/John 2.md",
-    "content/Literature Notes/John/The Wedding at Cana",
-    "content/Literature Notes/John",
-    "content/Literature Notes",
-    "public/Untitled-og-image.webp",
-    "public/Untitled.html",
-    "public/notes/Verse-Headings-Inside-Chapters-og-image.webp",
-    "public/notes/Observations-vs.-Interpretations-og-image.webp",
-    "public/notes/Observation-Notes-at-Verse-Level-og-image.webp",
-    "public/notes/Mapping-Inductive-Study-to-Zettelkasten-og-image.webp",
-    "public/notes/Interpretations-as-Permanent-Notes-og-image.webp",
-    "public/notes/Bible-Text-Granularity-og-image.webp",
-    "public/notes/Applications-as-Practical-Notes-og-image.webp",
-    "public/index-og-image.webp",
-    "public/about-og-image.webp",
-    "public/Bible/BSB/60-1-Peter/1-Peter-5.html",
-    "public/Bible/BSB/60-1-Peter/1-Peter-2.html",
-    "public/Bible/BSB/60-1-Peter/1-Peter-3.html",
-    "public/Bible/BSB/60-1-Peter/index.html"
+    "content/notes/Zettelkasten and Inductive Bible Study.md"
   ]
 }

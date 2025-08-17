@@ -1,51 +1,51 @@
 # 1 Peter 2
-## 1 Peter 2:1
+## 1
 Rid yourselves, therefore, of all malice, deceit, hypocrisy, envy, and slander.
-## 1 Peter 2:2
+## 2
 Like newborn babies, crave pure spiritual milk, so that by it you may grow up in your salvation,
-## 1 Peter 2:3
+## 3
 now that you have tasted that the Lord is good.
-## 1 Peter 2:4
+## 4
 As you come to Him, the living stone, rejected by men but chosen and precious in God’s sight,
-## 1 Peter 2:5
+## 5
 you also, like living stones, are being built into a spiritual house to be a holy priesthood, offering spiritual sacrifices acceptable to God through Jesus Christ.
-## 1 Peter 2:6
+## 6
 For it stands in Scripture: “See, I lay in Zion a stone, a chosen and precious cornerstone; and the one who believes in Him will never be put to shame.”
-## 1 Peter 2:7
+## 7
 To you who believe, then, this stone is precious. But to those who do not believe, “The stone the builders rejected has become the cornerstone,”
-## 1 Peter 2:8
+## 8
 and, “A stone of stumbling and a rock of offense.” They stumble because they disobey the word—and to this they were appointed.
-## 1 Peter 2:9
+## 9
 But you are a chosen people, a royal priesthood, a holy nation, a people for God’s own possession, to proclaim the virtues of Him who called you out of darkness into His marvelous light.
-## 1 Peter 2:10
+## 10
 Once you were not a people, but now you are the people of God; once you had not received mercy, but now you have received mercy.
-## 1 Peter 2:11
+## 11
 Beloved, I urge you, as foreigners and exiles, to abstain from the desires of the flesh, which war against your soul.
-## 1 Peter 2:12
+## 12
 Conduct yourselves with such honor among the Gentiles that, though they slander you as evildoers, they may see your good deeds and glorify God on the day He visits us.
-## 1 Peter 2:13
+## 13
 Submit yourselves for the Lord’s sake to every human institution, whether to the king as the supreme authority,
-## 1 Peter 2:14
+## 14
 or to governors as those sent by him to punish those who do wrong and to praise those who do right.
-## 1 Peter 2:15
+## 15
 For it is God’s will that by doing good you should silence the ignorance of foolish men.
-## 1 Peter 2:16
+## 16
 Live in freedom, but do not use your freedom as a cover-up for evil; live as servants of God.
-## 1 Peter 2:17
+## 17
 Treat everyone with high regard: Love the brotherhood of believers, fear God, honor the king.
-## 1 Peter 2:18
+## 18
 Servants, submit yourselves to your masters with all respect, not only to those who are good and gentle, but even to those who are unreasonable.
-## 1 Peter 2:19
+## 19
 For if anyone endures the pain of unjust suffering because he is conscious of God, this is to be commended.
-## 1 Peter 2:20
+## 20
 How is it to your credit if you are beaten for doing wrong and you endure it? But if you suffer for doing good and you endure it, this is commendable before God.
-## 1 Peter 2:21
+## 21
 For to this you were called, because Christ also suffered for you, leaving you an example, that you should follow in His footsteps:
-## 1 Peter 2:22
+## 22
 “He committed no sin, and no deceit was found in His mouth.”
-## 1 Peter 2:23
+## 23
 When they heaped abuse on Him, He did not retaliate; when He suffered, He made no threats, but entrusted Himself to Him who judges justly.
-## 1 Peter 2:24
+## 24
 He Himself bore our sins in His body on the tree, so that we might die to sin and live to righteousness. “By His stripes you are healed.”
-## 1 Peter 2:25
+## 25
 For “you were like sheep going astray,” but now you have returned to the Shepherd and Overseer of your souls.

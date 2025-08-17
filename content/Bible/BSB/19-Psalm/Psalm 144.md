@@ -1,31 +1,31 @@
 # Psalm 144
-## Psalm 144:1
+## 1
 Of David. Blessed be the LORD, my Rock, who trains my hands for war, my fingers for battle.
-## Psalm 144:2
+## 2
 He is my steadfast love and my fortress, my stronghold and my deliverer. He is my shield, in whom I take refuge, who subdues peoples under me.
-## Psalm 144:3
+## 3
 O LORD, what is man, that You regard him, the son of man that You think of him?
-## Psalm 144:4
+## 4
 Man is like a breath; his days are like a passing shadow.
-## Psalm 144:5
+## 5
 Part Your heavens, O LORD, and come down; touch the mountains, that they may smoke.
-## Psalm 144:6
+## 6
 Flash forth Your lightning and scatter them; shoot Your arrows and rout them.
-## Psalm 144:7
+## 7
 Reach down from on high; set me free and rescue me from the deep waters, from the grasp of foreigners,
-## Psalm 144:8
+## 8
 whose mouths speak falsehood, whose right hands are deceitful.
-## Psalm 144:9
+## 9
 I will sing to You a new song, O God; on a harp of ten strings I will make music to You—
-## Psalm 144:10
+## 10
 to Him who gives victory to kings, who frees His servant David from the deadly sword.
-## Psalm 144:11
+## 11
 Set me free and rescue me from the grasp of foreigners, whose mouths speak falsehood, whose right hands are deceitful.
-## Psalm 144:12
+## 12
 Then our sons will be like plants nurtured in their youth, our daughters like corner pillars carved to adorn a palace.
-## Psalm 144:13
+## 13
 Our storehouses will be full, supplying all manner of produce; our flocks will bring forth thousands, tens of thousands in our fields.
-## Psalm 144:14
+## 14
 Our oxen will bear great loads. There will be no breach in the walls, no going into captivity, and no cry of lament in our streets.
-## Psalm 144:15
+## 15
 Blessed are the people of whom this is so; blessed are the people whose God is the LORD.

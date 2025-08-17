@@ -1,47 +1,47 @@
 # Isaiah 24
-## Isaiah 24:1
+## 1
 Behold, the LORD lays waste the earth and leaves it in ruins. He will twist its surface and scatter its inhabitants—
-## Isaiah 24:2
+## 2
 people and priest alike, servant and master, maid and mistress, buyer and seller, lender and borrower, creditor and debtor.
-## Isaiah 24:3
+## 3
 The earth will be utterly laid waste and thoroughly plundered. For the LORD has spoken this word.
-## Isaiah 24:4
+## 4
 The earth mourns and withers; the world languishes and fades; the exalted of the earth waste away.
-## Isaiah 24:5
+## 5
 The earth is defiled by its people; they have transgressed the laws; they have overstepped the decrees and broken the everlasting covenant.
-## Isaiah 24:6
+## 6
 Therefore a curse has consumed the earth, and its inhabitants must bear the guilt; the earth’s dwellers have been burned, and only a few survive.
-## Isaiah 24:7
+## 7
 The new wine dries up, the vine withers. All the merrymakers now groan.
-## Isaiah 24:8
+## 8
 The joyful tambourines have ceased; the noise of revelers has stopped; the joyful harp is silent.
-## Isaiah 24:9
+## 9
 They no longer sing and drink wine; strong drink is bitter to those who consume it.
-## Isaiah 24:10
+## 10
 The city of chaos is shattered; every house is closed to entry.
-## Isaiah 24:11
+## 11
 In the streets they cry out for wine. All joy turns to gloom; rejoicing is exiled from the land.
-## Isaiah 24:12
+## 12
 The city is left in ruins; its gate is reduced to rubble.
-## Isaiah 24:13
+## 13
 So will it be on the earth and among the nations, like a harvested olive tree, like a gleaning after a grape harvest.
-## Isaiah 24:14
+## 14
 They raise their voices, they shout for joy; from the west they proclaim the majesty of the LORD.
-## Isaiah 24:15
+## 15
 Therefore glorify the LORD in the east. Extol the name of the LORD, the God of Israel in the islands of the sea.
-## Isaiah 24:16
+## 16
 From the ends of the earth we hear singing: “Glory to the Righteous One.” But I said, “I am wasting away! I am wasting away! Woe is me.” The treacherous betray; the treacherous deal in treachery.
-## Isaiah 24:17
+## 17
 Terror and pit and snare await you, O dweller of the earth.
-## Isaiah 24:18
+## 18
 Whoever flees the sound of panic will fall into the pit, and whoever climbs from the pit will be caught in the snare. For the windows of heaven are open, and the foundations of the earth are shaken.
-## Isaiah 24:19
+## 19
 The earth is utterly broken apart, the earth is split open, the earth is shaken violently.
-## Isaiah 24:20
+## 20
 The earth staggers like a drunkard and sways like a shack. Earth’s rebellion weighs it down, and it falls, never to rise again.
-## Isaiah 24:21
+## 21
 In that day the LORD will punish the host of heaven above and the kings of the earth below.
-## Isaiah 24:22
+## 22
 They will be gathered together like prisoners in a pit. They will be confined to a dungeon and punished after many days.
-## Isaiah 24:23
+## 23
 The moon will be confounded and the sun will be ashamed; for the LORD of Hosts will reign on Mount Zion and in Jerusalem, and before His elders with great glory.

@@ -1,11 +1,11 @@
 # Hosea 3
-## Hosea 3:1
+## 1
 Then the LORD said to me, “Go show love to your wife again, though she is loved by another and is an adulteress. Love her as the LORD loves the Israelites, though they turn to other gods and love to offer raisin cakes to idols.”
-## Hosea 3:2
+## 2
 So I bought her for fifteen shekels of silver and a homer and a lethech of barley.
-## Hosea 3:3
+## 3
 Then I said to her, “You must live with me for many days; you must not be promiscuous or belong to another, and I will do the same for you.”
-## Hosea 3:4
+## 4
 For the Israelites must live many days without king or prince, without sacrifice or sacred pillar, and without ephod or idol.
-## Hosea 3:5
+## 5
 Afterward, the people of Israel will return and seek the LORD their God and David their king. They will come trembling to the LORD and to His goodness in the last days.

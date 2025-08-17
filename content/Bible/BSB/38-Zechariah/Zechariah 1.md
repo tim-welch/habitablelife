@@ -1,43 +1,43 @@
 # Zechariah 1
-## Zechariah 1:1
+## 1
 In the eighth month of the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berechiah, the son of Iddo, saying:
-## Zechariah 1:2
+## 2
 “The LORD was very angry with your fathers.
-## Zechariah 1:3
+## 3
 So tell the people that this is what the LORD of Hosts says: ‘Return to Me, declares the LORD of Hosts, and I will return to you, says the LORD of Hosts.’
-## Zechariah 1:4
+## 4
 Do not be like your fathers, to whom the former prophets proclaimed that this is what the LORD of Hosts says: ‘Turn now from your evil ways and deeds.’ But they did not listen or pay attention to Me, declares the LORD.
-## Zechariah 1:5
+## 5
 Where are your fathers now? And the prophets, do they live forever?
-## Zechariah 1:6
+## 6
 But did not My words and My statutes, which I commanded My servants the prophets, overtake your fathers? They repented and said, ‘Just as the LORD of Hosts purposed to do to us according to our ways and deeds, so He has done to us.’”
-## Zechariah 1:7
+## 7
 On the twenty-fourth day of the eleventh month, the month of Shebat, in the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berechiah, the son of Iddo.
-## Zechariah 1:8
+## 8
 I looked out into the night and saw a man riding on a red horse. He was standing among the myrtle trees in the hollow, and behind him were red, sorrel, and white horses.
-## Zechariah 1:9
+## 9
 “What are these, my lord?” I asked. And the angel who was speaking with me replied, “I will show you what they are.”
-## Zechariah 1:10
+## 10
 Then the man standing among the myrtle trees explained, “They are the ones the LORD has sent to patrol the earth.”
-## Zechariah 1:11
+## 11
 And the riders answered the angel of the LORD who was standing among the myrtle trees, “We have patrolled the earth, and behold, all the earth is at rest and tranquil.”
-## Zechariah 1:12
+## 12
 Then the angel of the LORD said, “How long, O LORD of Hosts, will You withhold mercy from Jerusalem and the cities of Judah, with which You have been angry these seventy years?”
-## Zechariah 1:13
+## 13
 So the LORD spoke kind and comforting words to the angel who was speaking with me.
-## Zechariah 1:14
+## 14
 Then the angel who was speaking with me said, “Proclaim this word: This is what the LORD of Hosts says: ‘I am very jealous for Jerusalem and Zion,
-## Zechariah 1:15
+## 15
 but I am fiercely angry with the nations that are at ease. For I was a little angry, but they have added to the calamity.’
-## Zechariah 1:16
+## 16
 Therefore this is what the LORD says: ‘I will return to Jerusalem with mercy, and there My house will be rebuilt, declares the LORD of Hosts, and a measuring line will be stretched out over Jerusalem.’
-## Zechariah 1:17
+## 17
 Proclaim further that this is what the LORD of Hosts says: ‘My cities will again overflow with prosperity; the LORD will again comfort Zion and choose Jerusalem.’”
-## Zechariah 1:18
+## 18
 Then I looked up and saw four horns.
-## Zechariah 1:19
+## 19
 So I asked the angel who was speaking with me, “What are these?” And he told me, “These are the horns that have scattered Judah, Israel, and Jerusalem.”
-## Zechariah 1:20
+## 20
 Then the LORD showed me four craftsmen.
-## Zechariah 1:21
+## 21
 “What are these coming to do?” I asked. And He replied, “These are the horns that scattered Judah so that no one could raise his head; but the craftsmen have come to terrify them and throw down these horns of the nations that have lifted up their horns against the land of Judah to scatter it.”

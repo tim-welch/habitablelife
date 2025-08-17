@@ -1,45 +1,45 @@
 # Isaiah 2
-## Isaiah 2:1
+## 1
 This is the message that was revealed to Isaiah son of Amoz concerning Judah and Jerusalem:
-## Isaiah 2:2
+## 2
 In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and all nations will stream to it.
-## Isaiah 2:3
+## 3
 And many peoples will come and say: “Come, let us go up to the mountain of the LORD, to the house of the God of Jacob. He will teach us His ways so that we may walk in His paths.” For the law will go forth from Zion, and the word of the LORD from Jerusalem.
-## Isaiah 2:4
+## 4
 Then He will judge between the nations and arbitrate for many peoples. They will beat their swords into plowshares and their spears into pruning hooks. Nation will no longer take up the sword against nation, nor train anymore for war.
-## Isaiah 2:5
+## 5
 Come, O house of Jacob, let us walk in the light of the LORD.
-## Isaiah 2:6
+## 6
 For You have abandoned Your people, the house of Jacob, because they are filled with influences from the east; they are soothsayers like the Philistines; they strike hands with the children of foreigners.
-## Isaiah 2:7
+## 7
 Their land is full of silver and gold, with no limit to their treasures; their land is full of horses, with no limit to their chariots.
-## Isaiah 2:8
+## 8
 Their land is full of idols; they bow down to the work of their hands, to what their fingers have made.
-## Isaiah 2:9
+## 9
 So mankind is brought low, and man is humbled—do not forgive them!
-## Isaiah 2:10
+## 10
 Go into the rocks and hide in the dust from the terror of the LORD and the splendor of His majesty.
-## Isaiah 2:11
+## 11
 The proud look of man will be humbled, and the loftiness of men brought low; the LORD alone will be exalted in that day.
-## Isaiah 2:12
+## 12
 For the Day of the LORD of Hosts will come against all the proud and lofty, against all that is exalted—it will be humbled—
-## Isaiah 2:13
+## 13
 against all the cedars of Lebanon, lofty and lifted up, against all the oaks of Bashan,
-## Isaiah 2:14
+## 14
 against all the tall mountains, against all the high hills,
-## Isaiah 2:15
+## 15
 against every high tower, against every fortified wall,
-## Isaiah 2:16
+## 16
 against every ship of Tarshish, and against every stately vessel.
-## Isaiah 2:17
+## 17
 So the pride of man will be brought low, and the loftiness of men will be humbled; the LORD alone will be exalted in that day,
-## Isaiah 2:18
+## 18
 and the idols will vanish completely.
-## Isaiah 2:19
+## 19
 Men will flee to caves in the rocks and holes in the ground, away from the terror of the LORD and from the splendor of His majesty, when He rises to shake the earth.
-## Isaiah 2:20
+## 20
 In that day men will cast away to the moles and bats their idols of silver and gold—the idols they made to worship.
-## Isaiah 2:21
+## 21
 They will flee to caverns in the rocks and crevices in the cliffs, away from the terror of the LORD and from the splendor of His majesty, when He rises to shake the earth.
-## Isaiah 2:22
+## 22
 Put no more trust in man, who has only the breath in his nostrils. Of what account is he?

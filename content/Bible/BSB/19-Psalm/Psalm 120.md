@@ -1,15 +1,15 @@
 # Psalm 120
-## Psalm 120:1
+## 1
 A song of ascents. In my distress I cried to the LORD, and He answered me.
-## Psalm 120:2
+## 2
 Deliver my soul, O LORD, from lying lips and a deceitful tongue.
-## Psalm 120:3
+## 3
 What will He do to you, and what will be added to you, O deceitful tongue?
-## Psalm 120:4
+## 4
 Sharp arrows will come from the warrior, with burning coals of the broom tree!
-## Psalm 120:5
+## 5
 Woe to me that I dwell in Meshech, that I live among the tents of Kedar!
-## Psalm 120:6
+## 6
 Too long have I dwelt among those who hate peace.
-## Psalm 120:7
+## 7
 I am in favor of peace; but when I speak, they want war.

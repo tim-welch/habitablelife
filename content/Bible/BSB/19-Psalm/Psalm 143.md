@@ -1,25 +1,25 @@
 # Psalm 143
-## Psalm 143:1
+## 1
 A Psalm of David. O LORD, hear my prayer. In Your faithfulness, give ear to my plea; in Your righteousness, answer me.
-## Psalm 143:2
+## 2
 Do not bring Your servant into judgment, for no one alive is righteous before You.
-## Psalm 143:3
+## 3
 For the enemy has pursued my soul, crushing my life to the ground, making me dwell in darkness like those long since dead.
-## Psalm 143:4
+## 4
 My spirit grows faint within me; my heart is dismayed inside me.
-## Psalm 143:5
+## 5
 I remember the days of old; I meditate on all Your works; I consider the work of Your hands.
-## Psalm 143:6
+## 6
 I stretch out my hands to You; my soul thirsts for You like a parched land. Selah
-## Psalm 143:7
+## 7
 Answer me quickly, O LORD; my spirit fails. Do not hide Your face from me, or I will be like those who descend to the Pit.
-## Psalm 143:8
+## 8
 Let me hear Your loving devotion in the morning, for I have put my trust in You. Teach me the way I should walk, for to You I lift up my soul.
-## Psalm 143:9
+## 9
 Deliver me from my enemies, O LORD; I flee to You for refuge.
-## Psalm 143:10
+## 10
 Teach me to do Your will, for You are my God. May Your good Spirit lead me on level ground.
-## Psalm 143:11
+## 11
 For the sake of Your name, O LORD, revive me. In Your righteousness, bring my soul out of trouble.
-## Psalm 143:12
+## 12
 And in Your loving devotion, cut off my enemies. Destroy all who afflict me, for I am Your servant.

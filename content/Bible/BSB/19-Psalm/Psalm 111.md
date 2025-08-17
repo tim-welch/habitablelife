@@ -1,21 +1,21 @@
 # Psalm 111
-## Psalm 111:1
+## 1
 Hallelujah! I will give thanks to the LORD with all my heart in the council of the upright and in the assembly.
-## Psalm 111:2
+## 2
 Great are the works of the LORD; they are pondered by all who delight in them.
-## Psalm 111:3
+## 3
 Splendid and majestic is His work; His righteousness endures forever.
-## Psalm 111:4
+## 4
 He has caused His wonders to be remembered; the LORD is gracious and compassionate.
-## Psalm 111:5
+## 5
 He provides food for those who fear Him; He remembers His covenant forever.
-## Psalm 111:6
+## 6
 He has shown His people the power of His works by giving them the inheritance of the nations.
-## Psalm 111:7
+## 7
 The works of His hands are truth and justice; all His precepts are trustworthy.
-## Psalm 111:8
+## 8
 They are upheld forever and ever, enacted in truth and uprightness.
-## Psalm 111:9
+## 9
 He has sent redemption to His people; He has ordained His covenant forever; holy and awesome is His name.
-## Psalm 111:10
+## 10
 The fear of the LORD is the beginning of wisdom; all who follow His precepts gain rich understanding. His praise endures forever!

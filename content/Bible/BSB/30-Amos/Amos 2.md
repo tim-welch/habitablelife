@@ -1,33 +1,33 @@
 # Amos 2
-## Amos 2:1
+## 1
 This is what the LORD says: “For three transgressions of Moab, even four, I will not revoke My judgment, because he burned to lime the bones of Edom’s king.
-## Amos 2:2
+## 2
 So I will send fire against Moab to consume the citadels of Kerioth. Moab will die in tumult, amid war cries and the sound of the ram’s horn.
-## Amos 2:3
+## 3
 I will cut off the ruler of Moab and kill all the officials with him,” says the LORD.
-## Amos 2:4
+## 4
 This is what the LORD says: “For three transgressions of Judah, even four, I will not revoke My judgment, because they reject the Law of the LORD and fail to keep His statutes; they are led astray by the lies in which their fathers walked.
-## Amos 2:5
+## 5
 So I will send fire upon Judah to consume the citadels of Jerusalem.”
-## Amos 2:6
+## 6
 This is what the LORD says: “For three transgressions of Israel, even four, I will not revoke My judgment, because they sell the righteous for silver and the needy for a pair of sandals.
-## Amos 2:7
+## 7
 They trample on the heads of the poor as on the dust of the earth; they push the needy out of their way. A man and his father have relations with the same girl and so profane My holy name.
-## Amos 2:8
+## 8
 They lie down beside every altar on garments taken in pledge. And in the house of their God, they drink wine obtained through fines.
-## Amos 2:9
+## 9
 Yet it was I who destroyed the Amorite before them, though his height was like that of the cedars, and he was as strong as the oaks. Yet I destroyed his fruit above and his roots below.
-## Amos 2:10
+## 10
 And I brought you up from the land of Egypt and led you forty years in the wilderness, that you might take possession of the land of the Amorite.
-## Amos 2:11
+## 11
 I raised up prophets from your sons and Nazirites from your young men. Is this not true, O children of Israel?” declares the LORD.
-## Amos 2:12
+## 12
 “But you made the Nazirites drink wine and commanded the prophets not to prophesy.
-## Amos 2:13
+## 13
 Behold, I am about to crush you in your place as with a cart full of grain.
-## Amos 2:14
+## 14
 Escape will fail the swift, the strong will not prevail by his strength, and the mighty will not save his life.
-## Amos 2:15
+## 15
 The archer will not stand his ground, the fleet of foot will not escape, and the horseman will not save his life.
-## Amos 2:16
+## 16
 Even the bravest of mighty men will flee naked on that day,” declares the LORD.

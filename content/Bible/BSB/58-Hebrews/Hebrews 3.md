@@ -1,39 +1,39 @@
 # Hebrews 3
-## Hebrews 3:1
+## 1
 Therefore, holy brothers, who share in the heavenly calling, set your focus on Jesus, the apostle and high priest whom we confess.
-## Hebrews 3:2
+## 2
 He was faithful to the One who appointed Him, just as Moses was faithful in all God’s house.
-## Hebrews 3:3
+## 3
 For Jesus has been counted worthy of greater glory than Moses, just as the builder of a house has greater honor than the house itself.
-## Hebrews 3:4
+## 4
 And every house is built by someone, but God is the builder of everything.
-## Hebrews 3:5
+## 5
 Now Moses was faithful as a servant in all God’s house, testifying to what would be spoken later.
-## Hebrews 3:6
+## 6
 But Christ is faithful as the Son over God’s house. And we are His house, if we hold firmly to our confidence and the hope of which we boast.
-## Hebrews 3:7
+## 7
 Therefore, as the Holy Spirit says: “Today, if you hear His voice,
-## Hebrews 3:8
+## 8
 do not harden your hearts, as you did in the rebellion, in the day of testing in the wilderness,
-## Hebrews 3:9
+## 9
 where your fathers tested and tried Me, and for forty years saw My works.
-## Hebrews 3:10
+## 10
 Therefore I was angry with that generation, and I said, ‘Their hearts are always going astray, and they have not known My ways.’
-## Hebrews 3:11
+## 11
 So I swore on oath in My anger, ‘They shall never enter My rest.’”
-## Hebrews 3:12
+## 12
 See to it, brothers, that none of you has a wicked heart of unbelief that turns away from the living God.
-## Hebrews 3:13
+## 13
 But exhort one another daily, as long as it is called today, so that none of you may be hardened by sin’s deceitfulness.
-## Hebrews 3:14
+## 14
 We have come to share in Christ if we hold firmly to the end the assurance we had at first.
-## Hebrews 3:15
+## 15
 As it has been said: “Today, if you hear His voice, do not harden your hearts, as you did in the rebellion.”
-## Hebrews 3:16
+## 16
 For who were the ones who heard and rebelled? Were they not all those Moses led out of Egypt?
-## Hebrews 3:17
+## 17
 And with whom was God angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?
-## Hebrews 3:18
+## 18
 And to whom did He swear that they would never enter His rest? Was it not to those who disobeyed?
-## Hebrews 3:19
+## 19
 So we see that it was because of their unbelief that they were unable to enter.

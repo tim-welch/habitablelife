@@ -1,117 +1,117 @@
 # 1 Corinthians 15
-## 1 Corinthians 15:1
+## 1
 Now, brothers, I want to remind you of the gospel I preached to you, which you received, and in which you stand firm.
-## 1 Corinthians 15:2
+## 2
 By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain.
-## 1 Corinthians 15:3
+## 3
 For what I received I passed on to you as of first importance: that Christ died for our sins according to the Scriptures,
-## 1 Corinthians 15:4
+## 4
 that He was buried, that He was raised on the third day according to the Scriptures,
-## 1 Corinthians 15:5
+## 5
 and that He appeared to Cephas and then to the Twelve.
-## 1 Corinthians 15:6
+## 6
 After that, He appeared to more than five hundred brothers at once, most of whom are still living, though some have fallen asleep.
-## 1 Corinthians 15:7
+## 7
 Then He appeared to James, then to all the apostles.
-## 1 Corinthians 15:8
+## 8
 And last of all He appeared to me also, as to one of untimely birth.
-## 1 Corinthians 15:9
+## 9
 For I am the least of the apostles and am unworthy to be called an apostle, because I persecuted the church of God.
-## 1 Corinthians 15:10
+## 10
 But by the grace of God I am what I am, and His grace to me was not in vain. No, I worked harder than all of them—yet not I, but the grace of God that was with me.
-## 1 Corinthians 15:11
+## 11
 Whether, then, it was I or they, this is what we preach, and this is what you believed.
-## 1 Corinthians 15:12
+## 12
 But if it is preached that Christ has been raised from the dead, how can some of you say that there is no resurrection of the dead?
-## 1 Corinthians 15:13
+## 13
 If there is no resurrection of the dead, then not even Christ has been raised.
-## 1 Corinthians 15:14
+## 14
 And if Christ has not been raised, our preaching is worthless, and so is your faith.
-## 1 Corinthians 15:15
+## 15
 In that case, we are also exposed as false witnesses about God. For we have testified about God that He raised Christ from the dead, but He did not raise Him if in fact the dead are not raised.
-## 1 Corinthians 15:16
+## 16
 For if the dead are not raised, then not even Christ has been raised.
-## 1 Corinthians 15:17
+## 17
 And if Christ has not been raised, your faith is futile; you are still in your sins.
-## 1 Corinthians 15:18
+## 18
 Then those also who have fallen asleep in Christ have perished.
-## 1 Corinthians 15:19
+## 19
 If our hope in Christ is for this life alone, we are to be pitied more than all men.
-## 1 Corinthians 15:20
+## 20
 But Christ has indeed been raised from the dead, the firstfruits of those who have fallen asleep.
-## 1 Corinthians 15:21
+## 21
 For since death came through a man, the resurrection of the dead comes also through a man.
-## 1 Corinthians 15:22
+## 22
 For as in Adam all die, so in Christ all will be made alive.
-## 1 Corinthians 15:23
+## 23
 But each in his own turn: Christ the firstfruits; then at His coming, those who belong to Him.
-## 1 Corinthians 15:24
+## 24
 Then the end will come, when He hands over the kingdom to God the Father after He has destroyed all dominion, authority, and power.
-## 1 Corinthians 15:25
+## 25
 For He must reign until He has put all His enemies under His feet.
-## 1 Corinthians 15:26
+## 26
 The last enemy to be destroyed is death.
-## 1 Corinthians 15:27
+## 27
 For “God has put everything under His feet.” Now when it says that everything has been put under Him, this clearly does not include the One who put everything under Him.
-## 1 Corinthians 15:28
+## 28
 And when all things have been subjected to Him, then the Son Himself will be made subject to Him who put all things under Him, so that God may be all in all.
-## 1 Corinthians 15:29
+## 29
 If these things are not so, what will those do who are baptized for the dead? If the dead are not raised at all, why are people baptized for them?
-## 1 Corinthians 15:30
+## 30
 And why do we endanger ourselves every hour?
-## 1 Corinthians 15:31
+## 31
 I face death every day, brothers, as surely as I boast about you in Christ Jesus our Lord.
-## 1 Corinthians 15:32
+## 32
 If I fought wild beasts in Ephesus for human motives, what did I gain? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”
-## 1 Corinthians 15:33
+## 33
 Do not be deceived: “Bad company corrupts good character.”
-## 1 Corinthians 15:34
+## 34
 Sober up as you ought, and stop sinning; for some of you are ignorant of God. I say this to your shame.
-## 1 Corinthians 15:35
+## 35
 But someone will ask, “How are the dead raised? With what kind of body will they come?”
-## 1 Corinthians 15:36
+## 36
 You fool! What you sow does not come to life unless it dies.
-## 1 Corinthians 15:37
+## 37
 And what you sow is not the body that will be, but just a seed, perhaps of wheat or something else.
-## 1 Corinthians 15:38
+## 38
 But God gives it a body as He has designed, and to each kind of seed He gives its own body.
-## 1 Corinthians 15:39
+## 39
 Not all flesh is the same: Men have one kind of flesh, animals have another, birds another, and fish another.
-## 1 Corinthians 15:40
+## 40
 There are also heavenly bodies and earthly bodies. But the splendor of the heavenly bodies is of one degree, and the splendor of the earthly bodies is of another.
-## 1 Corinthians 15:41
+## 41
 The sun has one degree of splendor, the moon another, and the stars another; and star differs from star in splendor.
-## 1 Corinthians 15:42
+## 42
 So will it be with the resurrection of the dead: What is sown is perishable; it is raised imperishable.
-## 1 Corinthians 15:43
+## 43
 It is sown in dishonor; it is raised in glory. It is sown in weakness; it is raised in power.
-## 1 Corinthians 15:44
+## 44
 It is sown a natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body.
-## 1 Corinthians 15:45
+## 45
 So it is written: “The first man Adam became a living being”; the last Adam a life-giving spirit.
-## 1 Corinthians 15:46
+## 46
 The spiritual, however, was not first, but the natural, and then the spiritual.
-## 1 Corinthians 15:47
+## 47
 The first man was of the dust of the earth, the second man from heaven.
-## 1 Corinthians 15:48
+## 48
 As was the earthly man, so also are those who are of the earth; and as is the heavenly man, so also are those who are of heaven.
-## 1 Corinthians 15:49
+## 49
 And just as we have borne the likeness of the earthly man, so also shall we bear the likeness of the heavenly man.
-## 1 Corinthians 15:50
+## 50
 Now I declare to you, brothers, that flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.
-## 1 Corinthians 15:51
+## 51
 Listen, I tell you a mystery: We will not all sleep, but we will all be changed—
-## 1 Corinthians 15:52
+## 52
 in an instant, in the twinkling of an eye, at the last trumpet. For the trumpet will sound, the dead will be raised imperishable, and we will be changed.
-## 1 Corinthians 15:53
+## 53
 For the perishable must be clothed with the imperishable, and the mortal with immortality.
-## 1 Corinthians 15:54
+## 54
 When the perishable has been clothed with the imperishable and the mortal with immortality, then the saying that is written will come to pass: “Death has been swallowed up in victory.”
-## 1 Corinthians 15:55
+## 55
 “Where, O Death, is your victory? Where, O Death, is your sting?”
-## 1 Corinthians 15:56
+## 56
 The sting of death is sin, and the power of sin is the law.
-## 1 Corinthians 15:57
+## 57
 But thanks be to God, who gives us the victory through our Lord Jesus Christ!
-## 1 Corinthians 15:58
+## 58
 Therefore, my beloved brothers, be steadfast and immovable. Always excel in the work of the Lord, because you know that your labor in the Lord is not in vain.

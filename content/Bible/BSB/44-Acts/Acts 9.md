@@ -1,87 +1,87 @@
 # Acts 9
-## Acts 9:1
+## 1
 Meanwhile, Saul was still breathing out murderous threats against the disciples of the Lord. He approached the high priest
-## Acts 9:2
+## 2
 and requested letters to the synagogues in Damascus, so that if he found any men or women belonging to the Way, he could bring them as prisoners to Jerusalem.
-## Acts 9:3
+## 3
 As Saul drew near to Damascus on his journey, suddenly a light from heaven flashed around him.
-## Acts 9:4
+## 4
 He fell to the ground and heard a voice say to him, “Saul, Saul, why do you persecute Me?”
-## Acts 9:5
+## 5
 “Who are You, Lord?” Saul asked. “I am Jesus, whom you are persecuting,” He replied.
-## Acts 9:6
+## 6
 “Now get up and go into the city, and you will be told what you must do.”
-## Acts 9:7
+## 7
 The men traveling with Saul stood there speechless. They heard the voice but did not see anyone.
-## Acts 9:8
+## 8
 Saul got up from the ground, but when he opened his eyes he could not see a thing. So they led him by the hand into Damascus.
-## Acts 9:9
+## 9
 For three days he was without sight, and he did not eat or drink anything.
-## Acts 9:10
+## 10
 In Damascus there was a disciple named Ananias. The Lord spoke to him in a vision, “Ananias!” “Here I am, Lord,” he answered.
-## Acts 9:11
+## 11
 “Get up!” the Lord told him. “Go to the house of Judas on Straight Street and ask for a man from Tarsus named Saul, for he is praying.
-## Acts 9:12
+## 12
 In a vision he has seen a man named Ananias come and place his hands on him to restore his sight.”
-## Acts 9:13
+## 13
 But Ananias answered, “Lord, many people have told me about this man and all the harm he has done to Your saints in Jerusalem.
-## Acts 9:14
+## 14
 And now he is here with authority from the chief priests to arrest all who call on Your name.”
-## Acts 9:15
+## 15
 “Go!” said the Lord. “This man is My chosen instrument to carry My name before the Gentiles and their kings, and before the people of Israel.
-## Acts 9:16
+## 16
 I will show him how much he must suffer for My name.”
-## Acts 9:17
+## 17
 So Ananias went to the house, and when he arrived, he placed his hands on Saul. “Brother Saul,” he said, “the Lord Jesus, who appeared to you on the road as you were coming here, has sent me so that you may see again and be filled with the Holy Spirit.”
-## Acts 9:18
+## 18
 At that instant, something like scales fell from Saul’s eyes, and his sight was restored. He got up and was baptized,
-## Acts 9:19
+## 19
 and after taking some food, he regained his strength. And he spent several days with the disciples in Damascus.
-## Acts 9:20
+## 20
 Saul promptly began to proclaim Jesus in the synagogues, declaring, “He is the Son of God.”
-## Acts 9:21
+## 21
 All who heard him were astounded and asked, “Isn’t this the man who wreaked havoc in Jerusalem on those who call on this name? And hasn’t he come here to take them as prisoners to the chief priests?”
-## Acts 9:22
+## 22
 But Saul was empowered all the more, and he confounded the Jews living in Damascus by proving that Jesus is the Christ.
-## Acts 9:23
+## 23
 After many days had passed, the Jews conspired to kill him,
-## Acts 9:24
+## 24
 but Saul learned of their plot. Day and night they watched the city gates in order to kill him.
-## Acts 9:25
+## 25
 One night, however, his disciples took him and lowered him in a basket through a window in the wall.
-## Acts 9:26
+## 26
 When Saul arrived in Jerusalem, he tried to join the disciples, but they were all afraid of him, not believing that he was a disciple.
-## Acts 9:27
+## 27
 Then Barnabas brought him to the apostles and described how Saul had seen the Lord, who had spoken to him on the road to Damascus, and how Saul had spoken boldly in that city in the name of Jesus.
-## Acts 9:28
+## 28
 So Saul stayed with them, moving about freely in Jerusalem and speaking boldly in the name of the Lord.
-## Acts 9:29
+## 29
 He talked and debated with the Grecian Jews, but they tried to kill him.
-## Acts 9:30
+## 30
 When the brothers learned of this, they took him down to Caesarea and sent him off to Tarsus.
-## Acts 9:31
+## 31
 Then the church throughout Judea, Galilee, and Samaria experienced a time of peace. It grew in strength and numbers, living in the fear of the Lord and the encouragement of the Holy Spirit.
-## Acts 9:32
+## 32
 As Peter traveled throughout the area, he went to visit the saints in Lydda.
-## Acts 9:33
+## 33
 There he found a man named Aeneas who had been paralyzed and bedridden for eight years.
-## Acts 9:34
+## 34
 “Aeneas,” Peter said to him, “Jesus Christ heals you! Get up and put away your mat.” Immediately Aeneas got up,
-## Acts 9:35
+## 35
 and all who lived in Lydda and Sharon saw him and turned to the Lord.
-## Acts 9:36
+## 36
 In Joppa there was a disciple named Tabitha (which is translated as Dorcas), who was always occupied with works of kindness and charity.
-## Acts 9:37
+## 37
 At that time, however, she became sick and died, and her body was washed and placed in an upper room.
-## Acts 9:38
+## 38
 Since Lydda was near Joppa, the disciples, hearing that Peter was there, sent two men to urge him, “Come to us without delay.”
-## Acts 9:39
+## 39
 So Peter got up and went with them. On his arrival, they took him to the upper room. All the widows stood around him, weeping and showing him the tunics and other clothing that Dorcas had made while she was still with them.
-## Acts 9:40
+## 40
 Then Peter sent them all out of the room. He knelt down and prayed, and turning toward her body, he said, “Tabitha, get up!” She opened her eyes, and seeing Peter, she sat up.
-## Acts 9:41
+## 41
 Peter took her by the hand and helped her up. Then he called the saints and widows and presented her to them alive.
-## Acts 9:42
+## 42
 This became known all over Joppa, and many people believed in the Lord.
-## Acts 9:43
+## 43
 And Peter stayed for several days in Joppa with a tanner named Simon.

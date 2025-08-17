@@ -1,121 +1,121 @@
 # Acts 7
-## Acts 7:1
+## 1
 Then the high priest asked Stephen, “Are these charges true?”
-## Acts 7:2
+## 2
 And Stephen declared: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran,
-## Acts 7:3
+## 3
 and told him, ‘Leave your country and your kindred and go to the land I will show you.’
-## Acts 7:4
+## 4
 So Abraham left the land of the Chaldeans and settled in Haran. After his father died, God brought him out of that place and into this land where you are now living.
-## Acts 7:5
+## 5
 He gave him no inheritance here, not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child.
-## Acts 7:6
+## 6
 God told him that his descendants would be foreigners in a strange land, and that they would be enslaved and mistreated four hundred years.
-## Acts 7:7
+## 7
 ‘But I will punish the nation that enslaves them,’ God said, ‘and afterward they will come forth and worship Me in this place.’
-## Acts 7:8
+## 8
 Then God gave Abraham the covenant of circumcision, and Abraham became the father of Isaac and circumcised him on the eighth day. And Isaac became the father of Jacob, and Jacob of the twelve patriarchs.
-## Acts 7:9
+## 9
 Because the patriarchs were jealous of Joseph, they sold him as a slave into Egypt. But God was with him
-## Acts 7:10
+## 10
 and rescued him from all his troubles. He granted Joseph favor and wisdom in the sight of Pharaoh king of Egypt, who appointed him ruler over Egypt and all his household.
-## Acts 7:11
+## 11
 Then famine and great suffering swept across Egypt and Canaan, and our fathers could not find food.
-## Acts 7:12
+## 12
 When Jacob heard that there was grain in Egypt, he sent our fathers on their first visit.
-## Acts 7:13
+## 13
 On their second visit, Joseph revealed his identity to his brothers, and his family became known to Pharaoh.
-## Acts 7:14
+## 14
 Then Joseph sent for his father Jacob and all his relatives, seventy-five in all.
-## Acts 7:15
+## 15
 So Jacob went down to Egypt, where he and our fathers died.
-## Acts 7:16
+## 16
 Their bones were carried back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a price he paid in silver.
-## Acts 7:17
+## 17
 As the time drew near for God to fulfill His promise to Abraham, our people in Egypt increased greatly in number.
-## Acts 7:18
+## 18
 Then another king, who knew nothing of Joseph, arose over Egypt.
-## Acts 7:19
+## 19
 He exploited our people and oppressed our fathers, forcing them to abandon their infants so they would die.
-## Acts 7:20
+## 20
 At that time Moses was born, and he was beautiful in the sight of God. For three months he was nurtured in his father’s house.
-## Acts 7:21
+## 21
 When he was set outside, Pharaoh’s daughter took him and brought him up as her own son.
-## Acts 7:22
+## 22
 So Moses was educated in all the wisdom of the Egyptians and was powerful in speech and action.
-## Acts 7:23
+## 23
 When Moses was forty years old, he decided to visit his brothers, the children of Israel.
-## Acts 7:24
+## 24
 And when he saw one of them being mistreated, Moses went to his defense and avenged him by striking down the Egyptian who was oppressing him.
-## Acts 7:25
+## 25
 He assumed his brothers would understand that God was using him to deliver them, but they did not.
-## Acts 7:26
+## 26
 The next day he came upon two Israelites who were fighting, and he tried to reconcile them, saying, ‘Men, you are brothers. Why are you mistreating each other?’
-## Acts 7:27
+## 27
 But the man who was abusing his neighbor pushed Moses aside and said, ‘Who made you ruler and judge over us?
-## Acts 7:28
+## 28
 Do you want to kill me as you killed the Egyptian yesterday?’
-## Acts 7:29
+## 29
 At this remark, Moses fled to the land of Midian, where he lived as a foreigner and had two sons.
-## Acts 7:30
+## 30
 After forty years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.
-## Acts 7:31
+## 31
 When Moses saw it, he marveled at the sight. As he approached to look more closely, the voice of the Lord came to him:
-## Acts 7:32
+## 32
 ‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look.
-## Acts 7:33
+## 33
 Then the Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground.
-## Acts 7:34
+## 34
 I have indeed seen the oppression of My people in Egypt. I have heard their groaning and have come down to deliver them. Now come, I will send you back to Egypt.’
-## Acts 7:35
+## 35
 This Moses, whom they had rejected with the words, ‘Who made you ruler and judge?’ is the one whom God sent to be their ruler and redeemer through the angel who appeared to him in the bush.
-## Acts 7:36
+## 36
 He led them out and performed wonders and signs in the land of Egypt, at the Red Sea, and for forty years in the wilderness.
-## Acts 7:37
+## 37
 This is the same Moses who told the Israelites, ‘God will raise up for you a prophet like me from among your brothers.’
-## Acts 7:38
+## 38
 He was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers. And he received living words to pass on to us.
-## Acts 7:39
+## 39
 But our fathers refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt.
-## Acts 7:40
+## 40
 They said to Aaron, ‘Make us gods who will go before us! As for this Moses who led us out of the land of Egypt, we do not know what has happened to him.’
-## Acts 7:41
+## 41
 At that time they made a calf and offered a sacrifice to the idol, rejoicing in the works of their hands.
-## Acts 7:42
+## 42
 But God turned away from them and gave them over to the worship of the host of heaven, as it is written in the book of the prophets: ‘Did you bring Me sacrifices and offerings forty years in the wilderness, O house of Israel?
-## Acts 7:43
+## 43
 You have taken along the tabernacle of Molech and the star of your god Rephan, the idols you made to worship. Therefore I will send you into exile beyond Babylon.’
-## Acts 7:44
+## 44
 Our fathers had the tabernacle of the Testimony with them in the wilderness. It was constructed exactly as God had directed Moses, according to the pattern he had seen.
-## Acts 7:45
+## 45
 And our fathers who received it brought it in with Joshua when they dispossessed the nations God drove out before them. It remained until the time of David,
-## Acts 7:46
+## 46
 who found favor in the sight of God and asked to provide a dwelling place for the God of Jacob.
-## Acts 7:47
+## 47
 But it was Solomon who built the house for Him.
-## Acts 7:48
+## 48
 However, the Most High does not dwell in houses made by human hands. As the prophet says:
-## Acts 7:49
+## 49
 ‘Heaven is My throne and the earth is My footstool. What kind of house will you build for Me, says the Lord, or where will My place of repose be?
-## Acts 7:50
+## 50
 Has not My hand made all these things?’
-## Acts 7:51
+## 51
 You stiff-necked people with uncircumcised hearts and ears! You always resist the Holy Spirit, just as your fathers did.
-## Acts 7:52
+## 52
 Which of the prophets did your fathers fail to persecute? They even killed those who foretold the coming of the Righteous One. And now you are His betrayers and murderers—
-## Acts 7:53
+## 53
 you who received the law ordained by angels, yet have not kept it.”
-## Acts 7:54
+## 54
 On hearing this, the members of the Sanhedrin were enraged, and they gnashed their teeth at him.
-## Acts 7:55
+## 55
 But Stephen, full of the Holy Spirit, looked intently into heaven and saw the glory of God and Jesus standing at the right hand of God.
-## Acts 7:56
+## 56
 “Look,” he said, “I see heaven open and the Son of Man standing at the right hand of God.”
-## Acts 7:57
+## 57
 At this they covered their ears, cried out in a loud voice, and rushed together at him.
-## Acts 7:58
+## 58
 They dragged him out of the city and began to stone him. Meanwhile the witnesses laid their garments at the feet of a young man named Saul.
-## Acts 7:59
+## 59
 While they were stoning him, Stephen appealed, “Lord Jesus, receive my spirit.”
-## Acts 7:60
+## 60
 Falling on his knees, he cried out in a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep.

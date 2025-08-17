@@ -1,53 +1,53 @@
 # Galatians 5
-## Galatians 5:1
+## 1
 It is for freedom that Christ has set us free. Stand firm, then, and do not be encumbered once more by a yoke of slavery.
-## Galatians 5:2
+## 2
 Take notice: I, Paul, tell you that if you let yourselves be circumcised, Christ will be of no value to you at all.
-## Galatians 5:3
+## 3
 Again I testify to every man who gets himself circumcised that he is obligated to obey the whole law.
-## Galatians 5:4
+## 4
 You who are trying to be justified by the law have been severed from Christ; you have fallen away from grace.
-## Galatians 5:5
+## 5
 But by faith we eagerly await through the Spirit the hope of righteousness.
-## Galatians 5:6
+## 6
 For in Christ Jesus neither circumcision nor uncircumcision has any value. What matters is faith expressing itself through love.
-## Galatians 5:7
+## 7
 You were running so well. Who has obstructed you from obeying the truth?
-## Galatians 5:8
+## 8
 Such persuasion does not come from the One who calls you.
-## Galatians 5:9
+## 9
 A little leaven works through the whole batch of dough.
-## Galatians 5:10
+## 10
 I am confident in the Lord that you will take no other view. The one who is troubling you will bear the judgment, whoever he may be.
-## Galatians 5:11
+## 11
 Now, brothers, if I am still preaching circumcision, why am I still being persecuted? In that case the offense of the cross has been abolished.
-## Galatians 5:12
+## 12
 As for those who are agitating you, I wish they would proceed to emasculate themselves!
-## Galatians 5:13
+## 13
 For you, brothers, were called to freedom; but do not use your freedom as an opportunity for the flesh. Rather, serve one another in love.
-## Galatians 5:14
+## 14
 The entire law is fulfilled in a single decree: “Love your neighbor as yourself.”
-## Galatians 5:15
+## 15
 But if you keep on biting and devouring one another, watch out, or you will be consumed by one another.
-## Galatians 5:16
+## 16
 So I say, walk by the Spirit, and you will not gratify the desires of the flesh.
-## Galatians 5:17
+## 17
 For the flesh craves what is contrary to the Spirit, and the Spirit what is contrary to the flesh. They are opposed to each other, so that you do not do what you want.
-## Galatians 5:18
+## 18
 But if you are led by the Spirit, you are not under the law.
-## Galatians 5:19
+## 19
 The acts of the flesh are obvious: sexual immorality, impurity, and debauchery;
-## Galatians 5:20
+## 20
 idolatry and sorcery; hatred, discord, jealousy, and rage; rivalries, divisions, factions,
-## Galatians 5:21
+## 21
 and envy; drunkenness, orgies, and the like. I warn you, as I did before, that those who practice such things will not inherit the kingdom of God.
-## Galatians 5:22
+## 22
 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
-## Galatians 5:23
+## 23
 gentleness, and self-control. Against such things there is no law.
-## Galatians 5:24
+## 24
 Those who belong to Christ Jesus have crucified the flesh with its passions and desires.
-## Galatians 5:25
+## 25
 Since we live by the Spirit, let us walk in step with the Spirit.
-## Galatians 5:26
+## 26
 Let us not become conceited, provoking and envying one another.

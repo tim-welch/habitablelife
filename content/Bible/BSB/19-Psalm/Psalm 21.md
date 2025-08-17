@@ -1,27 +1,27 @@
 # Psalm 21
-## Psalm 21:1
+## 1
 For the choirmaster. A Psalm of David. O LORD, the king rejoices in Your strength. How greatly he exults in Your salvation!
-## Psalm 21:2
+## 2
 You have granted his heart’s desire and have not withheld the request of his lips. Selah
-## Psalm 21:3
+## 3
 For You welcomed him with rich blessings; You placed on his head a crown of pure gold.
-## Psalm 21:4
+## 4
 He asked You for life, and You granted it—length of days, forever and ever.
-## Psalm 21:5
+## 5
 Great is his glory in Your salvation; You bestow on him splendor and majesty.
-## Psalm 21:6
+## 6
 For You grant him blessings forever; You cheer him with joy in Your presence.
-## Psalm 21:7
+## 7
 For the king trusts in the LORD; through the loving devotion of the Most High, he will not be shaken.
-## Psalm 21:8
+## 8
 Your hand will apprehend all Your enemies; Your right hand will seize those who hate You.
-## Psalm 21:9
+## 9
 You will place them in a fiery furnace at the time of Your appearing. In His wrath the LORD will engulf them, and the fire will consume them.
-## Psalm 21:10
+## 10
 You will wipe their descendants from the earth, and their offspring from the sons of men.
-## Psalm 21:11
+## 11
 Though they intend You harm, the schemes they devise will not prevail.
-## Psalm 21:12
+## 12
 For You will put them to flight when Your bow is trained upon them.
-## Psalm 21:13
+## 13
 Be exalted, O LORD, in Your strength; we will sing and praise Your power.

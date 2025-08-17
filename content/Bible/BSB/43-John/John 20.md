@@ -1,63 +1,63 @@
 # John 20
-## John 20:1
+## 1
 Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance.
-## John 20:2
+## 2
 So she came running to Simon Peter and the other disciple, the one whom Jesus loved. “They have taken the Lord out of the tomb,” she said, “and we do not know where they have put Him!”
-## John 20:3
+## 3
 Then Peter and the other disciple set out for the tomb.
-## John 20:4
+## 4
 The two were running together, but the other disciple outran Peter and reached the tomb first.
-## John 20:5
+## 5
 He bent down and looked in at the linen cloths lying there, but he did not go in.
-## John 20:6
+## 6
 Simon Peter arrived just after him. He entered the tomb and saw the linen cloths lying there.
-## John 20:7
+## 7
 The cloth that had been around Jesus’ head was rolled up, lying separate from the linen cloths.
-## John 20:8
+## 8
 Then the other disciple, who had reached the tomb first, also went in. And he saw and believed.
-## John 20:9
+## 9
 For they still did not understand from the Scripture that Jesus had to rise from the dead.
-## John 20:10
+## 10
 Then the disciples returned to their homes.
-## John 20:11
+## 11
 But Mary stood outside the tomb weeping. And as she wept, she bent down to look into the tomb,
-## John 20:12
+## 12
 and she saw two angels in white sitting where the body of Jesus had lain, one at the head and the other at the feet.
-## John 20:13
+## 13
 “Woman, why are you weeping?” they asked. “Because they have taken my Lord away,” she said, “and I do not know where they have put Him.”
-## John 20:14
+## 14
 When she had said this, she turned around and saw Jesus standing there. But she did not recognize that it was Jesus.
-## John 20:15
+## 15
 “Woman, why are you weeping?” Jesus asked. “Whom are you seeking?” Thinking He was the gardener, she said, “Sir, if you have carried Him off, tell me where you have put Him, and I will get Him.”
-## John 20:16
+## 16
 Jesus said to her, “Mary.” She turned and said to Him in Hebrew, “Rabboni!” (which means “Teacher”).
-## John 20:17
+## 17
 “Do not cling to Me,” Jesus said, “for I have not yet ascended to the Father. But go and tell My brothers, ‘I am ascending to My Father and your Father, to My God and your God.’”
-## John 20:18
+## 18
 Mary Magdalene went and announced to the disciples, “I have seen the Lord!” And she told them what He had said to her.
-## John 20:19
+## 19
 It was the first day of the week, and that very evening, while the disciples were together with the doors locked for fear of the Jews, Jesus came and stood among them. “Peace be with you!” He said to them.
-## John 20:20
+## 20
 After He had said this, He showed them His hands and His side. The disciples rejoiced when they saw the Lord.
-## John 20:21
+## 21
 Again Jesus said to them, “Peace be with you. As the Father has sent Me, so also I am sending you.”
-## John 20:22
+## 22
 When He had said this, He breathed on them and said, “Receive the Holy Spirit.
-## John 20:23
+## 23
 If you forgive anyone his sins, they are forgiven; if you withhold forgiveness from anyone, it is withheld.”
-## John 20:24
+## 24
 Now Thomas called Didymus, one of the Twelve, was not with the disciples when Jesus came.
-## John 20:25
+## 25
 So the other disciples told him, “We have seen the Lord!” But he replied, “Unless I see the nail marks in His hands, and put my finger where the nails have been, and put my hand into His side, I will never believe.”
-## John 20:26
+## 26
 Eight days later, His disciples were once again inside with the doors locked, and Thomas was with them. Jesus came and stood among them and said, “Peace be with you.”
-## John 20:27
+## 27
 Then Jesus said to Thomas, “Put your finger here and look at My hands. Reach out your hand and put it into My side. Stop doubting and believe.”
-## John 20:28
+## 28
 Thomas replied, “My Lord and my God!”
-## John 20:29
+## 29
 Jesus said to him, “Because you have seen Me, you have believed; blessed are those who have not seen and yet have believed.”
-## John 20:30
+## 30
 Jesus performed many other signs in the presence of His disciples, which are not written in this book.
-## John 20:31
+## 31
 But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in His name.

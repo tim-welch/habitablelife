@@ -1,29 +1,29 @@
 # Amos 8
-## Amos 8:1
+## 1
 This is what the Lord GOD showed me: I saw a basket of summer fruit.
-## Amos 8:2
+## 2
 “Amos, what do you see?” He asked. “A basket of summer fruit,” I replied. So the LORD said to me, “The end has come for My people Israel; I will no longer spare them.”
-## Amos 8:3
+## 3
 “In that day,” declares the Lord GOD, “the songs of the temple will turn to wailing. Many will be the corpses, strewn in silence everywhere!”
-## Amos 8:4
+## 4
 Hear this, you who trample the needy, who do away with the poor of the land,
-## Amos 8:5
+## 5
 asking, “When will the New Moon be over, that we may sell grain? When will the Sabbath end, that we may market wheat? Let us reduce the ephah and increase the shekel; let us cheat with dishonest scales.
-## Amos 8:6
+## 6
 Let us buy the poor with silver and the needy for a pair of sandals, selling even the chaff with the wheat!”
-## Amos 8:7
+## 7
 The LORD has sworn by the Pride of Jacob: “I will never forget any of their deeds.
-## Amos 8:8
+## 8
 Will not the land quake for this, and all its dwellers mourn? All of it will swell like the Nile; it will surge and then subside like the Nile in Egypt.
-## Amos 8:9
+## 9
 And in that day, declares the Lord GOD, I will make the sun go down at noon, and I will darken the earth in the daytime.
-## Amos 8:10
+## 10
 I will turn your feasts into mourning and all your songs into lamentation. I will cause everyone to wear sackcloth and every head to be shaved. I will make it like a time of mourning for an only son, and its outcome like a bitter day.
-## Amos 8:11
+## 11
 Behold, the days are coming, declares the Lord GOD, when I will send a famine on the land—not a famine of bread or a thirst for water, but a famine of hearing the words of the LORD.
-## Amos 8:12
+## 12
 People will stagger from sea to sea and roam from north to east, seeking the word of the LORD, but they will not find it.
-## Amos 8:13
+## 13
 In that day the lovely young women—the young men as well—will faint from thirst.
-## Amos 8:14
+## 14
 Those who swear by the guilt of Samaria and say, ‘As surely as your god lives, O Dan,’ or, ‘As surely as the way of Beersheba lives’—they will fall, never to rise again.”

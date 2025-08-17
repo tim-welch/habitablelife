@@ -1,67 +1,67 @@
 # Isaiah 30
-## Isaiah 30:1
+## 1
 “Woe to the rebellious children,” declares the LORD, “to those who carry out a plan that is not Mine, who form an alliance, but against My will, heaping up sin upon sin.
-## Isaiah 30:2
+## 2
 They set out to go down to Egypt without asking My advice, to seek shelter under Pharaoh’s protection and take refuge in Egypt’s shade.
-## Isaiah 30:3
+## 3
 But Pharaoh’s protection will become your shame, and the refuge of Egypt’s shade your disgrace.
-## Isaiah 30:4
+## 4
 For though their princes are at Zoan and their envoys have arrived in Hanes,
-## Isaiah 30:5
+## 5
 everyone will be put to shame because of a people useless to them. They bring neither help nor benefit, but only shame and disgrace.”
-## Isaiah 30:6
+## 6
 This is the burden against the beasts of the Negev: Through a land of hardship and distress, of lioness and lion, of viper and flying serpent, they carry their wealth on the backs of donkeys and their treasures on the humps of camels, to a people of no profit to them.
-## Isaiah 30:7
+## 7
 Egypt’s help is futile and empty; therefore I have called her Rahab Who Sits Still.
-## Isaiah 30:8
+## 8
 Go now, write it on a tablet in their presence and inscribe it on a scroll; it will be for the days to come, a witness forever and ever.
-## Isaiah 30:9
+## 9
 These are rebellious people, deceitful children, children unwilling to obey the LORD’s instruction.
-## Isaiah 30:10
+## 10
 They say to the seers, “Stop seeing visions!” and to the prophets, “Do not prophesy to us the truth! Speak to us pleasant words; prophesy illusions.
-## Isaiah 30:11
+## 11
 Get out of the way; turn off the road. Rid us of the Holy One of Israel!”
-## Isaiah 30:12
+## 12
 Therefore this is what the Holy One of Israel says: “Because you have rejected this message, trusting in oppression and relying on deceit,
-## Isaiah 30:13
+## 13
 this iniquity of yours is like a breach about to fail, a bulge in a high wall, whose collapse will come suddenly—in an instant!
-## Isaiah 30:14
+## 14
 It will break in pieces like a potter’s jar, shattered so that no fragment can be found. Not a shard will be found in the dust large enough to scoop the coals from a hearth or to skim the water from a cistern.”
-## Isaiah 30:15
+## 15
 For the Lord GOD, the Holy One of Israel, has said: “By repentance and rest you would be saved; your strength would lie in quiet confidence—but you were not willing.”
-## Isaiah 30:16
+## 16
 “No,” you say, “we will flee on horses.” Therefore you will flee! “We will ride swift horses,” but your pursuers will be faster.
-## Isaiah 30:17
+## 17
 A thousand will flee at the threat of one; at the threat of five you will all flee, until you are left alone like a pole on a mountaintop, like a banner on a hill.
-## Isaiah 30:18
+## 18
 Therefore the LORD longs to be gracious to you; therefore He rises to show you compassion, for the LORD is a just God. Blessed are all who wait for Him.
-## Isaiah 30:19
+## 19
 O people in Zion who dwell in Jerusalem, you will weep no more. He will surely be gracious when you cry for help; when He hears, He will answer you.
-## Isaiah 30:20
+## 20
 The Lord will give you the bread of adversity and the water of affliction, but your Teacher will no longer hide Himself—with your own eyes you will see Him.
-## Isaiah 30:21
+## 21
 And whether you turn to the right or to the left, your ears will hear this command behind you: “This is the way. Walk in it.”
-## Isaiah 30:22
+## 22
 So you will desecrate your silver-plated idols and your gold-plated images. You will throw them away like menstrual cloths, saying to them, “Be gone!”
-## Isaiah 30:23
+## 23
 Then He will send rain for the seed that you have sown in the ground, and the food that comes from your land will be rich and plentiful. On that day your cattle will graze in open pastures.
-## Isaiah 30:24
+## 24
 The oxen and donkeys that work the ground will eat salted fodder, winnowed with shovel and pitchfork.
-## Isaiah 30:25
+## 25
 And from every high mountain and every raised hill, streams of water will flow in the day of great slaughter, when the towers fall.
-## Isaiah 30:26
+## 26
 The light of the moon will be as bright as the sun, and the light of the sun will be seven times brighter—like the light of seven days—on the day that the LORD binds up the brokenness of His people and heals the wounds He has inflicted.
-## Isaiah 30:27
+## 27
 Behold, the Name of the LORD comes from afar, with burning anger and dense smoke. His lips are full of fury, and His tongue is like a consuming fire.
-## Isaiah 30:28
+## 28
 His breath is like a rushing torrent that rises to the neck. He comes to sift the nations in a sieve of destruction; He bridles the jaws of the peoples to lead them astray.
-## Isaiah 30:29
+## 29
 You will sing as on the night of a holy festival, and your heart will rejoice like one who walks to the music of a flute, going up to the mountain of the LORD, to the Rock of Israel.
-## Isaiah 30:30
+## 30
 And the LORD will cause His majestic voice to be heard and His mighty arm to be revealed, striking in angry wrath with a flame of consuming fire, and with cloudburst, storm, and hailstones.
-## Isaiah 30:31
+## 31
 For Assyria will be shattered at the voice of the LORD; He will strike them with His scepter.
-## Isaiah 30:32
+## 32
 And with every stroke of the rod of punishment that the LORD brings down on them, the tambourines and lyres will sound as He battles with weapons brandished.
-## Isaiah 30:33
+## 33
 For Topheth has long been prepared; it has been made ready for the king. Its funeral pyre is deep and wide, with plenty of fire and wood. The breath of the LORD, like a torrent of burning sulfur, sets it ablaze.

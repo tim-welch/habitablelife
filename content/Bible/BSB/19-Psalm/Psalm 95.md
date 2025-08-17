@@ -1,23 +1,23 @@
 # Psalm 95
-## Psalm 95:1
+## 1
 Come, let us sing for joy to the LORD; let us shout to the Rock of our salvation!
-## Psalm 95:2
+## 2
 Let us enter His presence with thanksgiving; let us make a joyful noise to Him in song.
-## Psalm 95:3
+## 3
 For the LORD is a great God, a great King above all gods.
-## Psalm 95:4
+## 4
 In His hand are the depths of the earth, and the mountain peaks belong to Him.
-## Psalm 95:5
+## 5
 The sea is His, for He made it, and His hands formed the dry land.
-## Psalm 95:6
+## 6
 O come, let us worship and bow down; let us kneel before the LORD our Maker.
-## Psalm 95:7
+## 7
 For He is our God, and we are the people of His pasture, the sheep under His care. Today, if you hear His voice,
-## Psalm 95:8
+## 8
 do not harden your hearts as you did at Meribah, in the day at Massah in the wilderness,
-## Psalm 95:9
+## 9
 where your fathers tested and tried Me, though they had seen My work.
-## Psalm 95:10
+## 10
 For forty years I was angry with that generation, and I said, “They are a people whose hearts go astray, and they have not known My ways.”
-## Psalm 95:11
+## 11
 So I swore on oath in My anger, “They shall never enter My rest.”

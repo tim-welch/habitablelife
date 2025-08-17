@@ -22,28 +22,7 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [
-    {
-      "filepath": "content/notes/Semi-private miracle Glory revealed selectively.md",
-      "timestamp": 1755375434252
-    },
-    {
-      "filepath": "content/notes/Running out of wine would shame the family.md",
-      "timestamp": 1755375431162
-    },
-    {
-      "filepath": "content/notes/Observations vs. Interpretations.md",
-      "timestamp": 1755375426514
-    },
-    {
-      "filepath": "content/notes/Observation Notes at Verse Level.md",
-      "timestamp": 1755375417530
-    },
-    {
-      "filepath": "content/notes/Nazareth is Close to Cana.md",
-      "timestamp": 1755375405135
-    }
-  ],
+  "recentFilesStore": [],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
