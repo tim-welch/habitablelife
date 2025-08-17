@@ -21,7 +21,7 @@
   "propertiesInDocument": "visible",
   "tabSize": 4,
   "showUnsupportedFiles": true,
-  "vimMode": false,
+  "vimMode": true,
   "useMarkdownLinks": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
