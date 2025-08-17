@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "970ca13a239f3cdb",
+        "id": "c3500d3b990d7d9b",
         "type": "tabs",
         "children": [
           {
-            "id": "548f0ed266831ed3",
+            "id": "4166e9cfe2730b28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Jesus Reveals His Glory"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -89,12 +85,11 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 274.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -103,6 +98,7 @@
       {
         "id": "50b30d8f2e028c08",
         "type": "tabs",
+        "dimension": 28.875968992248062,
         "children": [
           {
             "id": "984877c526627847",
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Observation Notes at Verse Level.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Observation Notes at Verse Level"
+              "title": "Outline"
             }
           },
           {
@@ -181,6 +176,7 @@
       {
         "id": "2994308917696632",
         "type": "tabs",
+        "dimension": 71.12403100775194,
         "children": [
           {
             "id": "2904b573fa0fde77",
@@ -188,7 +184,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notes/Observation Notes at Verse Level.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,20 +206,19 @@
                   "repelStrength": 15.4166666666667,
                   "linkStrength": 1,
                   "linkDistance": 206,
-                  "scale": 0.7132754626224422,
+                  "scale": 0.5087618855792588,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Observation Notes at Verse Level"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 315.5,
-    "collapsed": true
+    "width": 514.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,8 +251,11 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "548f0ed266831ed3",
+  "active": "dbbc13162e881098",
   "lastOpenFiles": [
+    "content/Literature Notes/John/The Wedding at Cana/The Wedding at Cana.md",
+    "content/Bible/BSB/43-John/John 2.md",
+    "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/Writing-is-Thinking-og-image.webp",
     "public/notes/Writing-is-Iterative-og-image.webp",
@@ -269,7 +266,6 @@
     "public/notes/Running-out-of-wine-would-shame-the-family-og-image.webp",
     "public/notes/Observations-vs.-Interpretations-og-image.webp",
     "public/notes/Observation-Notes-at-Verse-Level-og-image.webp",
-    "public/notes/Nazareth-is-Close-to-Cana-og-image.webp",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study.html",
     "public/notes/What-an-Atomic-Note-Is.html",
     "public/notes/Writing-is-Thinking.html",
@@ -280,10 +276,8 @@
     "public/notes/Everything-Iterates.html",
     "public/notes/Running-out-of-wine-would-shame-the-family.html",
     "public/notes/Observations-vs.-Interpretations.html",
-    "content/Literature Notes/John/The Wedding at Cana/The Wedding at Cana.md",
     "content/MOC/The Gospel of John.md",
     "content/Literature Notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md",
-    "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
     "content/notes/Semi-private miracle Glory revealed selectively.md",
     "content/notes/Mapping Inductive Study to Zettelkasten.md",
     "broken links output.md",

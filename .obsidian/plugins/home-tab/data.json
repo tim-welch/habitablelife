@@ -22,7 +22,16 @@
   "showShortcuts": true,
   "markdownOnly": false,
   "unresolvedLinks": false,
-  "recentFilesStore": [],
+  "recentFilesStore": [
+    {
+      "filepath": "content/Literature Notes/John/The Wedding at Cana/The Wedding at Cana.md",
+      "timestamp": 1755434976667
+    },
+    {
+      "filepath": "content/Bible/BSB/43-John/John 2.md",
+      "timestamp": 1755434922086
+    }
+  ],
   "bookmarkedFileStore": [],
   "searchDelay": 0,
   "replaceNewTabs": true,
