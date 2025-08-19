@@ -1,0 +1,9 @@
+---
+tags:
+  - type/atomic
+---
+
+
+## Connections
+
+- 

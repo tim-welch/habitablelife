@@ -49,6 +49,10 @@
     {
       "folder": "content/Literature Notes",
       "template": "Templates/literature note template.md"
+    },
+    {
+      "folder": "content/notes",
+      "template": "Templates/atomic note template.md"
     }
   ],
   "enable_file_templates": false,

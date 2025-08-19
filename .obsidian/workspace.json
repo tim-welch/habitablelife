@@ -13,12 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/MOC/Ahrens on Smart Notes.md",
+                "file": "content/notes/How John talks about belief.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Ahrens on Smart Notes"
+              "title": "How John talks about belief"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a4eb1e1c89f71d99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76e6659b8d0bf0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Bible/BSB/43-John/John 3.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "John 3"
             }
           }
         ]
@@ -53,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#John 2",
+                "query": "path:\"content/Bible/BSB/43-John/\" believe",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,11 +109,12 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 511.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -110,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/MOC/Ahrens on Smart Notes.md",
+                "file": "content/notes/How John talks about belief.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +141,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ahrens on Smart Notes"
+              "title": "Backlinks for How John talks about belief"
             }
           },
           {
@@ -189,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/MOC/Ahrens on Smart Notes.md",
+                "file": "content/notes/How John talks about belief.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +238,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ahrens on Smart Notes"
+              "title": "Graph of How John talks about belief"
             }
           }
         ]
@@ -260,11 +281,21 @@
   },
   "active": "7e3b4d42d2b3e95d",
   "lastOpenFiles": [
+    "content/Bible/BSB/43-John/John 3.md",
+    "content/Bible/BSB/43-John/John 2.md",
+    "content/notes/How John talks about belief.md",
+    "content/Bible/BSB/43-John/John 1.md",
+    "Templates/atomic note template.md",
     "content/MOC/Zettelkasten.md",
+    "content/notes/First sign reveals Jesus' glory; disciples believe.md",
+    "content/notes/The Wedding at Cana.md",
     "content/MOC/The Gospel of John.md",
-    "content/MOC/Signs in John.md",
+    "content/notes/Signs in John.md",
+    "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
+    "content/Literature Notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md",
+    "drafts/next/Hour in John 2_14.md",
+    "content/notes/Ahrens on Smart Notes.md",
     "content/MOC/Inductive Bible Study Method.md",
-    "content/MOC/Ahrens on Smart Notes.md",
     "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
     "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
     "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md",
@@ -276,14 +307,8 @@
     "content/Literature Notes/How to Take Smart Notes",
     "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
     "content/articles/Understanding presuppositions in Bible study.md",
-    "content/Literature Notes/John/The Wedding at Cana/The Wedding at Cana.md",
     "content/sources",
-    "content/Literature Notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md",
-    "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
     "TODO.md",
-    "content/notes/Semi-private miracle Glory revealed selectively.md",
-    "content/notes/First sign reveals Jesus' glory; disciples believe.md",
-    "content/Bible/BSB/43-John/John 2.md",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/Writing-is-Thinking-og-image.webp",
     "public/notes/Writing-is-Iterative-og-image.webp",
@@ -301,10 +326,6 @@
     "public/notes/Verse-Headings-Inside-Chapters.html",
     "public/notes/Signs-in-the-Gospel-of-John-Lead-to-Faith.html",
     "public/notes/Semi-private-miracle-Glory-revealed-selectively.html",
-    "public/notes/Everything-Iterates.html",
-    "content/notes/Mapping Inductive Study to Zettelkasten.md",
-    "broken links output.md",
-    "content/notes/Running out of wine would shame the family.md",
-    "content/notes/Observations vs. Interpretations.md"
+    "public/notes/Everything-Iterates.html"
   ]
 }

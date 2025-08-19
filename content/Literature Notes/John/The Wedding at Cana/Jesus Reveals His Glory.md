@@ -7,5 +7,5 @@ In the last verse of this passage John states, "He thus revealed His glory, and 
 
 ## Connections
 - [[Jesus' First Sign was Turning Water to Wine]]
-- [[Signs in John]]
+- [[The Wedding at Cana]]
 - [[John 2#11|John 2:11]]

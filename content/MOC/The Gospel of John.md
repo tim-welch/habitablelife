@@ -26,7 +26,6 @@ This MOC tracks the structure, themes, and signs in John’s Gospel to support s
 ###  The Wedding at Cana
 - [[John 2#1|John 2:1–11]]
 - [[The Wedding at Cana]]
-- [[Signs in John]]
 
 
 ### Zeal for My Father’s House (2:12–2:25)
