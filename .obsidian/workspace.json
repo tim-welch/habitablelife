@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
+                "file": "content/MOC/Ahrens on Smart Notes.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Networked note taking"
+              "title": "Ahrens on Smart Notes"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
+                "file": "content/MOC/Ahrens on Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Networked note taking"
+              "title": "Backlinks for Ahrens on Smart Notes"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
+                "file": "content/MOC/Ahrens on Smart Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,7 +217,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Networked note taking"
+              "title": "Graph of Ahrens on Smart Notes"
             }
           }
         ]
@@ -260,20 +260,21 @@
   },
   "active": "7e3b4d42d2b3e95d",
   "lastOpenFiles": [
+    "content/MOC/Zettelkasten.md",
+    "content/MOC/The Gospel of John.md",
+    "content/MOC/Signs in John.md",
+    "content/MOC/Inductive Bible Study Method.md",
+    "content/MOC/Ahrens on Smart Notes.md",
+    "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
     "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
     "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md",
     "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md",
     "content/Literature Notes/How to Take Smart Notes/What an Atomic Note Is.md",
-    "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
     "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md",
     "Templates/literature note template.md",
     "content/sources/How to Take Smart Notes.md",
     "content/Literature Notes/How to Take Smart Notes",
-    "content/MOC/Zettelkasten.md",
-    "content/MOC/The Gospel of John.md",
     "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
-    "content/MOC/Signs in John.md",
-    "content/MOC/Inductive Bible Study Method.md",
     "content/articles/Understanding presuppositions in Bible study.md",
     "content/Literature Notes/John/The Wedding at Cana/The Wedding at Cana.md",
     "content/sources",
@@ -304,7 +305,6 @@
     "content/notes/Mapping Inductive Study to Zettelkasten.md",
     "broken links output.md",
     "content/notes/Running out of wine would shame the family.md",
-    "content/notes/Observations vs. Interpretations.md",
-    "content/notes/Observation Notes at Verse Level.md"
+    "content/notes/Observations vs. Interpretations.md"
   ]
 }

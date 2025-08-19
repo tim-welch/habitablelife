@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Ahrens on Smart Notes",
+      "path": "content/MOC/Ahrens on Smart Notes.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "content/MOC/Zettelkasten.md"
+    },
+    {
+      "basename": "The Gospel of John",
+      "path": "content/MOC/The Gospel of John.md"
+    },
+    {
+      "basename": "Signs in John",
+      "path": "content/MOC/Signs in John.md"
+    },
+    {
+      "basename": "Inductive Bible Study Method",
+      "path": "content/MOC/Inductive Bible Study Method.md"
+    },
+    {
       "basename": "Networked note taking",
       "path": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md"
     },
@@ -33,24 +53,8 @@
       "path": "content/sources/How to Take Smart Notes.md"
     },
     {
-      "basename": "Zettelkasten",
-      "path": "content/MOC/Zettelkasten.md"
-    },
-    {
-      "basename": "The Gospel of John",
-      "path": "content/MOC/The Gospel of John.md"
-    },
-    {
       "basename": "🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality",
       "path": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md"
-    },
-    {
-      "basename": "Signs in John",
-      "path": "content/MOC/Signs in John.md"
-    },
-    {
-      "basename": "Inductive Bible Study Method",
-      "path": "content/MOC/Inductive Bible Study Method.md"
     },
     {
       "basename": "Understanding presuppositions in Bible study",
@@ -195,10 +199,6 @@
     {
       "basename": "Why Did John Write This Gospel",
       "path": "content/articles/Why Did John Write This Gospel.md"
-    },
-    {
-      "basename": "Who Wrote the Gospel of John, and Why Does It Matter",
-      "path": "content/articles/Who Wrote the Gospel of John, and Why Does It Matter.md"
     }
   ],
   "omittedPaths": [
