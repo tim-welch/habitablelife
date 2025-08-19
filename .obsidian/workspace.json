@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Writing is Thinking"
+              "title": "Networked note taking"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Writing is Thinking"
+              "title": "Backlinks for Networked note taking"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,14 +217,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Writing is Thinking"
+              "title": "Graph of Networked note taking"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,14 +258,16 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "2904b573fa0fde77",
+  "active": "7e3b4d42d2b3e95d",
   "lastOpenFiles": [
-    "content/sources/How to Take Smart Notes.md",
-    "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md",
-    "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md",
     "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
-    "content/Literature Notes/How to Take Smart Notes/What an Atomic Note Is.md",
     "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md",
+    "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md",
+    "content/Literature Notes/How to Take Smart Notes/What an Atomic Note Is.md",
+    "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
+    "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md",
+    "Templates/literature note template.md",
+    "content/sources/How to Take Smart Notes.md",
     "content/Literature Notes/How to Take Smart Notes",
     "content/MOC/Zettelkasten.md",
     "content/MOC/The Gospel of John.md",
@@ -302,8 +305,6 @@
     "broken links output.md",
     "content/notes/Running out of wine would shame the family.md",
     "content/notes/Observations vs. Interpretations.md",
-    "content/notes/Observation Notes at Verse Level.md",
-    "content/notes/Nazareth is Close to Cana.md",
-    "content/notes/Mary's faith precedes public ministry.md"
+    "content/notes/Observation Notes at Verse Level.md"
   ]
 }

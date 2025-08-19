@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Networked note taking",
+      "path": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md"
+    },
+    {
       "basename": "Writing is Thinking",
       "path": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md"
     },
     {
-      "basename": "How to Take Smart Notes",
-      "path": "content/sources/How to Take Smart Notes.md"
-    },
-    {
-      "basename": "How Connecting Notes Generates Insight",
-      "path": "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md"
+      "basename": "Atomic Notes Are Not Arguments",
+      "path": "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md"
     },
     {
       "basename": "Writing is Iterative",
@@ -21,8 +21,16 @@
       "path": "content/Literature Notes/How to Take Smart Notes/What an Atomic Note Is.md"
     },
     {
-      "basename": "Atomic Notes Are Not Arguments",
-      "path": "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md"
+      "basename": "How Connecting Notes Generates Insight",
+      "path": "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md"
+    },
+    {
+      "basename": "literature note template",
+      "path": "Templates/literature note template.md"
+    },
+    {
+      "basename": "How to Take Smart Notes",
+      "path": "content/sources/How to Take Smart Notes.md"
     },
     {
       "basename": "Zettelkasten",
@@ -191,14 +199,6 @@
     {
       "basename": "Who Wrote the Gospel of John, and Why Does It Matter",
       "path": "content/articles/Who Wrote the Gospel of John, and Why Does It Matter.md"
-    },
-    {
-      "basename": "Observe what this passage says",
-      "path": "content/articles/Observe what this passage says.md"
-    },
-    {
-      "basename": "index",
-      "path": "content/index.md"
     }
   ],
   "omittedPaths": [

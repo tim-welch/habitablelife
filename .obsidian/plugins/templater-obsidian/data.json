@@ -45,6 +45,10 @@
     {
       "folder": "Journal/Yearly",
       "template": "Templates/Yearly Template.md"
+    },
+    {
+      "folder": "content/Literature Notes",
+      "template": "Templates/literature note template.md"
     }
   ],
   "enable_file_templates": false,
