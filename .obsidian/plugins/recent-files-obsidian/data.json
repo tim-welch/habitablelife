@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Writing is Iterative",
-      "path": "content/notes/Writing is Iterative.md"
-    },
-    {
       "basename": "Writing is Thinking",
-      "path": "content/notes/Writing is Thinking.md"
+      "path": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md"
     },
     {
       "basename": "How to Take Smart Notes",
       "path": "content/sources/How to Take Smart Notes.md"
+    },
+    {
+      "basename": "How Connecting Notes Generates Insight",
+      "path": "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md"
+    },
+    {
+      "basename": "Writing is Iterative",
+      "path": "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md"
+    },
+    {
+      "basename": "What an Atomic Note Is",
+      "path": "content/Literature Notes/How to Take Smart Notes/What an Atomic Note Is.md"
+    },
+    {
+      "basename": "Atomic Notes Are Not Arguments",
+      "path": "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md"
     },
     {
       "basename": "Zettelkasten",
@@ -93,10 +105,6 @@
       "path": "content/notes/Mary's faith precedes public ministry.md"
     },
     {
-      "basename": "How Connecting Notes Generates Insight",
-      "path": "content/notes/How Connecting Notes Generates Insight.md"
-    },
-    {
       "basename": "Interpretations as Permanent Notes",
       "path": "content/notes/Interpretations as Permanent Notes.md"
     },
@@ -113,20 +121,12 @@
       "path": "content/notes/Bible Text Granularity.md"
     },
     {
-      "basename": "Atomic Notes Are Not Arguments",
-      "path": "content/notes/Atomic Notes Are Not Arguments.md"
-    },
-    {
       "basename": "Applications as Practical Notes",
       "path": "content/notes/Applications as Practical Notes.md"
     },
     {
       "basename": "Zettelkasten and Inductive Bible Study",
       "path": "content/notes/Zettelkasten and Inductive Bible Study.md"
-    },
-    {
-      "basename": "What an Atomic Note Is",
-      "path": "content/notes/What an Atomic Note Is.md"
     },
     {
       "basename": "Verse Headings Inside Chapters",

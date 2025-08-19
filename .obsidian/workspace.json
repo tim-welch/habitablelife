@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Writing is Iterative.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Writing is Iterative"
+              "title": "Writing is Thinking"
             }
           }
         ]
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/Writing is Iterative.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Writing is Iterative"
+              "title": "Backlinks for Writing is Thinking"
             }
           },
           {
@@ -189,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notes/Writing is Iterative.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -208,8 +208,8 @@
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.302083333333333,
-                  "repelStrength": 15.4166666666667,
+                  "centerStrength": 0.546875,
+                  "repelStrength": 13.3333333333333,
                   "linkStrength": 1,
                   "linkDistance": 206,
                   "scale": 0.7132754626224423,
@@ -217,14 +217,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Writing is Iterative"
+              "title": "Graph of Writing is Thinking"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 514.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,11 +257,15 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "7e3b4d42d2b3e95d",
+  "active": "2904b573fa0fde77",
   "lastOpenFiles": [
-    "content/notes/Writing is Thinking.md",
-    "content/notes/Writing is Iterative.md",
     "content/sources/How to Take Smart Notes.md",
+    "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md",
+    "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md",
+    "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
+    "content/Literature Notes/How to Take Smart Notes/What an Atomic Note Is.md",
+    "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md",
+    "content/Literature Notes/How to Take Smart Notes",
     "content/MOC/Zettelkasten.md",
     "content/MOC/The Gospel of John.md",
     "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
@@ -294,16 +298,12 @@
     "public/notes/Signs-in-the-Gospel-of-John-Lead-to-Faith.html",
     "public/notes/Semi-private-miracle-Glory-revealed-selectively.html",
     "public/notes/Everything-Iterates.html",
-    "public/notes/Running-out-of-wine-would-shame-the-family.html",
     "content/notes/Mapping Inductive Study to Zettelkasten.md",
     "broken links output.md",
     "content/notes/Running out of wine would shame the family.md",
     "content/notes/Observations vs. Interpretations.md",
     "content/notes/Observation Notes at Verse Level.md",
     "content/notes/Nazareth is Close to Cana.md",
-    "content/notes/Mary's faith precedes public ministry.md",
-    "content/notes/How Connecting Notes Generates Insight.md",
-    "content/notes/Interpretations as Permanent Notes.md",
-    "content/notes/Galilean weddings were multi-day communal events.md"
+    "content/notes/Mary's faith precedes public ministry.md"
   ]
 }
