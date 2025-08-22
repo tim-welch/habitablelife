@@ -8,4 +8,4 @@ An atomic note is not a full argument. Where an atomic note is a single concrete
 ## Connections
 
 - [[How to Take Smart Notes]]
-- [[What an Atomic Note Is]]
+- [[Atomic notes are permanent]]

@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/literature
+  - type/structural
 ---
 
 1. Capture fleeting notes 

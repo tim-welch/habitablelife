@@ -7,4 +7,4 @@ The Bible text itself should be stored at the chapter level, not the verse level
 
 ## Connections
 
-- [[Zettelkasten]]
+- [[content/notes/note taking/Zettelkasten]]

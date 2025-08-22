@@ -8,4 +8,4 @@ Observations should be written in separate notes, one per idea, linked back to a
 ## Connections
 - [[Verse Headings Inside Chapters]]
 - [[Observe what this passage says]]
-- [[What an Atomic Note Is]]
+- [[Atomic notes are permanent]]

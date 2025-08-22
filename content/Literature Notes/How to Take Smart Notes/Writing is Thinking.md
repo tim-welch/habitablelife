@@ -8,4 +8,4 @@ Writing is thinking. Writing isn't just recording our completed thoughts. We don
 ## Connections
 
 - [[How to Take Smart Notes]]
-- [[What an Atomic Note Is]]
+- [[Atomic notes are permanent]]

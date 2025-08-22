@@ -18,13 +18,13 @@ Ahrens argues that the value of note-taking lies not in isolated records, but in
 - Revision is part of the thinking process itself; notes evolve with understanding.
         
 ### Atomic Notes
-- [[What an Atomic Note Is]]
+- [[Atomic notes are permanent]]
 - Notes must stand alone, written so your future self understands without context.
 - [[Atomic Notes Are Not Arguments]]
 - Notes are single thoughts, not arguments, and can be reused flexibly across contexts.
         
 ### Insight Through Connection
-- [[How Connecting Notes Generates Insight]]
+- [[Insight comes from connections]]
 - Linking notes reveals patterns and relationships not visible in isolation.
 - [[Networked note taking]]
 - The true value lies in the network of notes, where original ideas emerge.
@@ -41,4 +41,3 @@ Ahrens argues that the value of note-taking lies not in isolated records, but in
 ## Connections
 
 - [[How to Take Smart Notes]]
-- [[Zettelkasten]]

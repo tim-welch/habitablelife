@@ -8,4 +8,4 @@ The real value of note taking comes from networked note taking. Instead of takin
 ## Connections
 
 - [[How to Take Smart Notes]]
-- [[How Connecting Notes Generates Insight]]
+- [[Insight comes from connections]]

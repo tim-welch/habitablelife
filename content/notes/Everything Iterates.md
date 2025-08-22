@@ -13,4 +13,4 @@ It seems that everything in my life iterates. This note connects several areas o
 
 ## Connections
 
-- [[How Connecting Notes Generates Insight|How Connecting Notes Generates Insight]]
+- [[Insight comes from connections|Insight comes from connections]]

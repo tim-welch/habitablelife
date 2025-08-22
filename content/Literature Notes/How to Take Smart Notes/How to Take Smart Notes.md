@@ -14,4 +14,4 @@ This book is foundational for how I capture and connect ideas.
 - https://www.amazon.com/dp/1542866502
 
 ## Connections
-- My implementation lives in [[Zettelkasten]].
+- My implementation lives in [[content/notes/note taking/Zettelkasten]].

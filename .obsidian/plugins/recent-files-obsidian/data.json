@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Zettelkasten",
+      "path": "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md"
+    },
+    {
+      "basename": "Ahrens on Smart Notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/Ahrens on Smart Notes.md"
+    },
+    {
       "basename": "Smart Notes workflow",
       "path": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md"
+    },
+    {
+      "basename": "Inspiration for permanent notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/Inspiration for permanent notes.md"
+    },
+    {
+      "basename": "Permanent notes may be derived from literature notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/Permanent notes may be derived from literature notes.md"
+    },
+    {
+      "basename": "Permanent notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/Permanent notes.md"
+    },
+    {
+      "basename": "Process fleeting notes quickly",
+      "path": "content/Literature Notes/How to Take Smart Notes/Process fleeting notes quickly.md"
+    },
+    {
+      "basename": "Fleeting notes are temporary",
+      "path": "content/Literature Notes/How to Take Smart Notes/Fleeting notes are temporary.md"
+    },
+    {
+      "basename": "Insight comes from connections",
+      "path": "content/Literature Notes/How to Take Smart Notes/Insight comes from connections.md"
+    },
+    {
+      "basename": "Types of connections between notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/Types of connections between notes.md"
+    },
+    {
+      "basename": "Atomic notes are self-contained",
+      "path": "content/Literature Notes/How to Take Smart Notes/Atomic notes are self-contained.md"
+    },
+    {
+      "basename": "Atomic notes are permanent",
+      "path": "content/Literature Notes/How to Take Smart Notes/Atomic notes are permanent.md"
+    },
+    {
+      "basename": "Atomic notes are complete",
+      "path": "content/Literature Notes/How to Take Smart Notes/Atomic notes are complete.md"
     },
     {
       "basename": "Project notes",
@@ -13,16 +61,8 @@
       "path": "content/Literature Notes/How to Take Smart Notes/Index notes.md"
     },
     {
-      "basename": "Permanent notes",
-      "path": "content/Literature Notes/How to Take Smart Notes/Permanent notes.md"
-    },
-    {
       "basename": "Literature notes",
       "path": "content/Literature Notes/How to Take Smart Notes/Literature notes.md"
-    },
-    {
-      "basename": "Fleeting notes",
-      "path": "content/Literature Notes/How to Take Smart Notes/Fleeting notes.md"
     },
     {
       "basename": "How John talks about belief",
@@ -61,24 +101,12 @@
       "path": "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md"
     },
     {
-      "basename": "What an Atomic Note Is",
-      "path": "content/Literature Notes/How to Take Smart Notes/What an Atomic Note Is.md"
-    },
-    {
       "basename": "Networked note taking",
       "path": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md"
     },
     {
-      "basename": "How Connecting Notes Generates Insight",
-      "path": "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md"
-    },
-    {
       "basename": "Atomic Notes Are Not Arguments",
       "path": "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md"
-    },
-    {
-      "basename": "Ahrens on Smart Notes",
-      "path": "content/Literature Notes/How to Take Smart Notes/Ahrens on Smart Notes.md"
     },
     {
       "basename": "Observation Notes at Verse Level",
@@ -171,34 +199,6 @@
     {
       "basename": "Zettelkasten",
       "path": "content/notes/note taking/Zettelkasten.md"
-    },
-    {
-      "basename": "The Gospel of John",
-      "path": "content/Literature Notes/John/The Gospel of John.md"
-    },
-    {
-      "basename": "Jesus Reveals His Glory",
-      "path": "content/Literature Notes/John/Jesus Reveals His Glory.md"
-    },
-    {
-      "basename": "Jesus' First Sign was Turning Water to Wine",
-      "path": "content/Literature Notes/John/Jesus' First Sign was Turning Water to Wine.md"
-    },
-    {
-      "basename": "Hour in John 2_14",
-      "path": "drafts/next/Hour in John 2_14.md"
-    },
-    {
-      "basename": "literature note template",
-      "path": "Templates/literature note template.md"
-    },
-    {
-      "basename": "Understanding presuppositions in Bible study",
-      "path": "content/notes/note taking/Understanding presuppositions in Bible study.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "TODO.md"
     }
   ],
   "omittedPaths": [

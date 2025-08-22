@@ -3,8 +3,7 @@ tags:
   - type/literature
 ---
 
-Permanent notes are your own ideas. 
+Atomic notes are meant to be kept forever. 
 
 ## Connections
-
 - [[How to Take Smart Notes]]
