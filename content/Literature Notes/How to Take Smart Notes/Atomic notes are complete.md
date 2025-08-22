@@ -8,3 +8,4 @@ It is important that atomic notes capture the full, complete idea so that when r
 
 - [[How to Take Smart Notes]]
 - [[Atomic notes are permanent]]
+- [[Writing is Iterative]]

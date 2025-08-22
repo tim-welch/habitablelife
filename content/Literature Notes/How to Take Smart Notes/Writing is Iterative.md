@@ -8,3 +8,4 @@ Writing is an iterative process. Revising is part of the thinking process itself
 ## Connections
 - [[How to Take Smart Notes]]
 - [[Writing is Thinking]]
+- [[Atomic notes are complete]]

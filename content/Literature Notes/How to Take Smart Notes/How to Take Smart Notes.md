@@ -13,5 +13,9 @@ This book is foundational for how I capture and connect ideas.
 - Publication Date: February 24, 2017
 - https://www.amazon.com/dp/1542866502
 
+## Overview
+- Philosophy: [[Smart Notes core argument]]
+- Practice: [[Smart Notes workflow]]
+
 ## Connections
-- My implementation lives in [[content/notes/note taking/Zettelkasten]].
+- My implementation lives in [[Zettelkasten]].

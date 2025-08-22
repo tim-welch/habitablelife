@@ -9,3 +9,4 @@ Writing is thinking. Writing isn't just recording our completed thoughts. We don
 
 - [[How to Take Smart Notes]]
 - [[Atomic notes are permanent]]
+- [[Writing is Iterative]]

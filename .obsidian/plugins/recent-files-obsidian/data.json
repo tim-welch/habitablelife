@@ -5,12 +5,44 @@
       "path": "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md"
     },
     {
-      "basename": "Ahrens on Smart Notes",
-      "path": "content/Literature Notes/How to Take Smart Notes/Ahrens on Smart Notes.md"
-    },
-    {
       "basename": "Smart Notes workflow",
       "path": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md"
+    },
+    {
+      "basename": "Insights emerge from unexpected connections",
+      "path": "content/Literature Notes/How to Take Smart Notes/Insights emerge from unexpected connections.md"
+    },
+    {
+      "basename": "How to Take Smart Notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md"
+    },
+    {
+      "basename": "Smart Notes core argument",
+      "path": "content/Literature Notes/How to Take Smart Notes/Smart Notes core argument.md"
+    },
+    {
+      "basename": "Fleeting notes are temporary",
+      "path": "content/Literature Notes/How to Take Smart Notes/Fleeting notes are temporary.md"
+    },
+    {
+      "basename": "Separation of tasks",
+      "path": "content/Literature Notes/How to Take Smart Notes/Separation of tasks.md"
+    },
+    {
+      "basename": "Atomic notes are complete",
+      "path": "content/Literature Notes/How to Take Smart Notes/Atomic notes are complete.md"
+    },
+    {
+      "basename": "Writing is Iterative",
+      "path": "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md"
+    },
+    {
+      "basename": "Writing is Thinking",
+      "path": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md"
+    },
+    {
+      "basename": "Networked note taking",
+      "path": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md"
     },
     {
       "basename": "Inspiration for permanent notes",
@@ -29,10 +61,6 @@
       "path": "content/Literature Notes/How to Take Smart Notes/Process fleeting notes quickly.md"
     },
     {
-      "basename": "Fleeting notes are temporary",
-      "path": "content/Literature Notes/How to Take Smart Notes/Fleeting notes are temporary.md"
-    },
-    {
       "basename": "Insight comes from connections",
       "path": "content/Literature Notes/How to Take Smart Notes/Insight comes from connections.md"
     },
@@ -49,10 +77,6 @@
       "path": "content/Literature Notes/How to Take Smart Notes/Atomic notes are permanent.md"
     },
     {
-      "basename": "Atomic notes are complete",
-      "path": "content/Literature Notes/How to Take Smart Notes/Atomic notes are complete.md"
-    },
-    {
       "basename": "Project notes",
       "path": "content/Literature Notes/How to Take Smart Notes/Project notes.md"
     },
@@ -67,10 +91,6 @@
     {
       "basename": "How John talks about belief",
       "path": "content/Literature Notes/John/How John talks about belief.md"
-    },
-    {
-      "basename": "How to Take Smart Notes",
-      "path": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md"
     },
     {
       "basename": "We must receive or reject Jesus",
@@ -91,18 +111,6 @@
     {
       "basename": "Those who think they are good reject Jesus",
       "path": "content/notes/Those who think they are good reject Jesus.md"
-    },
-    {
-      "basename": "Writing is Thinking",
-      "path": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md"
-    },
-    {
-      "basename": "Writing is Iterative",
-      "path": "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md"
-    },
-    {
-      "basename": "Networked note taking",
-      "path": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md"
     },
     {
       "basename": "Atomic Notes Are Not Arguments",
@@ -191,14 +199,6 @@
     {
       "basename": "Mary's faith precedes public ministry",
       "path": "content/Literature Notes/John/Mary's faith precedes public ministry.md"
-    },
-    {
-      "basename": "atomic note template",
-      "path": "Templates/atomic note template.md"
-    },
-    {
-      "basename": "Zettelkasten",
-      "path": "content/notes/note taking/Zettelkasten.md"
     }
   ],
   "omittedPaths": [

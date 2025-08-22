@@ -3,31 +3,26 @@ tags:
   - type/structural
 ---
 
-## Core Argument
-
 Ahrens argues that the value of note-taking lies not in isolated records, but in a living system of interconnected thoughts. Writing itself is thinking, and by writing iteratively in small, reusable units (atomic notes), we create a network that both preserves understanding and generates new insights.
 
 ## Key Components
 
 ### Writing as Thinking
 - [[Writing is Thinking]]
-- Writing is not recording finished ideas but the process of shaping thought.
         
 ### Iteration and Refinement
 - [[Writing is Iterative]]
-- Revision is part of the thinking process itself; notes evolve with understanding.
         
 ### Atomic Notes
+- [[Atomic notes are complete]]
 - [[Atomic notes are permanent]]
-- Notes must stand alone, written so your future self understands without context.
 - [[Atomic Notes Are Not Arguments]]
-- Notes are single thoughts, not arguments, and can be reused flexibly across contexts.
         
 ### Insight Through Connection
 - [[Insight comes from connections]]
-- Linking notes reveals patterns and relationships not visible in isolation.
+- [[Insights emerge from unexpected connections]]
 - [[Networked note taking]]
-- The true value lies in the network of notes, where original ideas emerge.
+- [[Types of connections between notes]]
 
 ## Flow of Ahrens’s Reasoning
 
