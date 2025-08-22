@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "221e4b86556da7ae",
+        "id": "d7098940d87894c9",
         "type": "tabs",
         "children": [
           {
-            "id": "7014a94e912a24af",
+            "id": "54f24fab3de4e59c",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
+              "type": "markdown",
+              "state": {
+                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to Take Smart Notes"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#type/bible",
+                "query": "path:\"content/Bible/BSB/43-John/\" belie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 511.5
+    "width": 384.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -98,7 +112,7 @@
       {
         "id": "50b30d8f2e028c08",
         "type": "tabs",
-        "dimension": 28.875968992248062,
+        "dimension": 78.29457364341084,
         "children": [
           {
             "id": "984877c526627847",
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/How John talks about belief.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How John talks about belief"
+              "title": "Backlinks for How to Take Smart Notes"
             }
           },
           {
@@ -125,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blog/habitablelife/docs/Bible/John/John_2.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from John_2"
+              "title": "Outgoing links from How to Take Smart Notes"
             }
           },
           {
@@ -177,7 +191,7 @@
       {
         "id": "2994308917696632",
         "type": "tabs",
-        "dimension": 71.12403100775194,
+        "dimension": 21.705426356589147,
         "children": [
           {
             "id": "2904b573fa0fde77",
@@ -185,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notes/How John talks about belief.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -213,14 +227,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of How John talks about belief"
+              "title": "Graph of How to Take Smart Notes"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
+    "width": 576.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -255,38 +269,40 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "7014a94e912a24af",
+  "active": "54f24fab3de4e59c",
   "lastOpenFiles": [
-    "content/notes/John/First sign reveals Jesus' glory; disciples believe.md",
-    "Bible/John/John_01.md",
-    "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
-    "content/notes/note taking/Inductive Bible Study Method.md",
-    "content/notes/John/Signs in John.md",
-    "content/notes/note taking/How to Take Smart Notes.md",
-    "content/notes/Galatians",
-    "content/notes/Ephesians",
-    "content/notes/James",
-    "content/notes/John/Signs in the Gospel of John Lead to Faith.md",
-    "content/notes/John/The Wedding at Cana.md",
-    "content/notes/note taking/Atomic Notes Are Not Arguments.md",
-    "content/notes/note taking/Writing is Thinking.md",
-    "content/notes/note taking/Writing is Iterative.md",
-    "content/notes/note taking/What an Atomic Note Is.md",
-    "content/notes/note taking/Networked note taking.md",
-    "content/notes/note taking/How Connecting Notes Generates Insight.md",
-    "content/notes/note taking/Mapping Inductive Study to Zettelkasten.md",
-    "content/notes/note taking/Zettelkasten and Inductive Bible Study.md",
-    "content/notes/note taking",
-    "content/notes/note taking/Applications as Practical Notes.md",
-    "content/notes/note taking/Interpretations as Permanent Notes.md",
+    "content/notes/We must receive or reject Jesus.md",
+    "content/notes/Seeing signs strengthen belief.md",
+    "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
+    "content/Literature Notes/John/How John talks about belief.md",
+    "content/notes/Did Jesus lie.md",
+    "content/notes/Everything Iterates.md",
+    "content/notes/Those who think they are good reject Jesus.md",
+    "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
+    "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md",
+    "content/Literature Notes/How to Take Smart Notes/What an Atomic Note Is.md",
+    "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
+    "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md",
+    "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md",
+    "content/Literature Notes/How to Take Smart Notes/Ahrens on Smart Notes.md",
     "content/notes/note taking/Observation Notes at Verse Level.md",
-    "content/notes/John/Mary's faith precedes public ministry.md",
-    "content/notes/John/How John talks about belief.md",
-    "content/Bible/BSB/43-John/John 3.md",
-    "content/Bible/BSB/43-John/John 2.md",
+    "content/notes/note taking/Mapping Inductive Study to Zettelkasten.md",
+    "content/Literature Notes/How to Take Smart Notes",
+    "content/Literature Notes",
+    "content/Bible/BSB/43-John/John 8.md",
+    "content/Bible/BSB/43-John/John 7.md",
+    "content/notes/Result of rejecting Jesus.md",
+    "content/notes/Result of believing in Jesus.md",
+    "content/Bible/BSB/43-John/John 6.md",
+    "content/Bible/BSB/43-John/John 5.md",
     "content/Bible/BSB/43-John/John 1.md",
-    "Templates/atomic note template.md",
-    "content/notes/note taking/Zettelkasten.md",
+    "content/Bible/BSB/43-John/John 4.md",
+    "content/Bible/BSB/43-John/John 2.md",
+    "content/Bible/BSB/43-John/John 3.md",
+    "content/Literature Notes/Galatians",
+    "content/Literature Notes/Ephesians",
+    "content/Literature Notes/James",
+    "content/notes/note taking",
     "content/Literature Notes/How to Take Smart Notes",
     "content/sources",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
@@ -300,8 +316,6 @@
     "public/notes/Observations-vs.-Interpretations-og-image.webp",
     "public/notes/Observation-Notes-at-Verse-Level-og-image.webp",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study.html",
-    "public/notes/What-an-Atomic-Note-Is.html",
-    "public/notes/Writing-is-Thinking.html",
-    "public/notes/Writing-is-Iterative.html"
+    "public/notes/What-an-Atomic-Note-Is.html"
   ]
 }
