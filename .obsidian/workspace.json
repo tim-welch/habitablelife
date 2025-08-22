@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
-                "mode": "preview",
+                "file": "content/Literature Notes/How to Take Smart Notes/Fleeting notes.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to Take Smart Notes"
+              "title": "Fleeting notes"
             }
           }
         ]
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Fleeting notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to Take Smart Notes"
+              "title": "Backlinks for Fleeting notes"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Fleeting notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from How to Take Smart Notes"
+              "title": "Outgoing links from Fleeting notes"
             }
           },
           {
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Fleeting notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of How to Take Smart Notes"
+              "title": "Graph of Fleeting notes"
             }
           }
         ]
@@ -271,10 +271,11 @@
   },
   "active": "54f24fab3de4e59c",
   "lastOpenFiles": [
+    "content/Literature Notes/John/How John talks about belief.md",
+    "content/Literature Notes/How to Take Smart Notes/Fleeting notes.md",
+    "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
     "content/notes/We must receive or reject Jesus.md",
     "content/notes/Seeing signs strengthen belief.md",
-    "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
-    "content/Literature Notes/John/How John talks about belief.md",
     "content/notes/Did Jesus lie.md",
     "content/notes/Everything Iterates.md",
     "content/notes/Those who think they are good reject Jesus.md",
@@ -298,7 +299,6 @@
     "content/Bible/BSB/43-John/John 1.md",
     "content/Bible/BSB/43-John/John 4.md",
     "content/Bible/BSB/43-John/John 2.md",
-    "content/Bible/BSB/43-John/John 3.md",
     "content/Literature Notes/Galatians",
     "content/Literature Notes/Ephesians",
     "content/Literature Notes/James",
