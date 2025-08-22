@@ -27,11 +27,19 @@ Ahrens argues that the value of note-taking lies not in isolated records, but in
 ## Flow of Ahrens’s Reasoning
 
 1. Writing itself is thinking.
+    - [[Writing is Thinking]]
 2. Thinking matures through iteration.
+    - [[Writing is Iterative]]
 3. To support this process, we capture single, self-contained ideas (atomic notes).
+    - [[Separation of tasks]]
 4. Notes remain modular so they can be recombined into many arguments.
-5. Linking these notes produces unexpected insights.
-6. The network, not the isolated note, is where real knowledge resides.
+    - [[Atomic notes are self-contained]]
+5. Arguments emerge from recombining notes
+    - [[Atomic Notes Are Not Arguments]]
+6. Linking these notes produces unexpected insights.
+    - [[Insights emerge from unexpected connections]]
+7. The network, not the isolated note, is where real knowledge resides.
+    - [[Networked note taking]]
 
 ## Connections
 

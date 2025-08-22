@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Zettelkasten",
-      "path": "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md"
-    },
-    {
       "basename": "Smart Notes workflow",
       "path": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md"
-    },
-    {
-      "basename": "Insights emerge from unexpected connections",
-      "path": "content/Literature Notes/How to Take Smart Notes/Insights emerge from unexpected connections.md"
     },
     {
       "basename": "How to Take Smart Notes",
@@ -19,6 +11,14 @@
     {
       "basename": "Smart Notes core argument",
       "path": "content/Literature Notes/How to Take Smart Notes/Smart Notes core argument.md"
+    },
+    {
+      "basename": "Zettelkasten",
+      "path": "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md"
+    },
+    {
+      "basename": "Insights emerge from unexpected connections",
+      "path": "content/Literature Notes/How to Take Smart Notes/Insights emerge from unexpected connections.md"
     },
     {
       "basename": "Fleeting notes are temporary",

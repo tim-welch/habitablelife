@@ -16,6 +16,4 @@ This book is foundational for how I capture and connect ideas.
 ## Overview
 - Philosophy: [[Smart Notes core argument]]
 - Practice: [[Smart Notes workflow]]
-
-## Connections
-- My implementation lives in [[Zettelkasten]].
+- Supporting Principles: [[Separation of tasks]], [[Insights emerge from unexpected connections]]

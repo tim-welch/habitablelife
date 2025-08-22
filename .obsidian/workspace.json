@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zettelkasten"
+              "title": "Smart Notes workflow"
             }
           }
         ],
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Zettelkasten"
+              "title": "Backlinks for Smart Notes workflow"
             }
           },
           {
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Zettelkasten"
+              "title": "Outgoing links from Smart Notes workflow"
             }
           },
           {
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,7 +252,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Zettelkasten"
+              "title": "Graph of Smart Notes workflow"
             }
           }
         ]
@@ -296,11 +296,11 @@
   },
   "active": "741d3ddec434802e",
   "lastOpenFiles": [
-    "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
-    "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md",
-    "content/Literature Notes/How to Take Smart Notes/Insights emerge from unexpected connections.md",
     "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
     "content/Literature Notes/How to Take Smart Notes/Smart Notes core argument.md",
+    "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md",
+    "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
+    "content/Literature Notes/How to Take Smart Notes/Insights emerge from unexpected connections.md",
     "content/Literature Notes/How to Take Smart Notes/Fleeting notes are temporary.md",
     "content/Literature Notes/How to Take Smart Notes/Separation of tasks.md",
     "content/notes/note taking/Zettelkasten.md",
