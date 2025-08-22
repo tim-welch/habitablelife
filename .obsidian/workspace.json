@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bible/John/John_01.md",
+                "file": "content/notes/John/First sign reveals Jesus' glory; disciples believe.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "John_01"
+              "title": "First sign reveals Jesus' glory; disciples believe"
             }
           }
         ]
@@ -89,8 +89,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,6 +229,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
       "cmdr:Home": false,
@@ -259,8 +259,9 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "a9520cda01e210fa",
+  "active": "dbbc13162e881098",
   "lastOpenFiles": [
+    "Bible/John/John_01.md",
     "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
     "content/notes/note taking/Inductive Bible Study Method.md",
     "content/notes/John/Signs in John.md",
@@ -269,8 +270,8 @@
     "content/notes/Ephesians",
     "content/notes/James",
     "content/notes/John/Signs in the Gospel of John Lead to Faith.md",
-    "content/notes/John/The Wedding at Cana/The Wedding at Cana.md",
-    "content/notes/John/The Wedding at Cana/First sign reveals Jesus' glory; disciples believe.md",
+    "content/notes/John/The Wedding at Cana.md",
+    "content/notes/John/First sign reveals Jesus' glory; disciples believe.md",
     "content/notes/note taking/Atomic Notes Are Not Arguments.md",
     "content/notes/note taking/Writing is Thinking.md",
     "content/notes/note taking/Writing is Iterative.md",
@@ -283,14 +284,13 @@
     "content/notes/note taking/Applications as Practical Notes.md",
     "content/notes/note taking/Interpretations as Permanent Notes.md",
     "content/notes/note taking/Observation Notes at Verse Level.md",
-    "content/notes/John/The Wedding at Cana/Mary's faith precedes public ministry.md",
+    "content/notes/John/Mary's faith precedes public ministry.md",
     "content/notes/John/How John talks about belief.md",
     "content/Bible/BSB/43-John/John 3.md",
     "content/Bible/BSB/43-John/John 2.md",
     "content/Bible/BSB/43-John/John 1.md",
     "Templates/atomic note template.md",
     "content/notes/note taking/Zettelkasten.md",
-    "content/notes/John/The Gospel of John.md",
     "content/Literature Notes/How to Take Smart Notes",
     "content/sources",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
