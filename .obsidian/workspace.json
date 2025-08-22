@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Smart Notes workflow"
+              "title": "How to Take Smart Notes"
             }
           }
         ],
@@ -137,7 +137,7 @@
       {
         "id": "50b30d8f2e028c08",
         "type": "tabs",
-        "dimension": 78.29457364341084,
+        "dimension": 27.131782945736433,
         "children": [
           {
             "id": "984877c526627847",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Smart Notes workflow"
+              "title": "Backlinks for How to Take Smart Notes"
             }
           },
           {
@@ -164,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Smart Notes workflow"
+              "title": "Outgoing links from How to Take Smart Notes"
             }
           },
           {
@@ -216,7 +216,7 @@
       {
         "id": "2994308917696632",
         "type": "tabs",
-        "dimension": 21.705426356589147,
+        "dimension": 72.86821705426357,
         "children": [
           {
             "id": "2904b573fa0fde77",
@@ -224,7 +224,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
+                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,15 +252,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Smart Notes workflow"
+              "title": "Graph of How to Take Smart Notes"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 576.5,
-    "collapsed": true
+    "width": 576.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,10 +295,10 @@
   },
   "active": "741d3ddec434802e",
   "lastOpenFiles": [
-    "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
-    "content/Literature Notes/How to Take Smart Notes/Smart Notes core argument.md",
-    "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md",
     "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
+    "content/Literature Notes/How to Take Smart Notes/Smart Notes core argument.md",
+    "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
+    "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md",
     "content/Literature Notes/How to Take Smart Notes/Insights emerge from unexpected connections.md",
     "content/Literature Notes/How to Take Smart Notes/Fleeting notes are temporary.md",
     "content/Literature Notes/How to Take Smart Notes/Separation of tasks.md",

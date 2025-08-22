@@ -4,8 +4,6 @@ tags:
 ---
 
 
-This book is foundational for how I capture and connect ideas.
-
 ![](https://images-na.ssl-images-amazon.com/images/I/41iVa0x-P-L._SL200_.jpg)
 
 - Author: Sönke Ahrens
@@ -16,4 +14,4 @@ This book is foundational for how I capture and connect ideas.
 ## Overview
 - Philosophy: [[Smart Notes core argument]]
 - Practice: [[Smart Notes workflow]]
-- Supporting Principles: [[Separation of tasks]], [[Insights emerge from unexpected connections]]
+- Supporting Principles: [[Separation of tasks]], [[Insights emerge from unexpected connections]], [[Zettelkasten]]

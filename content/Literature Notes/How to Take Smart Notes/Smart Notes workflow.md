@@ -22,6 +22,7 @@ tags:
     - [[Index notes]]
 6. Assemble project notes when preparing to write
     - [[Project notes]]
+    - [[Writing is Iterative]]
 
 ## Supporting Principles
 - [[Separation of tasks]]

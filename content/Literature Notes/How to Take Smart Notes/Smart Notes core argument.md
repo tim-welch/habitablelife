@@ -40,6 +40,7 @@ Ahrens argues that the value of note-taking lies not in isolated records, but in
     - [[Insights emerge from unexpected connections]]
 7. The network, not the isolated note, is where real knowledge resides.
     - [[Networked note taking]]
+    - [[Types of connections between notes]]
 
 ## Connections
 
