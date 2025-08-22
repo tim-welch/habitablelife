@@ -1,8 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "John_01",
+      "path": "Bible/John/John_01.md"
+    },
+    {
+      "basename": "🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality",
+      "path": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md"
+    },
+    {
+      "basename": "Inductive Bible Study Method",
+      "path": "content/notes/note taking/Inductive Bible Study Method.md"
+    },
+    {
+      "basename": "Signs in John",
+      "path": "content/notes/John/Signs in John.md"
+    },
+    {
+      "basename": "How to Take Smart Notes",
+      "path": "content/notes/note taking/How to Take Smart Notes.md"
+    },
+    {
+      "basename": "Signs in the Gospel of John Lead to Faith",
+      "path": "content/notes/John/Signs in the Gospel of John Lead to Faith.md"
+    },
+    {
+      "basename": "The Wedding at Cana",
+      "path": "content/notes/John/The Wedding at Cana/The Wedding at Cana.md"
+    },
+    {
+      "basename": "First sign reveals Jesus' glory; disciples believe",
+      "path": "content/notes/John/The Wedding at Cana/First sign reveals Jesus' glory; disciples believe.md"
+    },
+    {
+      "basename": "Atomic Notes Are Not Arguments",
+      "path": "content/notes/note taking/Atomic Notes Are Not Arguments.md"
+    },
+    {
+      "basename": "Writing is Thinking",
+      "path": "content/notes/note taking/Writing is Thinking.md"
+    },
+    {
+      "basename": "Writing is Iterative",
+      "path": "content/notes/note taking/Writing is Iterative.md"
+    },
+    {
+      "basename": "What an Atomic Note Is",
+      "path": "content/notes/note taking/What an Atomic Note Is.md"
+    },
+    {
+      "basename": "Networked note taking",
+      "path": "content/notes/note taking/Networked note taking.md"
+    },
+    {
+      "basename": "How Connecting Notes Generates Insight",
+      "path": "content/notes/note taking/How Connecting Notes Generates Insight.md"
+    },
+    {
+      "basename": "Mapping Inductive Study to Zettelkasten",
+      "path": "content/notes/note taking/Mapping Inductive Study to Zettelkasten.md"
+    },
+    {
+      "basename": "Zettelkasten and Inductive Bible Study",
+      "path": "content/notes/note taking/Zettelkasten and Inductive Bible Study.md"
+    },
+    {
+      "basename": "Applications as Practical Notes",
+      "path": "content/notes/note taking/Applications as Practical Notes.md"
+    },
+    {
+      "basename": "Interpretations as Permanent Notes",
+      "path": "content/notes/note taking/Interpretations as Permanent Notes.md"
+    },
+    {
+      "basename": "Observation Notes at Verse Level",
+      "path": "content/notes/note taking/Observation Notes at Verse Level.md"
+    },
+    {
+      "basename": "Mary's faith precedes public ministry",
+      "path": "content/notes/John/The Wedding at Cana/Mary's faith precedes public ministry.md"
+    },
+    {
       "basename": "How John talks about belief",
-      "path": "content/notes/How John talks about belief.md"
+      "path": "content/notes/John/How John talks about belief.md"
     },
     {
       "basename": "John 3",
@@ -22,31 +102,19 @@
     },
     {
       "basename": "Zettelkasten",
-      "path": "content/MOC/Zettelkasten.md"
-    },
-    {
-      "basename": "First sign reveals Jesus' glory; disciples believe",
-      "path": "content/notes/First sign reveals Jesus' glory; disciples believe.md"
-    },
-    {
-      "basename": "The Wedding at Cana",
-      "path": "content/notes/The Wedding at Cana.md"
+      "path": "content/notes/note taking/Zettelkasten.md"
     },
     {
       "basename": "The Gospel of John",
-      "path": "content/MOC/The Gospel of John.md"
-    },
-    {
-      "basename": "Signs in John",
-      "path": "content/notes/Signs in John.md"
+      "path": "content/notes/John/The Gospel of John.md"
     },
     {
       "basename": "Jesus Reveals His Glory",
-      "path": "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md"
+      "path": "content/notes/John/The Wedding at Cana/Jesus Reveals His Glory.md"
     },
     {
       "basename": "Jesus' First Sign was Turning Water to Wine",
-      "path": "content/Literature Notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md"
+      "path": "content/notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md"
     },
     {
       "basename": "Hour in John 2_14",
@@ -54,51 +122,15 @@
     },
     {
       "basename": "Ahrens on Smart Notes",
-      "path": "content/notes/Ahrens on Smart Notes.md"
-    },
-    {
-      "basename": "Inductive Bible Study Method",
-      "path": "content/MOC/Inductive Bible Study Method.md"
-    },
-    {
-      "basename": "Networked note taking",
-      "path": "content/Literature Notes/How to Take Smart Notes/Networked note taking.md"
-    },
-    {
-      "basename": "Writing is Thinking",
-      "path": "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md"
-    },
-    {
-      "basename": "Atomic Notes Are Not Arguments",
-      "path": "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md"
-    },
-    {
-      "basename": "Writing is Iterative",
-      "path": "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md"
-    },
-    {
-      "basename": "What an Atomic Note Is",
-      "path": "content/Literature Notes/How to Take Smart Notes/What an Atomic Note Is.md"
-    },
-    {
-      "basename": "How Connecting Notes Generates Insight",
-      "path": "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md"
+      "path": "content/notes/note taking/Ahrens on Smart Notes.md"
     },
     {
       "basename": "literature note template",
       "path": "Templates/literature note template.md"
     },
     {
-      "basename": "How to Take Smart Notes",
-      "path": "content/sources/How to Take Smart Notes.md"
-    },
-    {
-      "basename": "🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality",
-      "path": "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md"
-    },
-    {
       "basename": "Understanding presuppositions in Bible study",
-      "path": "content/articles/Understanding presuppositions in Bible study.md"
+      "path": "content/notes/note taking/Understanding presuppositions in Bible study.md"
     },
     {
       "basename": "TODO",
@@ -106,11 +138,7 @@
     },
     {
       "basename": "Semi-private miracle Glory revealed selectively",
-      "path": "content/notes/Semi-private miracle Glory revealed selectively.md"
-    },
-    {
-      "basename": "Mapping Inductive Study to Zettelkasten",
-      "path": "content/notes/Mapping Inductive Study to Zettelkasten.md"
+      "path": "content/notes/John/The Wedding at Cana/Semi-private miracle Glory revealed selectively.md"
     },
     {
       "basename": "broken links output",
@@ -118,31 +146,19 @@
     },
     {
       "basename": "Running out of wine would shame the family",
-      "path": "content/notes/Running out of wine would shame the family.md"
+      "path": "content/notes/John/The Wedding at Cana/Running out of wine would shame the family.md"
     },
     {
       "basename": "Observations vs. Interpretations",
-      "path": "content/notes/Observations vs. Interpretations.md"
-    },
-    {
-      "basename": "Observation Notes at Verse Level",
-      "path": "content/notes/Observation Notes at Verse Level.md"
+      "path": "content/notes/note taking/Observations vs. Interpretations.md"
     },
     {
       "basename": "Nazareth is Close to Cana",
-      "path": "content/notes/Nazareth is Close to Cana.md"
-    },
-    {
-      "basename": "Mary's faith precedes public ministry",
-      "path": "content/notes/Mary's faith precedes public ministry.md"
-    },
-    {
-      "basename": "Interpretations as Permanent Notes",
-      "path": "content/notes/Interpretations as Permanent Notes.md"
+      "path": "content/notes/John/The Wedding at Cana/Nazareth is Close to Cana.md"
     },
     {
       "basename": "Galilean weddings were multi-day communal events",
-      "path": "content/notes/Galilean weddings were multi-day communal events.md"
+      "path": "content/notes/John/The Wedding at Cana/Galilean weddings were multi-day communal events.md"
     },
     {
       "basename": "Everything Iterates",
@@ -150,23 +166,11 @@
     },
     {
       "basename": "Bible Text Granularity",
-      "path": "content/notes/Bible Text Granularity.md"
-    },
-    {
-      "basename": "Applications as Practical Notes",
-      "path": "content/notes/Applications as Practical Notes.md"
-    },
-    {
-      "basename": "Zettelkasten and Inductive Bible Study",
-      "path": "content/notes/Zettelkasten and Inductive Bible Study.md"
+      "path": "content/notes/note taking/Bible Text Granularity.md"
     },
     {
       "basename": "Verse Headings Inside Chapters",
-      "path": "content/notes/Verse Headings Inside Chapters.md"
-    },
-    {
-      "basename": "Signs in the Gospel of John Lead to Faith",
-      "path": "content/notes/Signs in the Gospel of John Lead to Faith.md"
+      "path": "content/notes/note taking/Verse Headings Inside Chapters.md"
     },
     {
       "basename": "Genesis 1",
@@ -178,27 +182,23 @@
     },
     {
       "basename": "Wrestling with no one can come unless drawn",
-      "path": "content/articles/Wrestling with no one can come unless drawn.md"
+      "path": "content/notes/John/Wrestling with no one can come unless drawn.md"
     },
     {
       "basename": "The Lamb of God",
-      "path": "content/articles/The Lamb of God.md"
+      "path": "content/notes/John/The Lamb of God.md"
     },
     {
       "basename": "A Voice After Silence",
-      "path": "content/articles/A Voice After Silence.md"
+      "path": "content/notes/John/A Voice After Silence.md"
     },
     {
       "basename": "The Word Became Flesh",
-      "path": "content/articles/The Word Became Flesh.md"
+      "path": "content/notes/John/The Word Became Flesh.md"
     },
     {
       "basename": "James purpose",
-      "path": "content/articles/James purpose.md"
-    },
-    {
-      "basename": "Galatians Purpose",
-      "path": "content/articles/Galatians Purpose.md"
+      "path": "content/notes/James/James purpose.md"
     }
   ],
   "omittedPaths": [

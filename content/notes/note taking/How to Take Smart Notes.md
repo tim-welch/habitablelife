@@ -1,11 +1,6 @@
 ---
 tags:
-  - type/auto/moc
-  - source/book
-  - thinking
-  - note-taking
-  - writing-as-thinking
-  - clarity-of-thought
+  - type/source/book
 ---
 
 

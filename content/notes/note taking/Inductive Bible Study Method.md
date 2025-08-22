@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/auto/moc
+  - type/moc
 ---
 
 The Inductive Bible Study method is all about slowing down and paying attention to the passage you're reading, letting Scripture speak for itself. You don't start with a big theology you’re trying to fit things into. Instead, you let your understanding grow as you study each passage.

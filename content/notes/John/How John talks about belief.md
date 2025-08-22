@@ -1,7 +1,6 @@
 ---
 tags:
   - type/atomic
-  - bible/interpretation
 ---
 
 Almost every chapter in John's gospel talks about belief. This is the core theme of the gospel.

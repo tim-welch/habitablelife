@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0c3e4bf9f982c652",
+        "id": "1ab33c3a9b5fa121",
         "type": "tabs",
         "children": [
           {
-            "id": "7e3b4d42d2b3e95d",
+            "id": "a9520cda01e210fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/How John talks about belief.md",
+                "file": "Bible/John/John_01.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "How John talks about belief"
-            }
-          }
-        ]
-      },
-      {
-        "id": "a4eb1e1c89f71d99",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "76e6659b8d0bf0df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Bible/BSB/43-John/John 3.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "John 3"
+              "title": "John_01"
             }
           }
         ]
@@ -73,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"content/Bible/BSB/43-John/\" believe",
+                "query": "tag:#type/bible",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -250,6 +230,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
       "cmdr:Home": false,
       "cmdr:Open today's exercise log": false,
@@ -274,41 +255,44 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false,
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "7e3b4d42d2b3e95d",
+  "active": "a9520cda01e210fa",
   "lastOpenFiles": [
+    "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
+    "content/notes/note taking/Inductive Bible Study Method.md",
+    "content/notes/John/Signs in John.md",
+    "content/notes/note taking/How to Take Smart Notes.md",
+    "content/notes/Galatians",
+    "content/notes/Ephesians",
+    "content/notes/James",
+    "content/notes/John/Signs in the Gospel of John Lead to Faith.md",
+    "content/notes/John/The Wedding at Cana/The Wedding at Cana.md",
+    "content/notes/John/The Wedding at Cana/First sign reveals Jesus' glory; disciples believe.md",
+    "content/notes/note taking/Atomic Notes Are Not Arguments.md",
+    "content/notes/note taking/Writing is Thinking.md",
+    "content/notes/note taking/Writing is Iterative.md",
+    "content/notes/note taking/What an Atomic Note Is.md",
+    "content/notes/note taking/Networked note taking.md",
+    "content/notes/note taking/How Connecting Notes Generates Insight.md",
+    "content/notes/note taking/Mapping Inductive Study to Zettelkasten.md",
+    "content/notes/note taking/Zettelkasten and Inductive Bible Study.md",
+    "content/notes/note taking",
+    "content/notes/note taking/Applications as Practical Notes.md",
+    "content/notes/note taking/Interpretations as Permanent Notes.md",
+    "content/notes/note taking/Observation Notes at Verse Level.md",
+    "content/notes/John/The Wedding at Cana/Mary's faith precedes public ministry.md",
+    "content/notes/John/How John talks about belief.md",
     "content/Bible/BSB/43-John/John 3.md",
-    "content/notes/How John talks about belief.md",
     "content/Bible/BSB/43-John/John 2.md",
     "content/Bible/BSB/43-John/John 1.md",
     "Templates/atomic note template.md",
-    "content/MOC/Zettelkasten.md",
-    "content/notes/First sign reveals Jesus' glory; disciples believe.md",
-    "content/notes/The Wedding at Cana.md",
-    "content/MOC/The Gospel of John.md",
-    "content/notes/Signs in John.md",
-    "content/Literature Notes/John/The Wedding at Cana/Jesus Reveals His Glory.md",
-    "content/Literature Notes/John/The Wedding at Cana/Jesus' First Sign was Turning Water to Wine.md",
-    "drafts/next/Hour in John 2_14.md",
-    "content/notes/Ahrens on Smart Notes.md",
-    "content/MOC/Inductive Bible Study Method.md",
-    "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
-    "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
-    "content/Literature Notes/How to Take Smart Notes/Atomic Notes Are Not Arguments.md",
-    "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md",
-    "content/Literature Notes/How to Take Smart Notes/What an Atomic Note Is.md",
-    "content/Literature Notes/How to Take Smart Notes/How Connecting Notes Generates Insight.md",
-    "Templates/literature note template.md",
-    "content/sources/How to Take Smart Notes.md",
+    "content/notes/note taking/Zettelkasten.md",
+    "content/notes/John/The Gospel of John.md",
     "content/Literature Notes/How to Take Smart Notes",
-    "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
-    "content/articles/Understanding presuppositions in Bible study.md",
     "content/sources",
-    "TODO.md",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/Writing-is-Thinking-og-image.webp",
     "public/notes/Writing-is-Iterative-og-image.webp",
@@ -322,10 +306,6 @@
     "public/notes/Zettelkasten-and-Inductive-Bible-Study.html",
     "public/notes/What-an-Atomic-Note-Is.html",
     "public/notes/Writing-is-Thinking.html",
-    "public/notes/Writing-is-Iterative.html",
-    "public/notes/Verse-Headings-Inside-Chapters.html",
-    "public/notes/Signs-in-the-Gospel-of-John-Lead-to-Faith.html",
-    "public/notes/Semi-private-miracle-Glory-revealed-selectively.html",
-    "public/notes/Everything-Iterates.html"
+    "public/notes/Writing-is-Iterative.html"
   ]
 }

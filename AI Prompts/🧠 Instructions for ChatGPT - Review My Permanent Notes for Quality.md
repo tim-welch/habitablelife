@@ -9,15 +9,16 @@ I’m writing Permanent Notes for my second brain in the Zettelkasten style. You
 
 #### I use tags to identify note types:
 
-- **source/book** - bibliographic information about a source book
+- **type/source/book** - bibliographic information about a source book
 - **type/structural** – the map that shows how the pieces fit together.
 - **type/atomic** – raw observations or insights.
-- **type/auto/moc** – dynamic MOC populated automatically by backlinks.
+- **type/moc** – dynamic MOC populated automatically by backlinks.
 - **bible/application** – application of a Bible passage. (Practical application)
 - **bible/doctrine** – Biblical teaching on a specific topic. (Systematic reading and ideas)
 - **bible/term** – Biblical terminology and phrasing. (Come to terms with the author)
 - **bible/outline** - a outline of a book of the Bible, forming an MOC for the book
-- Other tags are used for categorization.
+- **bible/observation** - an observation taken directly from a Bible passage
+- **bible/interpretation** - my understanding of a Bible 
 
 #### I use folders to group my notes:
 
