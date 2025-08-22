@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1ab33c3a9b5fa121",
+        "id": "221e4b86556da7ae",
         "type": "tabs",
         "children": [
           {
-            "id": "a9520cda01e210fa",
+            "id": "7014a94e912a24af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/John/First sign reveals Jesus' glory; disciples believe.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "First sign reveals Jesus' glory; disciples believe"
+              "type": "home-tab-view",
+              "state": {},
+              "icon": "search",
+              "title": "Home tab"
             }
           }
         ]
@@ -259,8 +255,9 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "dbbc13162e881098",
+  "active": "7014a94e912a24af",
   "lastOpenFiles": [
+    "content/notes/John/First sign reveals Jesus' glory; disciples believe.md",
     "Bible/John/John_01.md",
     "AI Prompts/🧠 Instructions for ChatGPT - Review My Permanent Notes for Quality.md",
     "content/notes/note taking/Inductive Bible Study Method.md",
@@ -271,7 +268,6 @@
     "content/notes/James",
     "content/notes/John/Signs in the Gospel of John Lead to Faith.md",
     "content/notes/John/The Wedding at Cana.md",
-    "content/notes/John/First sign reveals Jesus' glory; disciples believe.md",
     "content/notes/note taking/Atomic Notes Are Not Arguments.md",
     "content/notes/note taking/Writing is Thinking.md",
     "content/notes/note taking/Writing is Iterative.md",
