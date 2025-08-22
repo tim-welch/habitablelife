@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Smart Notes workflow",
+      "path": "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md"
+    },
+    {
+      "basename": "Project notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/Project notes.md"
+    },
+    {
+      "basename": "Index notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/Index notes.md"
+    },
+    {
+      "basename": "Permanent notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/Permanent notes.md"
+    },
+    {
+      "basename": "Literature notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/Literature notes.md"
+    },
+    {
       "basename": "Fleeting notes",
       "path": "content/Literature Notes/How to Take Smart Notes/Fleeting notes.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "TODO",
       "path": "TODO.md"
-    },
-    {
-      "basename": "Semi-private miracle Glory revealed selectively",
-      "path": "content/Literature Notes/John/Semi-private miracle Glory revealed selectively.md"
-    },
-    {
-      "basename": "broken links output",
-      "path": "broken links output.md"
-    },
-    {
-      "basename": "Running out of wine would shame the family",
-      "path": "content/Literature Notes/John/Running out of wine would shame the family.md"
-    },
-    {
-      "basename": "Observations vs. Interpretations",
-      "path": "content/notes/note taking/Observations vs. Interpretations.md"
-    },
-    {
-      "basename": "Nazareth is Close to Cana",
-      "path": "content/Literature Notes/John/Nazareth is Close to Cana.md"
     }
   ],
   "omittedPaths": [
