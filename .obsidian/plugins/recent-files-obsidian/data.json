@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "How to Read the Bible for All Its Worth",
+      "path": "content/Literature Notes/How to Read the Bible for All Its Worth/How to Read the Bible for All Its Worth.md"
+    },
+    {
+      "basename": "How to Study Your Bible",
+      "path": "content/Literature Notes/How to Study Your Bible/How to Study Your Bible.md"
+    },
+    {
+      "basename": "Living by the Book",
+      "path": "content/Literature Notes/Living by the Book/Living by the Book.md"
+    },
+    {
+      "basename": "Source note template",
+      "path": "Templates/Source note template.md"
+    },
+    {
       "basename": "How to Take Smart Notes",
       "path": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md"
+    },
+    {
+      "basename": "Types of connections between notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/Types of connections between notes.md"
     },
     {
       "basename": "Smart Notes workflow",
@@ -63,10 +83,6 @@
     {
       "basename": "Insight comes from connections",
       "path": "content/Literature Notes/How to Take Smart Notes/Insight comes from connections.md"
-    },
-    {
-      "basename": "Types of connections between notes",
-      "path": "content/Literature Notes/How to Take Smart Notes/Types of connections between notes.md"
     },
     {
       "basename": "Atomic notes are self-contained",
@@ -183,22 +199,6 @@
     {
       "basename": "The Wedding at Cana",
       "path": "content/Literature Notes/John/The Wedding at Cana.md"
-    },
-    {
-      "basename": "Zettelkasten and Inductive Bible Study",
-      "path": "content/notes/note taking/Zettelkasten and Inductive Bible Study.md"
-    },
-    {
-      "basename": "Applications as Practical Notes",
-      "path": "content/notes/note taking/Applications as Practical Notes.md"
-    },
-    {
-      "basename": "Interpretations as Permanent Notes",
-      "path": "content/notes/note taking/Interpretations as Permanent Notes.md"
-    },
-    {
-      "basename": "Mary's faith precedes public ministry",
-      "path": "content/Literature Notes/John/Mary's faith precedes public ministry.md"
     }
   ],
   "omittedPaths": [

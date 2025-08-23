@@ -4,59 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d7098940d87894c9",
+        "id": "5dc2203773b1a1f7",
         "type": "tabs",
         "children": [
           {
-            "id": "54f24fab3de4e59c",
+            "id": "f4e6d1e5a62f577c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/Types of connections between notes.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "content/Literature Notes/How to Read the Bible for All Its Worth/How to Read the Bible for All Its Worth.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Types of connections between notes"
-            }
-          },
-          {
-            "id": "741d3ddec434802e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How to Take Smart Notes"
+              "title": "How to Read the Bible for All Its Worth"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
+                "file": "content/Literature Notes/How to Read the Bible for All Its Worth/How to Read the Bible for All Its Worth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for How to Take Smart Notes"
+              "title": "Backlinks for How to Read the Bible for All Its Worth"
             }
           },
           {
@@ -224,7 +189,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
+                "file": "content/Literature Notes/How to Read the Bible for All Its Worth/How to Read the Bible for All Its Worth.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,18 +217,18 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of How to Take Smart Notes"
+              "title": "Graph of How to Read the Bible for All Its Worth"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 576.5
+    "width": 576.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
       "cmdr:Home": false,
@@ -293,11 +258,22 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "741d3ddec434802e",
+  "active": "f4e6d1e5a62f577c",
   "lastOpenFiles": [
+    "content/Literature Notes/How to Study Your Bible/How to Study Your Bible.md",
+    "content/Literature Notes/Living by the Book/Living by the Book.md",
+    "content/Literature Notes/How to Read the Bible for All Its Worth/How to Read the Bible for All Its Worth.md",
+    "Attachments/Pasted image 20250822194824.png",
+    "Attachments",
+    "content/Literature Notes/Living by the Book/Untitled.md",
+    "Templates/Source note template.md",
+    "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
+    "content/Literature Notes/How to Read the Bible for All Its Worth",
+    "content/Literature Notes/Living by the Book",
+    "content/Literature Notes/How to Study Your Bible",
+    "content/Literature Notes/How to Take Smart Notes/Types of connections between notes.md",
     "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
     "content/Literature Notes/How to Take Smart Notes/Smart Notes core argument.md",
-    "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
     "content/Literature Notes/How to Take Smart Notes/Zettelkasten.md",
     "content/Literature Notes/How to Take Smart Notes/Insights emerge from unexpected connections.md",
     "content/Literature Notes/How to Take Smart Notes/Fleeting notes are temporary.md",
@@ -312,23 +288,14 @@
     "content/Literature Notes/How to Take Smart Notes/Permanent notes.md",
     "content/Literature Notes/How to Take Smart Notes/Process fleeting notes quickly.md",
     "content/Literature Notes/How to Take Smart Notes/Insight comes from connections.md",
-    "content/Literature Notes/How to Take Smart Notes/Types of connections between notes.md",
     "content/Literature Notes/How to Take Smart Notes/Atomic notes are self-contained.md",
     "content/Literature Notes/How to Take Smart Notes/Atomic notes are permanent.md",
-    "content/Literature Notes/How to Take Smart Notes/Project notes.md",
-    "content/Literature Notes/How to Take Smart Notes/Index notes.md",
-    "content/Literature Notes/How to Take Smart Notes/Literature notes.md",
-    "content/Literature Notes/John/How John talks about belief.md",
-    "content/notes/We must receive or reject Jesus.md",
-    "content/notes/Seeing signs strengthen belief.md",
     "content/Literature Notes/How to Take Smart Notes",
     "content/Literature Notes",
     "content/Literature Notes/Galatians",
     "content/Literature Notes/Ephesians",
     "content/Literature Notes/James",
     "content/notes/note taking",
-    "content/Literature Notes/How to Take Smart Notes",
-    "content/sources",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/Writing-is-Thinking-og-image.webp",
     "public/notes/Writing-is-Iterative-og-image.webp",
@@ -337,9 +304,6 @@
     "public/notes/Signs-in-the-Gospel-of-John-Lead-to-Faith-og-image.webp",
     "public/notes/Semi-private-miracle-Glory-revealed-selectively-og-image.webp",
     "public/notes/Running-out-of-wine-would-shame-the-family-og-image.webp",
-    "public/notes/Observations-vs.-Interpretations-og-image.webp",
-    "public/notes/Observation-Notes-at-Verse-Level-og-image.webp",
-    "public/notes/Zettelkasten-and-Inductive-Bible-Study.html",
-    "public/notes/What-an-Atomic-Note-Is.html"
+    "public/notes/Observations-vs.-Interpretations-og-image.webp"
   ]
 }
