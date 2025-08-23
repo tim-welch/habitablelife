@@ -7,4 +7,4 @@ The original texts do not have chapters, paragraphs or verses. Chapters and vers
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

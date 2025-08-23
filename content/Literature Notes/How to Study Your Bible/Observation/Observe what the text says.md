@@ -8,4 +8,4 @@ When reading a passage it is important to begin by looking at what the text actu
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

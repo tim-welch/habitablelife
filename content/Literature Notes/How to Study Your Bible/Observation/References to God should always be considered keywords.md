@@ -12,4 +12,4 @@ Always treat references to God as keywords. The Bible is the primary way God rev
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

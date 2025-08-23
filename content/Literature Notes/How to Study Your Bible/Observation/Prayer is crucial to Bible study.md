@@ -7,4 +7,4 @@ Always begin with prayer and keep praying when studying the Bible. Ask God to re
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

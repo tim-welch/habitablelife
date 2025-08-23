@@ -7,4 +7,4 @@ Especially in historical and biographical books when the location or time change
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

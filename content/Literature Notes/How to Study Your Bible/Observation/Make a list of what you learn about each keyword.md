@@ -7,4 +7,4 @@ After studying the keywords make a chart/list for each keyword of what you learn
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

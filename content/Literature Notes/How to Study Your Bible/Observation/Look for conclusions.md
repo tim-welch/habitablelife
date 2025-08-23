@@ -8,4 +8,4 @@ For, therefore, because, for this reason, so that, etc. are used to express a co
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

@@ -11,4 +11,4 @@ Book -> Purpose/Book theme, key verse
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

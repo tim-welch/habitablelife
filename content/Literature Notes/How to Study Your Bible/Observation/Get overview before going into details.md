@@ -8,4 +8,4 @@ Create an overview of the book before digging into the details of the individual
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

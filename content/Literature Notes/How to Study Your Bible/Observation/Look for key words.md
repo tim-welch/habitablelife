@@ -9,4 +9,4 @@ Words and phrases that are repeated throughout the book or passage are often the
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

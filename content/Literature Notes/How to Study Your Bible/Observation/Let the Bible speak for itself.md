@@ -7,4 +7,4 @@ Be objective not subjective. Look at what the Bible actually says, not for what 
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]

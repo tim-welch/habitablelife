@@ -13,4 +13,4 @@ tags:
 
 ## Connections
 
-- 
+- [[📖 How to Study Your Bible]]
