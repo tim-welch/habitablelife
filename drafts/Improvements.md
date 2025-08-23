@@ -1,76 +1,206 @@
-## 📌 Review of Observation Notes
 
-### Strengths
-- Notes are **clear, atomic, and in your own words**.  
-- Titles are mostly **action-oriented and practical**.  
-- Faithful to *How to Study Your Bible*, with minimal drift into personal interpretation.  
+### Markup your Bible
 
-### Issues & Suggestions
-- **Redundancy**: Several notes overlap (context/objectivity; keyword strategies).  
-- **Titles**: Some are vague (*Build up*, *Drill down*, *Genres*)—rename to “action + purpose.”  
-- **Literature vs Permanent**: The prayer note leans more toward a permanent note—consider tagging separately.  
-- **Atomicity**: Most notes are solid, but context-related ones could be merged to reduce duplication.  
+**Strength:**  
+Clear, faithful, and clarified as functional not aesthetic.
 
-### Proposed Clusters for Reorganization
+**Issues & Suggestions:**
 
-#### 1. **Keyword Strategies**
-- **Look for key words**:contentReference[oaicite:0]{index=0}  
-- **Focus on one keyword at a time**:contentReference[oaicite:1]{index=1}  
-- **Make a list of what you learn about each keyword**:contentReference[oaicite:2]{index=2}  
-- **References to God should always be considered keywords**:contentReference[oaicite:3]{index=3}  
-
-➡ Suggestion: Consolidate into one “Keyword Strategies” index note, with these as child notes.  
+-  Title could be reframed as **“Mark the text to see patterns”** to emphasize purpose.
+    
+-  No redundancies.
+    
 
 ---
 
-#### 2. **Context & Objectivity**
-- **Get overview before going into details**:contentReference[oaicite:4]{index=4}  
-- **Let the Bible speak for itself**:contentReference[oaicite:5]{index=5}  
-- **Observe what the text says**:contentReference[oaicite:6]{index=6}  
-- **Chapter, paragraph, verse divisions are man made**:contentReference[oaicite:7]{index=7}  
-- **Build up**:contentReference[oaicite:8]{index=8}  
-- **Drill down**:contentReference[oaicite:9]{index=9}  
+### Look for contrasts
 
-➡ Suggestion: These could be grouped as “Contextual Strategies.” Avoid redundancy by distinguishing between:  
-- *Big picture first* (overview, build up, drill down).  
-- *Accuracy/objectivity* (let Bible speak, observe text).  
-- *Cautions about divisions* (chapter/verse).  
+**Strength:**  
+Atomic, now expanded to include why contrasts matter.
+
+**Issues & Suggestions:**
+
+-  Title is precise. No changes needed.
+    
 
 ---
 
-#### 3. **Structural & Thematic Tools**
-- **Look for conclusions**:contentReference[oaicite:10]{index=10}  
-- **Look for the purpose of the book**:contentReference[oaicite:11]{index=11}  
-- **Look for the theme of the book**:contentReference[oaicite:12]{index=12}  
-- **Create an at a glance chart for the book**:contentReference[oaicite:13]{index=13}  
+### Look for key words
 
-➡ Suggestion: Cluster as “Structural/Thematic Strategies.” Could also be linked under “Summarization methods.”  
+**Strength:**  
+Clear and atomic.
 
----
+**Issues & Suggestions:**
 
-#### 4. **Literary Features**
-- **Look for comparisons**:contentReference[oaicite:14]{index=14}  
-- **Look for contrasts**:contentReference[oaicite:15]{index=15}  
-- **Look for location, time, sequence**:contentReference[oaicite:16]{index=16}  
-- **Look for primary events and people**:contentReference[oaicite:17]{index=17}  
-- **Genres**:contentReference[oaicite:18]{index=18}  
-
-➡ Suggestion: Cluster as “Literary/Narrative Features.” Consider merging *location/time/people* into a single “narrative transition markers” note.  
+-  Title is fine.
+    
+-  Some overlap with _References to God are always keywords_ and _Make lists of what you learn_. Could treat those as sub-points of “keyword strategy.”
+    
 
 ---
 
-#### 5. **Study Practices**
-- **Markup your Bible**:contentReference[oaicite:19]{index=19}  
-- **Read repeatedly**:contentReference[oaicite:20]{index=20}  
-- **Look for the obvious**:contentReference[oaicite:21]{index=21}  
-- **Prayer is crucial to Bible study**:contentReference[oaicite:22]{index=22}  
+### Look for location, time, sequence
 
-➡ Suggestion: Keep these as practical methods. Consider tagging *Prayer* as a “practice/permanent note” distinct from observation strategies.  
+**Strength:**  
+Improved with an example (John). Good clarity.
+
+**Issues & Suggestions:**
+
+-  Title is precise and usable.
+    
+-  Slight overlap with _Look for primary events and people_. Could consolidate as “narrative transitions.”
+    
 
 ---
 
-### Next Steps
-- Merge redundancies into the above clusters.  
-- Rename vague titles into “action + purpose” form (e.g., *Build up* → *Themes build from paragraph to Bible*).  
-- Create **structural/index notes** (Keyword Strategies, Context Strategies, etc.) to organize your system for retrieval.  
-- Tag *prayer* separately to avoid blurring literature vs permanent notes.  
+### Look for primary events and people
+
+**Strength:**  
+Expanded to clarify narrative focus.
+
+**Issues & Suggestions:**
+
+-  Title is accurate.
+    
+-  Redundant with _Look for location/time/sequence_ — both highlight narrative transition markers. Could merge under one broader note.
+    
+
+---
+
+### Look for the obvious
+
+**Strength:**  
+Clear, faithful, and expanded to prevent overcomplication.
+
+**Issues & Suggestions:**
+
+-  Title is simple and useful. Keep it.
+    
+
+---
+
+### Look for the purpose of the book
+
+**Strength:**  
+Clear articulation with chapter-level purposes included.
+
+**Issues & Suggestions:**
+
+-  Title is precise.
+    
+-  No redundancies.
+    
+
+---
+
+### Look for the theme of the book
+
+**Strength:**  
+Good expansion with theme → key verse → summary.
+
+**Issues & Suggestions:**
+
+-  Title is fine.
+    
+-  No redundancies.
+    
+
+---
+
+### Make a list of what you learn about each keyword
+
+**Strength:**  
+Clear, atomic, framed as the author’s recommendation.
+
+**Issues & Suggestions:**
+
+-  Could be retitled: **“Chart what you learn about each keyword”** for brevity.
+    
+-  Slight overlap with _Focus on one keyword_ (method of depth).
+    
+
+---
+
+### References to God should always be considered keywords
+
+**Strength:**  
+Clear and strong theological anchor.
+
+**Issues & Suggestions:**
+
+-  Title is long. Consider **“God references are always keywords”**.
+    
+-  Overlaps with _Look for keywords_. Could merge under a “keyword strategies” grouping.
+    
+
+---
+
+### Observe what the text says
+
+**Strength:**  
+Expanded well into a checklist with 5W1H questions.
+
+**Issues & Suggestions:**
+
+-  Title is solid.
+    
+-  Overlaps somewhat with _Let the Bible speak for itself_ and _Overview first_. Consider consolidation into a broader “Context + Objectivity” grouping.
+    
+
+---
+
+### Prayer is crucial to Bible study
+
+**Strength:**  
+Faithful to the author’s teaching, framed as Arthur’s emphasis.
+
+**Issues & Suggestions:**
+
+-  Title is fine, but if you want consistency: **“Prayer is essential for study”**.
+    
+-  This borders on permanent note territory. You may want to tag it differently to distinguish practice vs observation technique.
+    
+
+---
+
+### Read repeatedly
+
+**Strength:**  
+Expanded well with rationale (each reading reveals new insights).
+
+**Issues & Suggestions:**
+
+-  Title is precise and usable.
+    
+
+---
+
+## 📌 Overall Summary
+
+**Strengths:**
+
+- Notes are much improved: clearer, mostly atomic, and in your own words.
+    
+- Titles are action-oriented and easy to retrieve in most cases.
+    
+- You’ve avoided copying; they remain literature notes tied to the author’s teaching.
+    
+
+**Recurring Issues:**
+
+- **Redundancy:** Several notes overlap, especially around **context/objectivity** (Overview first, Let the Bible speak, Observe the text) and **keywords** (Look for keywords, References to God, Make keyword lists). Consider merging or distinguishing roles.
+    
+- **Titles:** A few titles could be sharpened from vague (e.g., _Build up_, _Drill down_, _Genres_).
+    
+- **Literature vs Permanent:** The prayer note especially could blur lines—worth tagging differently.
+    
+- **Atomicity:** Most are atomic, but a few (context-related ones) might benefit from splitting or combining to avoid redundancy.
+    
+
+**Advice Going Forward:**
+
+- When titles are vague, restate them as **“action + purpose”** (e.g., “Mark the text to see patterns”).
+    
+- Merge overlapping notes into **keyword strategies** and **context strategies** to reduce duplication.
+    
+- Keep literature notes strictly as _what the author teaches_; move theological convictions (like prayer) to permanent notes if you want to use them devotionally.

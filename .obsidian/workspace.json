@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Build up.md",
+                "file": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Markup the text to see patterns.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Build up"
+              "title": "Markup the text to see patterns"
             }
           },
           {
@@ -68,7 +68,7 @@
               "type": "markdown",
               "state": {
                 "file": "drafts/Improvements.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 350.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -325,15 +325,22 @@
   },
   "active": "f4e6d1e5a62f577c",
   "lastOpenFiles": [
-    "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Read repeatedly.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Let the Bible speak for itself.md",
     "drafts/Improvements.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Build up.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Overview first prevents misreading details.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Identify genre to guide observation.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/Use at-a-glance charts to summarize.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Man-made divisions can obscure meaning.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Themes build from paragraph to Bible.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Drill down.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Look for conclusions.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Prayer is crucial to Bible study.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Read repeatedly.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Study Practices",
     "content/Literature Notes/How to Study Your Bible/Observation/Literary Features",
     "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools",
     "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity",
     "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies",
-    "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Prayer is crucial to Bible study.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Observe what the text says.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/References to God should always be considered keywords.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Make a list of what you learn about each keyword.md",
@@ -344,16 +351,9 @@
     "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for location, time, sequence.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Look for key words.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for contrasts.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Markup your Bible.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Markup the text to see patterns.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for comparisons.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Let the Bible speak for itself.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Get overview before going into details.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Genres.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Focus on one keyword at a time.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Drill down.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/Create an at a glance chart for the book.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Chapter, paragraph, verse divisions are man made.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Look for conclusions.md",
     "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md",
     "content/Literature Notes/How to Study Your Bible/Observation",
     "Attachments/Pasted image 20250822194824.png",
