@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Study Your Bible/Observation/🧭 Observation Strategies.md",
+                "file": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/🧭 Keyword strategies.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🧭 Observation Strategies"
+              "title": "🧭 Keyword strategies"
             }
           },
           {
@@ -53,38 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Berean Bible verse numbers"
-            }
-          }
-        ]
-      },
-      {
-        "id": "20d7c4aa4b5a2b45",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c3336f0fd0461670",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/Improvements.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Improvements"
             }
           }
         ]
@@ -325,12 +293,12 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "dbbc13162e881098",
+  "active": "f4e6d1e5a62f577c",
   "lastOpenFiles": [
-    "content/Literature Notes/How to Study Your Bible/Interpretation",
-    "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Narrative shifts signal transitions.md",
     "content/Literature Notes/How to Study Your Bible/Observation/🧭 Observation Strategies.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/🧭 Keyword strategies.md",
+    "content/Literature Notes/How to Study Your Bible/Interpretation",
+    "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Narrative shifts signal transitions.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/🧭 Study Practices.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/🧭 Structural & Thematic Tools.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/🧭 Literary Features.md",
@@ -363,7 +331,6 @@
     "Attachments",
     "content/Literature Notes/How to Read the Bible for All Its Worth",
     "content/Literature Notes/Living by the Book",
-    "content/Literature Notes/How to Study Your Bible",
     "public/notes/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/Writing-is-Thinking-og-image.webp",
     "public/notes/Writing-is-Iterative-og-image.webp",
