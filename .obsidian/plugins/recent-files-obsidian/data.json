@@ -1,16 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "🧭 Study Practices",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/🧭 Study Practices.md"
+    },
+    {
+      "basename": "🧭 Structural & Thematic Tools",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/🧭 Structural & Thematic Tools.md"
+    },
+    {
+      "basename": "🧭 Literary Features",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/🧭 Literary Features.md"
+    },
+    {
+      "basename": "🧭 Keyword strategies",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/🧭 Keyword strategies.md"
+    },
+    {
+      "basename": "🧭 Context & Objectivity",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/🧭 Context & Objectivity.md"
+    },
+    {
+      "basename": "🧭 Smart Notes core argument",
+      "path": "content/Literature Notes/How to Take Smart Notes/🧭 Smart Notes core argument.md"
+    },
+    {
+      "basename": "Look for contrasts",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for contrasts.md"
+    },
+    {
+      "basename": "Improvements",
+      "path": "drafts/Improvements.md"
+    },
+    {
+      "basename": "Observe what the text says",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Observe what the text says.md"
+    },
+    {
+      "basename": "God references are keywords",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/God references are keywords.md"
+    },
+    {
+      "basename": "List what you learn about each keyword",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/List what you learn about each keyword.md"
+    },
+    {
+      "basename": "Narrative shifts signal transitions",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Narrative shifts signal transitions.md"
+    },
+    {
+      "basename": "Look for keywords",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Look for keywords.md"
+    },
+    {
       "basename": "Markup the text to see patterns",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Markup the text to see patterns.md"
     },
     {
       "basename": "Let the Bible speak for itself",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Let the Bible speak for itself.md"
-    },
-    {
-      "basename": "Improvements",
-      "path": "drafts/Improvements.md"
     },
     {
       "basename": "Overview first prevents misreading details",
@@ -34,7 +82,7 @@
     },
     {
       "basename": "Look for conclusions",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Look for conclusions.md"
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for conclusions.md"
     },
     {
       "basename": "Prayer is crucial to Bible study",
@@ -43,18 +91,6 @@
     {
       "basename": "Read repeatedly",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Read repeatedly.md"
-    },
-    {
-      "basename": "Observe what the text says",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Observe what the text says.md"
-    },
-    {
-      "basename": "References to God should always be considered keywords",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/References to God should always be considered keywords.md"
-    },
-    {
-      "basename": "Make a list of what you learn about each keyword",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Make a list of what you learn about each keyword.md"
     },
     {
       "basename": "Look for the theme of the book",
@@ -67,22 +103,6 @@
     {
       "basename": "Look for the obvious",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Look for the obvious.md"
-    },
-    {
-      "basename": "Look for primary events and people",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for primary events and people.md"
-    },
-    {
-      "basename": "Look for location, time, sequence",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for location, time, sequence.md"
-    },
-    {
-      "basename": "Look for key words",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Look for key words.md"
-    },
-    {
-      "basename": "Look for contrasts",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for contrasts.md"
     },
     {
       "basename": "Look for comparisons",
@@ -111,10 +131,6 @@
     {
       "basename": "🧭 Smart Notes workflow",
       "path": "content/Literature Notes/How to Take Smart Notes/🧭 Smart Notes workflow.md"
-    },
-    {
-      "basename": "🧭 Smart Notes core argument",
-      "path": "content/Literature Notes/How to Take Smart Notes/🧭 Smart Notes core argument.md"
     },
     {
       "basename": "📖 How to Take Smart Notes",
@@ -183,18 +199,6 @@
     {
       "basename": "Process fleeting notes quickly",
       "path": "content/Literature Notes/How to Take Smart Notes/Process fleeting notes quickly.md"
-    },
-    {
-      "basename": "Insight comes from connections",
-      "path": "content/Literature Notes/How to Take Smart Notes/Insight comes from connections.md"
-    },
-    {
-      "basename": "Atomic notes are self-contained",
-      "path": "content/Literature Notes/How to Take Smart Notes/Atomic notes are self-contained.md"
-    },
-    {
-      "basename": "Atomic notes are permanent",
-      "path": "content/Literature Notes/How to Take Smart Notes/Atomic notes are permanent.md"
     }
   ],
   "omittedPaths": [
