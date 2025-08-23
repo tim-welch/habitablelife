@@ -15,7 +15,17 @@
               "state": {
                 "file": "content/Literature Notes/How to Read the Bible for All Its Worth/How to Read the Bible for All Its Worth.md",
                 "mode": "preview",
-                "source": true
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "How to Read the Bible for All Its Worth"
@@ -229,6 +239,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
       "cmdr:Home": false,
