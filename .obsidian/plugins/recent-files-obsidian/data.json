@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "📖 How to Study Your Bible",
+      "path": "content/Literature Notes/How to Study Your Bible/📖 How to Study Your Bible.md"
+    },
+    {
+      "basename": "🧠 Smart Note Literature Reviewer GPT",
+      "path": "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md"
+    },
+    {
       "basename": "Markup your Bible",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Markup your Bible.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "Build up",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Build up.md"
-    },
-    {
-      "basename": "📖 How to Study Your Bible",
-      "path": "content/Literature Notes/How to Study Your Bible/📖 How to Study Your Bible.md"
     },
     {
       "basename": "Job 11",
@@ -195,10 +199,6 @@
     {
       "basename": "Index notes",
       "path": "content/Literature Notes/How to Take Smart Notes/Index notes.md"
-    },
-    {
-      "basename": "Literature notes",
-      "path": "content/Literature Notes/How to Take Smart Notes/Literature notes.md"
     }
   ],
   "omittedPaths": [

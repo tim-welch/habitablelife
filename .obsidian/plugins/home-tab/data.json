@@ -24,7 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "content/Literature Notes/How to Study Your Bible/Observation/Untitled.md",
+      "filepath": "content/Literature Notes/How to Study Your Bible/📖 How to Study Your Bible.md",
+      "timestamp": 1755956703836
+    },
+    {
+      "filepath": "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md",
+      "timestamp": 1755956356848
+    },
+    {
+      "filepath": "content/Literature Notes/How to Study Your Bible/Observation/Markup your Bible.md",
       "timestamp": 1755947072792
     },
     {
@@ -34,14 +42,6 @@
     {
       "filepath": "content/Literature Notes/How to Study Your Bible/Observation/Read repeatedly.md",
       "timestamp": 1755947061357
-    },
-    {
-      "filepath": "content/Literature Notes/How to Study Your Bible/Observation/Prayer is crucial to Bible study.md",
-      "timestamp": 1755947058344
-    },
-    {
-      "filepath": "content/Literature Notes/How to Study Your Bible/Observation/Observe what the text says.md",
-      "timestamp": 1755947055699
     }
   ],
   "bookmarkedFileStore": [],
