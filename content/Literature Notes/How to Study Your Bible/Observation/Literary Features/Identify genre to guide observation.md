@@ -18,3 +18,4 @@ Every sentence is written in a particular genre. Typically a book is written in 
 ## Connections
 
 - [[📖 How to Study Your Bible]]
+- [[Look for the purpose of the book]]

@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "🧭 Observation Strategies",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/🧭 Observation Strategies.md"
+    },
+    {
+      "basename": "Narrative shifts signal transitions",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Narrative shifts signal transitions.md"
+    },
+    {
+      "basename": "🧭 Keyword strategies",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/🧭 Keyword strategies.md"
+    },
+    {
       "basename": "🧭 Study Practices",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/🧭 Study Practices.md"
     },
@@ -13,12 +25,44 @@
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/🧭 Literary Features.md"
     },
     {
-      "basename": "🧭 Keyword strategies",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/🧭 Keyword strategies.md"
-    },
-    {
       "basename": "🧭 Context & Objectivity",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/🧭 Context & Objectivity.md"
+    },
+    {
+      "basename": "Use at-a-glance charts to summarize",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/Use at-a-glance charts to summarize.md"
+    },
+    {
+      "basename": "Read repeatedly",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Read repeatedly.md"
+    },
+    {
+      "basename": "Overview first prevents misreading details",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Overview first prevents misreading details.md"
+    },
+    {
+      "basename": "Identify genre to guide observation",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Identify genre to guide observation.md"
+    },
+    {
+      "basename": "Look for comparisons",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for comparisons.md"
+    },
+    {
+      "basename": "Look for the purpose of the book",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/Look for the purpose of the book.md"
+    },
+    {
+      "basename": "Look for the theme of the book",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/Look for the theme of the book.md"
+    },
+    {
+      "basename": "Prayer is crucial to Bible study",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Prayer is crucial to Bible study.md"
+    },
+    {
+      "basename": "Markup the text to see patterns",
+      "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Markup the text to see patterns.md"
     },
     {
       "basename": "🧭 Smart Notes core argument",
@@ -45,32 +89,12 @@
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/List what you learn about each keyword.md"
     },
     {
-      "basename": "Narrative shifts signal transitions",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Narrative shifts signal transitions.md"
-    },
-    {
       "basename": "Look for keywords",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Look for keywords.md"
     },
     {
-      "basename": "Markup the text to see patterns",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Markup the text to see patterns.md"
-    },
-    {
       "basename": "Let the Bible speak for itself",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Let the Bible speak for itself.md"
-    },
-    {
-      "basename": "Overview first prevents misreading details",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Overview first prevents misreading details.md"
-    },
-    {
-      "basename": "Identify genre to guide observation",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Identify genre to guide observation.md"
-    },
-    {
-      "basename": "Use at-a-glance charts to summarize",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/Use at-a-glance charts to summarize.md"
     },
     {
       "basename": "Man-made divisions can obscure meaning",
@@ -85,28 +109,8 @@
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for conclusions.md"
     },
     {
-      "basename": "Prayer is crucial to Bible study",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Prayer is crucial to Bible study.md"
-    },
-    {
-      "basename": "Read repeatedly",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Read repeatedly.md"
-    },
-    {
-      "basename": "Look for the theme of the book",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/Look for the theme of the book.md"
-    },
-    {
-      "basename": "Look for the purpose of the book",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/Look for the purpose of the book.md"
-    },
-    {
       "basename": "Look for the obvious",
       "path": "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Look for the obvious.md"
-    },
-    {
-      "basename": "Look for comparisons",
-      "path": "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for comparisons.md"
     },
     {
       "basename": "Focus on one keyword at a time",
@@ -195,10 +199,6 @@
     {
       "basename": "Permanent notes",
       "path": "content/Literature Notes/How to Take Smart Notes/Permanent notes.md"
-    },
-    {
-      "basename": "Process fleeting notes quickly",
-      "path": "content/Literature Notes/How to Take Smart Notes/Process fleeting notes quickly.md"
     }
   ],
   "omittedPaths": [

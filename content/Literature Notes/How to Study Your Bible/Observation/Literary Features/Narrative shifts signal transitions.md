@@ -11,3 +11,4 @@ For example, in the Gospel of John, John often uses temporal and geographical ch
 ## Connections
 
 - [[📖 How to Study Your Bible]]
+- [[Themes build from paragraph to Bible]]

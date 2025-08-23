@@ -9,3 +9,4 @@ The purpose of the book is the key to understanding it, especially for the epist
 ## Connections
 
 - [[📖 How to Study Your Bible]]
+- [[Overview first prevents misreading details]]
