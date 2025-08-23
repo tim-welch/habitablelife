@@ -7,5 +7,5 @@ Connections come in many flavors. Notes might build on the idea expressed in ano
 
 ## Connections
 
-- [[How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes]]
 - [[Insight comes from connections]]

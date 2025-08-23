@@ -7,5 +7,5 @@ By working in a [[Zettelkasten]] you have access to all of your notes. This allo
 
 ## Connections
 
-- [[How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes]]
 - [[Insight comes from connections]]
