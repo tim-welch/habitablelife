@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Study Your Bible/📖 How to Study Your Bible.md",
+                "file": "content/Literature Notes/How to Study Your Bible/Observation/Create an at a glance chart for the book.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,61 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📖 How to Study Your Bible"
+              "title": "Create an at a glance chart for the book"
+            }
+          },
+          {
+            "id": "58c22b817ef1ed33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/Berean Bible verse numbers.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Berean Bible verse numbers"
+            }
+          }
+        ]
+      },
+      {
+        "id": "20d7c4aa4b5a2b45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3336f0fd0461670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Improvements.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Improvements"
             }
           }
         ]
@@ -103,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 384.5
+    "width": 384.5,
+    "collapsed": true
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -271,7 +326,12 @@
   },
   "active": "f4e6d1e5a62f577c",
   "lastOpenFiles": [
+    "content/Literature Notes/How to Study Your Bible/Observation/Chapter, paragraph, verse divisions are man made.md",
+    "drafts/Improvements.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Build up.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Look for conclusions.md",
     "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md",
+    "Bible/Berean Bible verse numbers.md",
     "content/Literature Notes/How to Study Your Bible/📖 How to Study Your Bible.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Markup your Bible.md",
     "content/Literature Notes/How to Study Your Bible/Observation/References to God should always be considered keywords.md",
@@ -286,18 +346,13 @@
     "content/Literature Notes/How to Study Your Bible/Observation/Look for location, time, sequence.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Look for key words.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Look for contrasts.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Look for conclusions.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Look for comparisons.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Let the Bible speak for itself.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Get overview before going into details.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Genres.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Focus on one keyword at a time.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Drill down.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Create an at a glance chart for the book.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Chapter, paragraph, verse divisions are man made.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Build up.md",
     "content/Literature Notes/How to Study Your Bible/Observation",
-    "content/Literature Notes/How to Study Your Bible/How to Study Your Bible.md",
     "Attachments/Pasted image 20250822194824.png",
     "Attachments",
     "content/Literature Notes/How to Read the Bible for All Its Worth",
