@@ -15,5 +15,5 @@ By separating these tasks into distinct steps you can focus on each one in its o
 
 ## Connections
 
-- [[00 - How to Take Smart Notes]]
-- [[02 - Smart Notes workflow]]
+- [[📖 How to Take Smart Notes]]
+- [[🧭 Smart Notes workflow]]

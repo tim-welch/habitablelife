@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/Living by the Book/00 - Living by the Book.md",
-                "mode": "preview",
+                "file": "content/Literature Notes/How to Study Your Bible/Inductive Bible Study.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "00 - Living by the Book"
+              "title": "Inductive Bible Study"
             }
           }
         ]
@@ -271,12 +271,20 @@
   },
   "active": "f4e6d1e5a62f577c",
   "lastOpenFiles": [
-    "content/Literature Notes/How to Study Your Bible/00 - How to Study Your Bible.md",
-    "content/Literature Notes/How to Read the Bible for All Its Worth/00 - How to Read the Bible for All Its Worth.md",
-    "content/Literature Notes/How to Take Smart Notes/02 - Smart Notes workflow.md",
-    "content/Literature Notes/How to Take Smart Notes/00 - How to Take Smart Notes.md",
-    "content/Literature Notes/How to Take Smart Notes/01 - Smart Notes core argument.md",
-    "content/Literature Notes/Living by the Book/00 - Living by the Book.md",
+    "content/Literature Notes/How to Read the Bible for All Its Worth/How to Read the Bible for All Its Worth.md",
+    "content/Literature Notes/How to Study Your Bible/How to Study Your Bible.md",
+    "content/Literature Notes/Living by the Book/Living by the Book.md",
+    "content/Literature Notes/How to Take Smart Notes/Smart Notes core argument.md",
+    "content/Literature Notes/How to Take Smart Notes/Smart Notes workflow.md",
+    "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md",
+    "content/Bible/BSB/18-Job/Job 11.md",
+    "content/Literature Notes/How to Study Your Bible/Inductive Bible Study.md",
+    "content/Literature Notes/How to Take Smart Notes/🧭 Smart Notes workflow.md",
+    "content/Literature Notes/How to Take Smart Notes/🧭 Smart Notes core argument.md",
+    "content/Literature Notes/How to Take Smart Notes/📖 How to Take Smart Notes.md",
+    "content/Literature Notes/How to Read the Bible for All Its Worth/📖 How to Read the Bible for All Its Worth.md",
+    "content/Literature Notes/How to Study Your Bible/📖 How to Study Your Bible.md",
+    "content/Literature Notes/Living by the Book/📖Living by the Book.md",
     "Attachments/Pasted image 20250822194824.png",
     "Attachments",
     "content/Literature Notes/Living by the Book/Untitled.md",
@@ -294,13 +302,6 @@
     "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md",
     "content/Literature Notes/How to Take Smart Notes/Writing is Thinking.md",
     "content/Literature Notes/How to Take Smart Notes/Networked note taking.md",
-    "content/Literature Notes/How to Take Smart Notes/Inspiration for permanent notes.md",
-    "content/Literature Notes/How to Take Smart Notes/Permanent notes may be derived from literature notes.md",
-    "content/Literature Notes/How to Take Smart Notes/Permanent notes.md",
-    "content/Literature Notes/How to Take Smart Notes/Process fleeting notes quickly.md",
-    "content/Literature Notes/How to Take Smart Notes/Insight comes from connections.md",
-    "content/Literature Notes/How to Take Smart Notes/Atomic notes are self-contained.md",
-    "content/Literature Notes/How to Take Smart Notes/Atomic notes are permanent.md",
     "content/Literature Notes/How to Take Smart Notes",
     "content/Literature Notes",
     "content/Literature Notes/Galatians",

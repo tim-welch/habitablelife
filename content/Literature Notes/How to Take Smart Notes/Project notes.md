@@ -7,5 +7,5 @@ Project notes are kind of like index notes, but instead of listing jumping off p
 
 ## Connections
 
-- [[00 - How to Take Smart Notes]]
+- [[📖 How to Take Smart Notes]]
 - [[Index notes]]

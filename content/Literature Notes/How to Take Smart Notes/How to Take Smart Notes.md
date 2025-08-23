@@ -12,6 +12,6 @@ tags:
 - https://www.amazon.com/dp/1542866502
 
 ## Overview
-- Philosophy: [[01 - Smart Notes core argument]]
-- Practice: [[02 - Smart Notes workflow]]
+- Philosophy: [[Smart Notes core argument]]
+- Practice: [[Smart Notes workflow]]
 - Supporting Principles: [[Separation of tasks]], [[Insights emerge from unexpected connections]], [[Zettelkasten]]

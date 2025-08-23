@@ -7,5 +7,5 @@ They contain all relevant information in themselves, including references to sou
 
 ## Connections
 
-- [[00 - How to Take Smart Notes]]
+- [[📖 How to Take Smart Notes]]
 - [[Atomic notes are complete]]

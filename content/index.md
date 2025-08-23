@@ -6,4 +6,4 @@ tags:
 
 - [[Inductive Bible Study Method]]
 - [[The Gospel of John]]
-- [[00 - How to Take Smart Notes]]
+- [[📖 How to Take Smart Notes]]

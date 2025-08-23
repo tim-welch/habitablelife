@@ -7,4 +7,4 @@ Index notes are notes that list possible starting places for different topics. F
 
 ## Connections
 
-- [[00 - How to Take Smart Notes]]
+- [[📖 How to Take Smart Notes]]

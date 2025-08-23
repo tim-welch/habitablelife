@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "00 - Living by the Book",
-      "path": "content/Literature Notes/Living by the Book/00 - Living by the Book.md"
+      "basename": "Inductive Bible Study",
+      "path": "content/Literature Notes/How to Study Your Bible/Inductive Bible Study.md"
     },
     {
-      "basename": "00 - How to Study Your Bible",
-      "path": "content/Literature Notes/How to Study Your Bible/00 - How to Study Your Bible.md"
+      "basename": "Job 11",
+      "path": "content/Bible/BSB/18-Job/Job 11.md"
     },
     {
-      "basename": "00 - How to Read the Bible for All Its Worth",
-      "path": "content/Literature Notes/How to Read the Bible for All Its Worth/00 - How to Read the Bible for All Its Worth.md"
+      "basename": "🧭 Smart Notes workflow",
+      "path": "content/Literature Notes/How to Take Smart Notes/🧭 Smart Notes workflow.md"
     },
     {
-      "basename": "02 - Smart Notes workflow",
-      "path": "content/Literature Notes/How to Take Smart Notes/02 - Smart Notes workflow.md"
+      "basename": "🧭 Smart Notes core argument",
+      "path": "content/Literature Notes/How to Take Smart Notes/🧭 Smart Notes core argument.md"
     },
     {
-      "basename": "00 - How to Take Smart Notes",
-      "path": "content/Literature Notes/How to Take Smart Notes/00 - How to Take Smart Notes.md"
+      "basename": "📖 How to Take Smart Notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/📖 How to Take Smart Notes.md"
     },
     {
-      "basename": "01 - Smart Notes core argument",
-      "path": "content/Literature Notes/How to Take Smart Notes/01 - Smart Notes core argument.md"
+      "basename": "📖 How to Read the Bible for All Its Worth",
+      "path": "content/Literature Notes/How to Read the Bible for All Its Worth/📖 How to Read the Bible for All Its Worth.md"
+    },
+    {
+      "basename": "📖 How to Study Your Bible",
+      "path": "content/Literature Notes/How to Study Your Bible/📖 How to Study Your Bible.md"
+    },
+    {
+      "basename": "📖Living by the Book",
+      "path": "content/Literature Notes/Living by the Book/📖Living by the Book.md"
     },
     {
       "basename": "Source note template",
@@ -191,14 +199,6 @@
     {
       "basename": "Signs in John",
       "path": "content/Literature Notes/John/Signs in John.md"
-    },
-    {
-      "basename": "Signs in the Gospel of John Lead to Faith",
-      "path": "content/Literature Notes/John/Signs in the Gospel of John Lead to Faith.md"
-    },
-    {
-      "basename": "The Wedding at Cana",
-      "path": "content/Literature Notes/John/The Wedding at Cana.md"
     }
   ],
   "omittedPaths": [
