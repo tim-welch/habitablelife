@@ -14,7 +14,7 @@
     "public/"
   ],
   "attachmentFolderPath": "Attachments",
-  "showInlineTitle": false,
+  "showInlineTitle": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "drafts",
   "newLinkFormat": "shortest",
