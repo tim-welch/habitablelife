@@ -7,5 +7,5 @@ You won't see everything the first time through, so read the whole book repeated
 
 ## Connections
 
-- [[📖 How to Study Your Bible]]
+- [[00 - How to Study Your Bible]]
 - [[Overview first prevents misreading details]]

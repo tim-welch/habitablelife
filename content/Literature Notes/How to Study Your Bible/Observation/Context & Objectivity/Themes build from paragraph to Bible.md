@@ -15,4 +15,4 @@ By paying attention to how parts and wholes interact, you avoid misreading isola
 
 ## Connections
 
-- [[📖 How to Study Your Bible]]
+- [[00 - How to Study Your Bible]]

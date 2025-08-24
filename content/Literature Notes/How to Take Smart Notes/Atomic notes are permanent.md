@@ -6,4 +6,4 @@ tags:
 Atomic notes are meant to be kept forever. 
 
 ## Connections
-- [[📖 How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes]]

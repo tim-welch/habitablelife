@@ -7,4 +7,4 @@ Literature notes are ideas you found interesting in the book you are reading wri
 
 ## Connections
 
-- [[📖 How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes]]

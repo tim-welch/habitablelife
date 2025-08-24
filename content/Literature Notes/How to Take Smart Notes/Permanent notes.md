@@ -7,4 +7,4 @@ Permanent notes are your own ideas.
 
 ## Connections
 
-- [[📖 How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes]]

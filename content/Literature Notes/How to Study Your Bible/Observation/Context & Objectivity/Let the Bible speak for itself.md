@@ -7,4 +7,4 @@ Be objective not subjective. You are not trying to see what it says to you, spec
 
 ## Connections
 
-- [[📖 How to Study Your Bible]]
+- [[00 - How to Study Your Bible]]

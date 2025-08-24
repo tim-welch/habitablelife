@@ -7,4 +7,4 @@ Like and as often compare two things. Look for these comparisons. For example, i
 
 ## Connections
 
-- [[📖 How to Study Your Bible]]
+- [[00 - How to Study Your Bible]]

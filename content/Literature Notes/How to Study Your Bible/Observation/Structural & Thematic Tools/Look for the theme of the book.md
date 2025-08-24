@@ -7,5 +7,5 @@ Keywords reveal the subjects. The subjects reveal the theme of the book. The the
 
 ## Connections
 
-- [[📖 How to Study Your Bible]]
+- [[00 - How to Study Your Bible]]
 - [[Look for keywords]]

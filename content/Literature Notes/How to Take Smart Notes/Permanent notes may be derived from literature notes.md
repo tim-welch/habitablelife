@@ -7,5 +7,5 @@ Permanent notes may be derived from your literature notes, but are not simply re
 
 ## Connections
 
-- [[📖 How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes]]
 - [[Permanent notes]]

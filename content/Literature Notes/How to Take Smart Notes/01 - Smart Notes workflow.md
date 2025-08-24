@@ -32,4 +32,4 @@ tags:
 
 ## Connections
 
-- [[📖 How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes]]

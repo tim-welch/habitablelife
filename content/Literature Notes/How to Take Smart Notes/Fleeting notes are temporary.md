@@ -7,4 +7,4 @@ Fleeting notes are quick notes of ideas you want to pursue later, but don't want
 
 ## Connections
 
-- [[📖 How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes]]

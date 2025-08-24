@@ -44,4 +44,4 @@ Ahrens argues that the value of note-taking lies not in isolated records, but in
 
 ## Connections
 
-- [[📖 How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes]]

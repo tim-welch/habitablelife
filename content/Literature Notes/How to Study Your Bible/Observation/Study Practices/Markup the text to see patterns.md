@@ -7,5 +7,5 @@ When observing what the text says, mark up the text. Highlight key words, draw i
 
 ## Connections
 
-- [[📖 How to Study Your Bible]]
+- [[00 - How to Study Your Bible]]
 - [[Look for keywords]]

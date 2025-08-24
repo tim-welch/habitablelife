@@ -15,5 +15,5 @@ Book -> Purpose/Book theme, key verse
 
 ## Connections
 
-- [[📖 How to Study Your Bible]]
+- [[00 - How to Study Your Bible]]
 - [[Themes build from paragraph to Bible]]

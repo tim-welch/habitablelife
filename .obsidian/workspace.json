@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Study Your Bible/Observation/🧭 Observation Strategies.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🧭 Observation Strategies"
+              "title": "index"
             }
           },
           {
@@ -293,7 +293,7 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "dbbc13162e881098",
+  "active": "f4e6d1e5a62f577c",
   "lastOpenFiles": [
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/note-taking/Verse-Headings-Inside-Chapters-og-image.webp",
@@ -306,23 +306,27 @@
     "public/notes/note-taking/Interpret-what-this-passage-means-og-image.webp",
     "public/notes/note-taking/Inductive-Bible-Study-Method-og-image.webp",
     "public/notes/note-taking/Bible-Text-Granularity-og-image.webp",
-    "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study.html",
-    "public/notes/note-taking/Verse-Headings-Inside-Chapters.html",
-    "public/notes/note-taking/Understanding-presuppositions-in-Bible-study.html",
-    "public/notes/note-taking/Observe-what-this-passage-says.html",
-    "public/notes/note-taking/Observations-vs.-Interpretations.html",
-    "public/notes/note-taking/Observation-Notes-at-Verse-Level.html",
-    "public/notes/note-taking/Mapping-Inductive-Study-to-Zettelkasten.html",
-    "public/notes/note-taking/Interpretations-as-Permanent-Notes.html",
-    "public/notes/note-taking/Interpret-what-this-passage-means.html",
-    "public/notes/note-taking/Bible-Text-Granularity.html",
-    "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/🧭 Keyword strategies.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/🧭 Observation Strategies.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/02 - Context & Objectivity.md",
+    "public/Bible/BSB/66-Revelation/Revelation-9.html",
+    "public/Bible/BSB/66-Revelation/Revelation-6.html",
+    "public/Bible/BSB/66-Revelation/Revelation-8.html",
+    "public/Bible/BSB/66-Revelation/Revelation-7.html",
+    "public/Bible/BSB/66-Revelation/Revelation-4.html",
+    "public/Bible/BSB/66-Revelation/Revelation-5.html",
+    "public/Bible/BSB/66-Revelation/Revelation-3.html",
+    "public/Bible/BSB/66-Revelation/Revelation-22.html",
+    "public/Bible/BSB/66-Revelation/Revelation-21.html",
+    "public/Bible/BSB/66-Revelation/Revelation-20.html",
+    "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/02 - Literary Features.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/02 - Structural & Thematic Tools.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/02 - Study Practices.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/02 - Keyword strategies.md",
+    "content/Literature Notes/How to Study Your Bible/00 - How to Study Your Bible.md",
+    "content/Literature Notes/How to Take Smart Notes/01 - Smart Notes workflow.md",
+    "content/Literature Notes/How to Take Smart Notes/01 - Smart Notes core argument.md",
+    "content/Literature Notes/How to Take Smart Notes/00 - How to Take Smart Notes.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/01 - Observation Strategies.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Narrative shifts signal transitions.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/🧭 Study Practices.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/🧭 Structural & Thematic Tools.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/🧭 Literary Features.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/🧭 Context & Objectivity.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/Use at-a-glance charts to summarize.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Read repeatedly.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Overview first prevents misreading details.md",
@@ -332,14 +336,10 @@
     "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/Look for the theme of the book.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Prayer is crucial to Bible study.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/Markup the text to see patterns.md",
-    "content/Literature Notes/How to Take Smart Notes/🧭 Smart Notes core argument.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for contrasts.md",
     "drafts/Improvements.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Observe what the text says.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/God references are keywords.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/List what you learn about each keyword.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Look for primary events and people.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/Look for keywords.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Let the Bible speak for itself.md"
+    "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/List what you learn about each keyword.md"
   ]
 }

@@ -6,6 +6,6 @@ It is important that atomic notes capture the full, complete idea so that when r
 
 ## Connections
 
-- [[📖 How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes]]
 - [[Atomic notes are permanent]]
 - [[Writing is Iterative]]
