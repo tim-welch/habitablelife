@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/🧭 Keyword strategies.md",
+                "file": "content/Literature Notes/How to Study Your Bible/Observation/🧭 Observation Strategies.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🧭 Keyword strategies"
+              "title": "🧭 Observation Strategies"
             }
           },
           {
@@ -293,7 +293,7 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "f4e6d1e5a62f577c",
+  "active": "dbbc13162e881098",
   "lastOpenFiles": [
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/note-taking/Verse-Headings-Inside-Chapters-og-image.webp",
@@ -306,18 +306,18 @@
     "public/notes/note-taking/Interpret-what-this-passage-means-og-image.webp",
     "public/notes/note-taking/Inductive-Bible-Study-Method-og-image.webp",
     "public/notes/note-taking/Bible-Text-Granularity-og-image.webp",
-    "public/Literature-Notes/How-to-Study-Your-Bible/Observation/Literary-Features/Narrative-shifts-signal-transitions.html",
-    "public/Literature-Notes/How-to-Study-Your-Bible/Observation/Literary-Features/🧭-Literary-Features.html",
-    "public/Literature-Notes/How-to-Study-Your-Bible/Observation/Literary-Features/Look-for-contrasts.html",
-    "public/Literature-Notes/How-to-Study-Your-Bible/Observation/Literary-Features/Look-for-conclusions.html",
-    "public/Literature-Notes/How-to-Study-Your-Bible/Observation/Literary-Features/Look-for-comparisons.html",
-    "public/Literature-Notes/How-to-Study-Your-Bible/Observation/Literary-Features/index.html",
-    "public/Literature-Notes/How-to-Study-Your-Bible/Observation/Literary-Features/Identify-genre-to-guide-observation.html",
-    "public/Literature-Notes/How-to-Study-Your-Bible/Observation/Study-Practices/🧭-Study-Practices.html",
-    "public/Literature-Notes/How-to-Study-Your-Bible/Observation/Study-Practices/Read-repeatedly.html",
-    "public/Literature-Notes/How-to-Study-Your-Bible/Observation/Study-Practices/Prayer-is-crucial-to-Bible-study.html",
-    "content/Literature Notes/How to Study Your Bible/Observation/🧭 Observation Strategies.md",
+    "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study.html",
+    "public/notes/note-taking/Verse-Headings-Inside-Chapters.html",
+    "public/notes/note-taking/Understanding-presuppositions-in-Bible-study.html",
+    "public/notes/note-taking/Observe-what-this-passage-says.html",
+    "public/notes/note-taking/Observations-vs.-Interpretations.html",
+    "public/notes/note-taking/Observation-Notes-at-Verse-Level.html",
+    "public/notes/note-taking/Mapping-Inductive-Study-to-Zettelkasten.html",
+    "public/notes/note-taking/Interpretations-as-Permanent-Notes.html",
+    "public/notes/note-taking/Interpret-what-this-passage-means.html",
+    "public/notes/note-taking/Bible-Text-Granularity.html",
     "content/Literature Notes/How to Study Your Bible/Observation/Keyword Strategies/🧭 Keyword strategies.md",
+    "content/Literature Notes/How to Study Your Bible/Observation/🧭 Observation Strategies.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Literary Features/Narrative shifts signal transitions.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Study Practices/🧭 Study Practices.md",
     "content/Literature Notes/How to Study Your Bible/Observation/Structural & Thematic Tools/🧭 Structural & Thematic Tools.md",

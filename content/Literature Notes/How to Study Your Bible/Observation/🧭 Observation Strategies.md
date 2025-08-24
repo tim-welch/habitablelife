@@ -7,7 +7,7 @@ Observation is the first step in Bible study: looking carefully at what the text
 
 These strategies are organized into five clusters:
 
-- [[🧭 Keyword Strategies]] – Focused on identifying and tracing keywords, the building blocks of meaning.  
+- [[🧭 Keyword strategies]] – Focused on identifying and tracing keywords, the building blocks of meaning.  
 - [[🧭 Study Practices]] – The habits and practices that sustain careful observation (e.g., prayer, repeated reading, marking the text).  
 - [[🧭 Structural & Thematic Tools]] – How to discover purposes, themes, and summarize sections of Scripture.  
 - [[🧭 Literary Features]] – Recognizing comparisons, contrasts, conclusions, genre, and narrative shifts as interpretive cues.  
