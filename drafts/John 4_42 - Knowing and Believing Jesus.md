@@ -11,5 +11,5 @@ The people explained that their belief was first based on the woman’s testimon
 ## Connections
 - [[The Gospel of John]]
 - [[Testimony leading to belief]]
-- [[Belief in Jesus’ words]]
+- [[Belief in Jesus’ words and teaching]]
 - [[John 4#42|4:42]]

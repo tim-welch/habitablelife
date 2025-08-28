@@ -421,7 +421,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 4_53 - Household Belief.md",
+                "file": "drafts/John 4_21 - Believing Jesus on Worship.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -436,11 +436,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 4_53 - Household Belief"
+              "title": "John 4_21 - Believing Jesus on Worship"
+            }
+          },
+          {
+            "id": "538dfdf14a3bf679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 5_24 - Belief and Eternal Life.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 5_24 - Belief and Eternal Life"
+            }
+          },
+          {
+            "id": "5c338090242c615c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 5_38 - Failure to Believe.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 5_38 - Failure to Believe"
+            }
+          },
+          {
+            "id": "81f6ff84e69df035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 5_44 - Glory and Belief.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 5_44 - Glory and Belief"
+            }
+          },
+          {
+            "id": "cb1bcebdecd8f31f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 5_46 - Belief in Moses and Jesus.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 5_46 - Belief in Moses and Jesus"
+            }
+          },
+          {
+            "id": "0abf9353eceb72b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 5_47 - Unbelief in Scripture and Jesus.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 5_47 - Unbelief in Scripture and Jesus"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -529,7 +649,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/John 4_53 - Household Belief.md",
+                "file": "drafts/John 5_47 - Unbelief in Scripture and Jesus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -539,7 +659,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for John 4_53 - Household Belief"
+              "title": "Backlinks for John 5_47 - Unbelief in Scripture and Jesus"
             }
           },
           {
@@ -608,7 +728,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "drafts/John 4_53 - Household Belief.md",
+                "file": "drafts/John 5_47 - Unbelief in Scripture and Jesus.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -636,7 +756,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of John 4_53 - Household Belief"
+              "title": "Graph of John 5_47 - Unbelief in Scripture and Jesus"
             }
           }
         ]
@@ -677,20 +797,25 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "834ff9c25e2d42ef",
+  "active": "0abf9353eceb72b6",
   "lastOpenFiles": [
-    "drafts/John 4_50 - Belief Before the Sign.md",
-    "drafts/John 4_53 - Household Belief.md",
-    "drafts/John 4_48 - Belief and Signs.md",
-    "drafts/John 4_42 - Knowing and Believing Jesus.md",
-    "drafts/John 4_41 - Belief from Jesus’ Message.md",
-    "drafts/John 4_39 - Belief from Testimony.md",
-    "drafts/John 1_7 - Testimony for Belief.md",
+    "drafts/John 5_46 - Belief in Moses and Jesus.md",
+    "drafts/John 5_47 - Unbelief in Scripture and Jesus.md",
+    "drafts/John 5_44 - Glory and Belief.md",
+    "drafts/John 5_38 - Failure to Believe.md",
+    "drafts/John 5_24 - Belief and Eternal Life.md",
     "drafts/John 4_21 - Believing Jesus on Worship.md",
-    "drafts/John 1_12 - Believing in His Name.md",
-    "drafts/John 1_50 - Nathanael’s Belief.md",
-    "drafts/John 2_11 - Belief of the Disciples.md",
+    "drafts/John 4_42 - Knowing and Believing Jesus.md",
+    "drafts/John 4_39 - Belief from Testimony.md",
     "drafts/John 2_22 - Belief in Scripture and Jesus’ Words.md",
+    "drafts/John 1_50 - Nathanael’s Belief.md",
+    "drafts/John 4_53 - Household Belief.md",
+    "drafts/John 4_50 - Belief Before the Sign.md",
+    "drafts/John 4_48 - Belief and Signs.md",
+    "drafts/John 4_41 - Belief from Jesus’ Message.md",
+    "drafts/John 1_7 - Testimony for Belief.md",
+    "drafts/John 1_12 - Believing in His Name.md",
+    "drafts/John 2_11 - Belief of the Disciples.md",
     "drafts/John 2_23 - Belief at Passover.md",
     "drafts/John 3_12 - Believing Heavenly Things.md",
     "drafts/John 3_15 - Belief for Eternal Life.md",
@@ -700,13 +825,8 @@
     "drafts/later/John 2_1-11 - Jesus' first miracle - Application.md",
     "drafts/later/README-mkdocs.md",
     "drafts/later/chronological_bible_reading_plan_corrected.md",
-    "drafts/later/Writing is testing for our ideas.md",
     "drafts/later",
-    "content/Literature Notes/John/Belief/How John talks about belief.md",
-    "content/notes/Did Jesus lie.md",
     "content/Literature Notes/John/Belief",
-    "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md",
-    "content/Literature Notes/How to Take Smart Notes/Smart Notes core argument.md",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/note-taking/Verse-Headings-Inside-Chapters-og-image.webp",
     "public/notes/note-taking/Understanding-presuppositions-in-Bible-study-og-image.webp",
