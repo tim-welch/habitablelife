@@ -1,6 +1,7 @@
 ---
 tags:
-  - type/structural
+  - type/fleeting
+  - bible/keyword
 ---
 
 Almost every chapter in John's gospel talks about belief. This is the core theme of the gospel.
@@ -110,4 +111,4 @@ Almost every chapter in John's gospel talks about belief. This is the core theme
 
 ## Connections
 
-- 
+- The Gospel of John

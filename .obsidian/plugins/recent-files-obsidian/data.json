@@ -2,7 +2,23 @@
   "recentFiles": [
     {
       "basename": "How John talks about belief",
-      "path": "content/Literature Notes/John/How John talks about belief.md"
+      "path": "content/Literature Notes/John/Belief/How John talks about belief.md"
+    },
+    {
+      "basename": "Did Jesus lie",
+      "path": "content/notes/Did Jesus lie.md"
+    },
+    {
+      "basename": "Writing is Iterative",
+      "path": "content/Literature Notes/How to Take Smart Notes/Writing is Iterative.md"
+    },
+    {
+      "basename": "Smart Notes core argument",
+      "path": "content/Literature Notes/How to Take Smart Notes/Smart Notes core argument.md"
+    },
+    {
+      "basename": "How to Take Smart Notes",
+      "path": "content/Literature Notes/How to Take Smart Notes/How to Take Smart Notes.md"
     },
     {
       "basename": "John 20",
@@ -183,22 +199,6 @@
     {
       "basename": "🧠 Smart Note Literature Reviewer GPT",
       "path": "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md"
-    },
-    {
-      "basename": "Berean Bible verse numbers",
-      "path": "Bible/Berean Bible verse numbers.md"
-    },
-    {
-      "basename": "Job 11",
-      "path": "content/Bible/BSB/18-Job/Job 11.md"
-    },
-    {
-      "basename": "📖 How to Read the Bible for All Its Worth",
-      "path": "content/Literature Notes/How to Read the Bible for All Its Worth/📖 How to Read the Bible for All Its Worth.md"
-    },
-    {
-      "basename": "📖Living by the Book",
-      "path": "content/Literature Notes/Living by the Book/📖Living by the Book.md"
     }
   ],
   "omittedPaths": [
