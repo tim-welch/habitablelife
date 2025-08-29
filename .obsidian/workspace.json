@@ -486,9 +486,321 @@
               "icon": "lucide-file",
               "title": "John 20_31 - Purpose of John's Gospel"
             }
+          },
+          {
+            "id": "57c31a4026f17f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 3_12 – Earthly vs. Heavenly Things.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 3_12 – Earthly vs. Heavenly Things"
+            }
+          },
+          {
+            "id": "a73ecfc6ba5f50df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Interpretation of John 5_38 – Believing the Father by Believing the Son.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Interpretation of John 5_38 – Believing the Father by Believing the Son"
+            }
+          },
+          {
+            "id": "18550955d9bc8c90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 5_47 – Belief in Moses and Jesus.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 5_47 – Belief in Moses and Jesus"
+            }
+          },
+          {
+            "id": "ed97336052e577e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 6_36 – Unbelief Despite Seeing.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 6_36 – Unbelief Despite Seeing"
+            }
+          },
+          {
+            "id": "0ecaaba8420890cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 7_38–39 – Belief and the Spirit.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 7_38–39 – Belief and the Spirit"
+            }
+          },
+          {
+            "id": "cde167ef1dc8a041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 8_31 – Belief and Discipleship.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 8_31 – Belief and Discipleship"
+            }
+          },
+          {
+            "id": "f71ac8645da9b91c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 9_38 – Belief and Worship.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 9_38 – Belief and Worship"
+            }
+          },
+          {
+            "id": "8d411eeec29da653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 10_26 – Not My Sheep.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 10_26 – Not My Sheep"
+            }
+          },
+          {
+            "id": "0a1ab76b7f0788b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 11_40 – Seeing the Glory of God.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 11_40 – Seeing the Glory of God"
+            }
+          },
+          {
+            "id": "e07d1e5bbf9174f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 12_39 – Unable to Believe.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 12_39 – Unable to Believe"
+            }
+          },
+          {
+            "id": "7e963cb82a3ad181",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 12_42 – Secret Believers.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 12_42 – Secret Believers"
+            }
+          },
+          {
+            "id": "ad0a07c73d563f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 14_12 – Greater Works.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 14_12 – Greater Works"
+            }
+          },
+          {
+            "id": "8d02a5917610ff90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 16_31 – Do You Now Believe.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 16_31 – Do You Now Believe"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 32
       }
     ],
     "direction": "vertical"
@@ -577,7 +889,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/John 20_31 - Purpose of John's Gospel.md",
+                "file": "drafts/Question on John 16_31 – Do You Now Believe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -587,7 +899,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for John 20_31 - Purpose of John's Gospel"
+              "title": "Backlinks for Question on John 16_31 – Do You Now Believe"
             }
           },
           {
@@ -656,7 +968,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "drafts/John 20_31 - Purpose of John's Gospel.md",
+                "file": "drafts/Question on John 16_31 – Do You Now Believe.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -684,7 +996,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of John 20_31 - Purpose of John's Gospel"
+              "title": "Graph of Question on John 16_31 – Do You Now Believe"
             }
           }
         ]
@@ -725,10 +1037,24 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "a0c851eb1d5badcd",
+  "active": "8d02a5917610ff90",
   "lastOpenFiles": [
-    "drafts/John 20_29 - Blessed Belief Without Seeing.md",
+    "drafts/John 16_31 - Jesus' Question About Belief.md",
+    "drafts/Question on John 16_31 – Do You Now Believe.md",
+    "drafts/Question on John 14_12 – Greater Works.md",
+    "drafts/Question on John 12_42 – Secret Believers.md",
+    "drafts/Question on John 12_39 – Unable to Believe.md",
+    "drafts/Question on John 11_40 – Seeing the Glory of God.md",
+    "drafts/Question on John 10_26 – Not My Sheep.md",
+    "drafts/Question on John 9_38 – Belief and Worship.md",
+    "drafts/Question on John 8_31 – Belief and Discipleship.md",
+    "drafts/Question on John 7_38–39 – Belief and the Spirit.md",
+    "drafts/Question on John 6_36 – Unbelief Despite Seeing.md",
+    "drafts/Question on John 5_47 – Belief in Moses and Jesus.md",
+    "drafts/Interpretation of John 5_38 – Believing the Father by Believing the Son.md",
+    "drafts/Question on John 3_12 – Earthly vs. Heavenly Things.md",
     "drafts/John 20_31 - Purpose of John's Gospel.md",
+    "drafts/John 20_29 - Blessed Belief Without Seeing.md",
     "drafts/John 20_27 - Call to Believe.md",
     "drafts/John 20_25 - Thomas' Unbelief.md",
     "drafts/John 20_8 - Belief at the Empty Tomb.md",
@@ -736,23 +1062,9 @@
     "drafts/John 17_21 - Belief because of Unity.md",
     "drafts/John 17_20 - Belief Through the Apostles' Message.md",
     "drafts/John 17_8 - Belief that Jesus came from God.md",
-    "drafts/John 16_31 - Jesus' Question About Belief.md",
     "drafts/John 16_30 - Belief Because of Knowledge.md",
     "drafts/John 16_27 - Loved for Belief.md",
     "drafts/John 16_9 - Unbelief as Sin.md",
-    "drafts/John 14_29 - Belief When It Happens.md",
-    "drafts/John 14_12 - Belief and Greater Works.md",
-    "drafts/John 14_11 - Belief in Words or Works.md",
-    "drafts/John 14_10 - Question About Belief.md",
-    "drafts/John 14_1 - Believe in God, Believe in Me.md",
-    "drafts/John 13_19 - Belief After Fulfillment.md",
-    "drafts/John 12_46 - Belief and Darkness.md",
-    "drafts/later/John 2_1-11 - Jesus' first miracle - Application.md",
-    "drafts/John 1_12 - Believing in His Name.md",
-    "drafts/John 1_50 - Nathanael’s Belief.md",
-    "drafts/John 2_11 - Belief of the Disciples.md",
-    "drafts/John 2_22 - Belief in Scripture and Jesus’ Words.md",
-    "drafts/John 2_23 - Belief at Passover.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
