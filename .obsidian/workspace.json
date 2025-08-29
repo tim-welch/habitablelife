@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5dc2203773b1a1f7",
+        "id": "35b4653f69ad3d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "f4e6d1e5a62f577c",
+            "id": "62b3509d3e9ab5c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/later/John 2_1-11 - Jesus' first miracle - Application.md",
+                "file": "drafts/John 12_46 - Belief and Darkness.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 2_1-11 - Jesus' first miracle - Application"
+              "title": "John 12_46 - Belief and Darkness"
             }
           },
           {
-            "id": "11f56e3b9e112b87",
+            "id": "ad711f19cfad03f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 1_12 - Believing in His Name.md",
+                "file": "drafts/John 13_19 - Belief After Fulfillment.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 1_12 - Believing in His Name"
+              "title": "John 13_19 - Belief After Fulfillment"
             }
           },
           {
-            "id": "91bd3175783245f0",
+            "id": "923671ce0a95c243",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 1_50 - Nathanael’s Belief.md",
+                "file": "drafts/John 14_1 - Believe in God, Believe in Me.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,16 +76,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 1_50 - Nathanael’s Belief"
+              "title": "John 14_1 - Believe in God, Believe in Me"
             }
           },
           {
-            "id": "c0c76c27c0c39fd5",
+            "id": "406e6aa70ae43dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 2_11 - Belief of the Disciples.md",
+                "file": "drafts/John 14_10 - Question About Belief.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 2_11 - Belief of the Disciples"
+              "title": "John 14_10 - Question About Belief"
             }
           },
           {
-            "id": "dd297c95e7780dc8",
+            "id": "9ee77858b7275544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 2_22 - Belief in Scripture and Jesus’ Words.md",
+                "file": "drafts/John 14_11 - Belief in Words or Works.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -124,16 +124,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 2_22 - Belief in Scripture and Jesus’ Words"
+              "title": "John 14_11 - Belief in Words or Works"
             }
           },
           {
-            "id": "0789fffd5bb974c1",
+            "id": "09bcd7b6ccfa98aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 2_23 - Belief at Passover.md",
+                "file": "drafts/John 14_12 - Belief and Greater Works.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -148,16 +148,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 2_23 - Belief at Passover"
+              "title": "John 14_12 - Belief and Greater Works"
             }
           },
           {
-            "id": "50d57762f280838b",
+            "id": "8498f33e14603fbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 3_12 - Believing Heavenly Things.md",
+                "file": "drafts/John 14_29 - Belief When It Happens.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -172,16 +172,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 3_12 - Believing Heavenly Things"
+              "title": "John 14_29 - Belief When It Happens"
             }
           },
           {
-            "id": "7f0436fc42b9f2e5",
+            "id": "0d6c52e1a1f20e19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 3_15 - Belief for Eternal Life.md",
+                "file": "drafts/John 16_9 - Unbelief as Sin.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -196,16 +196,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 3_15 - Belief for Eternal Life"
+              "title": "John 16_9 - Unbelief as Sin"
             }
           },
           {
-            "id": "c29938d5e6ec5c52",
+            "id": "7eb4dc7bd4789d94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 3_16 - Belief in the Son.md",
+                "file": "drafts/John 16_27 - Loved for Belief.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -220,16 +220,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 3_16 - Belief in the Son"
+              "title": "John 16_27 - Loved for Belief"
             }
           },
           {
-            "id": "2548c21bc978cb9b",
+            "id": "725027cd3504c048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 3_18 - Belief and Condemnation.md",
+                "file": "drafts/John 16_30 - Belief Because of Knowledge.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -244,16 +244,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 3_18 - Belief and Condemnation"
+              "title": "John 16_30 - Belief Because of Knowledge"
             }
           },
           {
-            "id": "7c0a80590337a282",
+            "id": "7c95d603694ef066",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 1_12 - Believing in His Name.md",
+                "file": "drafts/John 16_31 - Jesus' Question About Belief.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -268,16 +268,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 1_12 - Believing in His Name"
+              "title": "John 16_31 - Jesus' Question About Belief"
             }
           },
           {
-            "id": "6082aadd644314e1",
+            "id": "3d8b0ada957ee5bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 4_21 - Believing Jesus on Worship.md",
+                "file": "drafts/John 17_8 - Belief that Jesus came from God.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -292,16 +292,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 4_21 - Believing Jesus on Worship"
+              "title": "John 17_8 - Belief that Jesus came from God"
             }
           },
           {
-            "id": "01f6a1171e752237",
+            "id": "e7b9b6dd1018cea0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 4_39 - Belief from Testimony.md",
+                "file": "drafts/John 17_20 - Belief Through the Apostles' Message.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -316,16 +316,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 4_39 - Belief from Testimony"
+              "title": "John 17_20 - Belief Through the Apostles' Message"
             }
           },
           {
-            "id": "062204174a20c295",
+            "id": "1d26e6c2344e8bb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 4_41 - Belief from Jesus’ Message.md",
+                "file": "drafts/John 17_21 - Belief because of Unity.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -340,16 +340,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 4_41 - Belief from Jesus’ Message"
+              "title": "John 17_21 - Belief because of Unity"
             }
           },
           {
-            "id": "9b64e068dd43e1b4",
+            "id": "63571208203bd913",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 4_42 - Knowing and Believing Jesus.md",
+                "file": "drafts/John 19_35 - Testimony for Belief.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -364,16 +364,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 4_42 - Knowing and Believing Jesus"
+              "title": "John 19_35 - Testimony for Belief"
             }
           },
           {
-            "id": "4b0731170282cb2d",
+            "id": "f47fe967c5355b5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 4_48 - Belief and Signs.md",
+                "file": "drafts/John 20_8 - Belief at the Empty Tomb.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -388,16 +388,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 4_48 - Belief and Signs"
+              "title": "John 20_8 - Belief at the Empty Tomb"
             }
           },
           {
-            "id": "f428934f4a67e64a",
+            "id": "156cab3f70ed5f28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 4_50 - Belief Before the Sign.md",
+                "file": "drafts/John 20_25 - Thomas' Unbelief.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -412,16 +412,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 4_50 - Belief Before the Sign"
+              "title": "John 20_25 - Thomas' Unbelief"
             }
           },
           {
-            "id": "834ff9c25e2d42ef",
+            "id": "b46ec2dcea4cb4c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 4_21 - Believing Jesus on Worship.md",
+                "file": "drafts/John 20_27 - Call to Believe.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -436,16 +436,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 4_21 - Believing Jesus on Worship"
+              "title": "John 20_27 - Call to Believe"
             }
           },
           {
-            "id": "538dfdf14a3bf679",
+            "id": "b50faa29b2575a25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 5_24 - Belief and Eternal Life.md",
+                "file": "drafts/John 20_29 - Blessed Belief Without Seeing.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -460,16 +460,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 5_24 - Belief and Eternal Life"
+              "title": "John 20_29 - Blessed Belief Without Seeing"
             }
           },
           {
-            "id": "5c338090242c615c",
+            "id": "a0c851eb1d5badcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 5_38 - Failure to Believe.md",
+                "file": "drafts/John 20_31 - Purpose of John's Gospel.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -484,923 +484,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 5_38 - Failure to Believe"
-            }
-          },
-          {
-            "id": "81f6ff84e69df035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 5_44 - Glory and Belief.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 5_44 - Glory and Belief"
-            }
-          },
-          {
-            "id": "cb1bcebdecd8f31f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 5_46 - Belief in Moses and Jesus.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 5_46 - Belief in Moses and Jesus"
-            }
-          },
-          {
-            "id": "0abf9353eceb72b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 5_47 - Unbelief in Scripture and Jesus.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 5_47 - Unbelief in Scripture and Jesus"
-            }
-          },
-          {
-            "id": "b9d6021eda645bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 6_28 - Belief as the Work of God.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 6_28 - Belief as the Work of God"
-            }
-          },
-          {
-            "id": "87bde6ec4c4c53b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 6_30 - Belief and Demands for a Sign.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 6_30 - Belief and Demands for a Sign"
-            }
-          },
-          {
-            "id": "fe8a19fb35dc76f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 6_35 - Belief in the Bread of Life.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 6_35 - Belief in the Bread of Life"
-            }
-          },
-          {
-            "id": "8795aa678188adcf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 6_36 - Seeing but Not Believing.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 6_36 - Seeing but Not Believing"
-            }
-          },
-          {
-            "id": "cf8d740db6bdeb88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 6_40 - Belief and Resurrection.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 6_40 - Belief and Resurrection"
-            }
-          },
-          {
-            "id": "a0ee184f0ae4e7bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 6_47 - Belief and Eternal Life.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 6_47 - Belief and Eternal Life"
-            }
-          },
-          {
-            "id": "33be9b584b4fdc88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 6_64 - Unbelieving Disciples.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 6_64 - Unbelieving Disciples"
-            }
-          },
-          {
-            "id": "2b3203cbbf97778b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 6_69 - Confession of Belief.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 6_69 - Confession of Belief"
-            }
-          },
-          {
-            "id": "a6ae9bd357dfe70f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 7_5 - Jesus' Brothers Did Not Believe.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 7_5 - Jesus' Brothers Did Not Believe"
-            }
-          },
-          {
-            "id": "1507f22186f94adf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 7_31 - Belief from Signs.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 7_31 - Belief from Signs"
-            }
-          },
-          {
-            "id": "3eb50af7aea5fceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 7_38 - Living Water for Believers.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 7_38 - Living Water for Believers"
-            }
-          },
-          {
-            "id": "8fa3c137f9ce72b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 7_39 - Spirit Given to Believers.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 7_39 - Spirit Given to Believers"
-            }
-          },
-          {
-            "id": "3e1ebcbb964bcf49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 7_48 - Rulers Did Not Believe.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 7_48 - Rulers Did Not Believe"
-            }
-          },
-          {
-            "id": "ee857732608faad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 8_24 - Believe in Jesus or Die in Sin.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 8_24 - Believe in Jesus or Die in Sin"
-            }
-          },
-          {
-            "id": "2f6ffec563291b2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 8_30 - Many Believed.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 8_30 - Many Believed"
-            }
-          },
-          {
-            "id": "5ac7618506300f13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 8_31 - Belief and Discipleship.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 8_31 - Belief and Discipleship"
-            }
-          },
-          {
-            "id": "260bfbd5af141a29",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 8_45 - Unbelief Because of Truth.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 8_45 - Unbelief Because of Truth"
-            }
-          },
-          {
-            "id": "fc021eda3d26fd77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 8_46 - Why Not Believe.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 8_46 - Why Not Believe"
-            }
-          },
-          {
-            "id": "9b0d047890981018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 9_18 - Refusal to Believe the Healing.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 9_18 - Refusal to Believe the Healing"
-            }
-          },
-          {
-            "id": "94fbe3cd087be509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 9_35 - Call to Believe in the Son of Man.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 9_35 - Call to Believe in the Son of Man"
-            }
-          },
-          {
-            "id": "0ff90a7627f246a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 9_36 - Desire to Believe.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 9_36 - Desire to Believe"
-            }
-          },
-          {
-            "id": "52a2295af022e13d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 9_38 - Belief and Worship.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 9_38 - Belief and Worship"
-            }
-          },
-          {
-            "id": "c04359b976c9a27a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 10_25 - Refusal to Believe.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 10_25 - Refusal to Believe"
-            }
-          },
-          {
-            "id": "fb26ec7d839b685c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 10_26 - Unbelief and Not Being His Sheep.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 10_26 - Unbelief and Not Being His Sheep"
-            }
-          },
-          {
-            "id": "72208f918b50454f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 10_37 - Grounds for Unbelief.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 10_37 - Grounds for Unbelief"
-            }
-          },
-          {
-            "id": "a044c34211cdd674",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 10_38 - Belief in the Works.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 10_38 - Belief in the Works"
-            }
-          },
-          {
-            "id": "55367817f390f38f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 10_42 - Belief from John’s Testimony.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 10_42 - Belief from John’s Testimony"
-            }
-          },
-          {
-            "id": "2bc00e6667c9e2a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 11_15 - Belief Through Lazarus' Death.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 11_15 - Belief Through Lazarus' Death"
-            }
-          },
-          {
-            "id": "373f6c06230fc0b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 11_25 - Belief in the Resurrection and the Life.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 11_25 - Belief in the Resurrection and the Life"
-            }
-          },
-          {
-            "id": "f67ec09e2196cce1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 11_26 - Question to Martha.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 11_26 - Question to Martha"
-            }
-          },
-          {
-            "id": "3542baacdf84be15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 11_27 - Martha's Confession of Belief.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 11_27 - Martha's Confession of Belief"
-            }
-          },
-          {
-            "id": "b736c1c8f9a3d67b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 11_40 - Seeing the Glory of God Through Belief.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 11_40 - Seeing the Glory of God Through Belief"
-            }
-          },
-          {
-            "id": "dc90809406a5b258",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 11_42 - Belief That the Father Sent Jesus.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 11_42 - Belief That the Father Sent Jesus"
-            }
-          },
-          {
-            "id": "668c7702f5c9e903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 11_45 - Belief After Lazarus Was Raised.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 11_45 - Belief After Lazarus Was Raised"
-            }
-          },
-          {
-            "id": "efdfd88d3457a21d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 11_48 - Leaders' Fear of Widespread Belief.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 11_48 - Leaders' Fear of Widespread Belief"
+              "title": "John 20_31 - Purpose of John's Gospel"
             }
           }
         ],
-        "currentTab": 57
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -1489,7 +577,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/John 11_48 - Leaders' Fear of Widespread Belief.md",
+                "file": "drafts/John 20_31 - Purpose of John's Gospel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -1499,7 +587,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for John 11_48 - Leaders' Fear of Widespread Belief"
+              "title": "Backlinks for John 20_31 - Purpose of John's Gospel"
             }
           },
           {
@@ -1568,7 +656,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "drafts/John 11_48 - Leaders' Fear of Widespread Belief.md",
+                "file": "drafts/John 20_31 - Purpose of John's Gospel.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -1596,7 +684,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of John 11_48 - Leaders' Fear of Widespread Belief"
+              "title": "Graph of John 20_31 - Purpose of John's Gospel"
             }
           }
         ]
@@ -1637,34 +725,34 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "efdfd88d3457a21d",
+  "active": "a0c851eb1d5badcd",
   "lastOpenFiles": [
-    "drafts/John 11_45 - Belief After Lazarus Was Raised.md",
-    "drafts/John 11_48 - Leaders' Fear of Widespread Belief.md",
-    "drafts/John 11_42 - Belief That the Father Sent Jesus.md",
-    "drafts/John 11_40 - Seeing the Glory of God Through Belief.md",
-    "drafts/John 11_27 - Martha's Confession of Belief.md",
-    "drafts/John 11_26 - Question to Martha.md",
-    "drafts/John 11_25 - Belief in the Resurrection and the Life.md",
-    "drafts/John 11_15 - Belief Through Lazarus' Death.md",
-    "drafts/John 10_42 - Belief from John’s Testimony.md",
-    "drafts/John 10_38 - Belief in the Works.md",
-    "drafts/John 10_37 - Grounds for Unbelief.md",
-    "drafts/John 10_26 - Unbelief and Not Being His Sheep.md",
-    "drafts/John 10_25 - Refusal to Believe.md",
-    "drafts/John 9_38 - Belief and Worship.md",
-    "drafts/John 9_36 - Desire to Believe.md",
-    "drafts/John 9_35 - Call to Believe in the Son of Man.md",
-    "drafts/John 9_18 - Refusal to Believe the Healing.md",
-    "drafts/John 8_46 - Why Not Believe.md",
-    "drafts/John 8_45 - Unbelief Because of Truth.md",
-    "drafts/John 8_31 - Belief and Discipleship.md",
-    "drafts/John 8_30 - Many Believed.md",
-    "drafts/John 8_24 - Believe in Jesus or Die in Sin.md",
-    "drafts/John 7_48 - Rulers Did Not Believe.md",
-    "drafts/John 7_39 - Spirit Given to Believers.md",
-    "drafts/John 7_38 - Living Water for Believers.md",
-    "drafts/John 7_31 - Belief from Signs.md",
+    "drafts/John 20_29 - Blessed Belief Without Seeing.md",
+    "drafts/John 20_31 - Purpose of John's Gospel.md",
+    "drafts/John 20_27 - Call to Believe.md",
+    "drafts/John 20_25 - Thomas' Unbelief.md",
+    "drafts/John 20_8 - Belief at the Empty Tomb.md",
+    "drafts/John 19_35 - Testimony for Belief.md",
+    "drafts/John 17_21 - Belief because of Unity.md",
+    "drafts/John 17_20 - Belief Through the Apostles' Message.md",
+    "drafts/John 17_8 - Belief that Jesus came from God.md",
+    "drafts/John 16_31 - Jesus' Question About Belief.md",
+    "drafts/John 16_30 - Belief Because of Knowledge.md",
+    "drafts/John 16_27 - Loved for Belief.md",
+    "drafts/John 16_9 - Unbelief as Sin.md",
+    "drafts/John 14_29 - Belief When It Happens.md",
+    "drafts/John 14_12 - Belief and Greater Works.md",
+    "drafts/John 14_11 - Belief in Words or Works.md",
+    "drafts/John 14_10 - Question About Belief.md",
+    "drafts/John 14_1 - Believe in God, Believe in Me.md",
+    "drafts/John 13_19 - Belief After Fulfillment.md",
+    "drafts/John 12_46 - Belief and Darkness.md",
+    "drafts/later/John 2_1-11 - Jesus' first miracle - Application.md",
+    "drafts/John 1_12 - Believing in His Name.md",
+    "drafts/John 1_50 - Nathanael’s Belief.md",
+    "drafts/John 2_11 - Belief of the Disciples.md",
+    "drafts/John 2_22 - Belief in Scripture and Jesus’ Words.md",
+    "drafts/John 2_23 - Belief at Passover.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
