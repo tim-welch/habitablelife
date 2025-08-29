@@ -558,9 +558,201 @@
               "icon": "lucide-file",
               "title": "John 5_47 - Unbelief in Scripture and Jesus"
             }
+          },
+          {
+            "id": "b9d6021eda645bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 6_28 - Belief as the Work of God.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 6_28 - Belief as the Work of God"
+            }
+          },
+          {
+            "id": "87bde6ec4c4c53b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 6_30 - Belief and Demands for a Sign.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 6_30 - Belief and Demands for a Sign"
+            }
+          },
+          {
+            "id": "fe8a19fb35dc76f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 6_35 - Belief in the Bread of Life.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 6_35 - Belief in the Bread of Life"
+            }
+          },
+          {
+            "id": "8795aa678188adcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 6_36 - Seeing but Not Believing.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 6_36 - Seeing but Not Believing"
+            }
+          },
+          {
+            "id": "cf8d740db6bdeb88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 6_40 - Belief and Resurrection.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 6_40 - Belief and Resurrection"
+            }
+          },
+          {
+            "id": "a0ee184f0ae4e7bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 6_47 - Belief and Eternal Life.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 6_47 - Belief and Eternal Life"
+            }
+          },
+          {
+            "id": "33be9b584b4fdc88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 6_64 - Unbelieving Disciples.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 6_64 - Unbelieving Disciples"
+            }
+          },
+          {
+            "id": "2b3203cbbf97778b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Untitled.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 30
       }
     ],
     "direction": "vertical"
@@ -649,7 +841,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/John 5_47 - Unbelief in Scripture and Jesus.md",
+                "file": "drafts/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -659,7 +851,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for John 5_47 - Unbelief in Scripture and Jesus"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -728,7 +920,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "drafts/John 5_47 - Unbelief in Scripture and Jesus.md",
+                "file": "drafts/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -756,7 +948,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of John 5_47 - Unbelief in Scripture and Jesus"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -797,10 +989,18 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "0abf9353eceb72b6",
+  "active": "2b3203cbbf97778b",
   "lastOpenFiles": [
-    "drafts/John 5_46 - Belief in Moses and Jesus.md",
+    "drafts/John 6_64 - Unbelieving Disciples.md",
+    "drafts/Untitled.md",
+    "drafts/John 6_47 - Belief and Eternal Life.md",
+    "drafts/John 6_40 - Belief and Resurrection.md",
+    "drafts/John 6_36 - Seeing but Not Believing.md",
+    "drafts/John 6_35 - Belief in the Bread of Life.md",
+    "drafts/John 6_30 - Belief and Demands for a Sign.md",
+    "drafts/John 6_28 - Belief as the Work of God.md",
     "drafts/John 5_47 - Unbelief in Scripture and Jesus.md",
+    "drafts/John 5_46 - Belief in Moses and Jesus.md",
     "drafts/John 5_44 - Glory and Belief.md",
     "drafts/John 5_38 - Failure to Believe.md",
     "drafts/John 5_24 - Belief and Eternal Life.md",
@@ -817,14 +1017,6 @@
     "drafts/John 1_12 - Believing in His Name.md",
     "drafts/John 2_11 - Belief of the Disciples.md",
     "drafts/John 2_23 - Belief at Passover.md",
-    "drafts/John 3_12 - Believing Heavenly Things.md",
-    "drafts/John 3_15 - Belief for Eternal Life.md",
-    "drafts/John 3_16 - Belief in the Son.md",
-    "drafts/John 3_18 - Belief and Condemnation.md",
-    "drafts/John 3_36 - Belief or Rejection.md",
-    "drafts/later/John 2_1-11 - Jesus' first miracle - Application.md",
-    "drafts/later/README-mkdocs.md",
-    "drafts/later/chronological_bible_reading_plan_corrected.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
