@@ -10,5 +10,5 @@ John the Baptist testified about Jesus so that everyone might believe.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Testimony leading to belief]]
+- [[Sources of Belief – Testimony]]
 - [[John 1#7|1:7]]

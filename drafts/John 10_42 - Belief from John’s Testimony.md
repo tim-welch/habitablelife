@@ -10,6 +10,6 @@ When Jesus returned to the place where John had been baptizing, many believed in
 
 ## Connections
 - [[The Gospel of John]]
-- [[Testimony leading to belief]]
+- [[Sources of Belief – Testimony]]
 - [[Belief in response to testimony]]
 - [[John 10#42|10:42]]

@@ -10,6 +10,6 @@ The people explained that their belief was first based on the woman’s testimon
 
 ## Connections
 - [[The Gospel of John]]
-- [[Testimony leading to belief]]
+- [[Sources of Belief – Testimony]]
 - [[Belief in Jesus’ words and teaching]]
 - [[John 4#42|4:42]]

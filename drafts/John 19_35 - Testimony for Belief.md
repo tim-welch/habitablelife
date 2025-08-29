@@ -10,6 +10,6 @@ John testified that he personally saw the crucifixion details, and he wrote them
 
 ## Connections
 - [[The Gospel of John]]
-- [[Testimony leading to belief]]
+- [[Sources of Belief – Testimony]]
 - [[Belief in the apostolic witness]]
 - [[John 19#35|19:35]]
