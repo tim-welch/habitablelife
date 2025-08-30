@@ -12,5 +12,5 @@ Jesus said that those given to Him by the Father received His words and believed
 
 ## Connections
 - [[The Gospel of John]]
-- [[Confessions of Belief – Jesus & the Father]]
+- [[Nature of Belief in John#Belief in Jesus and the Father]]
 - [[John 17#8|John 17]]

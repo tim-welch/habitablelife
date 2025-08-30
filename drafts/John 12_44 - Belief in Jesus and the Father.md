@@ -12,6 +12,6 @@ Jesus declared that belief in Him is also belief in the One who sent Him.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Confessions of Belief – Jesus & the Father]]
-- [[Confessions of Belief – Jesus' identity]]
+- [[Nature of Belief in John#Belief in Jesus and the Father]]
+- [[Nature of Belief in John#Belief in Jesus' Identity]]
 - [[John 12#44|John 12]]

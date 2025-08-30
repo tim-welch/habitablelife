@@ -32,36 +32,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "6c139dd2f2a57d36",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a9a2677d2b22534b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 12_44 - Belief in Jesus and the Father.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 12_44 - Belief in Jesus and the Father"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"#Belief in Jesus' identity\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -288,34 +258,34 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "a9a2677d2b22534b",
+  "active": "dbbc13162e881098",
   "lastOpenFiles": [
-    "drafts/John 3_16 - Belief in the Son.md",
-    "drafts/Nature of Belief in John.md",
-    "drafts/John 12_44 - Belief in Jesus and the Father.md",
-    "drafts/Confessions of Belief – Jesus & the Father.md",
-    "drafts/Confessions of Belief in John.md",
-    "drafts/Confessions of Belief – Jesus' identity.md",
-    "drafts/John 20_31 - Purpose of John's Gospel.md",
-    "drafts/John 20_25 - Thomas' Unbelief.md",
-    "drafts/John 16_31 - Jesus' Question About Belief.md",
-    "drafts/John 11_48 - Leaders' Fear of Widespread Belief.md",
+    "drafts/John 6_69 - Peter's Confession of Belief.md",
+    "drafts/John 9_35 - Call to Believe in the Son of Man.md",
+    "drafts/John 9_36 - Desire to Believe.md",
+    "drafts/John 10_25 - Refusal to Believe.md",
+    "drafts/John 10_26 - Unbelief and Not Being His Sheep.md",
+    "drafts/John 10_37 - Grounds for Unbelief.md",
+    "drafts/John 10_38 - Belief in the Works.md",
+    "drafts/John 11_25 - Belief in the Resurrection and the Life.md",
+    "drafts/John 11_26 - Question to Martha.md",
     "drafts/John 11_27 - Martha's Confession of Belief.md",
-    "drafts/John 11_15 - Belief Through Lazarus' Death.md",
-    "drafts/John 10_42 - Belief from John's Testimony.md",
-    "drafts/John 7_5 - Jesus' Brothers Did Not Believe.md",
-    "drafts/John 4_41 - Belief from Jesus' Message.md",
-    "drafts/John 2_22 - Belief in Scripture and Jesus' Words.md",
-    "drafts/John 1_50 - Nathanael's Belief.md",
-    "broken links output.md",
-    "drafts/John 9_38 - Belief and Worship.md",
+    "drafts/John 11_42 - Belief That the Father Sent Jesus.md",
+    "drafts/John 12_44 - Belief in Jesus and the Father.md",
+    "drafts/John 14_1 - Believe in God, Believe in Me.md",
+    "drafts/John 14_10 - Question About Belief.md",
     "drafts/John 16_27 - Loved for Belief.md",
-    "orphaned files output.md",
-    "drafts/John 12_42 - Leaders Believed Secretly.md",
-    "drafts/Question on John 12_42 – Secret Believers.md",
-    "drafts/Unbelief in John.md",
-    "drafts/Outcomes of Belief in John.md",
-    "drafts/John 7_39 - Spirit Given to Believers.md",
+    "drafts/John 16_30 - Belief Because of Knowledge.md",
+    "drafts/John 20_28 - Thomas' Confession.md",
+    "drafts/Confessions of Belief – Jesus' identity.md",
+    "drafts/Nature of Belief in John.md",
+    "drafts/John 20_31 - Purpose of John's Gospel.md",
+    "drafts/Confessions of Belief – Jesus & the Father.md",
+    "drafts/John 17_8 - Belief that Jesus came from God.md",
+    "drafts/John 14_11 - Belief in Words or Works.md",
+    "drafts/John 3_16 - Belief in the Son.md",
+    "drafts/Confessions of Belief in John.md",
+    "drafts/John 20_25 - Thomas' Unbelief.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",

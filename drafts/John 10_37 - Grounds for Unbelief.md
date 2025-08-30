@@ -13,5 +13,5 @@ Jesus said that if He were not doing the works of His Father, then people should
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief in John#Signs]]
-- [[Confessions of Belief – Jesus' identity]]
+- [[Nature of Belief in John#Belief in Jesus' Identity]]
 - [[John 10#37|John 10]]

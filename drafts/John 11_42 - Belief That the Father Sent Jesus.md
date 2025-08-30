@@ -12,5 +12,5 @@ Jesus prayed aloud, thanking the Father, so that the people standing there would
 
 ## Connections
 - [[The Gospel of John]]
-- [[Confessions of Belief – Jesus' identity]]
+- [[Nature of Belief in John#Belief in Jesus' Identity]]
 - [[John 11#42|John 11]]

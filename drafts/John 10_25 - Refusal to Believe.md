@@ -13,5 +13,5 @@ Jesus told the Jews that He had already declared who He was, but they did not be
 ## Connections
 - [[The Gospel of John]]
 - [[Unbelief in John#Despite Signs]]
-- [[Confessions of Belief – Jesus' identity]]
+- [[Nature of Belief in John#Belief in Jesus' Identity]]
 - [[John 10#25|John 10]]

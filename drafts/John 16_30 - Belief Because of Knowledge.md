@@ -14,5 +14,5 @@ The disciples said they now believed that Jesus came from God because they saw H
 - [[The Gospel of John]]
 - [[Nature of Belief in John#Developing Belief]]
 - [[Sources of Belief in John#Supernatural Knowledge]]
-- [[Confessions of Belief – Jesus' identity]]
+- [[Nature of Belief in John#Belief in Jesus' Identity]]
 - [[John 16#30|John 16]]

@@ -13,4 +13,5 @@ After seeing Jesus and His wounds, Thomas calls Him his Lord and God.
 ## Connections
 - [[The Gospel of John]]
 - [[Confessions of Belief in John#Individuals]]
+- [[Nature of Belief in John#Belief in Jesus' Identity]]
 - [[John 20#28]]

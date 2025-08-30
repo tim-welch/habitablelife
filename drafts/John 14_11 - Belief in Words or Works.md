@@ -14,5 +14,5 @@ Jesus urged His disciples to believe that He is in the Father and the Father in 
 - [[The Gospel of John]]
 - [[Sources of Belief in John#Words & Teaching]]
 - [[Sources of Belief in John#Signs]]
-- [[Confessions of Belief – Jesus & the Father]]
+- [[Nature of Belief in John#Belief in Jesus and the Father]]
 - [[John 14#11|John 14]]
