@@ -18,7 +18,7 @@ Belief in John’s Gospel arises from multiple sources: signs, testimony, words,
 ## Testimony  
 - [[John 1_7 - Testimony for Belief|John 1:7 - Testimony for Belief]]  
 - [[John 4_39 - Belief from Testimony|John 4:39 - Belief from Testimony]]  
-- [[John 10_42 - Belief from John’s Testimony|John 10:42 - Belief from John’s Testimony]]  
+- [[John 10_42 - Belief from John's Testimony|John 10:42 - Belief from John's Testimony]]  
 - [[John 19_35 - Testimony for Belief|John 19:35 - Testimony for Belief]]  
 - [[John 20_31 - Purpose of John's Gospel|John 20:31 - Purpose of John's Gospel]]  
 

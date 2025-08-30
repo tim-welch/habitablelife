@@ -14,7 +14,7 @@ John also defines belief itself — its essence, growth, and true character.
 
 ## Developing Belief  
 - [[John 2_11 - Belief of the Disciples|John 2:11 - Belief of the Disciples]]  
-- [[John 2_22 - Belief in Scripture and Jesus’ Words|John 2:22 - Belief in Scripture and Jesus’ Words]]  
+- [[John 2_22 - Belief in Scripture and Jesus' Words|John 2:22 - Belief in Scripture and Jesus' Words]]  
 - [[John 11_15 - Belief Through Lazarus' Death|John 11:15 - Belief Through Lazarus' Death]]  
 - [[John 16_30 - Belief Because of Knowledge|John 16:30 - Belief Because of Knowledge]]
 - [[John 16_31 - Jesus' Question About Belief|John 16:31 - Jesus' Question About Belief]]  
