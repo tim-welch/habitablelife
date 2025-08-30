@@ -13,4 +13,4 @@ The crowd asked Jesus for a sign so that they might believe Him.
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief – Signs]]
-- [[John 6#30|6:30]]
+- [[John 6#30|John 6]]

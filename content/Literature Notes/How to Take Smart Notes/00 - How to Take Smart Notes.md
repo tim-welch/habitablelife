@@ -12,6 +12,6 @@ tags:
 - https://www.amazon.com/dp/1542866502
 
 ## Overview
-- Philosophy: [[01 - Smart Notes core argument]]
-- Practice: [[01 - Smart Notes workflow]]
-- Supporting Principles: [[Separation of tasks]], [[Insights emerge from unexpected connections]], [[Zettelkasten]]
+- Philosophy: [[01 - Smart Notes core argument|Key Components]]
+- Practice: [[01 - Smart Notes workflow|Supporting Principles]]
+- Supporting Principles: [[Separation of tasks|Connections]], [[Insights emerge from unexpected connections|Connections]], [[Zettelkasten|Connections]]

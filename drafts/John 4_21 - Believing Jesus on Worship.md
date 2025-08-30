@@ -13,4 +13,4 @@ Jesus told the Samaritan woman to believe what He said about worshiping the Fath
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief – Words and teaching]]
-- [[John 4#21|4:21]]
+- [[John 4#21|John 4]]

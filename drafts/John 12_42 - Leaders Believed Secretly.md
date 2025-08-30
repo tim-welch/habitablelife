@@ -13,4 +13,4 @@ Many leaders believed in Jesus but did not confess it, fearing expulsion from th
 ## Connections
 - [[The Gospel of John]]
 - [[Outcomes of Belief - Compromised belief]]
-- [[John 12#42|12:42]]
+- [[John 12#42|John 12]]

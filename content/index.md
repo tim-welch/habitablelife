@@ -4,6 +4,6 @@ tags:
   - type/nav
 ---
 
-- [[Inductive Bible Study Method]]
+- [[Inductive Bible Study Method|Connections]]
 - [[The Gospel of John]]
-- [[00 - How to Take Smart Notes]]
+- [[00 - How to Take Smart Notes|Overview]]

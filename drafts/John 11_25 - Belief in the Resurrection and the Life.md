@@ -12,6 +12,6 @@ Jesus declared, “I am the resurrection and the life. Whoever believes in Me wi
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief – Eternal life & resurrection]]
+- [[Outcomes of Belief in John#Eternal Life & Resurrection]]
 - [[Confessions of Belief – Jesus' identity]]
-- [[John 11#25|11:25]]
+- [[John 11#25|John 11]]

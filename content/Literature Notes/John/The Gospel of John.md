@@ -1,4 +1,5 @@
 ---
+title: The Gospel of John
 tags:
   - type/structural
   - source/book
@@ -12,20 +13,20 @@ This MOC tracks the structure, themes, and signs in John’s Gospel to support s
 - [[Signs in John]]
 
 ## In the Beginning Was the Word (1:1–18)
-- [[The Word Became Flesh]]
+- [[The Word Became Flesh|The Word as God and Creator]]
 
 ## Come and See (1:19-4:54)
 
 ### John the Baptist’s Testimony (John 1:19-34)
-- [[A Voice After Silence]]
-- [[The Lamb of God]]
+- [[A Voice After Silence|A Voice and The Word]]
+- [[The Lamb of God|Takes Away Sin]]
 
 ### The first disciples drawn (1:35–51)
 - [[Jesus Connecting Heaven and Earth|Jesus: Connecting Heaven and Earth]]
 
 ###  The Wedding at Cana
-- [[John 2#1|John 2:1–11]]
-- [[The Wedding at Cana]]
+- [[John 2#1|John 2]]
+- [[The Wedding at Cana|Connections]]
 
 
 ### Zeal for My Father’s House (2:12–2:25)
@@ -43,7 +44,7 @@ This MOC tracks the structure, themes, and signs in John’s Gospel to support s
 ### Do You Want to Be Healed? (5:1–47)
 
 ### I Am the Bread of Life (6:1–71)
-- [[Wrestling with no one can come unless drawn]]
+- [[Wrestling with no one can come unless drawn|A Timeless Truth Applied in a Moment of Unbelief]]
 
 #### A Boy With Five Barley Loaves and Two Small Fish (6:1-15)
 

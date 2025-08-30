@@ -13,4 +13,4 @@ If people do not believe what Moses wrote, they cannot believe what Jesus says.
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief – Words and teaching]]
-- [[John 5#47|5:47]]
+- [[John 5#47|John 5]]

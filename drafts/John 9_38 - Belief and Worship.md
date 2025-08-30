@@ -14,4 +14,4 @@ When Jesus revealed Himself, the man who had been healed believed and worshiped 
 - [[The Gospel of John]]
 - [[Confessions of Belief – Jesus' identity]]
 - [[Outcomes of Belief – Worship & love]]
-- [[John 9#38|9:38]]
+- [[John 9#38|John 9]]

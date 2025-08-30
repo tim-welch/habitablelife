@@ -13,4 +13,4 @@ John testified that he personally saw the crucifixion details, and he wrote them
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief – Testimony]]
-- [[John 19#35|19:35]]
+- [[John 19#35|John 19]]

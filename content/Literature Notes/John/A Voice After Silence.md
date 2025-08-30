@@ -15,7 +15,7 @@ But the leaders weren’t just interested in who he was. They also challenged hi
 
 ## Recognizing the Christ
 
-John tells these men that they do not recognize Jesus as the Christ, echoing the theme from the gospel's introduction where the world, and even His own people, did not recognize or receive Him (see [[The Word Became Flesh]]). The Christ, the One the Jews had been waiting for had arrived. They knew He was coming. They had been told what to look for. John was here testifying about Him. And yet they did not recognize Him and receive Him. John's witness shined light reveal who Jesus is, but they were not ready to receive it.
+John tells these men that they do not recognize Jesus as the Christ, echoing the theme from the gospel's introduction where the world, and even His own people, did not recognize or receive Him (see [[The Word Became Flesh|The Word as God and Creator]]). The Christ, the One the Jews had been waiting for had arrived. They knew He was coming. They had been told what to look for. John was here testifying about Him. And yet they did not recognize Him and receive Him. John's witness shined light reveal who Jesus is, but they were not ready to receive it.
 
 He then explained to them that they really didn't know John either. They thought he was a great prophet or maybe even the Messiah, but in reality John was unworthy to untie Jesus' sandals. Compared to Jesus, John wasn't even worthy to be His lowest slave. Jesus is God incarnate. He is infinitely greater than John, even though John was prophesied about and was gaining a large following. John turned attention away from himself and toward Jesus.
 

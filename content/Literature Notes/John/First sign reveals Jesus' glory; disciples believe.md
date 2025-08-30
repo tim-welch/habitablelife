@@ -8,5 +8,5 @@ When Jesus turned water into wine He revealed His glory, deepening His disciples
 
 ## Connections
 
-- [[Jesus Reveals His Glory]]
-- [[Jesus' First Sign was Turning Water to Wine]]
+- [[Jesus Reveals His Glory|Connections]]
+- [[Jesus' First Sign was Turning Water to Wine|Connections]]

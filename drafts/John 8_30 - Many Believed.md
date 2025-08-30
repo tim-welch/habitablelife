@@ -13,4 +13,4 @@ As Jesus spoke about Himself and the Father, many people believed in Him.
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief – Words and teaching]]
-- [[John 8#30|8:30]]
+- [[John 8#30|John 8]]

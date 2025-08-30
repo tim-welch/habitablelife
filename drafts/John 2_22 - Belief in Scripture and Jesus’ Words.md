@@ -12,6 +12,6 @@ When the disciples remembered Jesus’ prediction that He would rise after three
 
 ## Connections
 - [[The Gospel of John]]
-- [[Nature of Belief - Developing belief]]
-- [[Sources of Belief – Words and teaching]]
-- [[John 2#22|2:22]]
+- [[Nature of Belief in John#Developing Belief]]
+- [[Sources of Belief in John#Words & Teaching]]
+- [[John 2#22|John 2]]

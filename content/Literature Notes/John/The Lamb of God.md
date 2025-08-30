@@ -13,13 +13,13 @@ The phrase “takes away the sin of the world” reveals the scope of Jesus’ m
 
 ## Jesus Is Greater
 
-John then declared that Jesus is greater than he is, “because He was before me.” The Greek word _protos_, translated as “before,” can refer either to being first in time or first in rank. In Jesus’ case, both are true. As the eternal [[The Word Became Flesh]], Jesus existed before John. And as the Christ, He surpasses John in honor and authority. John had already [[A Voice After Silence]] the day before that he was not worthy even to untie Jesus’ sandals.
+John then declared that Jesus is greater than he is, “because He was before me.” The Greek word _protos_, translated as “before,” can refer either to being first in time or first in rank. In Jesus’ case, both are true. As the eternal [[The Word Became Flesh|The Word as God and Creator]], Jesus existed before John. And as the Christ, He surpasses John in honor and authority. John had already [[A Voice After Silence|A Voice and The Word]] the day before that he was not worthy even to untie Jesus’ sandals.
 
 ## Recognizing the Messiah
 
 John continued, “I myself did not know Him.” This may sound confusing. We know from Luke’s Gospel that John leapt in the womb when Mary visited Elizabeth. But John was not referring to personally recognizing Jesus. He was sent to prepare the way for the Messiah and needed a way to identify Him. God had told him, “The man on whom you see the Spirit descend and rest is He who will baptize with the Holy Spirit.” Only when John saw the Spirit descend on Jesus did he know for certain that Jesus is the Son of God.
 
-Like John, we too cannot recognize Jesus rightly without God's help. As Jesus later says, “No one can come to Me unless the Father who sent Me draws him” (see [[Wrestling with no one can come unless drawn]]).
+Like John, we too cannot recognize Jesus rightly without God's help. As Jesus later says, “No one can come to Me unless the Father who sent Me draws him” (see [[Wrestling with no one can come unless drawn|A Timeless Truth Applied in a Moment of Unbelief]]).
 
 ## The Spirit Who Remains
 

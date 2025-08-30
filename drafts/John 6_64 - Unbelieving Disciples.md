@@ -13,4 +13,4 @@ Jesus knew from the beginning that some of His disciples did not believe.
 ## Connections
 - [[The Gospel of John]]
 - [[Unbelief – Following without believing]]
-- [[John 6#64|6:64]]
+- [[John 6#64|John 6]]

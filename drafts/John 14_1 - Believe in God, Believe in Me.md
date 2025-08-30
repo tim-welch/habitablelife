@@ -14,4 +14,4 @@ Jesus told His disciples that just as they believe in God, they should also beli
 - [[The Gospel of John]]
 - [[Confessions of Belief – Jesus' identity]]
 - [[Confessions of Belief – Jesus & the Father]]
-- [[John 14#1|14:1]]
+- [[John 14#1|John 14]]

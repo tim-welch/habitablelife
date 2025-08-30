@@ -13,5 +13,5 @@ John explained that he wrote his Gospel so that readers may believe that Jesus i
 ## Connections
 - [[The Gospel of John]]
 - [[Confessions of Belief – Jesus' identity]]
-- [[Outcomes of Belief – Eternal life & resurrection]]
-- [[John 20#31|20:31]]
+- [[Outcomes of Belief in John#Eternal Life & Resurrection]]
+- [[John 20#31|John 20]]

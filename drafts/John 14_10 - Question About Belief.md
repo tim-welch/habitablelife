@@ -14,4 +14,4 @@ Jesus asked His disciples if they believed that He is in the Father and the Fath
 - [[The Gospel of John]]
 - [[Confessions of Belief – Jesus' identity]]
 - [[Confessions of Belief – Jesus & the Father]]
-- [[John 14#10|14:10]]
+- [[John 14#10|John 14]]

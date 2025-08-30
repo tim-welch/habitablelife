@@ -7,5 +7,5 @@ An atomic note is not a full argument. Where an atomic note is a single concrete
 
 ## Connections
 
-- [[00 - How to Take Smart Notes]]
-- [[Atomic notes are permanent]]
+- [[00 - How to Take Smart Notes|Overview]]
+- [[Atomic notes are permanent|Connections]]

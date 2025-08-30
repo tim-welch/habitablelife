@@ -14,4 +14,4 @@ Jesus urged the people to believe in the light while they had it, so that they m
 - [[The Gospel of John]]
 - [[Sources of Belief – Words and teaching]]
 - [[Outcomes of Belief – Spirit & light]]
-- [[John 12#36|12:36]]
+- [[John 12#36|John 12]]

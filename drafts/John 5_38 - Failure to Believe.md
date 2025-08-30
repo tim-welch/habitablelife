@@ -14,4 +14,4 @@ If someone does not believe in the One whom the Father sent, the Father’s word
 - [[The Gospel of John]]
 - [[Sources of Belief – Words and teaching]]
 - [[Unbelief – judgment]]
-- [[John 5#38|5:38]]
+- [[John 5#38|John 5]]

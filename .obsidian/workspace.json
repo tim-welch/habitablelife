@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b342bc29219c0f6b",
+            "id": "f0144a4d2bf4b52c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 9_38 - Belief and Worship.md",
-                "mode": "source",
+                "file": "drafts/Nature of Belief in John.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 9_38 - Belief and Worship"
-            }
-          },
-          {
-            "id": "62e53dbfbf1575ab",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "Nature of Belief in John"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "6c139dd2f2a57d36",
@@ -301,34 +288,34 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "62e53dbfbf1575ab",
+  "active": "f0144a4d2bf4b52c",
   "lastOpenFiles": [
+    "drafts/Outcomes of Belief – Eternal life & resurrection.md",
+    "drafts/John 20_31 - Purpose of John's Gospel.md",
+    "drafts/John 11_25 - Belief in the Resurrection and the Life.md",
+    "drafts/John 6_47 - Belief and Eternal Life.md",
+    "drafts/John 6_40 - Belief and Resurrection.md",
+    "drafts/John 6_35 - Belief in the Bread of Life.md",
+    "drafts/John 5_24 - Belief and Eternal Life.md",
+    "drafts/John 3_36 - Belief or Rejection.md",
+    "drafts/John 3_18 - Belief and Condemnation.md",
+    "drafts/John 3_16 - Belief in the Son.md",
+    "drafts/John 3_15 - Belief for Eternal Life.md",
+    "drafts/John 12_42 - Leaders Believed Secretly.md",
+    "drafts/Outcomes of Belief – Discipleship & obedience.md",
+    "drafts/John 8_31 - Belief and Discipleship.md",
+    "drafts/Outcomes of Belief – Blessing & works.md",
+    "drafts/John 20_29 - Blessed Belief Without Seeing.md",
+    "drafts/John 14_12 - Belief and Greater Works.md",
+    "drafts/John 11_40 - Seeing the Glory of God Through Belief.md",
+    "drafts/Outcomes of Belief – Adoption.md",
+    "drafts/John 1_12 - Believing in His Name.md",
+    "drafts/Outcomes of Belief - Compromised belief.md",
+    "drafts/Outcomes of Belief in John.md",
     "drafts/Nature of Belief in John.md",
     "drafts/Nature of Belief - Work that God requires.md",
-    "drafts/Nature of Belief - Developing belief.md",
-    "drafts/Interpretation of John 5_38 – Believing the Father by Believing the Son.md",
-    "drafts/Confessions of Belief in John.md",
-    "drafts/Confessions of Belief – Jesus' identity.md",
-    "drafts/Confessions of Belief – Jesus & the Father.md",
-    "drafts/Confessions of Belief – Individuals & Groups.md",
-    "drafts/John 1_7 - Testimony for Belief.md",
-    "drafts/Question on John 9_38 – Belief and Worship.md",
-    "broken links output.md",
-    "content/Bible/BSB/43-John/John 20.md",
-    "drafts/Question on John 8_31 – Belief and Discipleship.md",
-    "drafts/Question on John 6_36 – Unbelief Despite Seeing.md",
-    "drafts/Question on John 5_47 – Belief in Moses and Jesus.md",
-    "drafts/Question on John 12_39 – Unable to Believe.md",
-    "drafts/Question on John 7_38–39 – Belief and the Spirit.md",
-    "drafts/Question on John 3_12 – Earthly vs. Heavenly Things.md",
-    "drafts/John 20_31 - Purpose of John's Gospel.md",
-    "drafts/John 20_29 - Blessed Belief Without Seeing.md",
-    "drafts/John 20_27 - Call to Believe.md",
-    "drafts/John 20_25 - Thomas' Unbelief.md",
-    "drafts/John 20_8 - Belief at the Empty Tomb.md",
-    "drafts/John 19_35 - Testimony for Belief.md",
-    "drafts/John 17_21 - Belief because of Unity.md",
-    "drafts/John 17_20 - Belief Through the Apostles' Message.md",
+    "drafts/John 6_69 - Peter's Confession of Belief.md",
+    "content/Literature Notes/John/The Gospel of John.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",

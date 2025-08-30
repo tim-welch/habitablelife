@@ -12,5 +12,5 @@ Everyone who looks to the Son and believes in Him will have eternal life, and Je
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief – Eternal life & resurrection]]
-- [[John 6#40|6:40]]
+- [[Outcomes of Belief in John#Eternal Life & Resurrection]]
+- [[John 6#40|John 6]]

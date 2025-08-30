@@ -7,5 +7,5 @@ Application notes record how a passage applies to life, ethics, or discipleship.
 
 
 ## Connections
-- [[Interpretations as Permanent Notes]]
+- [[Interpretations as Permanent Notes|Connections]]
 - [[Apply Bible study to your life]]

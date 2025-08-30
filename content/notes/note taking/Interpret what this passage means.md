@@ -3,7 +3,7 @@ tags:
   - type/article
 ---
 
-Once you've carefully  [[Observe what this passage says|observed]] and come to terms with what the author is saying, the next step is **interpretation**, seeking to understand what the passage means. This involves uncovering the author's intent, argument, and main points. It's crucial during this stage to set aside your own opinions, assumptions, and theological preferences as much as possible. Let the author, both human and divine, speak for themselves.
+Once you've carefully  [[Observe what this passage says]] and come to terms with what the author is saying, the next step is **interpretation**, seeking to understand what the passage means. This involves uncovering the author's intent, argument, and main points. It's crucial during this stage to set aside your own opinions, assumptions, and theological preferences as much as possible. Let the author, both human and divine, speak for themselves.
 
 Start by asking: What was the author’s original purpose in writing this? What argument are they making? What themes or key points are they trying to get across? Your goal is to discover what the text meant to its original audience and how that meaning unfolds within the larger context of Scripture.
 
@@ -15,6 +15,6 @@ Sometimes **New Testament authors interpret and apply Old Testament texts** in w
 
 Understanding the **sequence of events** in a passage is also helpful. What’s happening in the narrative timeline, and how does this passage connect to the events before and after it? Asking questions like _“Why did the author include this?”_ or _“What is the significance of this detail?”_ can reveal deeper layers of meaning. Consider where the event falls in history—was it before or after God called Israel? Before or after Jesus’ death, burial, and resurrection? These time markers, along with other major events, can greatly influence how we understand the text.
 
-It’s also important to think about the genre. Some biblical stories contain a deeper or symbolic meaning beyond the surface called an **allegory**. But be careful, don't [[Understanding presuppositions in Bible study|presupose]] something is allegorical unless the author or speaker clearly indicates it. If it is, then explore the allegorical meaning thoughtfully.
+It’s also important to think about the genre. Some biblical stories contain a deeper or symbolic meaning beyond the surface called an **allegory**. But be careful, don't [[Understanding presuppositions in Bible study|My Starting Assumptions]] something is allegorical unless the author or speaker clearly indicates it. If it is, then explore the allegorical meaning thoughtfully.
 
 Ultimately, interpretation is about understanding the heart of the message—not just what is said, but why it’s said, and how it contributes to the bigger picture of God’s revelation.

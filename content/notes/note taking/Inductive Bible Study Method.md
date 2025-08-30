@@ -8,7 +8,7 @@ The Inductive Bible Study method is all about slowing down and paying attention 
 If you want to dive deeper into how this works, I talk more about the inductive process in these articles.
 
 ## Connections
-- [[Understanding presuppositions in Bible study]]
+- [[Understanding presuppositions in Bible study|My Starting Assumptions]]
 - [[Observe what this passage says]]
 - [[Interpret what this passage means]]
 - [[Apply Bible study to your life]]

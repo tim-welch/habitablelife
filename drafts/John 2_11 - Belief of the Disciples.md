@@ -12,6 +12,6 @@ After Jesus turned water into wine at Cana, His disciples believed in Him.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Nature of Belief - Developing belief]]
-- [[Sources of Belief – Signs]]
-- [[John 2#11|2:11]]
+- [[Nature of Belief in John#Developing Belief]]
+- [[Sources of Belief in John#Signs]]
+- [[John 2#11|John 2]]

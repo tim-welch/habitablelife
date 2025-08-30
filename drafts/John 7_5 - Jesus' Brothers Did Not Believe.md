@@ -13,4 +13,4 @@ Even Jesus’ brothers did not believe in Him.
 ## Connections
 - [[The Gospel of John]]
 - [[Unbelief – Family rejection]]
-- [[John 7#5|7:5]]
+- [[John 7#5|John 7]]

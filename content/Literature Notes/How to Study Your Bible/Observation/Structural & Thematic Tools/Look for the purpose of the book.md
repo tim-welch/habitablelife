@@ -8,5 +8,5 @@ The purpose of the book is the key to understanding it, especially for the epist
 
 ## Connections
 
-- [[00 - How to Study Your Bible]]
-- [[Overview first prevents misreading details]]
+- [[00 - How to Study Your Bible|Overview]]
+- [[Overview first prevents misreading details|Connections]]

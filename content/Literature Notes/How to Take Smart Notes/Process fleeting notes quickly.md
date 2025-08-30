@@ -7,5 +7,5 @@ Because fleeting notes are written quickly to be worked on later, it is importan
 
 ## Connections
 
-- [[00 - How to Take Smart Notes]]
-- [[Fleeting notes are temporary]]
+- [[00 - How to Take Smart Notes|Overview]]
+- [[Fleeting notes are temporary|Connections]]

@@ -13,4 +13,4 @@ John said that the people were unable to believe, also as Isaiah had prophesied.
 ## Connections
 - [[The Gospel of John]]
 - [[Unbelief – Explained]]
-- [[John 12#39|12:39]]
+- [[John 12#39|John 12]]

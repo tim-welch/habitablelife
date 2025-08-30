@@ -13,4 +13,4 @@ Jesus said that those given to Him by the Father received His words and believed
 ## Connections
 - [[The Gospel of John]]
 - [[Confessions of Belief – Jesus & the Father]]
-- [[John 17#8|17:8]]
+- [[John 17#8|John 17]]

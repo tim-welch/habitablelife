@@ -14,4 +14,4 @@ Jesus declared that belief in Him is also belief in the One who sent Him.
 - [[The Gospel of John]]
 - [[Confessions of Belief – Jesus & the Father]]
 - [[Confessions of Belief – Jesus' identity]]
-- [[John 12#44|12:44]]
+- [[John 12#44|John 12]]

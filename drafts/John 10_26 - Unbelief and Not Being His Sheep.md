@@ -14,4 +14,4 @@ Jesus explained that the reason some did not believe was because they were not H
 - [[The Gospel of John]]
 - [[Unbelief – Explained]]
 - [[Confessions of Belief – Jesus' identity]]
-- [[John 10#26|10:26]]
+- [[John 10#26|John 10]]

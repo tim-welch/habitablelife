@@ -12,5 +12,5 @@ When asked what works God requires, Jesus answered that the work of God is to be
 
 ## Connections
 - [[The Gospel of John]]
-- [[Nature of Belief - Work that God requires]]
-- [[John 6#28|6:28]]
+- [[Nature of Belief in John#Work that God Requires]]
+- [[John 6#28|John 6]]

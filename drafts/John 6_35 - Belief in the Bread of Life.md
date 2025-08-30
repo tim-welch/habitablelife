@@ -13,5 +13,5 @@ Jesus declared Himself the bread of life, saying that whoever comes to Him and b
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief – Words and teaching]]
-- [[Outcomes of Belief – Eternal life & resurrection]]
-- [[John 6#35|6:35]]
+- [[Outcomes of Belief in John#Eternal Life & Resurrection]]
+- [[John 6#35|John 6]]

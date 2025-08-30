@@ -8,4 +8,4 @@ Nazareth is <10 miles from Cana
 
 ## Connections
 
-- [[The Wedding at Cana]]
+- [[The Wedding at Cana|Connections]]

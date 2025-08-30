@@ -8,5 +8,5 @@ Separating them prevents smuggling interpretation into the observation stage.
 
 ## Connections
 
-- [[Observation Notes at Verse Level]]
-- [[Interpretations as Permanent Notes]]
+- [[Observation Notes at Verse Level|Connections]]
+- [[Interpretations as Permanent Notes|Connections]]

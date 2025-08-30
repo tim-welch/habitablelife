@@ -12,5 +12,5 @@ Jesus said, “The one who believes has eternal life.”
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief – Eternal life & resurrection]]
-- [[John 6#47|6:47]]
+- [[Outcomes of Belief in John#Eternal Life & Resurrection]]
+- [[John 6#47|John 6]]

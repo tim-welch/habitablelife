@@ -12,5 +12,5 @@ Everyone who believes in Jesus will have eternal life.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief – Eternal life & resurrection]]
-- [[John 3#15|3:15]]
+- [[Outcomes of Belief in John#Eternal Life & Resurrection]]
+- [[John 3#15|John 3]]

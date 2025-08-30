@@ -14,4 +14,4 @@ When the royal official learned that his son was healed at the exact time Jesus 
 - [[The Gospel of John]]
 - [[Sources of Belief – Signs]]
 - [[Sources of Belief – Testimony]]
-- [[John 4#53|4:53]]
+- [[John 4#53|John 4]]

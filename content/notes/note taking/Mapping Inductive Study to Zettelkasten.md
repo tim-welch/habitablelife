@@ -14,7 +14,7 @@ This mapping allows the Bible study process to integrate seamlessly with smart n
 ## Connections
 
 - [[content/notes/note taking/Zettelkasten]]
-- [[Inductive Bible Study Method]]
+- [[Inductive Bible Study Method|Connections]]
 - [[Observations as Literature Notes]]
-- [[Interpretations as Permanent Notes]]
-- [[Applications as Practical Notes]]
+- [[Interpretations as Permanent Notes|Connections]]
+- [[Applications as Practical Notes|Connections]]

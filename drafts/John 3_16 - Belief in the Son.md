@@ -12,5 +12,5 @@ Everyone who believes in the Son will not perish but will have eternal life.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief – Eternal life & resurrection]]
-- [[John 3#16|3:16]]
+- [[Outcomes of Belief in John#Eternal Life & Resurrection]]
+- [[John 3#16|John 3]]

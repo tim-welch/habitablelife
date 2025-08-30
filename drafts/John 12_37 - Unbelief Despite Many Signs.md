@@ -13,4 +13,4 @@ Even though Jesus had performed many signs, the people still did not believe in 
 ## Connections
 - [[The Gospel of John]]
 - [[Unbelief – Despite signs]]
-- [[John 12#37|12:37]]
+- [[John 12#37|John 12]]

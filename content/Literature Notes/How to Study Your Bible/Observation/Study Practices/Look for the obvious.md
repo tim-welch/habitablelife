@@ -8,4 +8,4 @@ Ask lots of questions and look for obvious answers. The less obvious may become 
 
 ## Connections
 
-- [[00 - How to Study Your Bible]]
+- [[00 - How to Study Your Bible|Overview]]

@@ -7,6 +7,6 @@ Working on one note can unexpectedly clarify an idea in another. Insight often c
 
 ## Connections
 
-- [[00 - How to Take Smart Notes]]
-- [[Writing is Iterative]]
+- [[00 - How to Take Smart Notes|Overview]]
+- [[Writing is Iterative|Connections]]
 

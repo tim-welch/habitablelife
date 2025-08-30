@@ -14,4 +14,4 @@ Jesus said that if He were not doing the works of His Father, then people should
 - [[The Gospel of John]]
 - [[Sources of Belief – Signs]]
 - [[Confessions of Belief – Jesus' identity]]
-- [[John 10#37|10:37]]
+- [[John 10#37|John 10]]

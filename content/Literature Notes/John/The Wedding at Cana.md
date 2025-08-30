@@ -17,4 +17,4 @@ tags:
 10. The master of the banquet praises the bridegroom for serving the best wine last.
 
 ## Connections
-- [[John 2#1|John 2:1-11]]
+- [[John 2#1|John 2]]

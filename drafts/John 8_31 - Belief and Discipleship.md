@@ -12,6 +12,6 @@ Jesus told the Jews who had believed Him that if they continued in His word, the
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Words and teaching]]
-- [[Outcomes of Belief – Discipleship & obedience]]
-- [[John 8#31|8:31]]
+- [[Sources of Belief in John#Words & Teaching]]
+- [[Outcomes of Belief in John#Discipleship & Obedience]]
+- [[John 8#31|John 8]]

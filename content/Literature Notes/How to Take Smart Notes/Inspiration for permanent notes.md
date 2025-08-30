@@ -7,5 +7,5 @@ Permanent notes may be generalizations or examples. They may compare or contrast
 
 ## Connections
 
-- [[00 - How to Take Smart Notes]]
-- [[Permanent notes]]
+- [[00 - How to Take Smart Notes|Overview]]
+- [[Permanent notes|Connections]]

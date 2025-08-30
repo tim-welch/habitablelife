@@ -7,4 +7,4 @@ Arthur emphasizes the importance of prayer when studying the Bible. She says to 
 
 ## Connections
 
-- [[00 - How to Study Your Bible]]
+- [[00 - How to Study Your Bible|Overview]]

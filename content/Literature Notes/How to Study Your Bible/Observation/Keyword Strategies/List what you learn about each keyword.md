@@ -7,5 +7,5 @@ How to Study Your Bible recommends after studying the keywords that you make a c
 
 ## Connections
 
-- [[00 - How to Study Your Bible]]
-- [[Focus on one keyword at a time]]
+- [[00 - How to Study Your Bible|Overview]]
+- [[Focus on one keyword at a time|Connections]]

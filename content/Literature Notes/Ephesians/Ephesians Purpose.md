@@ -8,7 +8,7 @@ Paul tells us plainly why he wrote his letter to the Ephesians. In Ephesians 4:1
 
 > I urge you to walk in a manner worthy of the calling you have received.
 
-Paul is encouraging believers to live in a way that reflects the calling they received when they placed their faith in Jesus. He begins the letter by reminding them of all the blessings they received in Christ. Then he shifts to instructing them on how to live in response to those blessings. Much like [[James purpose|James]], Paul calls believers not only to believe but also to live out their faith in daily life.
+Paul is encouraging believers to live in a way that reflects the calling they received when they placed their faith in Jesus. He begins the letter by reminding them of all the blessings they received in Christ. Then he shifts to instructing them on how to live in response to those blessings. Much like [[James purpose|Why Did James Write This Letter?]], Paul calls believers not only to believe but also to live out their faith in daily life.
 
 ## Blessed in Christ
 
