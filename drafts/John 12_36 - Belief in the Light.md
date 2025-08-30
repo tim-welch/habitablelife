@@ -13,5 +13,5 @@ Jesus urged the people to believe in the light while they had it, so that they m
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief in John#Words & Teaching]]
-- [[Outcomes of Belief – Spirit & light]]
+- [[Outcomes of Belief in John#Spirit & Light]]
 - [[John 12#36|John 12]]

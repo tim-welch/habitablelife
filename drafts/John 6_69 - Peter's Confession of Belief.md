@@ -12,5 +12,5 @@ Peter confessed on behalf of the Twelve: “We believe and know that You are the
 
 ## Connections
 - [[The Gospel of John]]
-- [[Confessions of Belief – Individuals & Groups]]
+- [[Confessions of Belief in John#Groups]]
 - [[John 6#69|John 6]]

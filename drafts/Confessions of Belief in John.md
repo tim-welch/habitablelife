@@ -15,9 +15,9 @@ Confessions of faith in John reveal recognition of Jesus’ identity and mission
 
 ## Groups  
 - [[John 6_69 - Peter's Confession of Belief|John 6:69 - Confession of Belief]] (Peter on behalf of the Twelve)  
-- [[John 4_41 - Belief from Jesus’ Message|John 4:41 - Belief from Jesus’ Message]]  
+- [[John 4_41 - Belief from Jesus' Message|John 4:41 - Belief from Jesus' Message]]  
 - [[John 4_42 - Knowing and Believing Jesus|John 4:42 - Knowing and Believing Jesus]]  
 
-## Author’s Testimony  
+## Author's Testimony  
 - [[John 19_35 - Testimony for Belief|John 19:35 - Testimony for Belief]]  
 - [[John 20_31 - Purpose of John's Gospel|John 20:31 - Purpose of John's Gospel]]

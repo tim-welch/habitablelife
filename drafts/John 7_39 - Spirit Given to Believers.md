@@ -12,5 +12,5 @@ John explained that “living water” referred to the Spirit, who would later b
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief – Spirit & light]]
+- [[Outcomes of Belief in John#Spirit & Light]]
 - [[John 7#39|John 7]]

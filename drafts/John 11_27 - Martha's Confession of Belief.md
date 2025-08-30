@@ -12,6 +12,5 @@ Martha confessed her belief that Jesus is the Christ, the Son of God, who was to
 
 ## Connections
 - [[The Gospel of John]]
-- [[Confessions of Belief – Individuals & Groups]]
-- [[Confessions of Belief – Jesus' identity]]
+- [[Confessions of Belief in John#Individuals]]
 - [[John 11#27|John 11]]

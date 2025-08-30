@@ -12,5 +12,5 @@ Jesus said that the one who believes in Him will not remain in darkness, for He 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief – Spirit & light]]
+- [[Outcomes of Belief in John#Spirit & Light]]
 - [[John 12#46|John 12]]
