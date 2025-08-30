@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0144a4d2bf4b52c",
+            "id": "a233f14b2f70bd9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "drafts/Nature of Belief in John.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "Nature of Belief in John"
             }
-          },
-          {
-            "id": "92e0d9747da43f1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/Unbelief in John.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unbelief in John"
-            }
-          },
-          {
-            "id": "a5d9c39934848184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/Unbelief in John.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Unbelief in John"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6c139dd2f2a57d36",
@@ -92,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 3_16 - Belief in the Son.md",
+                "file": "drafts/John 12_44 - Belief in Jesus and the Father.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -107,35 +58,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 3_16 - Belief in the Son"
-            }
-          },
-          {
-            "id": "a233f14b2f70bd9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 20_31 - Purpose of John's Gospel.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 20_31 - Purpose of John's Gospel"
+              "title": "John 12_44 - Belief in Jesus and the Father"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -362,8 +288,15 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "a233f14b2f70bd9d",
+  "active": "a9a2677d2b22534b",
   "lastOpenFiles": [
+    "drafts/John 3_16 - Belief in the Son.md",
+    "drafts/Nature of Belief in John.md",
+    "drafts/John 12_44 - Belief in Jesus and the Father.md",
+    "drafts/Confessions of Belief – Jesus & the Father.md",
+    "drafts/Confessions of Belief in John.md",
+    "drafts/Confessions of Belief – Jesus' identity.md",
+    "drafts/John 20_31 - Purpose of John's Gospel.md",
     "drafts/John 20_25 - Thomas' Unbelief.md",
     "drafts/John 16_31 - Jesus' Question About Belief.md",
     "drafts/John 11_48 - Leaders' Fear of Widespread Belief.md",
@@ -383,13 +316,6 @@
     "drafts/Unbelief in John.md",
     "drafts/Outcomes of Belief in John.md",
     "drafts/John 7_39 - Spirit Given to Believers.md",
-    "drafts/John 7_38 - Living Water for Believers.md",
-    "drafts/John 12_46 - Belief and Darkness.md",
-    "drafts/John 12_36 - Belief in the Light.md",
-    "drafts/John 3_16 - Belief in the Son.md",
-    "drafts/John 3_15 - Belief for Eternal Life.md",
-    "drafts/Nature of Belief in John.md",
-    "drafts/Confessions of Belief in John.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
