@@ -1,5 +1,7 @@
 ---
 title: "Question on John 14:12 – Greater Works"
+alias:
+  - "Question on John 14:12 – Greater Works"
 tags:
   - type/question
   - bible/interpretation

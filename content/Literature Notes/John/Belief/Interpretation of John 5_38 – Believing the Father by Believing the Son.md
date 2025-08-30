@@ -1,5 +1,7 @@
 ---
 title: "Interpretation of John 5:38 – Believing the Father by Believing the Son"
+aliases:
+  - "Interpretation of John 5:38 – Believing the Father by Believing the Son"
 tags:
   - type/literature
   - bible/interpretation
@@ -13,5 +15,6 @@ Jesus links unbelief in Him with the Father’s word not abiding in a person.
 - Raises implications for how Jesus fulfills and embodies the Father’s revelation.  
 
 ## Connections
+- [[Question on John 5_38 – Failure to Believe|Question on John 5:38 – Failure to Believe]]
 - [[John 5_38 - Failure to Believe|John 5:38 - Failure to Believe]]
 - [[The Gospel of John]]

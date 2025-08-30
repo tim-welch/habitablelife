@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/Nature of Belief in John.md",
+                "file": "content/Literature Notes/John/Belief/John 3_36 - Belief or Rejection.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,10 +28,89 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nature of Belief in John"
+              "title": "John 3_36 - Belief or Rejection"
+            }
+          },
+          {
+            "id": "f90ec4b7707fbd63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Literature Notes/John/Belief/John 17_8 - Belief that Jesus came from God.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 17_8 - Belief that Jesus came from God"
             }
           }
         ]
+      },
+      {
+        "id": "1bf35a4ddf090e76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60e8cadf52f67b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Literature Notes/John/Belief/Question on John 14_12 – Greater Works.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 14_12 – Greater Works"
+            }
+          },
+          {
+            "id": "32f9ec2dd5fa960a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Literature Notes/John/Belief/Question on John 17_8 - Belief that Jesus came from God.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 17_8 - Belief that Jesus came from God"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,34 +337,34 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "dbbc13162e881098",
+  "active": "a233f14b2f70bd9d",
   "lastOpenFiles": [
-    "drafts/John 6_69 - Peter's Confession of Belief.md",
-    "drafts/John 9_35 - Call to Believe in the Son of Man.md",
-    "drafts/John 9_36 - Desire to Believe.md",
-    "drafts/John 10_25 - Refusal to Believe.md",
-    "drafts/John 10_26 - Unbelief and Not Being His Sheep.md",
-    "drafts/John 10_37 - Grounds for Unbelief.md",
-    "drafts/John 10_38 - Belief in the Works.md",
-    "drafts/John 11_25 - Belief in the Resurrection and the Life.md",
-    "drafts/John 11_26 - Question to Martha.md",
-    "drafts/John 11_27 - Martha's Confession of Belief.md",
-    "drafts/John 11_42 - Belief That the Father Sent Jesus.md",
-    "drafts/John 12_44 - Belief in Jesus and the Father.md",
-    "drafts/John 14_1 - Believe in God, Believe in Me.md",
-    "drafts/John 14_10 - Question About Belief.md",
-    "drafts/John 16_27 - Loved for Belief.md",
-    "drafts/John 16_30 - Belief Because of Knowledge.md",
-    "drafts/John 20_28 - Thomas' Confession.md",
-    "drafts/Confessions of Belief – Jesus' identity.md",
-    "drafts/Nature of Belief in John.md",
-    "drafts/John 20_31 - Purpose of John's Gospel.md",
-    "drafts/Confessions of Belief – Jesus & the Father.md",
-    "drafts/John 17_8 - Belief that Jesus came from God.md",
-    "drafts/John 14_11 - Belief in Words or Works.md",
-    "drafts/John 3_16 - Belief in the Son.md",
-    "drafts/Confessions of Belief in John.md",
-    "drafts/John 20_25 - Thomas' Unbelief.md",
+    "content/Literature Notes/John/Belief/Confessions of Belief in John.md",
+    "content/Literature Notes/John/Belief/How John talks about belief.md",
+    "content/Literature Notes/John/Belief/Question on John 17_8 - Belief that Jesus came from God.md",
+    "content/Literature Notes/John/Belief/Question on John 14_12 – Greater Works.md",
+    "content/Literature Notes/John/Belief/John 17_8 - Belief that Jesus came from God.md",
+    "content/Literature Notes/John/Belief/Interpretation of John 8_45 - Unbelief Because of Truth.md",
+    "content/Literature Notes/John/Belief/Question on John 13_19 - Belief After Fulfillment.md",
+    "content/Literature Notes/John/Belief/Question on John 12_39 – Unable to Believe.md",
+    "content/Literature Notes/John/Belief/John 8_45 - Unbelief Because of Truth.md",
+    "content/Literature Notes/John/Belief/Interpretation of John 5_38 – Believing the Father by Believing the Son.md",
+    "content/Literature Notes/John/Belief/Unbelief in John.md",
+    "content/Literature Notes/John/Belief/Question on John 8_31 – Belief and Discipleship.md",
+    "content/Literature Notes/John/Belief/John 6_28 - Belief as the Work of God.md",
+    "content/Literature Notes/John/Belief/Question on John 5_38 – Failure to Believe.md",
+    "content/Literature Notes/John/Belief/Question on John 3_12 – Earthly vs. Heavenly Things.md",
+    "content/Literature Notes/John/Belief/Question on John 5_47 – Belief in Moses and Jesus.md",
+    "content/Literature Notes/John/Belief/John 4_50 - Belief Before the Sign.md",
+    "content/Literature Notes/John/Belief/Nature of Belief in John.md",
+    "content/Literature Notes/John/Belief/John 6_69 - Peter's Confession of Belief.md",
+    "content/Literature Notes/John/Belief/John 9_35 - Call to Believe in the Son of Man.md",
+    "content/Literature Notes/John/Belief/John 9_36 - Desire to Believe.md",
+    "content/Literature Notes/John/Belief/John 10_25 - Refusal to Believe.md",
+    "content/Literature Notes/John/Belief/John 10_26 - Unbelief and Not Being His Sheep.md",
+    "content/Literature Notes/John/Belief/John 10_37 - Grounds for Unbelief.md",
+    "content/Literature Notes/John/Belief/John 10_38 - Belief in the Works.md",
+    "content/Literature Notes/John/Belief/John 11_25 - Belief in the Resurrection and the Life.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",

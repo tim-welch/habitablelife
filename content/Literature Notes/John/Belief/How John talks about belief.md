@@ -6,109 +6,14 @@ tags:
 
 Almost every chapter in John's gospel talks about belief. This is the core theme of the gospel.
 
-- [[John 1#7]] - John the Baptist testified about Jesus so that everyone might believe.
-- [[John 1#12]] - We receive Jesus by believing in His name, gaining the right to become children of God.
-- [[John 1#50]] - Nathanael believed because Jesus saw him under the fig tree.
-- [[John 2#11]] - Jesus' disciples believed in Him after He turned water into wine.
-- [[John 2#22]] - When Jesus' disciples remembered Jesus' prediction that He would rise three days after He died, they believed the scripture and what Jesus said.
-- [[John 2#23]] - Many people believed in Jesus' name when they saw the signs He was doing in Jerusalem at Passover.
-- [[John 3#12]] - Not believing what Jesus says about earthly things means you won't believe Him about heavenly things.
-    - Nicodemus was confused about Jesus' statement that we must be born again. Isn't that heavenly things? Maybe the earthly things is in [[John 3#8|John 3]] talking about the wind.
-- [[John 3#15]] - everyone who believes in Jesus may have eternal life
-- [[John 3#16]] - everyone who believes in the Son shall have eternal life instead of perishing
-- [[John 3#18]] - Whoever believes in the Son is not condemned
-- [[John 3#18]] - Whoever does not believe in the Son has already been condemned
-- [[John 3#36]] - When a person learns about the Son, they have to make a choice. Either believe in the Son, or reject the Son. Belief results in eternal life. Rejection results in not seeing life and God's wrath remaining on them.
-- [[John 4#21]] - Jesus tells a woman to believe what He tells her about worshipping the Father
-- [[John 4#39]] - Many people believed in Jesus because of the woman's testimony
-- [[John 4#41]] - Many people believed in Jesus' own message
-- [[John 4#42]] - The people explain that their belief comes from both the woman's testimony and because of what they heard for themselves.
-- [[John 4#42]] - What the people believe (know) is that Jesus is the Savior of the world
-- [[John 4#48]] - Jesus tells a man, who was asking him to heal his son, that "unless you people see signs and wonders, you will never believe". In verse [[John 4#50]] we are told that the man took Jesus at His word. In other words, he believed before he saw his son healed.
-- [[John 4#53]] - While the man took Jesus at His word in [[John 4#50]], when he learned that his son recovered at the same time Jesus told him "your son will live", bot the man and his household believed.
-- [[John 5#24]] - Those who believe the Father have eternal life and will not come under judgement
-- [[John 5#38]] - If you do not believe in the One the Father sent (Jesus), then the Father's word does not abide in you.
-    - Does this mean that by not believing in Jesus we do not believe in the Father Who sent Him? That seems to be what Jesus is saying.
-- [[John 5#44]] - If you are looking for glory from other people, you can not believe in Jesus. The glory we should seek is the glory that comes from God.
-- [[John 5#46]] - Moses wrote about Jesus, so if you believe in Moses, then you would believe in Jesus.
-- [[John 5#47]] - If you don't believe what Moses wrote, then how can you believe in what Jesus says? 
-    - Is Jesus saying that believing in the old testament (what Moses wrote) and believing in Jesus' teachings is the same thing? That seems to be the implication.
-- [[John 6#28]] - To do the work of God, we must believe in Jesus
-- [[John 6#30]] - People ask Jesus for a sign, implying that if Jesus performs a sign for them, then they will believe Him.
-- [[John 6#35]] - When the people ask Jesus for food, His response is that He is the bread of life and that by coming to him and believing in Him they will never hunger or thirst.
-- [[John 6#36]] - Even though they saw Jesus, they still do not believe.
-    - People saw Jesus, saw the signs He performed, heard His teaching, and yet they still didn't believe. This couldn't have been because they were unconvinced, this is because they rejected Him.
-- [[John 6#40]] - Jesus will raise up those who believe in Him on the last day.
-- [[John 6#47]] - He who believes has eternal life
-- [[John 6#64]] - Jesus knew that "some" of His disciples did not believe
-- [[John 6#69]] - When Jesus asked the twelve if they want to leave, Peter says no way because "we believe and know that You are the Holy One of God"
-- [[John 7#5]] - Even Jesus' brothers didn't believe in Him
-- [[John 7#31]] - When Jesus was teaching in the temple courts, many in the crowd believed in Him because of the signs He performed.
-- [[John 7#38]] - Living water will flow from within those who believe in Jesus
-- [[John 7#39]] - The living water refers to the Spirit Who would be given to believers after Jesus was glorified
-- [[John 7#48]] - The rulers of the Jews and the Pharisees did not believe in Jesus
-- [[John 8#24]] - We must believe that Jesus is the Christ or we will die in our sins
-- [[John 8#30]] - When Jesus told the people about Himself and the Father, many believed in Him
-- [[John 8#31]] - Jesus told the Jews who believed Him that by continuing in His word they will truly be His disciples
-    - This seems to differentiate belief and discipleship
-- [[John 8#45]] - Some people didn't believe Jesus because He spoke the truth
-    - These people had just been told their father is the devil and they carry out his desires. Apparently this offended them enough they would not believe Jesus
-- [[John 8#46]] - Jesus poses the question: "If I speak the truth, why do you not believe Me?"
-- [[John 9#18]] - The Jews would not believe that the blind man had been given sight
-- [[John 9#35]] - Jesus asked the man who had been given sight if he believed in the Son of Man
-- [[John 9#36]] - The blind man wants to believe in the Son of Man, so he asked who the Son of Man is
-- [[John 9#38]] - The blind man believed and worshiped Jesus
-- [[John 10#25]] - Jesus tells the Jews that He told them He is the Christ, but they did not believe. Jesus says His works testify on His behalf.
-- [[John 10#26]] - Because they (the Jews who said Jesus had not told them He is the Christ) are not His sheep, they refuse to believe.
-- [[John 10#37]] - If Jesus is not doing the works of His Father, then don't believe Him
-- [[John 10#38]] - If Jesus is doing the works of His Father, then even if you don't believe what He says, believe the works. By believing the works you may know and understand the Father is in Jesus and Jesus is in the Father
-- [[John 10#42]] - When Jesus returned to where John had been baptizing many people in that place believed in Jesus because of what John had told them about Jesus
-- [[John 11#15]] - Jesus is glad He wasn't there when Lazarus died, so that His disciples may believe
-- [[John 11#25]] - Jesus is the resurrection and the life. Whoever believes in Him will live even though he dies
-- [[John 11#26]] - Jesus asks Martha if she believes that everyone who lives and believes in Jesus will never die.
-- [[John 11#27]] - Martha believes that Jesus is the Christ, the Son of God, who was to come into the world
-- [[John 11#40]] - When Martha is worried that Lazarus has been dead so long that he stinks, Jesus reminds her that He told her if she believed she would see the glory of God
-- [[John 11#42]] - Jesus prayed thanking His Father so that the people standing there would believe that the Father sent Jesus
-- [[John 11#45]] - Many of the people who had seen Jesus raise Lazarus believed in Him
-- [[John 11#48]] - The chief priests and Pharisees were concerned that if Jesus continued performing signs then everyone will believe in Him.
-- [[John 12#11]] - Many of the Jews were believing in Jesus because of Lazarus
-- [[John 12#36]] - When Jesus was warning people that He, the Light, would only be among them for a little longer, he encouraged them to believe in the Light while they still have the Light so they may become sons of light
-- [[John 12#37]] - Even thought Jesus performed a lot of signs people still did not believe in Him
-- [[John 12#38]] - Isaiah had prophesized that people would not believe "our message"
-- [[John 12#39]] - They were unable to believe - also prophesied by Isaiah
-- [[John 12#42]] - Many of the leaders believed in Jesus but did not admit it because of fear they would be kicked out of the synagogue - they wanted to be praised by men more than by God
-- [[John 12#44]] - Believing in Jesus means also believing in the One who sent Jesus
-- [[John 12#46]] - The person who believes in Jesus should not remain in darkness. That's why Jesus came as a light
-- [[John 13#19]] - Jesus tells His disciples that one of them will lift up his heel against Him so that when it happens the others will believe "I am He"
-    - What is the Greek here? Did Jesus actually say they will believe "I am", referring to the name of God given to Moses?
-- [[John 14#1]] - Those who believe in God should believe in Jesus as well
-    - This might be more interpretation than observation
-- [[John 14#10]] - Jesus questions His disciples if they believe He is in the Father and the Father is in Him
-- [[John 14#11]] - Jesus tells His disciples to believe He is in the Father and the Father is in Him. Or if not, then at least believe because of the works Jesus did
-- [[John 14#12]] - Whoever believes in Jesus will do the works Jesus is doing and even greater things because Jesus is going to the Father
-    - Is this "whoever" just those Jesus is talking to (the 12 I think) or is it a universal "whoever" like it normally is? I think it must be universal because Jesus could have easily clarified this by saying "you" instead of "whoever"
-    - Does that mean that everyone who believes in Jesus will do t he works that Jesus did? Reality seems to say no. Healing, prophesy, etc. are gifts of the Spirit, maybe it means that all believers will be given gifts and that some of those gifts are these kinds of sign gifts?
-- [[John 14#29]] - Jesus told them (the 12 I think) that He is going away and will come back so that when it happens they will believe.
-- [[John 16#9]] - The Advocate will convict the world in regard to sin because they do not believe in Jesus
-- [[John 16#27]] - Because they love Jesus and believe He came from God, the Father loves them
-- [[John 16#30]] - When Jesus' disciples understood that Jesus knows all things they believed He came from God
-- [[John 16#31]] - Jesus' reply was "Do you finally believe?"
-    - This is interesting because John has been saying all along that they believe.
-    - It seems like as Jesus revealed Himself more, people believed Him more fully
-- [[John 17#8]] - Jesus had given the words that God gave Him to the people who belonged to God and that God had given to Him. Those people received the words and believed that God sent Jesus
-    - This is an interesting prayer. It seems to be saying that there were people in the world who belonged to God and God gave those people to Jesus.
-    - What made these people God's?
-    - We know from other things Jesus said that everyone who believes in Jesus has eternal life. And that is what Jesus gives to those God gave to Him. Does this mean that the people who were God's and who God gave to Jesus believed in God and that belief is now transitioning to (or growing to include) Jesus?
-- [[John 17#20]] - Jesus' prayer is not just on behalf of those God gave to Jesus but also for those who believe in Jesus through their message.
-- [[John 17#21]] - Jesus wants all believers to be one and in "Us" (the Father and Jesus) so that the world may believe that the Father sent Jesus
-- [[John 19#35]] - John tells us that He personally saw the crucifixion and how the soldiers determined that Jesus died. He is telling the true so that we (his readers) may believe.
-- [[John 20#8]] - John tells us that when he saw the empty tomb, he believed.
-- [[John 20#25]] - Thomas won't believe that Jesus appeared to the disciples until he is able to verify it for himself
-- [[John 20#27]] - Jesus appeared and told Thomas to verify for himself and to believe.
-- [[John 20#29]] - Jesus tells Thomas that he believed because he saw Jesus alive, but those who do not see Jesus physically and yet believe will be blessed.
-- [[John 20#31]] - John tells us that he wrote this book so that we will believe that Jesus is the Christ, the Son of God, and that by believing we may have life.
+- [[Nature of Belief in John]]
+- [[Sources of Belief in John]]
+- [[Confessions of Belief in John]]
+- [[Outcomes of Belief in John]]
+- [[Unbelief in John]]
 
 
 ## Connections
 
-- The Gospel of John
+- [[The Gospel of John]]
+
