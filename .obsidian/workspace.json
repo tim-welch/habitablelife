@@ -116,8 +116,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "broken links output.md",
-                "mode": "preview",
+                "file": "drafts/John 1_50 - Nathanael's Belief.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -131,7 +131,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "broken links output"
+              "title": "John 1_50 - Nathanael's Belief"
             }
           }
         ],
@@ -167,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:drafts nathan ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +203,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -362,10 +363,10 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "a233f14b2f70bd9d",
+  "active": "be4806d244d9bad5",
   "lastOpenFiles": [
-    "drafts/John 9_38 - Belief and Worship.md",
     "broken links output.md",
+    "drafts/John 9_38 - Belief and Worship.md",
     "drafts/John 16_27 - Loved for Belief.md",
     "orphaned files output.md",
     "drafts/John 12_42 - Leaders Believed Secretly.md",

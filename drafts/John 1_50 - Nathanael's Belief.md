@@ -1,7 +1,7 @@
 ---
-title: "John 1:50 - Nathanael’s Belief"
+title: "John 1:50 - Nathanael's Belief"
 aliases:
-  - "John 1:50 - Nathanael’s Belief"
+  - "John 1:50 - Nathanael's Belief"
 tags:
   - type/literature
   - bible/keyword/believe

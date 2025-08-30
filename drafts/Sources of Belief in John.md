@@ -30,7 +30,7 @@ Belief in John’s Gospel arises from multiple sources: signs, testimony, words,
 - [[John 14_11 - Belief in Words or Works|John 14:11 - Belief in Words or Works]]  
 
 ## Supernatural Knowledge  
-- [[John 1_50 - Nathanael’s Belief|John 1:50 - Nathanael’s Belief]]  
+- [[John 1_50 - Nathanael's Belief|John 1:50 - Nathanael's Belief]]  
 - [[John 4_39 - Belief from Testimony|John 4:39 - Belief from Testimony]]
 - [[John 16_30 - Belief Because of Knowledge|John 16:30 - Belief Because of Knowledge]]  
 
