@@ -12,5 +12,5 @@ How should we understand Jesus’ blessing on those who believe without seeing?
 - Is Jesus commending blind faith, or faith grounded in trustworthy witness?  
 
 ## Connections
-- [[John 20:29 - Blessed Belief Without Seeing]]
+- [[John 20_29 - Blessed Belief Without Seeing|John 20:29 - Blessed Belief Without Seeing]]
 - [[The Gospel of John]]

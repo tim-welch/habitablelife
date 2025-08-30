@@ -12,5 +12,5 @@ Jesus said the Advocate will convict the world concerning sin, because people do
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief – judgment]]
+- [[Unbelief in John#Judgment as Outcome of Unbelief]]
 - [[John 16#9|John 16]]

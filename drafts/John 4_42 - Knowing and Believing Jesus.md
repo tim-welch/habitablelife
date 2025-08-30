@@ -12,6 +12,6 @@ The people explained that their belief was first based on the woman’s testimon
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Testimony]]
-- [[Sources of Belief – Words and teaching]]
+- [[Sources of Belief in John#Testimony]]
+- [[Sources of Belief in John#Words & Teaching]]
 - [[John 4#42|John 4]]

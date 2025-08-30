@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 20_31 - Purpose of John's Gospel.md",
+                "file": "drafts/Nature of Belief in John.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Nature of Belief in John"
+            }
+          },
+          {
+            "id": "92e0d9747da43f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Unbelief in John.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,23 +52,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 20_31 - Purpose of John's Gospel"
+              "title": "Unbelief in John"
             }
-          }
-        ]
-      },
-      {
-        "id": "6c139dd2f2a57d36",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "97cd8a909cb034e4",
+            "id": "a5d9c39934848184",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "content/Bible/BSB/43-John/John 20.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -61,7 +79,111 @@
               "title": "John 20"
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6c139dd2f2a57d36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8af2c448e5640d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 8_46 - Why Not Believe.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 8_46 - Why Not Believe"
+            }
+          },
+          {
+            "id": "f0f11c16e7cf44f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Confessions of Belief in John.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Confessions of Belief in John"
+            }
+          },
+          {
+            "id": "dff66b833394bff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/John 20_28 - Thomas' Confession.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 20_28 - Thomas' Confession"
+            }
+          },
+          {
+            "id": "a9a2677d2b22534b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "broken links output.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "broken links output"
+            }
+          }
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -288,34 +410,34 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "f0144a4d2bf4b52c",
+  "active": "a9a2677d2b22534b",
   "lastOpenFiles": [
+    "drafts/John 20_28 - Thomas' Confession.md",
+    "content/Bible/BSB/43-John/John 20.md",
+    "drafts/John 8_46 - Why Not Believe.md",
+    "drafts/Confessions of Belief in John.md",
+    "broken links output.md",
     "drafts/Unbelief in John.md",
+    "drafts/John 7_5 - Jesus' Brothers Did Not Believe.md",
+    "drafts/John 11_48 - Leaders' Fear of Widespread Belief.md",
+    "drafts/John 7_48 - Rulers Did Not Believe.md",
+    "drafts/John 3_12 - Believing Heavenly Things.md",
+    "drafts/John 20_25 - Thomas' Unbelief.md",
+    "drafts/John 12_39 - Unable to Believe.md",
+    "drafts/John 6_64 - Unbelieving Disciples.md",
+    "drafts/John 12_38 - Prophecy of Unbelief.md",
+    "drafts/John 10_26 - Unbelief and Not Being His Sheep.md",
+    "drafts/John 8_45 - Unbelief Because of Truth.md",
+    "drafts/Question on John 11_40 – Seeing the Glory of God.md",
     "drafts/Sources of Belief in John.md",
+    "drafts/Question on John 17_21 – Belief Through Unity.md",
+    "drafts/Question on John 16_31 – Do You Now Believe.md",
+    "drafts/Question on John 20_29 – Belief Without Seeing.md",
+    "drafts/Question on John 14_12 – Greater Works.md",
+    "drafts/Question on John 12_42 – Secret Believers.md",
+    "drafts/Question on John 10_26 – Not My Sheep.md",
     "drafts/Outcomes of Belief in John.md",
-    "drafts/Nature of Belief in John.md",
-    "drafts/Outcomes of Belief – Eternal life & resurrection.md",
-    "drafts/John 20_31 - Purpose of John's Gospel.md",
-    "drafts/John 11_25 - Belief in the Resurrection and the Life.md",
-    "drafts/John 6_47 - Belief and Eternal Life.md",
-    "drafts/John 6_40 - Belief and Resurrection.md",
-    "drafts/John 6_35 - Belief in the Bread of Life.md",
-    "drafts/John 5_24 - Belief and Eternal Life.md",
-    "drafts/John 3_36 - Belief or Rejection.md",
-    "drafts/John 3_18 - Belief and Condemnation.md",
-    "drafts/John 3_16 - Belief in the Son.md",
-    "drafts/John 3_15 - Belief for Eternal Life.md",
-    "drafts/John 12_42 - Leaders Believed Secretly.md",
-    "drafts/Outcomes of Belief – Discipleship & obedience.md",
-    "drafts/John 8_31 - Belief and Discipleship.md",
-    "drafts/Outcomes of Belief – Blessing & works.md",
-    "drafts/John 20_29 - Blessed Belief Without Seeing.md",
-    "drafts/John 14_12 - Belief and Greater Works.md",
-    "drafts/John 11_40 - Seeing the Glory of God Through Belief.md",
-    "drafts/Outcomes of Belief – Adoption.md",
-    "drafts/John 1_12 - Believing in His Name.md",
-    "drafts/Outcomes of Belief - Compromised belief.md",
-    "drafts/Nature of Belief - Work that God requires.md",
+    "drafts/John 16_9 - Unbelief as Sin.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",

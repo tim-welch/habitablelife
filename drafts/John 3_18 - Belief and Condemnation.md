@@ -12,6 +12,6 @@ Whoever believes in the Son is not condemned, but whoever does not believe has a
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief – judgment]]
+- [[Unbelief in John#Judgment as Outcome of Unbelief]]
 - [[Outcomes of Belief in John#Eternal Life & Resurrection]]
 - [[John 3#18|John 3]]

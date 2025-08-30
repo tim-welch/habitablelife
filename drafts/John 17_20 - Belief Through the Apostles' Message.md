@@ -12,5 +12,5 @@ Jesus prayed not only for His disciples, but also for those who would believe in
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Testimony]]
+- [[Sources of Belief in John#Testimony]]
 - [[John 17#20|John 17]]

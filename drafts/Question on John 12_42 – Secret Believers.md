@@ -12,5 +12,5 @@ How should we understand the leaders who believed in Jesus but did not confess i
 - How does this passage illuminate the tension between public confession and private conviction?  
 
 ## Connections
-- [[John 12:42 - Leaders Believed Secretly]]
+- [[John 12_42 - Leaders Believed Secretly|John 12:42 - Leaders Believed Secretly]]
 - [[The Gospel of John]]

@@ -12,5 +12,5 @@ Many Jews were believing in Jesus because of Lazarus.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Signs]]
+- [[Sources of Belief in John#Signs]]
 - [[John 12#11|John 12]]

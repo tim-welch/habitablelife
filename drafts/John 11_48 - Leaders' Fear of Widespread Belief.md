@@ -12,6 +12,6 @@ The chief priests and Pharisees worried that if Jesus continued performing signs
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Signs]]
-- [[Unbelief – Leaders’ rejection]]
+- [[Sources of Belief in John#Signs]]
+- [[Unbelief in John#By Relationship]]
 - [[John 11#48|John 11]]

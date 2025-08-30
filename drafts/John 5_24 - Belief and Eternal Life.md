@@ -13,5 +13,5 @@ Those who believe the Father have eternal life and will not come under judgment.
 ## Connections
 - [[The Gospel of John]]
 - [[Outcomes of Belief in John#Eternal Life & Resurrection]]
-- [[Unbelief – judgment]]
+- [[Unbelief in John#Judgment as Outcome of Unbelief]]
 - [[John 5#24|John 5]]

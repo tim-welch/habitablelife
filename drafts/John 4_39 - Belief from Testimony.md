@@ -12,6 +12,6 @@ Many Samaritans believed in Jesus because of the woman’s testimony.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Testimony]]
-- [[Sources of Belief – Supernatural knowledge]]
+- [[Sources of Belief in John#Testimony]]
+- [[Sources of Belief in John#Supernatural Knowledge]]
 - [[John 4#39|John 4]]

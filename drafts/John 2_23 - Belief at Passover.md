@@ -12,5 +12,5 @@ Many believed in Jesus’ name when they saw the signs He was performing in Jeru
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Signs]]
+- [[Sources of Belief in John#Signs]]
 - [[John 2#23|John 2]]

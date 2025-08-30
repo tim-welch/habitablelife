@@ -12,5 +12,5 @@ How does the unity of believers serve as a witness that leads the world to belie
 - How does this prayer relate to mission and evangelism?  
 
 ## Connections
-- [[John 17:21 - Belief Through Unity]]
+- [[John 17_21 - Belief because of Unity|John 17:21 - Belief because of Unity]]
 - [[The Gospel of John]]

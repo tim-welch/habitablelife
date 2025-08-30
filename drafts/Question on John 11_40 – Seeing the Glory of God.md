@@ -12,5 +12,5 @@ What does it mean to “see the glory of God” through belief?
 - What role does belief play in experiencing God’s glory?  
 
 ## Connections
-- [[John 11:40 - Seeing the Glory of God Through Belief]]
+- [[John 11_40 - Seeing the Glory of God Through Belief|John 11:40 - Seeing the Glory of God Through Belief]]
 - [[The Gospel of John]]

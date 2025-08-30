@@ -12,5 +12,5 @@ When Jesus returned to the place where John had been baptizing, many believed in
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Testimony]]
+- [[Sources of Belief in John#Testimony]]
 - [[John 10#42|John 10]]

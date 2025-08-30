@@ -12,5 +12,5 @@ Though the people had seen Jesus and His signs, they still did not believe.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief – Despite signs]]
+- [[Unbelief in John#Despite Signs]]
 - [[John 6#36|John 6]]

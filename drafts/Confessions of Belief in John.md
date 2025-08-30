@@ -10,8 +10,8 @@ Confessions of faith in John reveal recognition of Jesus’ identity and mission
 ## Individuals  
 - [[John 1_50 - Nathanael’s Belief|John 1:50 - Nathanael’s Belief]]  
 - [[John 9_38 - Belief and Worship|John 9:38 - Belief and Worship]]  
-- [[John 11:27 - Martha’s Confession of Belief]]  
-- [[John 20:28 - Thomas’ Confession]]  
+- [[John 11_27 - Martha's Confession of Belief|John 11:27 - Martha's Confession of Belief]]  
+- [[John 20_28 - Thomas' Confession|John 20:28 - Thomas' Confession]]  
 
 ## Groups  
 - [[John 6_69 - Peter's Confession of Belief|John 6:69 - Confession of Belief]] (Peter on behalf of the Twelve)  

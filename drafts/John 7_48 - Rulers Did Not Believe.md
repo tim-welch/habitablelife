@@ -12,5 +12,5 @@ The Jewish rulers and Pharisees did not believe in Jesus.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief – Leaders’ rejection]]
+- [[Unbelief in John#By Relationship]]
 - [[John 7#48|John 7]]

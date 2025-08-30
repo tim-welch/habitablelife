@@ -12,5 +12,5 @@ What are the “greater works” Jesus promised to those who believe?
 - Does “greater” refer to scope, impact, or kind?  
 
 ## Connections
-- [[John 14:12 - Belief and Greater Works]]
+- [[John 14_12 - Belief and Greater Works|John 14:12 - Belief and Greater Works]]
 - [[The Gospel of John]]

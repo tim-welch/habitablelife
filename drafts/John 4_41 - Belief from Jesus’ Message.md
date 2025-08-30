@@ -12,5 +12,5 @@ Many more believed because of Jesus’ own message.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Words and teaching]]
+- [[Sources of Belief in John#Words & Teaching]]
 - [[John 4#41|John 4]]

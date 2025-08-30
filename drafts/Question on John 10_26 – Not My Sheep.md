@@ -12,5 +12,5 @@ What does Jesus mean when He says unbelief is because some are not His sheep?
 - What light does this shed on the mystery of unbelief?  
 
 ## Connections
-- [[John 10:26 - Unbelief and Not Being His Sheep]]
+- [[John 10_26 - Unbelief and Not Being His Sheep|John 10:26 - Unbelief and Not Being His Sheep]]
 - [[The Gospel of John]]

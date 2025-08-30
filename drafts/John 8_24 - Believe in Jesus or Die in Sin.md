@@ -12,5 +12,5 @@ Jesus warned that unless people believe that He is the Christ, they will die in 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief – judgment]]
+- [[Unbelief in John#Judgment as Outcome of Unbelief]]
 - [[John 8#24|John 8]]

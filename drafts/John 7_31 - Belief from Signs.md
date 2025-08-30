@@ -12,5 +12,5 @@ While Jesus was teaching in the temple courts, many in the crowd believed in Him
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Signs]]
+- [[Sources of Belief in John#Signs]]
 - [[John 7#31|John 7]]

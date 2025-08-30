@@ -12,5 +12,5 @@ Jesus told His disciples beforehand that one of them would turn against Him, so 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Words and teaching]]
+- [[Sources of Belief in John#Words & Teaching]]
 - [[John 13#19|John 13]]

@@ -12,5 +12,5 @@ When Jesus asked His disciples, “Do you now believe?”, what did He mean?
 - How does this verse fit with the progression of belief throughout John?  
 
 ## Connections
-- [[John 16:31 - Jesus' Question About Belief]]
+- [[John 16_31 - Jesus' Question About Belief|John 16:31 - Jesus' Question About Belief]]
 - [[The Gospel of John]]

@@ -13,5 +13,5 @@ Whoever believes in the Son has eternal life, but whoever rejects Him will not s
 ## Connections
 - [[The Gospel of John]]
 - [[Outcomes of Belief in John#Eternal Life & Resurrection]]
-- [[Unbelief – judgment]]
+- [[Unbelief in John#Judgment as Outcome of Unbelief]]
 - [[John 3#36|John 3]]

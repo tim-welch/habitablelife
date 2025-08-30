@@ -12,6 +12,6 @@ When the royal official learned that his son was healed at the exact time Jesus 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief – Signs]]
-- [[Sources of Belief – Testimony]]
+- [[Sources of Belief in John#Signs]]
+- [[Sources of Belief in John#Testimony]]
 - [[John 4#53|John 4]]

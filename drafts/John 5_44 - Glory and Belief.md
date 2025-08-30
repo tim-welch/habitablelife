@@ -12,5 +12,5 @@ Those who seek glory from other people cannot believe in Jesus. True belief seek
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief - Obstructed by Motives]]
+- [[Unbelief in John#Obstructed by Motives]]
 - [[John 5#44|John 5]]

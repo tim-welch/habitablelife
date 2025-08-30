@@ -12,5 +12,5 @@ Thomas said he would not believe unless he saw and touched Jesus for himself.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief – Despite testimony]]
+- [[Unbelief in John#Despite Testimony]]
 - [[John 20#25|John 20]]
