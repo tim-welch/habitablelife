@@ -8,8 +8,8 @@ tags:
 John also defines belief itself — its essence, growth, and true character.  
 
 ## What Belief Is  
-- [[John 6:28 - Belief as the Work of God]]  
-- [[John 8:31 - Belief and Discipleship]]  
+- [[John 6_28 - Belief as the Work of God|John 6:28 - Belief as the Work of God]]  
+- [[John 8_31 - Belief and Discipleship|John 8:31 - Belief and Discipleship]]  
 - [[John 20:31 - Purpose of John’s Gospel]]  
 
 ## Developing Belief  

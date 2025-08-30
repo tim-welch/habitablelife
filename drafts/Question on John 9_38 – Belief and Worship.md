@@ -12,5 +12,5 @@ How does John connect belief and worship?
 - How does this passage deepen our understanding of believing in Jesus’ identity?  
 
 ## Connections
-- [[John 9:38 - Belief and Worship]]
+- [[John 9_38 - Belief and Worship|John 9:38 - Belief and Worship]]
 - [[The Gospel of John]]

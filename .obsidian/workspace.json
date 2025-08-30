@@ -8,85 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "91238959433dc46a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/John 20_31 - Purpose of John's Gospel.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 20_31 - Purpose of John's Gospel"
-            }
-          },
-          {
-            "id": "6cb570247aaa3d0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/Question on John 12_39 – Unable to Believe.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Question on John 12_39 – Unable to Believe"
-            }
-          },
-          {
-            "id": "15c63d14afa5dfe1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/Confessions of Belief in John.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Confessions of Belief in John"
-            }
-          },
-          {
             "id": "b342bc29219c0f6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "broken links output.md",
-                "mode": "preview",
+                "file": "drafts/John 9_38 - Belief and Worship.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,11 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "broken links output"
+              "title": "John 9_38 - Belief and Worship"
+            }
+          },
+          {
+            "id": "62e53dbfbf1575ab",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "6c139dd2f2a57d36",
@@ -223,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "broken links output.md",
+                "file": "drafts/John 9_38 - Belief and Worship.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for broken links output"
+              "title": "Backlinks for John 9_38 - Belief and Worship"
             }
           },
           {
@@ -302,7 +242,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "broken links output.md",
+                "file": "drafts/John 9_38 - Belief and Worship.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -330,7 +270,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of broken links output"
+              "title": "Graph of John 9_38 - Belief and Worship"
             }
           }
         ]
@@ -345,17 +285,6 @@
       "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
-      "cmdr:Home": false,
-      "cmdr:Open today's exercise log": false,
-      "cmdr:Add new Task": false,
-      "cmdr:Add new source": false,
-      "cmdr:Add new project": false,
-      "cmdr:Add literature note": false,
-      "cmdr:Add fleeting note": false,
-      "cmdr:Add new note": false,
-      "cmdr:Vault search": false,
-      "cmdr:Add meeting": false,
-      "cmdr:Daily notes: Open today's daily note": false,
       "omnisearch:Omnisearch": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
@@ -372,19 +301,26 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "b342bc29219c0f6b",
+  "active": "62e53dbfbf1575ab",
   "lastOpenFiles": [
-    "drafts/Confessions of Belief in John.md",
-    "content/Bible/BSB/43-John/John 20.md",
     "drafts/Nature of Belief in John.md",
+    "drafts/Nature of Belief - Work that God requires.md",
+    "drafts/Nature of Belief - Developing belief.md",
+    "drafts/Interpretation of John 5_38 – Believing the Father by Believing the Son.md",
+    "drafts/Confessions of Belief in John.md",
+    "drafts/Confessions of Belief – Jesus' identity.md",
+    "drafts/Confessions of Belief – Jesus & the Father.md",
+    "drafts/Confessions of Belief – Individuals & Groups.md",
+    "drafts/John 1_7 - Testimony for Belief.md",
+    "drafts/Question on John 9_38 – Belief and Worship.md",
     "broken links output.md",
+    "content/Bible/BSB/43-John/John 20.md",
     "drafts/Question on John 8_31 – Belief and Discipleship.md",
     "drafts/Question on John 6_36 – Unbelief Despite Seeing.md",
     "drafts/Question on John 5_47 – Belief in Moses and Jesus.md",
     "drafts/Question on John 12_39 – Unable to Believe.md",
     "drafts/Question on John 7_38–39 – Belief and the Spirit.md",
     "drafts/Question on John 3_12 – Earthly vs. Heavenly Things.md",
-    "drafts/Interpretation of John 5_38 – Believing the Father by Believing the Son.md",
     "drafts/John 20_31 - Purpose of John's Gospel.md",
     "drafts/John 20_29 - Blessed Belief Without Seeing.md",
     "drafts/John 20_27 - Call to Believe.md",
@@ -393,13 +329,6 @@
     "drafts/John 19_35 - Testimony for Belief.md",
     "drafts/John 17_21 - Belief because of Unity.md",
     "drafts/John 17_20 - Belief Through the Apostles' Message.md",
-    "drafts/John 17_8 - Belief that Jesus came from God.md",
-    "drafts/John 16_31 - Jesus' Question About Belief.md",
-    "drafts/John 16_30 - Belief Because of Knowledge.md",
-    "drafts/John 16_27 - Loved for Belief.md",
-    "drafts/John 16_9 - Unbelief as Sin.md",
-    "drafts/John 14_29 - Belief When It Happens.md",
-    "drafts/John 14_12 - Belief and Greater Works.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
