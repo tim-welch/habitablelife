@@ -1,5 +1,7 @@
 ---
 title: "John 4:50 - Belief Before the Sign"
+aliases:
+  - "John 4:50 - Belief Before the Sign"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ The royal official took Jesus at His word and believed before seeing his son hea
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief without seeing]]
+- [[Sources of Belief – Words and teaching]]
 - [[John 4#50|4:50]]

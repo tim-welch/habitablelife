@@ -1,5 +1,7 @@
 ---
 title: "John 12:38 - Prophecy of Unbelief"
+aliases:
+  -  "John 12:38 - Prophecy of Unbelief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,5 @@ John explained that their unbelief fulfilled Isaiah’s prophecy that people wou
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief explained]]
-- [[Belief and prophecy]]
+- [[Unbelief – Explained]]
 - [[John 12#38|12:38]]

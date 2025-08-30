@@ -1,5 +1,7 @@
 ---
 title: "John 20:8 - Belief at the Empty Tomb"
+aliases:
+  -  "John 20:8 - Belief at the Empty Tomb"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,6 @@ When John saw the empty tomb, he believed.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in response to a sign]]
-- [[Belief in the resurrection]]
+- [[Nature of Belief - Developing belief]]
+- [[Sources of Belief – Signs]]
 - [[John 20#8|20:8]]

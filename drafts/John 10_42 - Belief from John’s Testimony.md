@@ -1,5 +1,7 @@
 ---
 title: "John 10:42 - Belief from John’s Testimony"
+aliases:
+  -  "John 10:42 - Belief from John’s Testimony"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -11,5 +13,4 @@ When Jesus returned to the place where John had been baptizing, many believed in
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief – Testimony]]
-- [[Belief in response to testimony]]
 - [[John 10#42|10:42]]

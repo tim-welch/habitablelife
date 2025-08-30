@@ -1,5 +1,7 @@
 ---
 title: "John 14:12 - Belief and Greater Works"
+aliases:
+  -  "John 14:12 - Belief and Greater Works"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,5 @@ Jesus said that whoever believes in Him will do the works He has been doing, and
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and works]]
-- [[Belief in Jesus’ mission]]
+- [[Outcomes of Belief – Blessing & works]]
 - [[John 14#12|14:12]]

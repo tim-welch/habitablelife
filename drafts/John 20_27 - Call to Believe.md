@@ -1,5 +1,7 @@
 ---
 title: "John 20:27 - Call to Believe"
+aliases:
+  -  "John 20:27 - Call to Believe"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,5 @@ Jesus told Thomas to stop doubting and believe after showing him His wounds.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in the resurrection]]
-- [[Belief without seeing]]
+- [[Sources of Belief – Signs]]
 - [[John 20#27|20:27]]

@@ -1,5 +1,7 @@
 ---
 title: "John 8:30 - Many Believed"
+aliases:
+  - "John 8:30 - Many Believed"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ As Jesus spoke about Himself and the Father, many people believed in Him.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in Jesus’ words and teaching]]
+- [[Sources of Belief – Words and teaching]]
 - [[John 8#30|8:30]]

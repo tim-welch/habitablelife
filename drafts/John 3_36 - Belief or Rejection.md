@@ -1,5 +1,7 @@
 ---
 title: "John 3:36 - Belief or Rejection"
+aliases:
+  - "John 3:36 - Belief or Rejection"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,6 @@ Whoever believes in the Son has eternal life, but whoever rejects Him will not s
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and eternal life]]
-- [[Belief and judgment]]
+- [[Outcomes of Belief – Eternal life & resurrection]]
+- [[Unbelief – judgment]]
 - [[John 3#36|3:36]]

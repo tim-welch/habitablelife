@@ -1,5 +1,7 @@
 ---
 title: "John 19:35 - Testimony for Belief"
+aliases:
+  -  "John 19:35 - Testimony for Belief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -11,5 +13,4 @@ John testified that he personally saw the crucifixion details, and he wrote them
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief – Testimony]]
-- [[Belief in the apostolic witness]]
 - [[John 19#35|19:35]]

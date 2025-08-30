@@ -1,5 +1,7 @@
 ---
 title: "John 4:53 - Household Belief"
+aliases:
+  - "John 4:53 - Household Belief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,6 @@ When the royal official learned that his son was healed at the exact time Jesus 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in response to a sign]]
-- [[Household belief]]
+- [[Sources of Belief – Signs]]
+- [[Sources of Belief – Testimony]]
 - [[John 4#53|4:53]]

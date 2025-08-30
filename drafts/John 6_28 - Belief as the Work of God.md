@@ -1,5 +1,7 @@
 ---
 title: "John 6:28 - Belief as the Work of God"
+aliases:
+  - "John 6:28 - Belief as the Work of God"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ When asked what works God requires, Jesus answered that the work of God is to be
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and obedience]]
+- [[Nature of Belief - Work that God requires]]
 - [[John 6#28|6:28]]

@@ -1,5 +1,7 @@
 ---
 title: "John 4:41 - Belief from Jesus’ Message"
+aliases:
+  - "John 4:41 - Belief from Jesus’ Message"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Many more believed because of Jesus’ own message.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in Jesus’ words]]
+- [[Sources of Belief – Words and teaching]]
 - [[John 4#41|4:41]]

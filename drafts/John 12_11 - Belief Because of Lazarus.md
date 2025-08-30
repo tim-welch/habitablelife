@@ -1,5 +1,7 @@
 ---
 title: "John 12:11 - Belief Because of Lazarus"
+aliases:
+  -  "John 12:11 - Belief Because of Lazarus"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Many Jews were believing in Jesus because of Lazarus.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in response to a sign]]
+- [[Sources of Belief – Signs]]
 - [[John 12#11|12:11]]

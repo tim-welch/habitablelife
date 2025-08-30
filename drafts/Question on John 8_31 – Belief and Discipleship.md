@@ -12,5 +12,5 @@ What is the relationship between belief and discipleship?
 - How does this passage inform John’s larger theme of enduring belief?  
 
 ## Connections
-- [[John 8:31 - Belief and Discipleship]]
+- [[John 8_31 - Belief and Discipleship|John 8:31 - Belief and Discipleship]]
 - [[The Gospel of John]]

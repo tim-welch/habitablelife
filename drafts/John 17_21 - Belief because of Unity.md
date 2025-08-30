@@ -1,5 +1,7 @@
 ---
 title: "John 17:21 - Belief because of Unity"
+aliases:
+  -  "John 17:21 - Belief because of Unity"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,5 @@ Jesus prayed that all believers would be one, so that the world might believe th
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief through unity]]
-- [[Belief in Jesus’ mission]]
+- [[Sources of Belief - Unity]]
 - [[John 17#21|17:21]]

@@ -13,5 +13,5 @@ Jesus links unbelief in Him with the Father’s word not abiding in a person.
 - Raises implications for how Jesus fulfills and embodies the Father’s revelation.  
 
 ## Connections
-- [[John 5:38 - Failure to Believe]]
+- [[John 5_38 - Failure to Believe|John 5:38 - Failure to Believe]]
 - [[The Gospel of John]]

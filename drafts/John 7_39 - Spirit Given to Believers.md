@@ -1,5 +1,7 @@
 ---
 title: "John 7:39 - Spirit Given to Believers"
+aliases:
+  - "John 7:39 - Spirit Given to Believers"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ John explained that “living water” referred to the Spirit, who would later b
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and the Spirit]]
+- [[Outcomes of Belief – Spirit & light]]
 - [[John 7#39|7:39]]

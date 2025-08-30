@@ -1,5 +1,7 @@
 ---
 title: "John 11:27 - Martha's Confession of Belief"
+aliases:
+  -  "John 11:27 - Martha's Confession of Belief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,6 @@ Martha confessed her belief that Jesus is the Christ, the Son of God, who was to
 
 ## Connections
 - [[The Gospel of John]]
-- [[Confessions of belief]]
-- [[Belief in Jesus’ identity]]
+- [[Confessions of Belief – Individuals & Groups]]
+- [[Confessions of Belief – Jesus' identity]]
 - [[John 11#27|11:27]]

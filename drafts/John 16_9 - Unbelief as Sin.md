@@ -1,5 +1,7 @@
 ---
 title: "John 16:9 - Unbelief as Sin"
+aliases:
+  -  "John 16:9 - Unbelief as Sin"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,5 @@ Jesus said the Advocate will convict the world concerning sin, because people do
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief explained]]
-- [[Belief and judgment]]
+- [[Unbelief – judgment]]
 - [[John 16#9|16:9]]

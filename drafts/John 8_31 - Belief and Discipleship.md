@@ -1,5 +1,7 @@
 ---
 title: "John 8:31 - Belief and Discipleship"
+aliases:
+  - "John 8:31 - Belief and Discipleship"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,6 @@ Jesus told the Jews who had believed Him that if they continued in His word, the
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in Jesus’ words and teaching]]
-- [[Belief and discipleship]]
+- [[Sources of Belief – Words and teaching]]
+- [[Outcomes of Belief – Discipleship & obedience]]
 - [[John 8#31|8:31]]

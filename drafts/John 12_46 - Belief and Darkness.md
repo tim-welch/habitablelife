@@ -1,5 +1,7 @@
 ---
 title: "John 12:46 - Belief and Darkness"
+aliases:
+  -  "John 12:46 - Belief and Darkness"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,5 @@ Jesus said that the one who believes in Him will not remain in darkness, for He 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and light]]
-- [[Belief and Jesus’ mission]]
+- [[Outcomes of Belief – Spirit & light]]
 - [[John 12#46|12:46]]

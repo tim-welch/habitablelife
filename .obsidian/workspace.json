@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "53e84d52c14929d7",
+            "id": "91238959433dc46a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/John 1_7 - Testimony for Belief.md",
+                "file": "drafts/John 20_31 - Purpose of John's Gospel.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,110 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "John 1_7 - Testimony for Belief"
+              "title": "John 20_31 - Purpose of John's Gospel"
+            }
+          },
+          {
+            "id": "6cb570247aaa3d0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Question on John 12_39 – Unable to Believe.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Question on John 12_39 – Unable to Believe"
+            }
+          },
+          {
+            "id": "15c63d14afa5dfe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Confessions of Belief in John.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Confessions of Belief in John"
+            }
+          },
+          {
+            "id": "b342bc29219c0f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "broken links output.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "broken links output"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "6c139dd2f2a57d36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97cd8a909cb034e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Bible/BSB/43-John/John 20.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 20"
             }
           }
         ]
@@ -103,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 277.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -120,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/John 1_7 - Testimony for Belief.md",
+                "file": "broken links output.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +233,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for John 1_7 - Testimony for Belief"
+              "title": "Backlinks for broken links output"
             }
           },
           {
@@ -199,7 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "drafts/John 1_7 - Testimony for Belief.md",
+                "file": "broken links output.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -227,7 +330,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of John 1_7 - Testimony for Belief"
+              "title": "Graph of broken links output"
             }
           }
         ]
@@ -269,26 +372,19 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "53e84d52c14929d7",
+  "active": "b342bc29219c0f6b",
   "lastOpenFiles": [
-    "drafts/Sources of Belief – Testimony.md",
-    "drafts/John 1_7 - Testimony for Belief.md",
-    "drafts/Interpretation of John 5_38 – Believing the Father by Believing the Son.md",
-    "drafts/Question on John 20_29 – Belief Without Seeing.md",
-    "drafts/Question on John 17_21 – Belief Through Unity.md",
-    "drafts/Question on John 16_31 – Do You Now Believe.md",
-    "drafts/John 16_31 - Jesus' Question About Belief.md",
-    "drafts/Question on John 14_12 – Greater Works.md",
-    "drafts/Question on John 12_42 – Secret Believers.md",
-    "drafts/Question on John 12_39 – Unable to Believe.md",
-    "drafts/Question on John 11_40 – Seeing the Glory of God.md",
-    "drafts/Question on John 10_26 – Not My Sheep.md",
-    "drafts/Question on John 9_38 – Belief and Worship.md",
+    "drafts/Confessions of Belief in John.md",
+    "content/Bible/BSB/43-John/John 20.md",
+    "drafts/Nature of Belief in John.md",
+    "broken links output.md",
     "drafts/Question on John 8_31 – Belief and Discipleship.md",
-    "drafts/Question on John 7_38–39 – Belief and the Spirit.md",
     "drafts/Question on John 6_36 – Unbelief Despite Seeing.md",
     "drafts/Question on John 5_47 – Belief in Moses and Jesus.md",
+    "drafts/Question on John 12_39 – Unable to Believe.md",
+    "drafts/Question on John 7_38–39 – Belief and the Spirit.md",
     "drafts/Question on John 3_12 – Earthly vs. Heavenly Things.md",
+    "drafts/Interpretation of John 5_38 – Believing the Father by Believing the Son.md",
     "drafts/John 20_31 - Purpose of John's Gospel.md",
     "drafts/John 20_29 - Blessed Belief Without Seeing.md",
     "drafts/John 20_27 - Call to Believe.md",
@@ -297,6 +393,13 @@
     "drafts/John 19_35 - Testimony for Belief.md",
     "drafts/John 17_21 - Belief because of Unity.md",
     "drafts/John 17_20 - Belief Through the Apostles' Message.md",
+    "drafts/John 17_8 - Belief that Jesus came from God.md",
+    "drafts/John 16_31 - Jesus' Question About Belief.md",
+    "drafts/John 16_30 - Belief Because of Knowledge.md",
+    "drafts/John 16_27 - Loved for Belief.md",
+    "drafts/John 16_9 - Unbelief as Sin.md",
+    "drafts/John 14_29 - Belief When It Happens.md",
+    "drafts/John 14_12 - Belief and Greater Works.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",

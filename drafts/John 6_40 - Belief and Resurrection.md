@@ -1,5 +1,7 @@
 ---
 title: "John 6:40 - Belief and Resurrection"
+aliases:
+  - "John 6:40 - Belief and Resurrection"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,5 @@ Everyone who looks to the Son and believes in Him will have eternal life, and Je
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and eternal life]]
-- [[Belief and resurrection]]
+- [[Outcomes of Belief – Eternal life & resurrection]]
 - [[John 6#40|6:40]]

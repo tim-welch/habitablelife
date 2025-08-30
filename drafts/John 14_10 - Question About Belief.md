@@ -1,5 +1,7 @@
 ---
 title: "John 14:10 - Question About Belief"
+aliases:
+  -  "John 14:10 - Question About Belief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,6 @@ Jesus asked His disciples if they believed that He is in the Father and the Fath
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in Jesus’ identity]]
-- [[Belief in the Father]]
+- [[Confessions of Belief – Jesus' identity]]
+- [[Confessions of Belief – Jesus & the Father]]
 - [[John 14#10|14:10]]

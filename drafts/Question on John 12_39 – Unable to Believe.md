@@ -12,5 +12,5 @@ What does John mean when he says the people were “unable to believe”?
 - Is unbelief pictured as judgment, blindness, or both?  
 
 ## Connections
-- [[John 12:39 - Unable to Believe]]
+- [[John 12_39 - Unable to Believe|John 12:39 - Unable to Believe]]
 - [[The Gospel of John]]

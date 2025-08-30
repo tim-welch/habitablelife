@@ -1,5 +1,7 @@
 ---
 title: "John 1:50 - Nathanael’s Belief"
+aliases:
+  - "John 1:50 - Nathanael’s Belief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Nathanael believed in Jesus because Jesus saw him under the fig tree.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in response to supernatural knowledge]]
+- [[Sources of Belief – Supernatural knowledge]]
 - [[John 1#50|1:50]]

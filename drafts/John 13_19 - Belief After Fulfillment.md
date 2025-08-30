@@ -1,5 +1,7 @@
 ---
 title: "John 13:19 - Belief After Fulfillment"
+aliases:
+  -  "John 13:19 - Belief After Fulfillment"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Jesus told His disciples beforehand that one of them would turn against Him, so 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in fulfilled prophecy]]
+- [[Sources of Belief – Words and teaching]]
 - [[John 13#19|13:19]]

@@ -1,5 +1,7 @@
 ---
 title: "John 16:31 - Jesus' Question About Belief"
+aliases:
+  -  "John 16:31 - Jesus' Question About Belief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Jesus asked His disciples, “Do you now believe?”
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief clarified]]
+- [[Nature of Belief - Developing belief]]
 - [[John 16#31|16:31]]

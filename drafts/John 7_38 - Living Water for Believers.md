@@ -1,5 +1,7 @@
 ---
 title: "John 7:38 - Living Water for Believers"
+aliases:
+  - "John 7:38 - Living Water for Believers"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Jesus promised that streams of living water would flow from within those who bel
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and the Spirit]]
+- [[Outcomes of Belief – Spirit & light]]
 - [[John 7#38|7:38]]

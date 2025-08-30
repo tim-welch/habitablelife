@@ -1,5 +1,7 @@
 ---
 title: "John 10:25 - Refusal to Believe"
+aliases:
+  -  "John 10:25 - Refusal to Believe"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,6 @@ Jesus told the Jews that He had already declared who He was, but they did not be
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief despite signs]]
-- [[Belief in Jesus’ identity]]
+- [[Unbelief – Despite signs]]
+- [[Confessions of Belief – Jesus' identity]]
 - [[John 10#25|10:25]]

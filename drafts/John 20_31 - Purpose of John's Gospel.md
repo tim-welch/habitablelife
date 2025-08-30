@@ -1,5 +1,7 @@
 ---
 title: "John 20:31 - Purpose of John's Gospel"
+aliases:
+  -  "John 20:31 - Purpose of John's Gospel"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,6 @@ John explained that he wrote his Gospel so that readers may believe that Jesus i
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in Jesus’ identity]]
-- [[Belief and eternal life]]
+- [[Confessions of Belief – Jesus' identity]]
+- [[Outcomes of Belief – Eternal life & resurrection]]
 - [[John 20#31|20:31]]

@@ -1,5 +1,7 @@
 ---
 title: "John 8:45 - Unbelief Because of Truth"
+aliases:
+  - "John 8:45 - Unbelief Because of Truth"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Some did not believe Jesus because He spoke the truth.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief despite truth]]
+- [[Unbelief – Despite words and teaching]]
 - [[John 8#45|8:45]]

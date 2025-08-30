@@ -1,5 +1,7 @@
 ---
 title: "John 4:48 - Belief and Signs"
+aliases:
+  - "John 4:48 - Belief and Signs"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Jesus told the royal official that unless people see signs and wonders, they wil
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in response to a sign]]
+- [[Sources of Belief – Signs]]
 - [[John 4#48|4:48]]

@@ -1,5 +1,7 @@
 ---
 title: "John 2:22 - Belief in Scripture and Jesus’ Words"
+aliases:
+  - "John 2:22 - Belief in Scripture and Jesus’ Words"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,6 @@ When the disciples remembered Jesus’ prediction that He would rise after three
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in Scripture]]
+- [[Nature of Belief - Developing belief]]
+- [[Sources of Belief – Words and teaching]]
 - [[John 2#22|2:22]]

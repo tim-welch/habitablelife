@@ -1,5 +1,7 @@
 ---
 title: "John 6:69 - Confession of Belief"
+aliases:
+  - "John 6:69 - Confession of Belief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Peter confessed on behalf of the Twelve: “We believe and know that You are the
 
 ## Connections
 - [[The Gospel of John]]
-- [[Confessions of belief]]
+- [[Confessions of Belief – Individuals & Groups]]
 - [[John 6#69|6:69]]

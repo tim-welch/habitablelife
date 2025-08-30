@@ -1,5 +1,7 @@
 ---
 title: "John 12:42 - Leaders Believed Secretly"
+aliases:
+  -  "John 12:42 - Leaders Believed Secretly"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,5 @@ Many leaders believed in Jesus but did not confess it, fearing expulsion from th
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and fear of man]]
-- [[Belief in secret]]
+- [[Outcomes of Belief - Compromised belief]]
 - [[John 12#42|12:42]]

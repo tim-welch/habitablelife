@@ -1,5 +1,7 @@
 ---
 title: "John 4:42 - Knowing and Believing Jesus"
+aliases:
+  - "John 4:42 - Knowing and Believing Jesus"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -11,5 +13,5 @@ The people explained that their belief was first based on the woman’s testimon
 ## Connections
 - [[The Gospel of John]]
 - [[Sources of Belief – Testimony]]
-- [[Belief in Jesus’ words and teaching]]
+- [[Sources of Belief – Words and teaching]]
 - [[John 4#42|4:42]]

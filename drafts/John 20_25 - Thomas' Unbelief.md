@@ -1,5 +1,7 @@
 ---
 title: "John 20:25 - Thomas' Unbelief"
+aliases:
+  -  "John 20:25 - Thomas' Unbelief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,5 @@ Thomas said he would not believe unless he saw and touched Jesus for himself.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief despite testimony]]
-- [[Belief without seeing]]
+- [[Unbelief – Despite testimony]]
 - [[John 20#25|20:25]]

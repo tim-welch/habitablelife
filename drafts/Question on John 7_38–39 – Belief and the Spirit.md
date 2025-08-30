@@ -12,6 +12,6 @@ How does John connect “living water” with the Spirit?
 - How does this passage shape our understanding of belief and the Spirit’s role?  
 
 ## Connections
-- [[John 7:38 - Living Water for Believers]]
-- [[John 7:39 - Spirit Given to Believers]]
+- [[John 7_38 - Living Water for Believers|John 7:38 - Living Water for Believers]]
+- [[John 7_39 - Spirit Given to Believers|John 7:39 - Spirit Given to Believers]]
 - [[The Gospel of John]]

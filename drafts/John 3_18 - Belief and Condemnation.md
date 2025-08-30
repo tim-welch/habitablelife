@@ -1,5 +1,7 @@
 ---
 title: "John 3:18 - Belief and Condemnation"
+aliaes:
+  - "John 3:18 - Belief and Condemnation"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,6 @@ Whoever believes in the Son is not condemned, but whoever does not believe has a
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and judgment]]
+- [[Unbelief – judgment]]
+- [[Outcomes of Belief – Eternal life & resurrection]]
 - [[John 3#18|3:18]]

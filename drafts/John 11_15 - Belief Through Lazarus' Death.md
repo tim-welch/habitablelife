@@ -1,5 +1,7 @@
 ---
 title: "John 11:15 - Belief Through Lazarus' Death"
+aliases:
+  -  "John 11:15 - Belief Through Lazarus' Death"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,6 @@ Jesus said He was glad He was not present when Lazarus died, so that His discipl
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief strengthened through trials]]
+- [[Nature of Belief - Developing belief]]
+- [[Sources of Belief – Signs]]
 - [[John 11#15|11:15]]

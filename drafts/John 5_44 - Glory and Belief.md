@@ -1,5 +1,7 @@
 ---
 title: "John 5:44 - Glory and Belief"
+aliases:
+  - "John 5:44 - Glory and Belief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Those who seek glory from other people cannot believe in Jesus. True belief seek
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and human motives]]
+- [[Unbelief - Obstructed by Motives]]
 - [[John 5#44|5:44]]

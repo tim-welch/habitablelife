@@ -1,5 +1,7 @@
 ---
 title: "John 14:29 - Belief When It Happens"
+aliases:
+  -  "John 14:29 - Belief When It Happens"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Jesus told His disciples things beforehand, so that when they happened they woul
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in fulfilled prophecy]]
+- [[Sources of Belief – Words and teaching]]
 - [[John 14#29|14:29]]

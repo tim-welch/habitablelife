@@ -1,5 +1,7 @@
 ---
 title: "John 16:27 - Loved for Belief"
+aliases:
+  -  "John 16:27 - Loved for Belief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,7 +12,7 @@ Jesus said the Father loves the disciples because they have loved Him and believ
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in Jesus’ identity]]
-- [[Belief in the Father]]
-- [[Belief and love]]
+- [[Confessions of Belief – Jesus' identity]]
+- [[Confessions of Belief – Jesus & the Father]]
+- [[Outcomes of Belief – Worship & love]]
 - [[John 16#27|16:27]]

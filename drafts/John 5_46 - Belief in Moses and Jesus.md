@@ -1,5 +1,7 @@
 ---
 title: "John 5:46 - Belief in Moses and Jesus"
+aliases:
+  - "John 5:46 - Belief in Moses and Jesus"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,5 @@ Jesus said that if people truly believed Moses, they would also believe Him, sin
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in Scripture]]
-- [[Belief in Jesus’ words and teaching]]
+- [[Sources of Belief – Words and teaching]]
 - [[John 5#46|5:46]]

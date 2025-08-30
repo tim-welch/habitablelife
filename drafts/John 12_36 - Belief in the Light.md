@@ -1,5 +1,7 @@
 ---
 title: "John 12:36 - Belief in the Light"
+aliases:
+  -  "John 12:36 - Belief in the Light"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,6 +12,6 @@ Jesus urged the people to believe in the light while they had it, so that they m
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in Jesus’ words and teaching]]
-- [[Belief and identity]]
+- [[Sources of Belief – Words and teaching]]
+- [[Outcomes of Belief – Spirit & light]]
 - [[John 12#36|12:36]]

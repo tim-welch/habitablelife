@@ -12,5 +12,5 @@ Why did people fail to believe in Jesus despite seeing Him and His signs?
 - What does this reveal about the nature of true belief?  
 
 ## Connections
-- [[John 6:36 - Seeing but Not Believing]]
+- [[John 6_36 - Seeing but Not Believing|John 6:36 - Seeing but Not Believing]]
 - [[The Gospel of John]]

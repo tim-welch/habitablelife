@@ -1,5 +1,7 @@
 ---
 title: "John 2:23 - Belief at Passover"
+aliases:
+  - "John 2:23 - Belief at Passover"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Many believed in Jesus’ name when they saw the signs He was performing in Jeru
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in response to a sign]]
+- [[Sources of Belief – Signs]]
 - [[John 2#23|2:23]]

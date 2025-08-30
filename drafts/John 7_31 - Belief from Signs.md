@@ -1,5 +1,7 @@
 ---
 title: "John 7:31 - Belief from Signs"
+aliases:
+  - "John 7:31 - Belief from Signs"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ While Jesus was teaching in the temple courts, many in the crowd believed in Him
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief in response to a sign]]
+- [[Sources of Belief – Signs]]
 - [[John 7#31|7:31]]

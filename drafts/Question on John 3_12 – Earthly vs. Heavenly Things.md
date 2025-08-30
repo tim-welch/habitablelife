@@ -12,5 +12,5 @@ What does Jesus mean by “earthly things” compared to “heavenly things”?
 - How does this distinction shape belief in what Jesus reveals?  
 
 ## Connections
-- [[John 3:12 - Believing Heavenly Things]]
+- [[John 3_12 - Believing Heavenly Things|John 3:12 - Believing Heavenly Things]]
 - [[The Gospel of John]]

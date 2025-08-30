@@ -1,5 +1,7 @@
 ---
 title: "John 3:12 - Believing Heavenly Things"
+aliases:
+  - "John 3:12 - Believing Heavenly Things"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Jesus said that if people do not believe what He tells them about earthly things
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and understanding]]
+- [[Unbelief – Despite testimony]]
 - [[John 3#12|3:12]]

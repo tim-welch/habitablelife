@@ -1,5 +1,7 @@
 ---
 title: "John 11:40 - Seeing the Glory of God Through Belief"
+aliases:
+  -  "John 11:40 - Seeing the Glory of God Through Belief"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ When Martha hesitated at the tomb, Jesus reminded her that if she believed, she 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Belief and glory of God]]
+- [[Outcomes of Belief – Blessing & works]]
 - [[John 11#40|11:40]]

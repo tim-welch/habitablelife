@@ -1,5 +1,7 @@
 ---
 title: "John 12:37 - Unbelief Despite Many Signs"
+aliases:
+  -  "John 12:37 - Unbelief Despite Many Signs"
 tags:
   - type/literature
   - bible/keyword/believe
@@ -10,5 +12,5 @@ Even though Jesus had performed many signs, the people still did not believe in 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief despite signs]]
+- [[Unbelief – Despite signs]]
 - [[John 12#37|12:37]]
