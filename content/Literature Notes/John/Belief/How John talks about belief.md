@@ -1,11 +1,13 @@
 ---
 tags:
-  - bible/keyword
   - type/moc
+  - bible/keyword
   - bible/observation
 ---
 
-Almost every chapter in John's gospel talks about belief. This is the core theme of the gospel.
+John wrote his gospel so that we may believe and gain eternal life. Almost every chapter in John's gospel talks about belief.
+
+  ![[John 20#31]]
 
 - [[Nature of Belief in John]]
 - [[Sources of Belief in John]]
