@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Signs in John",
+      "path": "content/Literature Notes/John/Signs in John.md"
+    },
+    {
+      "basename": "John 17_8 - Belief that Jesus came from God",
+      "path": "content/Literature Notes/John/Belief/John 17_8 - Belief that Jesus came from God.md"
+    },
+    {
       "basename": "🧠 Smart Note Literature Reviewer GPT",
       "path": "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Question on John 14_12 – Greater Works",
       "path": "content/Literature Notes/John/Belief/Question on John 14_12 – Greater Works.md"
-    },
-    {
-      "basename": "John 17_8 - Belief that Jesus came from God",
-      "path": "content/Literature Notes/John/Belief/John 17_8 - Belief that Jesus came from God.md"
     },
     {
       "basename": "Interpretation of John 8_45 - Unbelief Because of Truth",
@@ -195,10 +199,6 @@
     {
       "basename": "John 2_22 - Belief in Scripture and Jesus' Words",
       "path": "content/Literature Notes/John/Belief/John 2_22 - Belief in Scripture and Jesus' Words.md"
-    },
-    {
-      "basename": "John 1_50 - Nathanael's Belief",
-      "path": "content/Literature Notes/John/Belief/John 1_50 - Nathanael's Belief.md"
     }
   ],
   "omittedPaths": [

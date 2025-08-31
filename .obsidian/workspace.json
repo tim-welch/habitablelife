@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cf02cd4a333fbb72",
+        "id": "4b41be433c54640e",
         "type": "tabs",
         "children": [
           {
-            "id": "a233f14b2f70bd9d",
+            "id": "e2e13e90fdbec419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md",
-                "mode": "source",
+                "file": "content/Literature Notes/John/Signs in John.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "🧠 Smart Note Literature Reviewer GPT"
-            }
-          },
-          {
-            "id": "f90ec4b7707fbd63",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Literature Notes/John/Belief/John 17_8 - Belief that Jesus came from God.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "John 17_8 - Belief that Jesus came from God"
+              "title": "Signs in John"
             }
           }
         ]
@@ -282,15 +258,17 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "a233f14b2f70bd9d",
+  "active": "e2e13e90fdbec419",
   "lastOpenFiles": [
+    "content/Literature Notes/John/Belief/John 17_8 - Belief that Jesus came from God.md",
+    "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md",
+    "content/Literature Notes/John/Belief.zip",
     "content/Literature Notes/John/Belief/John 3_18 - Belief and Condemnation.md",
     "content/Literature Notes/John/Belief/John 3_36 - Belief or Rejection.md",
     "content/Literature Notes/John/Belief/Confessions of Belief in John.md",
     "content/Literature Notes/John/Belief/How John talks about belief.md",
     "content/Literature Notes/John/Belief/Question on John 17_8 - Belief that Jesus came from God.md",
     "content/Literature Notes/John/Belief/Question on John 14_12 – Greater Works.md",
-    "content/Literature Notes/John/Belief/John 17_8 - Belief that Jesus came from God.md",
     "content/Literature Notes/John/Belief/Interpretation of John 8_45 - Unbelief Because of Truth.md",
     "content/Literature Notes/John/Belief/Question on John 13_19 - Belief After Fulfillment.md",
     "content/Literature Notes/John/Belief/Question on John 12_39 – Unable to Believe.md",
@@ -309,7 +287,6 @@
     "content/Literature Notes/John/Belief/John 9_36 - Desire to Believe.md",
     "content/Literature Notes/John/Belief/John 10_25 - Refusal to Believe.md",
     "content/Literature Notes/John/Belief/John 10_26 - Unbelief and Not Being His Sheep.md",
-    "content/Literature Notes/John/Belief/John 10_37 - Grounds for Unbelief.md",
     "drafts/later",
     "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
@@ -328,7 +305,6 @@
     "public/Bible/BSB/66-Revelation/Revelation-7.html",
     "public/Bible/BSB/66-Revelation/Revelation-4.html",
     "public/Bible/BSB/66-Revelation/Revelation-5.html",
-    "public/Bible/BSB/66-Revelation/Revelation-3.html",
-    "public/Bible/BSB/66-Revelation/Revelation-22.html"
+    "public/Bible/BSB/66-Revelation/Revelation-3.html"
   ]
 }
