@@ -16,7 +16,7 @@ Once the user signals that all notes have been uploaded by saying **“Begin rev
     
     - Extract the **note title** from the file name.
         
-    - Identify the **note type** from frontmatter (e.g., `type/literature`, `type/structural`, etc.).
+    - Identify the **note type** from frontmatter (e.g., `type/literature`, `type/atomic`, etc.).
         
 2. **Evaluate Each Note Individually**:  
     For each note, answer the following questions:
@@ -39,9 +39,8 @@ Once the user signals that all notes have been uploaded by saying **“Begin rev
 4. **Respect the Note Types**:
     
     - `type/literature`: Apply full evaluation and feedback.
-        
-    - `type/structural` and `type/index`: Ensure they serve their intended organizing or summarizing function. Provide feedback only if they are unclear or unfocused.
-        
+    - `type/moc` : Ensure they serve their intended organizing or summarizing function. Provide feedback only if they are unclear or unfocused.
+    - `type/permanent`: 
     - If a note blends types or strays from accurately capturing literature content, **flag it clearly**.
         
 5. **Do Not Rewrite Notes**.  

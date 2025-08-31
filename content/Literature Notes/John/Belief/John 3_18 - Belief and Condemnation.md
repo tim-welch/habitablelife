@@ -1,6 +1,6 @@
 ---
 title: "John 3:18 - Belief and Condemnation"
-aliaes:
+aliases:
   - "John 3:18 - Belief and Condemnation"
 tags:
   - type/literature
