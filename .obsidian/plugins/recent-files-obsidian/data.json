@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "🧠 Smart Note Literature Reviewer GPT",
+      "path": "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md"
+    },
+    {
+      "basename": "How John talks about belief",
+      "path": "content/Literature Notes/John/Belief/How John talks about belief.md"
+    },
+    {
+      "basename": "Confessions of Belief in John",
+      "path": "content/Literature Notes/John/Belief/Confessions of Belief in John.md"
+    },
+    {
+      "basename": "Unbelief in John",
+      "path": "content/Literature Notes/John/Belief/Unbelief in John.md"
+    },
+    {
       "basename": "Signs in John",
       "path": "content/Literature Notes/John/Signs in John.md"
     },
@@ -9,24 +25,12 @@
       "path": "content/Literature Notes/John/Belief/John 17_8 - Belief that Jesus came from God.md"
     },
     {
-      "basename": "🧠 Smart Note Literature Reviewer GPT",
-      "path": "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md"
-    },
-    {
       "basename": "John 3_18 - Belief and Condemnation",
       "path": "content/Literature Notes/John/Belief/John 3_18 - Belief and Condemnation.md"
     },
     {
       "basename": "John 3_36 - Belief or Rejection",
       "path": "content/Literature Notes/John/Belief/John 3_36 - Belief or Rejection.md"
-    },
-    {
-      "basename": "Confessions of Belief in John",
-      "path": "content/Literature Notes/John/Belief/Confessions of Belief in John.md"
-    },
-    {
-      "basename": "How John talks about belief",
-      "path": "content/Literature Notes/John/Belief/How John talks about belief.md"
     },
     {
       "basename": "Question on John 17_8 - Belief that Jesus came from God",
@@ -55,10 +59,6 @@
     {
       "basename": "Interpretation of John 5_38 – Believing the Father by Believing the Son",
       "path": "content/Literature Notes/John/Belief/Interpretation of John 5_38 – Believing the Father by Believing the Son.md"
-    },
-    {
-      "basename": "Unbelief in John",
-      "path": "content/Literature Notes/John/Belief/Unbelief in John.md"
     },
     {
       "basename": "Question on John 8_31 – Belief and Discipleship",
@@ -195,10 +195,6 @@
     {
       "basename": "John 4_41 - Belief from Jesus' Message",
       "path": "content/Literature Notes/John/Belief/John 4_41 - Belief from Jesus' Message.md"
-    },
-    {
-      "basename": "John 2_22 - Belief in Scripture and Jesus' Words",
-      "path": "content/Literature Notes/John/Belief/John 2_22 - Belief in Scripture and Jesus' Words.md"
     }
   ],
   "omittedPaths": [
