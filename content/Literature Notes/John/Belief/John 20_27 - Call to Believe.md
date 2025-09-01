@@ -12,5 +12,5 @@ Jesus told Thomas to stop doubting and believe after showing him His wounds.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief in John#Signs]]
+- [[02 - Sources of Belief in John#Signs]]
 - [[John 20#27|John 20]]

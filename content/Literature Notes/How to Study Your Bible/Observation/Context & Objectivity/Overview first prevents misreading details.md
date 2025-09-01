@@ -9,4 +9,4 @@ Create an overview of the book before digging into the details of the individual
 
 ## Connections
 
-- [[00 - How to Study Your Bible|Overview]]
+- [[00 - How to Study Your Bible|How to Study Your Bible]]

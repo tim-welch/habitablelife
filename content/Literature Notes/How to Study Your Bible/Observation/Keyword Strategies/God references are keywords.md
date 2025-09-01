@@ -12,5 +12,5 @@ Always treat references to God as keywords. Don't just notice where God is menti
 
 ## Connections
 
-- [[00 - How to Study Your Bible|Overview]]
+- [[00 - How to Study Your Bible|How to Study Your Bible]]
 - [[Look for keywords|Connections]]

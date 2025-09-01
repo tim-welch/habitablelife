@@ -12,5 +12,5 @@ The royal official took Jesus at His word and believed before seeing his son hea
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief in John#Words & Teaching]]
+- [[02 - Sources of Belief in John#Words & Teaching]]
 - [[John 4#50|John 4]]

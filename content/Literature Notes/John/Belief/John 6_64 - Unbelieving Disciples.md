@@ -12,5 +12,5 @@ Jesus knew from the beginning that some of His disciples did not believe.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief in John#Superficial or False Belief]]
+- [[02 - Unbelief in John#Superficial or False Belief]]
 - [[John 6#64|John 6]]

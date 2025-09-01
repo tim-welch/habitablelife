@@ -12,7 +12,7 @@ John explained that he wrote his Gospel so that readers may believe that Jesus i
 
 ## Connections
 - [[The Gospel of John]]
-- [[Confessions of Belief in John#Author's Testimony]]
-- [[Outcomes of Belief in John#Eternal Life & Resurrection]]
-- [[Nature of Belief in John#Belief in Jesus' Identity]]
+- [[02 - Confessions of Belief in John#Author's Testimony]]
+- [[02 - Outcomes of Belief in John#Eternal Life & Resurrection]]
+- [[02- Nature of Belief in John#Belief in Jesus' Identity]]
 - [[John 20#31|John 20]]

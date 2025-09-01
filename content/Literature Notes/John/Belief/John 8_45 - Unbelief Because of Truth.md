@@ -12,5 +12,5 @@ Some did not believe Jesus because He spoke the truth.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief in John#Despite Revelation]]
+- [[02 - Unbelief in John#Despite Revelation]]
 - [[John 8#45|John 8]]

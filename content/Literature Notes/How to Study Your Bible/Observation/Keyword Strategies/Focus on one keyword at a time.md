@@ -7,4 +7,4 @@ After identifying key words, reread the passage, chapter, book focusing on one k
 
 ## Connections
 
-- [[00 - How to Study Your Bible|Overview]]
+- [[00 - How to Study Your Bible|How to Study Your Bible]]

@@ -12,5 +12,5 @@ John said that the people were unable to believe, also as Isaiah had prophesied.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief in John#Explained]]
+- [[02 - Unbelief in John#Explained]]
 - [[John 12#39|John 12]]

@@ -12,5 +12,5 @@ When Martha hesitated at the tomb, Jesus reminded her that if she believed, she 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief in John#Blessing & Works]]
+- [[02 - Outcomes of Belief in John#Blessing & Works]]
 - [[John 11#40|John 11]]

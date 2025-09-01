@@ -12,5 +12,5 @@ Many leaders believed in Jesus but did not confess it, fearing expulsion from th
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief in John#Superficial or False Belief]]
+- [[02 - Unbelief in John#Superficial or False Belief]]
 - [[John 12#42|John 12]]

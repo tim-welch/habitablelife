@@ -12,5 +12,5 @@ Jesus prayed that all believers would be one, so that the world might believe th
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief in John#Unity]]
+- [[02 - Sources of Belief in John#Unity]]
 - [[John 17#21|John 17]]

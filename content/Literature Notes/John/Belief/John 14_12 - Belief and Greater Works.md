@@ -12,5 +12,5 @@ Jesus said that whoever believes in Him will do the works He has been doing, and
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief in John#Blessing & Works]]
+- [[02 - Outcomes of Belief in John#Blessing & Works]]
 - [[John 14#12|John 14]]

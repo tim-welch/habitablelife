@@ -12,6 +12,6 @@ Jesus told His disciples that just as they believe in God, they should also beli
 
 ## Connections
 - [[The Gospel of John]]
-- [[Nature of Belief in John#Belief in Jesus' Identity]]
-- [[Nature of Belief in John#Belief in Jesus and the Father]]
+- [[02- Nature of Belief in John#Belief in Jesus' Identity]]
+- [[02- Nature of Belief in John#Belief in Jesus and the Father]]
 - [[John 14#1|John 14]]

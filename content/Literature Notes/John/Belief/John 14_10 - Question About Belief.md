@@ -12,6 +12,6 @@ Jesus asked His disciples if they believed that He is in the Father and the Fath
 
 ## Connections
 - [[The Gospel of John]]
-- [[Nature of Belief in John#Belief in Jesus' Identity]]
-- [[Nature of Belief in John#Belief in Jesus and the Father]]
+- [[02- Nature of Belief in John#Belief in Jesus' Identity]]
+- [[02- Nature of Belief in John#Belief in Jesus and the Father]]
 - [[John 14#10|John 14]]

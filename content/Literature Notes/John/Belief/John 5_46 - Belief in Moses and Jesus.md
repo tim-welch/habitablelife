@@ -12,5 +12,5 @@ Jesus said that if people truly believed Moses, they would also believe Him, sin
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief in John#Words & Teaching]]
+- [[02 - Sources of Belief in John#Words & Teaching]]
 - [[John 5#46|John 5]]

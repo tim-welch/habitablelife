@@ -12,5 +12,5 @@ Jesus asked Martha if she believed that everyone who lives and believes in Him w
 
 ## Connections
 - [[The Gospel of John]]
-- [[Nature of Belief in John#Belief in Jesus' Identity]]
+- [[02- Nature of Belief in John#Belief in Jesus' Identity]]
 - [[John 11#26|John 11]]

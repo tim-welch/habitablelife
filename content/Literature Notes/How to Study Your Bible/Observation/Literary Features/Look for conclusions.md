@@ -14,4 +14,4 @@ Observe how the "therefore" at the beginning of Genesis 3:23 ties back to what G
 
 ## Connections
 
-- [[00 - How to Study Your Bible|Overview]]
+- [[00 - How to Study Your Bible|How to Study Your Bible]]

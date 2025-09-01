@@ -7,4 +7,4 @@ Look for but, nevertheless, etc. to find contrasting ideas. Contrasts are often 
 
 ## Connections
 
-- [[00 - How to Study Your Bible|Overview]]
+- [[00 - How to Study Your Bible|How to Study Your Bible]]

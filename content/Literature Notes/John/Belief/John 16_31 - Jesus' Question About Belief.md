@@ -12,5 +12,5 @@ Jesus asked His disciples, “Do you now believe?”
 
 ## Connections
 - [[The Gospel of John]]
-- [[Nature of Belief in John#Developing Belief]]
+- [[02- Nature of Belief in John#Developing Belief]]
 - [[John 16#31|John 16]]

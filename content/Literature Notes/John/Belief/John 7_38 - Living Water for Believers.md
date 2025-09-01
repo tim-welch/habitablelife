@@ -12,5 +12,5 @@ Jesus promised that streams of living water would flow from within those who bel
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief in John#Spirit & Light]]
+- [[02 - Outcomes of Belief in John#Spirit & Light]]
 - [[John 7#38|John 7]]

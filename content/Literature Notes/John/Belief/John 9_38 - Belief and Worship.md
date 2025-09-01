@@ -12,6 +12,6 @@ When Jesus revealed Himself, the man who had been healed believed and worshiped 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Confessions of Belief in John#Individuals]]
-- [[Outcomes of Belief in John#Worship & Love]]
+- [[02 - Confessions of Belief in John#Individuals]]
+- [[02 - Outcomes of Belief in John#Worship & Love]]
 - [[John 9#38|John 9]]

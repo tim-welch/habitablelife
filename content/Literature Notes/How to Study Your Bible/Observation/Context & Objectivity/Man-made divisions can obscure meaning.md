@@ -7,4 +7,4 @@ Chapters, paragraphs, and verses are artificial divisions of the text created fo
 
 ## Connections
 
-- [[00 - How to Study Your Bible|Overview]]
+- [[00 - How to Study Your Bible|How to Study Your Bible]]

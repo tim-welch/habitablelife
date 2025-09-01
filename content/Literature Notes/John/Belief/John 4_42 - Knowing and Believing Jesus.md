@@ -12,7 +12,7 @@ The people explained that their belief was first based on the woman’s testimon
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief in John#Testimony]]
-- [[Sources of Belief in John#Words & Teaching]]
-- [[Confessions of Belief in John#Groups]]
+- [[02 - Sources of Belief in John#Testimony]]
+- [[02 - Sources of Belief in John#Words & Teaching]]
+- [[02 - Confessions of Belief in John#Groups]]
 - [[John 4#42|John 4]]

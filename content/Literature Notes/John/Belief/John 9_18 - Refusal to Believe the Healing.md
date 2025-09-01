@@ -12,5 +12,5 @@ The Jews refused to believe that the man had been blind and had received sight.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief in John#Despite Signs]]
+- [[02 - Unbelief in John#Despite Signs]]
 - [[John 9#18|John 9]]

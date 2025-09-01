@@ -12,5 +12,5 @@ John explained that their unbelief fulfilled Isaiah’s prophecy that people wou
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief in John#Explained]]
+- [[02 - Unbelief in John#Explained]]
 - [[John 12#38|John 12]]

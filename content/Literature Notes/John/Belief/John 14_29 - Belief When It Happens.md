@@ -12,5 +12,5 @@ Jesus told His disciples things beforehand, so that when they happened they woul
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief in John#Words & Teaching]]
+- [[02 - Sources of Belief in John#Words & Teaching]]
 - [[John 14#29|John 14]]

@@ -12,7 +12,7 @@ Jesus urged His disciples to believe that He is in the Father and the Father in 
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief in John#Words & Teaching]]
-- [[Sources of Belief in John#Signs]]
-- [[Nature of Belief in John#Belief in Jesus and the Father]]
+- [[02 - Sources of Belief in John#Words & Teaching]]
+- [[02 - Sources of Belief in John#Signs]]
+- [[02- Nature of Belief in John#Belief in Jesus and the Father]]
 - [[John 14#11|John 14]]

@@ -12,5 +12,5 @@ Jesus said that if people do not believe what He tells them about earthly things
 
 ## Connections
 - [[The Gospel of John]]
-- [[Unbelief in John#Despite Testimony]]
+- [[02 - Unbelief in John#Despite Testimony]]
 - [[John 3#12|John 3]]

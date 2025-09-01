@@ -12,5 +12,5 @@ Those who receive Jesus by believing in His name gain the right to become childr
 
 ## Connections
 - [[The Gospel of John]]
-- [[Outcomes of Belief in John#Adoption]]
+- [[02 - Outcomes of Belief in John#Adoption]]
 - [[John 1#12|John 1]]

@@ -12,5 +12,5 @@ The healed man expressed a desire to believe by asking who the Son of Man is.
 
 ## Connections
 - [[The Gospel of John]]
-- [[Nature of Belief in John#Belief in Jesus' Identity]]
+- [[02- Nature of Belief in John#Belief in Jesus' Identity]]
 - [[John 9#36|John 9]]

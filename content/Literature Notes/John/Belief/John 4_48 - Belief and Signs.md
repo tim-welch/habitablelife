@@ -12,5 +12,5 @@ Jesus told the royal official that unless people see signs and wonders, they wil
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief in John#Signs]]
+- [[02 - Sources of Belief in John#Signs]]
 - [[John 4#48|John 4]]

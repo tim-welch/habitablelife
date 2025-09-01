@@ -12,6 +12,6 @@ Jesus urged that even if people did not believe His words, they should believe t
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief in John#Signs]]
-- [[Nature of Belief in John#Belief in Jesus' Identity]]
+- [[02 - Sources of Belief in John#Signs]]
+- [[02- Nature of Belief in John#Belief in Jesus' Identity]]
 - [[John 10#38|John 10]]

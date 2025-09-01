@@ -12,7 +12,7 @@ Jesus told Thomas that he believed because he saw Him, but those who have not se
 
 ## Connections
 - [[The Gospel of John]]
-- [[Sources of Belief in John#Signs]]
-- [[Sources of Belief in John#Testimony]]
-- [[Outcomes of Belief in John#Blessing & Works]]
+- [[02 - Sources of Belief in John#Signs]]
+- [[02 - Sources of Belief in John#Testimony]]
+- [[02 - Outcomes of Belief in John#Blessing & Works]]
 - [[John 20#29|John 20]]

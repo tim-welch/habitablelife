@@ -12,6 +12,6 @@ Jesus said the Father loves the disciples because they have loved Him and believ
 
 ## Connections
 - [[The Gospel of John]]
-- [[Nature of Belief in John#Belief in Jesus' Identity]]
-- [[Outcomes of Belief in John#Worship & Love]]
+- [[02- Nature of Belief in John#Belief in Jesus' Identity]]
+- [[02 - Outcomes of Belief in John#Worship & Love]]
 - [[John 16#27|John 16]]

@@ -1,4 +1,5 @@
 ---
+title: How to Study Your Bible
 tags:
   - type/source/book
 ---
