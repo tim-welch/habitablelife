@@ -1,0 +1,9 @@
+God tells Adam to eat of any fruit of in the garden of Eden except from the Tree of the Knowledge of Good an Evil. If he ate from that tree he would die. Eve was deceived into believing that she wouldn't die and ate. Then Eve gave the fruit to Adam and he also ate. They were punished for eating the forbidden fruit, but the sin was not believing that what God told them was true.
+
+Noah was told there would be a great flood. He believed God, so he built a ship to save himself and his family.
+
+Abraham believed that God and it was credited to him as righteousness.
+
+God wants us to believe Him when He tells us something. In the Old Testament, God gave very limited information, but those who believed, like Abraham, Him were credited with righteousness. But some of that information was how to identify the Christ when He came. In the New Testament we learn that Jesus is the Christ. Those who believed Him when was walked the Earth were given eternal life based on their limited knowledge and belief. Those of us who live after His death and resurrection, have additional letters from Jesus' followers who were inspired to explain God's gift of salvation and eternal life to those who believe. The letters spend a lot of time explaining that it is faith in Jesus' work, not our own work that leads to salvation and eternal life. Would discipleship and obedience after believing can lead others to salvation and can earn us rewards, but those works do nothing to save us.
+
+In fact if we believe that our rewards can save us, that undermines our belief that Jesus paid for our sins. It might even mean that we don't belief that Jesus is enough.

@@ -6,6 +6,7 @@
       {
         "id": "97478c6995c8ec58",
         "type": "tabs",
+        "dimension": 51.94723618090452,
         "children": [
           {
             "id": "37dbc16d957fcfe8",
@@ -13,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Literature Notes/John/Belief/01 - How John talks about belief.md",
-                "mode": "source",
+                "file": "drafts/next/Salvation and discipleship.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "01 - How John talks about belief"
+              "title": "Salvation and discipleship"
             }
           },
           {
@@ -46,6 +47,7 @@
       {
         "id": "fdd4c476d70764a6",
         "type": "tabs",
+        "dimension": 48.05276381909548,
         "children": [
           {
             "id": "4dfd7da2d951e364",
@@ -286,6 +288,12 @@
   },
   "active": "37dbc16d957fcfe8",
   "lastOpenFiles": [
+    "drafts/next/God wants us to believe Him.md",
+    "drafts/next/Salvation and discipleship.md",
+    "drafts/next/Hour in John 2_14.md",
+    "content/Literature Notes/How to Study Your Bible/Interpretation/God revealed Himself.md",
+    "content/Literature Notes/How to Study Your Bible/Interpretation/Untitled.md",
+    "content/Literature Notes/John/Belief/01 - How John talks about belief.md",
     "content/Literature Notes/John/Belief/02 - Unbelief in John.md",
     "content/Literature Notes/John/Belief/02 - Sources of Belief in John.md",
     "content/Literature Notes/John/Belief/Question on John 8_45 - Unbelief Because of Truth.md",
@@ -293,7 +301,6 @@
     "content/Literature Notes/John/Belief/02- Nature of Belief in John.md",
     "content/Literature Notes/John/Belief/Interpretation of John 5_38 – Believing the Father by Believing the Son.md",
     "content/Literature Notes/John/Belief/02 - Confessions of Belief in John.md",
-    "content/Literature Notes/John/Belief/01 - How John talks about belief.md",
     "content/Literature Notes/How to Study Your Bible/Interpretation/New Testament interprets the Old Testament.md",
     "content/Literature Notes/How to Study Your Bible/Interpretation/A passage will be consistent with its book.md",
     "content/Literature Notes/How to Study Your Bible/Interpretation/Do not assume something is a type.md",
@@ -307,11 +314,6 @@
     "content/Literature Notes/How to Study Your Bible/Interpretation/Interpret what the text means.md",
     "content/Literature Notes/How to Study Your Bible/Interpretation/Idioms and figures of speech are used.md",
     "content/Literature Notes/How to Study Your Bible/00 - How to Study Your Bible.md",
-    "content/Literature Notes/How to Study Your Bible/Observation/Context & Objectivity/Let the Bible speak for itself.md",
-    "content/Literature Notes/John/Belief/John 8_45 - Unbelief Because of Truth.md",
-    "content/Bible/BSB/43-John/John 8.md",
-    "AI Prompts/🧠 Smart Note Literature Reviewer GPT.md",
-    "content/Literature Notes/John/Signs in John.md",
     "content/Literature Notes/John/Belief.zip",
     "drafts/later",
     "content/Literature Notes/John/Belief",
