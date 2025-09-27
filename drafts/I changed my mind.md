@@ -1,2 +1,0 @@
-I grew up going to a Congregational church. In high school I took confirmation classes to join the church. During confirmation we had to write an essay about who we think Jesus is. I wasn't sure the pastor of the church actually believed the Bible, so I wrote my essay a "Jesus was team of specially trained angels come to Earth to teach about God" based on the GI Joe cartoon from the 1980s. I knew this wasn't what the Bible said about Jesus but I wanted to see if it would be accepted. It was! But I was reminded that I had to 
-
