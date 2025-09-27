@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97478c6995c8ec58",
+        "id": "da926d637237f281",
         "type": "tabs",
-        "dimension": 51.94723618090452,
         "children": [
           {
-            "id": "37dbc16d957fcfe8",
+            "id": "3631f770081d71b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/next/Salvation and discipleship.md",
-                "mode": "preview",
+                "file": "Bible/Berean Bible verse numbers.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,37 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Salvation and discipleship"
+              "title": "Berean Bible verse numbers"
             }
           },
           {
-            "id": "9b1ed415528f830f",
+            "id": "c266822431fc3761",
             "type": "leaf",
             "state": {
-              "type": "home-tab-view",
-              "state": {},
-              "icon": "search",
-              "title": "Home tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "fdd4c476d70764a6",
-        "type": "tabs",
-        "dimension": 48.05276381909548,
-        "children": [
-          {
-            "id": "4dfd7da2d951e364",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "drafts/I changed my mind.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "I changed my mind"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,13 +279,17 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "37dbc16d957fcfe8",
+  "active": "c266822431fc3761",
   "lastOpenFiles": [
-    "drafts/next/God wants us to believe Him.md",
+    "Bible/Berean Bible verse numbers.md",
+    "drafts/I changed my mind.md",
+    "content/Bible/BSB/45-Romans/Romans 3.md",
     "drafts/next/Salvation and discipleship.md",
+    "drafts/next/God wants us to believe Him.md",
     "drafts/next/Hour in John 2_14.md",
     "content/Literature Notes/How to Study Your Bible/Interpretation/God revealed Himself.md",
     "content/Literature Notes/How to Study Your Bible/Interpretation/Untitled.md",
@@ -310,9 +311,6 @@
     "content/Literature Notes/How to Study Your Bible/Interpretation/Scripture does not contradict itself.md",
     "content/Literature Notes/How to Study Your Bible/Interpretation/Prophets do not always understand their prophesies.md",
     "content/Literature Notes/How to Study Your Bible/Interpretation/Use commentaries for context not interpretation.md",
-    "content/Literature Notes/How to Study Your Bible/Interpretation/Interpret what the text means.md",
-    "content/Literature Notes/How to Study Your Bible/Interpretation/Idioms and figures of speech are used.md",
-    "content/Literature Notes/How to Study Your Bible/00 - How to Study Your Bible.md",
     "content/Literature Notes/John/Belief.zip",
     "drafts/later",
     "content/Literature Notes/John/Belief",

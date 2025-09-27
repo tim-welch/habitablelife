@@ -1,0 +1,1 @@
+I grew up going to a Congregational church. In high school I took confirmation classes to join the church. During confirmation we had to write an essay about who we think Jesus is. I wasn't sure the pastor of the church 
