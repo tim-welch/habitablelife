@@ -17,5 +17,6 @@
   "textFontFamily": "Inter",
   "translucency": false,
   "theme": "obsidian",
-  "showRibbon": true
+  "showRibbon": true,
+  "nativeMenus": false
 }
