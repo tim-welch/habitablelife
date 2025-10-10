@@ -12,6 +12,6 @@ If someone does not believe in the One whom the Father sent, the Father’s word
 
 ## Connections
 - [[The Gospel of John]]
-- [[02 - Sources of Belief in John#Words & Teaching]]
-- [[02 - Unbelief in John#Judgment as Outcome of Unbelief]]
-- [[John 5#38|John 5]]
+- [[02 - Sources of Belief in John#Words & Teaching|Sources of Belief in John]]
+- [[02 - Unbelief in John#Judgment as Outcome of Unbelief|Unbelief in John]]
+- [[John 5#38]]
