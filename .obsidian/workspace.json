@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/I changed my mind/God sent His Son as a man to die in our place.md",
-                "mode": "preview",
+                "file": "drafts/I changed my mind/Exposure to Calvinist Teachers and Resources.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "God sent His Son as a man to die in our place"
+              "title": "Exposure to Calvinist Teachers and Resources"
+            }
+          },
+          {
+            "id": "580ef7bce9dfb077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/I changed my mind/Questioning whether people are able to respond to the gospel.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Questioning whether people are able to respond to the gospel"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 378.5,
+    "collapsed": true
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -307,8 +332,14 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "dbbc13162e881098",
+  "active": "580ef7bce9dfb077",
   "lastOpenFiles": [
+    "drafts/I changed my mind/Trusting a System vs. Trusting Christ.md",
+    "drafts/I changed my mind/Exposure to Calvinist Teachers and Resources.md",
+    "drafts/I changed my mind/Conversion to Calvinism.md",
+    "drafts/I changed my mind/God as an author.md",
+    "drafts/God as an author.md",
+    "drafts/I changed my mind/God sent His Son as a man to die in our place.md",
     "drafts/I changed my mind/Whoever rejects Jesus will not see life.md",
     "drafts/I changed my mind/I changed my mind - many times.md",
     "drafts/I changed my mind/We believe and are saved.md",
@@ -317,7 +348,6 @@
     "drafts/I changed my mind/Jesus died and was buried.md",
     "drafts/I changed my mind/Whoever believes in Jesus has eternal life.md",
     "drafts/I changed my mind/Jesus' death was atonement for all sin.md",
-    "drafts/I changed my mind/God sent His Son as a man to die in our place.md",
     "drafts/What we deserve for sinning is death 1.md",
     "drafts/I changed my mind/Nothing we do can pay the debt we owe.md",
     "drafts/I changed my mind/What we deserve for sinning is death.md",
@@ -330,11 +360,6 @@
     "drafts/I changed my mind/Questioning who Jesus died for.md",
     "drafts/I changed my mind/Questioning the definition of sovereignty.md",
     "drafts/I changed my mind/Growth in faith.md",
-    "drafts/I changed my mind/Growth in Calvinism.md",
-    "drafts/I changed my mind/Conversion to Calvinism.md",
-    "drafts/I changed my mind/Coming to believe by reading Luke.md",
-    "drafts/I changed my mind/Growing up.md",
-    "drafts/I changed my mind/Dark times.md",
     "drafts/I changed my mind",
     "content/Literature Notes/John/Belief.zip",
     "drafts/later",

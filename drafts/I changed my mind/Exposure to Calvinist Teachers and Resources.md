@@ -1,0 +1,3 @@
+Over roughly two decades, I immersed myself in Calvinist teaching. I listened to preachers like John MacArthur, R.C. Sproul, John Piper, and Paul Washer. I read their books, attended Bible studies, and joined churches that identified as Reformed. Over time, this exposure shaped my theological framework and deepened my understanding of Calvinism's core doctrines.
+
+During this time, I read the Bible, but my focus shifted increasingly toward interpreting Scripture through the Calvinist lens. My learning was framed by the assumptions and terminology of the system, which felt internally coherent and richly theological.

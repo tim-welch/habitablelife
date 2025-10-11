@@ -1,0 +1,1 @@
+I used to picture God like an author. C.S. Lewis wrote “The Lion, the Witch, and the Wardrobe.” Every word, every action, even the witch’s evil choices were his creation. Yet Lewis wasn’t guilty of the witch’s evil. He was just telling the story. In the same way, I believed God wrote every detail of history, yet we, His characters, were the ones held accountable. 

@@ -1,0 +1,3 @@
+Without realizing it, my faith narrowed. I was no longer simply trusting Jesus. I was trusting a system. Calvinism offered a robust theological framework, but it became the lens through which I interpreted everything.
+
+Over time, I noticed that I leaned more on doctrinal consistency and the authority of trusted teachers than on direct study of Scripture. My beliefs were consistent and coherent, but I had stopped questioning whether the system itself was true. This realization was a warning: theological systems, even good ones, can become substitutes for Christ.

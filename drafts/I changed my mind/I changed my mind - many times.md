@@ -9,7 +9,7 @@
 
 ## Calvinism
 [[Conversion to Calvinism]]
-[[Growth in Calvinism]]
+[[Exposure to Calvinist Teachers and Resources]]
 
 ## Questioning what I believe
 [[Questioning the definition of sovereignty]]
