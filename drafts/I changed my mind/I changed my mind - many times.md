@@ -22,7 +22,7 @@
 ## The Gospel
 After all the shifts and debates, I found myself coming back to something simple. The gospel itself.
 
-1. I have sinned and have not lived up to the standard God expects.
+1. [[I have sinned and have not lived up to the standard God expects]]
 2. What we deserve for sinning is death.
 3. Nothing we do can pay the debt we owe. If we try, our best work is nothing but dirty rags in God's sight.
 4. God sent His Son as a man to die in our place.
