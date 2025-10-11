@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/I changed my mind/I changed my mind - many times.md",
+                "file": "drafts/I changed my mind/Whoever rejects Jesus will not see life.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,11 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "I changed my mind - many times"
+              "title": "Whoever rejects Jesus will not see life"
+            }
+          },
+          {
+            "id": "5919dc95f2249f28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/I changed my mind/God sent His Son as a man to die in our place.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "God sent His Son as a man to die in our place"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -128,7 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 378.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -283,11 +307,22 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "e2a4814a13099486",
+  "active": "dbbc13162e881098",
   "lastOpenFiles": [
-    "drafts/I have sinned and have not lived up to the standard God expects.md",
-    "content/Literature Notes/John/Running out of wine would shame the family.md",
+    "drafts/I changed my mind/Whoever rejects Jesus will not see life.md",
     "drafts/I changed my mind/I changed my mind - many times.md",
+    "drafts/I changed my mind/We believe and are saved.md",
+    "drafts/I changed my mind/There is no other name by which we can be saved.md",
+    "drafts/I changed my mind/Jesus rose again on the third day.md",
+    "drafts/I changed my mind/Jesus died and was buried.md",
+    "drafts/I changed my mind/Whoever believes in Jesus has eternal life.md",
+    "drafts/I changed my mind/Jesus' death was atonement for all sin.md",
+    "drafts/I changed my mind/God sent His Son as a man to die in our place.md",
+    "drafts/What we deserve for sinning is death 1.md",
+    "drafts/I changed my mind/Nothing we do can pay the debt we owe.md",
+    "drafts/I changed my mind/What we deserve for sinning is death.md",
+    "drafts/I changed my mind/I have sinned and have not lived up to the standard God expects.md",
+    "content/Literature Notes/John/Running out of wine would shame the family.md",
     "drafts/I changed my mind/Apologetics bible study.md",
     "drafts/I changed my mind/Questioning whether a believer can stop believing.md",
     "drafts/I changed my mind/Questioning whether people are able to respond to the gospel.md",
@@ -301,17 +336,6 @@
     "drafts/I changed my mind/Growing up.md",
     "drafts/I changed my mind/Dark times.md",
     "drafts/I changed my mind",
-    "drafts/I changed my mind/Colossians Introduction.md",
-    "content/notes/One or two groups in Colossians 1_2.md",
-    "content/Bible/BSB/51-Colossians/Colossians 1.md",
-    "content/Literature Notes/John/Belief/John 5_38 - Failure to Believe.md",
-    "content/Literature Notes/How to Take Smart Notes/Atomic notes are permanent.md",
-    "Bible/Berean Bible verse numbers.md",
-    "content/Bible/BSB/45-Romans/Romans 3.md",
-    "drafts/next/Salvation and discipleship.md",
-    "drafts/next/God wants us to believe Him.md",
-    "drafts/next/Hour in John 2_14.md",
-    "content/Literature Notes/How to Study Your Bible/Interpretation/God revealed Himself.md",
     "content/Literature Notes/John/Belief.zip",
     "drafts/later",
     "content/Literature Notes/John/Belief",

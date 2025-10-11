@@ -1,0 +1,1 @@
+Nothing we do can pay the debt we owe. If we try, our best work is nothing but dirty rags in God's sight.

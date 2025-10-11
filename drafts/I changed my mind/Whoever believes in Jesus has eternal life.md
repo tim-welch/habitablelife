@@ -1,0 +1,1 @@
+Whoever believes in Jesus has eternal life.

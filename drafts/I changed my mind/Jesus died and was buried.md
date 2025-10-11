@@ -1,0 +1,1 @@
+Jesus died and was buried, paying the penalty of sin.
