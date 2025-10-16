@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/I changed my mind/Whoever rejects Jesus will not see life.md",
+                "file": "content/notes/the gospel/Whoever rejects Jesus will not see life.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/I changed my mind/Exposure to Calvinist Teachers and Resources.md",
+                "file": "content/notes/I changed my mind/Exposure to Calvinist Teachers and Resources.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -85,8 +85,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/I changed my mind/I changed my mind - many times.md",
-                "mode": "preview",
+                "file": "content/MOCs/The Gospel.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "I changed my mind - many times"
+              "title": "The Gospel"
             }
           }
         ],
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5,
-    "collapsed": true
+    "width": 378.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -332,35 +331,36 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "580ef7bce9dfb077",
+  "active": "dbbc13162e881098",
   "lastOpenFiles": [
-    "drafts/I changed my mind/Questioning whether people are able to respond to the gospel.md",
-    "drafts/I changed my mind/I changed my mind - many times.md",
-    "drafts/I changed my mind/Questioning whether people can reject Jesus.md",
+    "content/notes/the gospel/Jesus' death was atonement for all sin.md",
+    "content/MOCs/The Gospel.md",
+    "content/notes/the gospel",
+    "content/MOCs/I changed my mind - many times.md",
+    "content/MOCs",
+    "content/notes/I changed my mind/Growth in faith.md",
+    "content/notes/I changed my mind/Conversion to Calvinism.md",
+    "content/notes/I changed my mind/Exposure to Calvinist Teachers and Resources.md",
+    "content/notes/I changed my mind/Questioning whether people are able to respond to the gospel.md",
+    "content/notes/I changed my mind/Questioning whether people can reject Jesus.md",
     "content/Bible/BSB/44-Acts/Acts 7.md",
     "content/Bible/BSB/43-John/John 3.md",
-    "drafts/I changed my mind/Questioning who Jesus died for.md",
-    "drafts/I changed my mind/Questioning the definition of sovereignty.md",
-    "drafts/I changed my mind/Nothing we do can pay the debt we owe.md",
-    "drafts/I changed my mind/Jesus' death was atonement for all sin.md",
-    "drafts/I changed my mind/Jesus rose again on the third day.md",
-    "drafts/I changed my mind/Jesus died and was buried.md",
-    "drafts/I changed my mind/Questioning whether a believer can stop believing.md",
-    "drafts/I changed my mind/Trusting a System vs. Trusting Christ.md",
-    "drafts/I changed my mind/Exposure to Calvinist Teachers and Resources.md",
-    "drafts/I changed my mind/Conversion to Calvinism.md",
-    "drafts/I changed my mind/God as an author.md",
+    "content/notes/I changed my mind/Questioning who Jesus died for.md",
+    "content/notes/I changed my mind/Questioning the definition of sovereignty.md",
+    "content/notes/the gospel/Nothing we do can pay the debt we owe.md",
+    "content/notes/the gospel/Jesus rose again on the third day.md",
+    "content/notes/the gospel/Jesus died and was buried.md",
+    "content/notes/I changed my mind/Questioning whether a believer can stop believing.md",
+    "content/notes/I changed my mind/Trusting a System vs. Trusting Christ.md",
+    "content/notes/I changed my mind/God as an author.md",
     "drafts/God as an author.md",
-    "drafts/I changed my mind/God sent His Son as a man to die in our place.md",
-    "drafts/I changed my mind/Whoever rejects Jesus will not see life.md",
-    "drafts/I changed my mind/We believe and are saved.md",
-    "drafts/I changed my mind/There is no other name by which we can be saved.md",
-    "drafts/I changed my mind/Whoever believes in Jesus has eternal life.md",
+    "content/notes/the gospel/God sent His Son as a man to die in our place.md",
+    "content/notes/the gospel/Whoever rejects Jesus will not see life.md",
+    "content/notes/the gospel/We believe and are saved.md",
+    "content/notes/the gospel/There is no other name by which we can be saved.md",
+    "content/notes/the gospel/Whoever believes in Jesus has eternal life.md",
     "drafts/What we deserve for sinning is death 1.md",
-    "drafts/I changed my mind/What we deserve for sinning is death.md",
-    "drafts/I changed my mind/I have sinned and have not lived up to the standard God expects.md",
-    "content/Literature Notes/John/Running out of wine would shame the family.md",
-    "drafts/I changed my mind",
+    "content/notes/I changed my mind",
     "content/Literature Notes/John/Belief.zip",
     "drafts/later",
     "content/Literature Notes/John/Belief",
@@ -377,8 +377,6 @@
     "public/Bible/BSB/66-Revelation/Revelation-9.html",
     "public/Bible/BSB/66-Revelation/Revelation-6.html",
     "public/Bible/BSB/66-Revelation/Revelation-8.html",
-    "public/Bible/BSB/66-Revelation/Revelation-7.html",
-    "public/Bible/BSB/66-Revelation/Revelation-4.html",
-    "public/Bible/BSB/66-Revelation/Revelation-5.html"
+    "public/Bible/BSB/66-Revelation/Revelation-7.html"
   ]
 }
