@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "content/notes/Everything Iterates.md",
+      "timestamp": 1760613777615
+    },
+    {
       "filepath": "content/notes/Did Jesus lie.md",
       "timestamp": 1760613708936
     },
@@ -38,10 +42,6 @@
     {
       "filepath": "content/notes/the gospel/Jesus died and was buried.md",
       "timestamp": 1760613704251
-    },
-    {
-      "filepath": "content/notes/the gospel/Jesus rose again on the third day.md",
-      "timestamp": 1760613703509
     }
   ],
   "bookmarkedFileStore": [],

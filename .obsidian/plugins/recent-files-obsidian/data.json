@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Everything Iterates",
+      "path": "content/notes/Everything Iterates.md"
+    },
+    {
       "basename": "Did Jesus lie",
       "path": "content/notes/Did Jesus lie.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Interpretation of John 5_38 – Believing the Father by Believing the Son",
       "path": "content/Literature Notes/John/Belief/Interpretation of John 5_38 – Believing the Father by Believing the Son.md"
-    },
-    {
-      "basename": "02 - Confessions of Belief in John",
-      "path": "content/Literature Notes/John/Belief/02 - Confessions of Belief in John.md"
     }
   ],
   "omittedPaths": [
