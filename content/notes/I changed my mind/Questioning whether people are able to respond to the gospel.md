@@ -4,4 +4,4 @@ The only way for us to be able to reject is for us to be able to accept. If we h
 
 ## Connections
 
-- [[John 1#12|John 1:12]], [[John 3#36|John 3:36]]
+- [[John 1#John 1 12|John 1:12]], [[John 3#John 3 36|John 3:36]]

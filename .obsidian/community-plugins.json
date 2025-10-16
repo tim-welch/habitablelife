@@ -21,5 +21,6 @@
   "find-unlinked-files",
   "obsidian-link-converter",
   "tag-wrangler",
-  "obsidian-git"
+  "obsidian-git",
+  "anchor-display-text"
 ]

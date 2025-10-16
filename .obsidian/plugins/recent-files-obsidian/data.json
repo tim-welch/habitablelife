@@ -1,88 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Berean Bible verse numbers",
-      "path": "Bible/Berean Bible verse numbers.md"
-    },
-    {
-      "basename": "The Gospel",
-      "path": "content/MOCs/The Gospel.md"
-    },
-    {
-      "basename": "Jesus' death was atonement for all sin",
-      "path": "content/notes/the gospel/Jesus' death was atonement for all sin.md"
-    },
-    {
-      "basename": "I changed my mind - many times",
-      "path": "content/MOCs/I changed my mind - many times.md"
-    },
-    {
-      "basename": "Growth in faith",
-      "path": "content/notes/I changed my mind/Growth in faith.md"
-    },
-    {
-      "basename": "Conversion to Calvinism",
-      "path": "content/notes/I changed my mind/Conversion to Calvinism.md"
-    },
-    {
-      "basename": "Exposure to Calvinist Teachers and Resources",
-      "path": "content/notes/I changed my mind/Exposure to Calvinist Teachers and Resources.md"
-    },
-    {
-      "basename": "Questioning whether people are able to respond to the gospel",
-      "path": "content/notes/I changed my mind/Questioning whether people are able to respond to the gospel.md"
-    },
-    {
-      "basename": "Questioning whether people can reject Jesus",
-      "path": "content/notes/I changed my mind/Questioning whether people can reject Jesus.md"
-    },
-    {
-      "basename": "Acts 7",
-      "path": "content/Bible/BSB/44-Acts/Acts 7.md"
-    },
-    {
-      "basename": "John 3",
-      "path": "content/Bible/BSB/43-John/John 3.md"
-    },
-    {
-      "basename": "Questioning who Jesus died for",
-      "path": "content/notes/I changed my mind/Questioning who Jesus died for.md"
-    },
-    {
-      "basename": "Questioning the definition of sovereignty",
-      "path": "content/notes/I changed my mind/Questioning the definition of sovereignty.md"
-    },
-    {
-      "basename": "Nothing we do can pay the debt we owe",
-      "path": "content/notes/the gospel/Nothing we do can pay the debt we owe.md"
-    },
-    {
-      "basename": "Jesus rose again on the third day",
-      "path": "content/notes/the gospel/Jesus rose again on the third day.md"
-    },
-    {
-      "basename": "Jesus died and was buried",
-      "path": "content/notes/the gospel/Jesus died and was buried.md"
-    },
-    {
-      "basename": "Questioning whether a believer can stop believing",
-      "path": "content/notes/I changed my mind/Questioning whether a believer can stop believing.md"
-    },
-    {
-      "basename": "Trusting a System vs. Trusting Christ",
-      "path": "content/notes/I changed my mind/Trusting a System vs. Trusting Christ.md"
+      "basename": "Did Jesus lie",
+      "path": "content/notes/Did Jesus lie.md"
     },
     {
       "basename": "God sent His Son as a man to die in our place",
       "path": "content/notes/the gospel/God sent His Son as a man to die in our place.md"
     },
     {
-      "basename": "Whoever rejects Jesus will not see life",
-      "path": "content/notes/the gospel/Whoever rejects Jesus will not see life.md"
+      "basename": "I have sinned and have not lived up to the standard God expects",
+      "path": "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md"
     },
     {
-      "basename": "Running out of wine would shame the family",
-      "path": "content/Literature Notes/John/Running out of wine would shame the family.md"
+      "basename": "Jesus died and was buried",
+      "path": "content/notes/the gospel/Jesus died and was buried.md"
+    },
+    {
+      "basename": "Jesus rose again on the third day",
+      "path": "content/notes/the gospel/Jesus rose again on the third day.md"
+    },
+    {
+      "basename": "Jesus' death was atonement for all sin",
+      "path": "content/notes/the gospel/Jesus' death was atonement for all sin.md"
+    },
+    {
+      "basename": "Nothing we do can pay the debt we owe",
+      "path": "content/notes/the gospel/Nothing we do can pay the debt we owe.md"
+    },
+    {
+      "basename": "There is no other name by which we can be saved",
+      "path": "content/notes/the gospel/There is no other name by which we can be saved.md"
+    },
+    {
+      "basename": "We believe and are saved",
+      "path": "content/notes/the gospel/We believe and are saved.md"
+    },
+    {
+      "basename": "What we deserve for sinning is death",
+      "path": "content/notes/the gospel/What we deserve for sinning is death.md"
+    },
+    {
+      "basename": "Whoever believes in Jesus has eternal life",
+      "path": "content/notes/the gospel/Whoever believes in Jesus has eternal life.md"
+    },
+    {
+      "basename": "Whoever rejects Jesus will not see life",
+      "path": "content/notes/the gospel/Whoever rejects Jesus will not see life.md"
     },
     {
       "basename": "Apologetics bible study",
@@ -93,12 +57,76 @@
       "path": "content/notes/I changed my mind/Coming to believe by reading Luke.md"
     },
     {
-      "basename": "Growing up",
-      "path": "content/notes/I changed my mind/Growing up.md"
+      "basename": "Conversion to Calvinism",
+      "path": "content/notes/I changed my mind/Conversion to Calvinism.md"
+    },
+    {
+      "basename": "God as an author",
+      "path": "content/notes/I changed my mind/God as an author.md"
     },
     {
       "basename": "Dark times",
       "path": "content/notes/I changed my mind/Dark times.md"
+    },
+    {
+      "basename": "Exposure to Calvinist Teachers and Resources",
+      "path": "content/notes/I changed my mind/Exposure to Calvinist Teachers and Resources.md"
+    },
+    {
+      "basename": "Growing up",
+      "path": "content/notes/I changed my mind/Growing up.md"
+    },
+    {
+      "basename": "Growth in faith",
+      "path": "content/notes/I changed my mind/Growth in faith.md"
+    },
+    {
+      "basename": "Questioning the definition of sovereignty",
+      "path": "content/notes/I changed my mind/Questioning the definition of sovereignty.md"
+    },
+    {
+      "basename": "Questioning whether a believer can stop believing",
+      "path": "content/notes/I changed my mind/Questioning whether a believer can stop believing.md"
+    },
+    {
+      "basename": "Questioning whether people are able to respond to the gospel",
+      "path": "content/notes/I changed my mind/Questioning whether people are able to respond to the gospel.md"
+    },
+    {
+      "basename": "Questioning whether people can reject Jesus",
+      "path": "content/notes/I changed my mind/Questioning whether people can reject Jesus.md"
+    },
+    {
+      "basename": "Trusting a System vs. Trusting Christ",
+      "path": "content/notes/I changed my mind/Trusting a System vs. Trusting Christ.md"
+    },
+    {
+      "basename": "Questioning who Jesus died for",
+      "path": "content/notes/I changed my mind/Questioning who Jesus died for.md"
+    },
+    {
+      "basename": "John 3",
+      "path": "content/Bible/BSB/43-John/John 3.md"
+    },
+    {
+      "basename": "Berean Bible verse numbers",
+      "path": "Bible/Berean Bible verse numbers.md"
+    },
+    {
+      "basename": "The Gospel",
+      "path": "content/MOCs/The Gospel.md"
+    },
+    {
+      "basename": "I changed my mind - many times",
+      "path": "content/MOCs/I changed my mind - many times.md"
+    },
+    {
+      "basename": "Acts 7",
+      "path": "content/Bible/BSB/44-Acts/Acts 7.md"
+    },
+    {
+      "basename": "Running out of wine would shame the family",
+      "path": "content/Literature Notes/John/Running out of wine would shame the family.md"
     },
     {
       "basename": "Colossians Introduction",
@@ -171,34 +199,6 @@
     {
       "basename": "02 - Confessions of Belief in John",
       "path": "content/Literature Notes/John/Belief/02 - Confessions of Belief in John.md"
-    },
-    {
-      "basename": "New Testament interprets the Old Testament",
-      "path": "content/Literature Notes/How to Study Your Bible/Interpretation/New Testament interprets the Old Testament.md"
-    },
-    {
-      "basename": "A passage will be consistent with its book",
-      "path": "content/Literature Notes/How to Study Your Bible/Interpretation/A passage will be consistent with its book.md"
-    },
-    {
-      "basename": "Do not assume something is a type",
-      "path": "content/Literature Notes/How to Study Your Bible/Interpretation/Do not assume something is a type.md"
-    },
-    {
-      "basename": "Types represent something coming",
-      "path": "content/Literature Notes/How to Study Your Bible/Interpretation/Types represent something coming.md"
-    },
-    {
-      "basename": "Study the word in the original language",
-      "path": "content/Literature Notes/How to Study Your Bible/Interpretation/Study the word in the original language.md"
-    },
-    {
-      "basename": "Scripture does not contradict itself",
-      "path": "content/Literature Notes/How to Study Your Bible/Interpretation/Scripture does not contradict itself.md"
-    },
-    {
-      "basename": "Prophets do not always understand their prophesies",
-      "path": "content/Literature Notes/How to Study Your Bible/Interpretation/Prophets do not always understand their prophesies.md"
     }
   ],
   "omittedPaths": [
