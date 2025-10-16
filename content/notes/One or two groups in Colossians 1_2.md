@@ -12,4 +12,4 @@ In Col 1:2, Paul says he is writing "to the saints and faithful brothers in Chri
 
 ## Connections
 
-- [[Colossians 1#2]]
+- [[Colossians 1#Colossians 1 2|Colossians 1:2]]

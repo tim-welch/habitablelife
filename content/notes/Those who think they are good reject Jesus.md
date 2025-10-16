@@ -7,4 +7,4 @@ Even the most learned and most disciplined people who claim to follow god, might
 
 ## Connections
 
-- [[John 7#48]]
+- [[John 7#John 7 48|John 7:48]]

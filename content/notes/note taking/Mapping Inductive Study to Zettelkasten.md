@@ -13,8 +13,8 @@ This mapping allows the Bible study process to integrate seamlessly with smart n
 
 ## Connections
 
-- [[content/notes/note taking/Zettelkasten]]
-- [[Inductive Bible Study Method|Connections]]
+- [[Zettelkasten]]
+- [[Inductive Bible Study Method]]
 - [[Observations as Literature Notes]]
-- [[Interpretations as Permanent Notes|Connections]]
-- [[Applications as Practical Notes|Connections]]
+- [[Interpretations as Permanent Notes]]
+- [[Applications as Practical Notes]]

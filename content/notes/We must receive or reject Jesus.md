@@ -8,6 +8,6 @@ Believing is not mere intellectual acceptance of a fact. Believing is receiving 
 
 ## Connections
 
-- [[John 1#11]] vs [[John 1#12]]
-- [[John 3#36]]
-- [[John 6#36]]
+- [[John 1#John 1 11|John 1:11]] vs [[John 1#John 1 12|John 1:12]]
+- [[John 3#John 3 36|John 3:36]]
+- [[John 6#John 6 36|John 6:36]]
