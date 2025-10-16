@@ -1,53 +1,53 @@
 # Psalm 136
-## 1
+## Psalm 136:1
 Give thanks to the LORD, for He is good. His loving devotion endures forever.
-## 2
+## Psalm 136:2
 Give thanks to the God of gods. His loving devotion endures forever.
-## 3
+## Psalm 136:3
 Give thanks to the Lord of lords. His loving devotion endures forever.
-## 4
+## Psalm 136:4
 He alone does great wonders. His loving devotion endures forever.
-## 5
+## Psalm 136:5
 By His insight He made the heavens. His loving devotion endures forever.
-## 6
+## Psalm 136:6
 He spread out the earth upon the waters. His loving devotion endures forever.
-## 7
+## Psalm 136:7
 He made the great lights—His loving devotion endures forever.
-## 8
+## Psalm 136:8
 the sun to rule the day, His loving devotion endures forever.
-## 9
+## Psalm 136:9
 the moon and stars to govern the night. His loving devotion endures forever.
-## 10
+## Psalm 136:10
 He struck down the firstborn of Egypt His loving devotion endures forever.
-## 11
+## Psalm 136:11
 and brought Israel out from among them His loving devotion endures forever.
-## 12
+## Psalm 136:12
 with a mighty hand and an outstretched arm. His loving devotion endures forever.
-## 13
+## Psalm 136:13
 He divided the Red Sea in two His loving devotion endures forever.
-## 14
+## Psalm 136:14
 and led Israel through the midst, His loving devotion endures forever.
-## 15
+## Psalm 136:15
 but swept Pharaoh and his army into the Red Sea. His loving devotion endures forever.
-## 16
+## Psalm 136:16
 He led His people through the wilderness. His loving devotion endures forever.
-## 17
+## Psalm 136:17
 He struck down great kings His loving devotion endures forever.
-## 18
+## Psalm 136:18
 and slaughtered mighty kings—His loving devotion endures forever.
-## 19
+## Psalm 136:19
 Sihon king of the Amorites His loving devotion endures forever.
-## 20
+## Psalm 136:20
 and Og king of Bashan—His loving devotion endures forever.
-## 21
+## Psalm 136:21
 and He gave their land as an inheritance, His loving devotion endures forever.
-## 22
+## Psalm 136:22
 a heritage to His servant Israel. His loving devotion endures forever.
-## 23
+## Psalm 136:23
 He remembered us in our low estate His loving devotion endures forever.
-## 24
+## Psalm 136:24
 and freed us from our enemies. His loving devotion endures forever.
-## 25
+## Psalm 136:25
 He gives food to every creature. His loving devotion endures forever.
-## 26
+## Psalm 136:26
 Give thanks to the God of heaven! His loving devotion endures forever.

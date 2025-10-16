@@ -24,11 +24,15 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "Bible/Berean Bible verse numbers.md",
+      "timestamp": 1760612175403
+    },
+    {
       "filepath": "content/MOCs/The Gospel.md",
       "timestamp": 1760612057132
     },
     {
-      "filepath": "content/notes/I changed my mind/Jesus' death was atonement for all sin.md",
+      "filepath": "content/notes/the gospel/Jesus' death was atonement for all sin.md",
       "timestamp": 1760612053669
     },
     {
@@ -38,10 +42,6 @@
     {
       "filepath": "content/notes/I changed my mind/Growth in faith.md",
       "timestamp": 1760525750136
-    },
-    {
-      "filepath": "content/notes/I changed my mind/Conversion to Calvinism.md",
-      "timestamp": 1760525740919
     }
   ],
   "bookmarkedFileStore": [],

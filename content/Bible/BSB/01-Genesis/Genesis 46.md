@@ -1,69 +1,69 @@
 # Genesis 46
-## 1
+## Genesis 46:1
 So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac.
-## 2
+## Genesis 46:2
 And that night God spoke to Israel in a vision: “Jacob, Jacob!” He said. “Here I am,” replied Jacob.
-## 3
+## Genesis 46:3
 “I am God,” He said, “the God of your father. Do not be afraid to go down to Egypt, for I will make you into a great nation there.
-## 4
+## Genesis 46:4
 I will go down with you to Egypt, and I will surely bring you back. And Joseph’s own hands will close your eyes.”
-## 5
+## Genesis 46:5
 Then Jacob departed from Beersheba, and the sons of Israel took their father Jacob in the wagons Pharaoh had sent to carry him, along with their children and wives.
-## 6
+## Genesis 46:6
 They also took the livestock and possessions they had acquired in the land of Canaan, and Jacob and all his offspring went to Egypt.
-## 7
+## Genesis 46:7
 Jacob took with him to Egypt his sons and grandsons, and his daughters and granddaughters—all his offspring.
-## 8
+## Genesis 46:8
 Now these are the names of the sons of Israel (Jacob and his descendants) who went to Egypt: Reuben, Jacob’s firstborn.
-## 9
+## Genesis 46:9
 The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.
-## 10
+## Genesis 46:10
 The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of a Canaanite woman.
-## 11
+## Genesis 46:11
 The sons of Levi: Gershon, Kohath, and Merari.
-## 12
+## Genesis 46:12
 The sons of Judah: Er, Onan, Shelah, Perez, and Zerah; but Er and Onan died in the land of Canaan. The sons of Perez: Hezron and Hamul.
-## 13
+## Genesis 46:13
 The sons of Issachar: Tola, Puvah, Job, and Shimron.
-## 14
+## Genesis 46:14
 The sons of Zebulun: Sered, Elon, and Jahleel.
-## 15
+## Genesis 46:15
 These are the sons of Leah born to Jacob in Paddan-aram, in addition to his daughter Dinah. The total number of sons and daughters was thirty-three.
-## 16
+## Genesis 46:16
 The sons of Gad: Ziphion, Haggi, Shuni, Ezbon, Eri, Arodi, and Areli.
-## 17
+## Genesis 46:17
 The children of Asher: Imnah, Ishvah, Ishvi, Beriah, and their sister Serah. The sons of Beriah: Heber and Malchiel.
-## 18
+## Genesis 46:18
 These are the sons of Jacob born to Zilpah—whom Laban gave to his daughter Leah—sixteen in all.
-## 19
+## Genesis 46:19
 The sons of Jacob’s wife Rachel: Joseph and Benjamin.
-## 20
+## Genesis 46:20
 Manasseh and Ephraim were born to Joseph in the land of Egypt by Asenath daughter of Potiphera, priest of On.
-## 21
+## Genesis 46:21
 The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
-## 22
+## Genesis 46:22
 These are the sons of Rachel born to Jacob—fourteen in all.
-## 23
+## Genesis 46:23
 The son of Dan: Hushim.
-## 24
+## Genesis 46:24
 The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem.
-## 25
+## Genesis 46:25
 These are the sons of Jacob born to Bilhah, whom Laban gave to his daughter Rachel—seven in all.
-## 26
+## Genesis 46:26
 All those belonging to Jacob who came to Egypt—his direct descendants, besides the wives of Jacob’s sons—numbered sixty-six persons.
-## 27
+## Genesis 46:27
 And with the two sons who had been born to Joseph in Egypt, the members of Jacob’s family who went to Egypt were seventy in all.
-## 28
+## Genesis 46:28
 Now Jacob had sent Judah ahead of him to Joseph to get directions to Goshen. When Jacob’s family arrived in the land of Goshen,
-## 29
+## Genesis 46:29
 Joseph prepared his chariot and went there to meet his father Israel. Joseph presented himself to him, embraced him, and wept profusely.
-## 30
+## Genesis 46:30
 Then Israel said to Joseph, “Finally I can die, now that I have seen your face and know that you are still alive!”
-## 31
+## Genesis 46:31
 Joseph said to his brothers and to his father’s household, “I will go up and inform Pharaoh: ‘My brothers and my father’s household from the land of Canaan have come to me.
-## 32
+## Genesis 46:32
 The men are shepherds; they raise livestock, and they have brought their flocks and herds and all that they own.’
-## 33
+## Genesis 46:33
 When Pharaoh summons you and asks, ‘What is your occupation?’
-## 34
+## Genesis 46:34
 you are to say, ‘Your servants have raised livestock ever since our youth—both we and our fathers.’ Then you will be allowed to settle in the land of Goshen, since all shepherds are detestable to the Egyptians.”

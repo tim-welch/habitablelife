@@ -1,71 +1,71 @@
 # Exodus 9
-## 1
+## Exodus 9:1
 Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD, the God of the Hebrews, says: ‘Let My people go, so that they may worship Me.
-## 2
+## Exodus 9:2
 But if you continue to restrain them and refuse to let them go,
-## 3
+## Exodus 9:3
 then the hand of the LORD will bring a severe plague on your livestock in the field—on your horses, donkeys, camels, herds, and flocks.
-## 4
+## Exodus 9:4
 But the LORD will make a distinction between the livestock of Israel and the livestock of Egypt, so that no animal belonging to the Israelites will die.’”
-## 5
+## Exodus 9:5
 The LORD set a time, saying, “Tomorrow the LORD will do this in the land.”
-## 6
+## Exodus 9:6
 And the next day the LORD did just that. All the livestock of the Egyptians died, but not one animal belonging to the Israelites died.
-## 7
+## Exodus 9:7
 Pharaoh sent officials and found that none of the livestock of the Israelites had died. But Pharaoh’s heart was hardened, and he would not let the people go.
-## 8
+## Exodus 9:8
 Then the LORD said to Moses and Aaron, “Take handfuls of soot from the furnace; in the sight of Pharaoh, Moses is to toss it into the air.
-## 9
+## Exodus 9:9
 It will become fine dust over all the land of Egypt, and festering boils will break out on man and beast throughout the land.”
-## 10
+## Exodus 9:10
 So they took soot from the furnace and stood before Pharaoh. Moses tossed it into the air, and festering boils broke out on man and beast.
-## 11
+## Exodus 9:11
 The magicians could not stand before Moses, because the boils had broken out on them and on all the Egyptians.
-## 12
+## Exodus 9:12
 But the LORD hardened Pharaoh’s heart, and he would not listen to them, just as the LORD had said to Moses.
-## 13
+## Exodus 9:13
 Then the LORD said to Moses, “Get up early in the morning, stand before Pharaoh, and tell him that this is what the LORD, the God of the Hebrews, says: ‘Let My people go, so that they may worship Me.
-## 14
+## Exodus 9:14
 Otherwise, I will send all My plagues against you and your officials and your people, so you may know that there is no one like Me in all the earth.
-## 15
+## Exodus 9:15
 For by this time I could have stretched out My hand and struck you and your people with a plague to wipe you off the earth.
-## 16
+## Exodus 9:16
 But I have raised you up for this very purpose, that I might display My power to you, and that My name might be proclaimed in all the earth.
-## 17
+## Exodus 9:17
 Still, you lord it over My people and do not allow them to go.
-## 18
+## Exodus 9:18
 Behold, at this time tomorrow I will rain down the worst hail that has ever fallen on Egypt, from the day it was founded until now.
-## 19
+## Exodus 9:19
 So give orders now to shelter your livestock and everything you have in the field. Every man or beast that remains in the field and is not brought inside will die when the hail comes down upon them.’”
-## 20
+## Exodus 9:20
 Those among Pharaoh’s officials who feared the word of the LORD hurried to bring their servants and livestock to shelter,
-## 21
+## Exodus 9:21
 but those who disregarded the word of the LORD left their servants and livestock in the field.
-## 22
+## Exodus 9:22
 Then the LORD said to Moses, “Stretch out your hand toward heaven, so that hail may fall on all the land of Egypt—on man and beast and every plant of the field throughout the land of Egypt.”
-## 23
+## Exodus 9:23
 So Moses stretched out his staff toward heaven, and the LORD sent thunder and hail, and lightning struck the earth. So the LORD rained down hail upon the land of Egypt.
-## 24
+## Exodus 9:24
 The hail fell and the lightning continued flashing through it. The hail was so severe that nothing like it had ever been seen in all the land of Egypt from the time it became a nation.
-## 25
+## Exodus 9:25
 Throughout the land of Egypt, the hail struck down everything in the field, both man and beast; it beat down every plant of the field and stripped every tree.
-## 26
+## Exodus 9:26
 The only place where it did not hail was in the land of Goshen, where the Israelites lived.
-## 27
+## Exodus 9:27
 Then Pharaoh summoned Moses and Aaron. “This time I have sinned,” he said. “The LORD is righteous, and I and my people are wicked.
-## 28
+## Exodus 9:28
 Pray to the LORD, for there has been enough of God’s thunder and hail. I will let you go; you do not need to stay any longer.”
-## 29
+## Exodus 9:29
 Moses said to him, “When I have left the city, I will spread out my hands to the LORD. The thunder will cease, and there will be no more hail, so that you may know that the earth is the LORD’s.
-## 30
+## Exodus 9:30
 But as for you and your officials, I know that you still do not fear the LORD our God.”
-## 31
+## Exodus 9:31
 (Now the flax and barley were destroyed, since the barley was ripe and the flax was in bloom;
-## 32
+## Exodus 9:32
 but the wheat and spelt were not destroyed, because they are late crops.)
-## 33
+## Exodus 9:33
 Then Moses departed from Pharaoh, went out of the city, and spread out his hands to the LORD. The thunder and hail ceased, and the rain no longer poured down on the land.
-## 34
+## Exodus 9:34
 When Pharaoh saw that the rain and hail and thunder had ceased, he sinned again and hardened his heart—he and his officials.
-## 35
+## Exodus 9:35
 So Pharaoh’s heart was hardened, and he would not let the Israelites go, just as the LORD had said through Moses.

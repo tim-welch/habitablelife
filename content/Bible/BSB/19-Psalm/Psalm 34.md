@@ -1,45 +1,45 @@
 # Psalm 34
-## 1
+## Psalm 34:1
 Of David, when he pretended to be insane before Abimelech, so that the king drove him away. I will bless the LORD at all times; His praise will always be on my lips.
-## 2
+## Psalm 34:2
 My soul boasts in the LORD; let the oppressed hear and rejoice.
-## 3
+## Psalm 34:3
 Magnify the LORD with me; let us exalt His name together.
-## 4
+## Psalm 34:4
 I sought the LORD, and He answered me; He delivered me from all my fears.
-## 5
+## Psalm 34:5
 Those who look to Him are radiant with joy; their faces shall never be ashamed.
-## 6
+## Psalm 34:6
 This poor man called out, and the LORD heard him; He saved him from all his troubles.
-## 7
+## Psalm 34:7
 The angel of the LORD encamps around those who fear Him, and he delivers them.
-## 8
+## Psalm 34:8
 Taste and see that the LORD is good; blessed is the man who takes refuge in Him!
-## 9
+## Psalm 34:9
 Fear the LORD, you His saints, for those who fear Him lack nothing.
-## 10
+## Psalm 34:10
 Young lions go lacking and hungry, but those who seek the LORD lack no good thing.
-## 11
+## Psalm 34:11
 Come, children, listen to me; I will teach you the fear of the LORD.
-## 12
+## Psalm 34:12
 Who is the man who delights in life, who desires to see good days?
-## 13
+## Psalm 34:13
 Keep your tongue from evil and your lips from deceitful speech.
-## 14
+## Psalm 34:14
 Turn away from evil and do good; seek peace and pursue it.
-## 15
+## Psalm 34:15
 The eyes of the LORD are on the righteous, and His ears are inclined to their cry.
-## 16
+## Psalm 34:16
 But the face of the LORD is against those who do evil, to wipe out all memory of them from the earth.
-## 17
+## Psalm 34:17
 The righteous cry out, and the LORD hears; He delivers them from all their troubles.
-## 18
+## Psalm 34:18
 The LORD is near to the brokenhearted; He saves the contrite in spirit.
-## 19
+## Psalm 34:19
 Many are the afflictions of the righteous, but the LORD delivers him from them all.
-## 20
+## Psalm 34:20
 He protects all his bones; not one of them will be broken.
-## 21
+## Psalm 34:21
 Evil will slay the wicked, and the haters of the righteous will be condemned.
-## 22
+## Psalm 34:22
 The LORD redeems His servants, and none who take refuge in Him will be condemned.

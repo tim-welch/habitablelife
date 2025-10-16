@@ -1,53 +1,53 @@
 # Psalm 44
-## 1
+## Psalm 44:1
 For the choirmaster. A Maskil of the sons of Korah. We have heard with our ears, O God; our fathers have told us the work You did in their days, in the days of old.
-## 2
+## Psalm 44:2
 With Your hand You drove out the nations and planted our fathers there; You crushed the peoples and cast them out.
-## 3
+## Psalm 44:3
 For it was not by their sword that they took the land; their arm did not bring them victory. It was by Your right hand, Your arm, and the light of Your face, because You favored them.
-## 4
+## Psalm 44:4
 You are my King, O God, who ordains victories for Jacob.
-## 5
+## Psalm 44:5
 Through You we repel our foes; through Your name we trample our enemies.
-## 6
+## Psalm 44:6
 For I do not trust in my bow, nor does my sword save me.
-## 7
+## Psalm 44:7
 For You save us from our enemies; You put those who hate us to shame.
-## 8
+## Psalm 44:8
 In God we have boasted all day long, and Your name we will praise forever. Selah
-## 9
+## Psalm 44:9
 But You have rejected and humbled us; You no longer go forth with our armies.
-## 10
+## Psalm 44:10
 You have made us retreat from the foe, and those who hate us have plundered us.
-## 11
+## Psalm 44:11
 You have given us up as sheep to be devoured; You have scattered us among the nations.
-## 12
+## Psalm 44:12
 You sell Your people for nothing; no profit do You gain from their sale.
-## 13
+## Psalm 44:13
 You have made us a reproach to our neighbors, a mockery and derision to those around us.
-## 14
+## Psalm 44:14
 You have made us a byword among the nations, a laughingstock among the peoples.
-## 15
+## Psalm 44:15
 All day long my disgrace is before me, and shame has covered my face,
-## 16
+## Psalm 44:16
 at the voice of the scorner and reviler, because of the enemy, bent on revenge.
-## 17
+## Psalm 44:17
 All this has come upon us, though we have not forgotten You or betrayed Your covenant.
-## 18
+## Psalm 44:18
 Our hearts have not turned back; our steps have not strayed from Your path.
-## 19
+## Psalm 44:19
 But You have crushed us in the lair of jackals; You have covered us with deepest darkness.
-## 20
+## Psalm 44:20
 If we had forgotten the name of our God or spread out our hands to a foreign god,
-## 21
+## Psalm 44:21
 would not God have discovered, since He knows the secrets of the heart?
-## 22
+## Psalm 44:22
 Yet for Your sake we face death all day long; we are considered as sheep to be slaughtered.
-## 23
+## Psalm 44:23
 Wake up, O Lord! Why are You sleeping? Arise! Do not reject us forever.
-## 24
+## Psalm 44:24
 Why do You hide Your face and forget our affliction and oppression?
-## 25
+## Psalm 44:25
 For our soul has sunk to the dust; our bodies cling to the earth.
-## 26
+## Psalm 44:26
 Rise up; be our help! Redeem us on account of Your loving devotion.

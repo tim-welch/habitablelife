@@ -1,13 +1,13 @@
 # Psalm 150
-## 1
+## Psalm 150:1
 Hallelujah! Praise God in His sanctuary. Praise Him in His mighty heavens.
-## 2
+## Psalm 150:2
 Praise Him for His mighty acts; praise Him for His excellent greatness.
-## 3
+## Psalm 150:3
 Praise Him with the sound of the horn; praise Him with the harp and lyre.
-## 4
+## Psalm 150:4
 Praise Him with tambourine and dancing; praise Him with strings and flute.
-## 5
+## Psalm 150:5
 Praise Him with clashing cymbals; praise Him with resounding cymbals.
-## 6
+## Psalm 150:6
 Let everything that has breath praise the LORD! Hallelujah!
