@@ -1,4 +1,3 @@
-# 1 Chronicles 24
 ## 1 Chronicles 24:1
 These were the divisions of the descendants of Aaron. The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar.
 ## 1 Chronicles 24:2

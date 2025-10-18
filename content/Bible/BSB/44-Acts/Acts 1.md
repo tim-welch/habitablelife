@@ -1,4 +1,3 @@
-# Acts 1
 ## Acts 1:1
 In my first book, O Theophilus, I wrote about all that Jesus began to do and to teach,
 ## Acts 1:2

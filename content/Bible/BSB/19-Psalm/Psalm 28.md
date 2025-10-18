@@ -1,4 +1,3 @@
-# Psalm 28
 ## Psalm 28:1
 Of David. To You, O LORD, I call; be not deaf to me, O my Rock. For if You remain silent, I will be like those descending to the Pit.
 ## Psalm 28:2

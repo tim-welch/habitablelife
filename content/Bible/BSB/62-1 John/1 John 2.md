@@ -1,4 +1,3 @@
-# 1 John 2
 ## 1 John 2:1
 My little children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an advocate before the Father—Jesus Christ, the Righteous One.
 ## 1 John 2:2

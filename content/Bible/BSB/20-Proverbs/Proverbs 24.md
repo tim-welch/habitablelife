@@ -1,4 +1,3 @@
-# Proverbs 24
 ## Proverbs 24:1
 Do not envy wicked men or desire their company;
 ## Proverbs 24:2

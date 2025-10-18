@@ -1,4 +1,3 @@
-# Amos 1
 ## Amos 1:1
 These are the words of Amos, who was among the sheepherders of Tekoa—what he saw concerning Israel two years before the earthquake, in the days when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel.
 ## Amos 1:2

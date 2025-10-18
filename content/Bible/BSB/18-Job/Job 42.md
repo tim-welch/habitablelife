@@ -1,4 +1,3 @@
-# Job 42
 ## Job 42:1
 Then Job replied to the LORD:
 ## Job 42:2

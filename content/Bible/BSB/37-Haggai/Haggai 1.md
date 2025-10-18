@@ -1,4 +1,3 @@
-# Haggai 1
 ## Haggai 1:1
 In the second year of the reign of Darius, on the first day of the sixth month, the word of the LORD came through Haggai the prophet to Zerubbabel son of Shealtiel, governor of Judah, and to Joshua son of Jehozadak, the high priest, stating
 ## Haggai 1:2

@@ -1,4 +1,3 @@
-# Revelation 11
 ## Revelation 11:1
 Then I was given a measuring rod like a staff and was told, “Go and measure the temple of God and the altar, and count the number of worshipers there.
 ## Revelation 11:2

@@ -1,4 +1,3 @@
-# Deuteronomy 22
 ## Deuteronomy 22:1
 If you see your brother’s ox or sheep straying, you must not ignore it; be sure to return it to your brother.
 ## Deuteronomy 22:2

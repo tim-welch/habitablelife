@@ -1,4 +1,3 @@
-# 1 Corinthians 6
 ## 1 Corinthians 6:1
 If any of you has a grievance against another, how dare he go to law before the unrighteous instead of before the saints!
 ## 1 Corinthians 6:2

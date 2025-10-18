@@ -1,4 +1,3 @@
-# Ezekiel 34
 ## Ezekiel 34:1
 Then the word of the LORD came to me, saying,
 ## Ezekiel 34:2

@@ -1,4 +1,3 @@
-# Psalm 54
 ## Psalm 54:1
 For the choirmaster. With stringed instruments. A Maskil of David. When the Ziphites went to Saul and said, “Is David not hiding among us?” Save me, O God, by Your name, and vindicate me by Your might!
 ## Psalm 54:2

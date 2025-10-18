@@ -1,4 +1,3 @@
-# 1 Timothy 6
 ## 1 Timothy 6:1
 All who are under the yoke of slavery should regard their masters as fully worthy of honor, so that God’s name and our teaching will not be discredited.
 ## 1 Timothy 6:2

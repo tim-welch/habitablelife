@@ -1,4 +1,3 @@
-# 1 Timothy 5
 ## 1 Timothy 5:1
 Do not rebuke an older man, but appeal to him as to a father. Treat younger men as brothers,
 ## 1 Timothy 5:2

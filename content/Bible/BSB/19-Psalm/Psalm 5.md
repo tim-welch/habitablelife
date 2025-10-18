@@ -1,4 +1,3 @@
-# Psalm 5
 ## Psalm 5:1
 For the choirmaster, to be accompanied by flutes. A Psalm of David. Give ear to my words, O LORD; consider my groaning.
 ## Psalm 5:2

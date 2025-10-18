@@ -1,4 +1,3 @@
-# 1 Samuel 14
 ## 1 Samuel 14:1
 One day Jonathan son of Saul said to the young man bearing his armor, “Come, let us cross over to the Philistine outpost on the other side.” But Jonathan did not tell his father.
 ## 1 Samuel 14:2

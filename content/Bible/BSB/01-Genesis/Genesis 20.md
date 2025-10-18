@@ -1,4 +1,3 @@
-# Genesis 20
 ## Genesis 20:1
 Now Abraham journeyed from there to the region of the Negev and settled between Kadesh and Shur. While he was staying in Gerar,
 ## Genesis 20:2

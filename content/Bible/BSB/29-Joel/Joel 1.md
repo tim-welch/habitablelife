@@ -1,4 +1,3 @@
-# Joel 1
 ## Joel 1:1
 This is the word of the LORD that came to Joel son of Pethuel:
 ## Joel 1:2

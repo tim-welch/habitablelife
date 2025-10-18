@@ -1,4 +1,3 @@
-# 1 Chronicles 19
 ## 1 Chronicles 19:1
 Some time later, Nahash king of the Ammonites died and was succeeded by his son.
 ## 1 Chronicles 19:2

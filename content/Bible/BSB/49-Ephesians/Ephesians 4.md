@@ -1,4 +1,3 @@
-# Ephesians 4
 ## Ephesians 4:1
 As a prisoner in the Lord, then, I urge you to walk in a manner worthy of the calling you have received:
 ## Ephesians 4:2

@@ -1,4 +1,3 @@
-# Zechariah 8
 ## Zechariah 8:1
 Again the word of the LORD of Hosts came to me, saying:
 ## Zechariah 8:2

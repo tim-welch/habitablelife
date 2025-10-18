@@ -1,4 +1,3 @@
-# Esther 10
 ## Esther 10:1
 Now King Xerxes imposed tribute throughout the land, even to its farthest shores.
 ## Esther 10:2

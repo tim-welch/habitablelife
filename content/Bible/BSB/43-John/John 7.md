@@ -1,4 +1,3 @@
-# John 7
 ## John 7:1
 After this, Jesus traveled throughout Galilee. He did not want to travel in Judea, because the Jews there were trying to kill Him.
 ## John 7:2

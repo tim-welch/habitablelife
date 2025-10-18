@@ -1,4 +1,3 @@
-# 1 Samuel 1
 ## 1 Samuel 1:1
 Now there was a man named Elkanah who was from Ramathaim-zophim in the hill country of Ephraim. He was the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.
 ## 1 Samuel 1:2

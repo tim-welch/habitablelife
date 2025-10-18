@@ -1,4 +1,3 @@
-# Exodus 8
 ## Exodus 8:1
 Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD says: ‘Let My people go, so that they may worship Me.
 ## Exodus 8:2

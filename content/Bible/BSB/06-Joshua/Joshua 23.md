@@ -1,4 +1,3 @@
-# Joshua 23
 ## Joshua 23:1
 A long time after the LORD had given Israel rest from all the enemies around them, when Joshua was old and well along in years,
 ## Joshua 23:2

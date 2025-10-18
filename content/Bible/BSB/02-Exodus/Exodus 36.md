@@ -1,4 +1,3 @@
-# Exodus 36
 ## Exodus 36:1
 “So Bezalel, Oholiab, and every skilled person are to carry out everything commanded by the LORD, who has given them skill and ability to know how to perform all the work of constructing the sanctuary.”
 ## Exodus 36:2

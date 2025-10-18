@@ -1,4 +1,3 @@
-# 2 Chronicles 18
 ## 2 Chronicles 18:1
 Now Jehoshaphat had an abundance of riches and honor, and he allied himself with Ahab by marriage.
 ## 2 Chronicles 18:2

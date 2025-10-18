@@ -1,4 +1,3 @@
-# Judges 4
 ## Judges 4:1
 After Ehud died, the Israelites again did evil in the sight of the LORD.
 ## Judges 4:2

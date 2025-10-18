@@ -1,4 +1,3 @@
-# Matthew 13
 ## Matthew 13:1
 That same day Jesus went out of the house and sat by the sea.
 ## Matthew 13:2

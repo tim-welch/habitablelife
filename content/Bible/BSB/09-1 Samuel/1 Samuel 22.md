@@ -1,4 +1,3 @@
-# 1 Samuel 22
 ## 1 Samuel 22:1
 So David left Gath and took refuge in the cave of Adullam. When his brothers and the rest of his father’s household heard about it, they went down to him there.
 ## 1 Samuel 22:2

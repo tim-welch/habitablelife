@@ -1,4 +1,3 @@
-# 2 Samuel 22
 ## 2 Samuel 22:1
 And David sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul.
 ## 2 Samuel 22:2

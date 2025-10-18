@@ -1,4 +1,3 @@
-# Deuteronomy 27
 ## Deuteronomy 27:1
 Then Moses and the elders of Israel commanded the people: “Keep all the commandments I am giving you today.
 ## Deuteronomy 27:2

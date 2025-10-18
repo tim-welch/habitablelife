@@ -1,4 +1,3 @@
-# Psalm 49
 ## Psalm 49:1
 For the choirmaster. A Psalm of the sons of Korah. Hear this, all you peoples; listen, all inhabitants of the world,
 ## Psalm 49:2

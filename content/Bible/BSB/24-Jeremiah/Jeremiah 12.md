@@ -1,4 +1,3 @@
-# Jeremiah 12
 ## Jeremiah 12:1
 Righteous are You, O LORD, when I plead before You. Yet about Your judgments I wish to contend with You: Why does the way of the wicked prosper? Why do all the faithless live at ease?
 ## Jeremiah 12:2

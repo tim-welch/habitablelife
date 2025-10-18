@@ -1,4 +1,3 @@
-# Deuteronomy 8
 ## Deuteronomy 8:1
 You must carefully follow every commandment I am giving you today, so that you may live and multiply, and enter and possess the land that the LORD swore to give your fathers.
 ## Deuteronomy 8:2

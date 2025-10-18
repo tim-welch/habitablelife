@@ -1,4 +1,3 @@
-# 2 Chronicles 27
 ## 2 Chronicles 27:1
 Jotham was twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother’s name was Jerushah daughter of Zadok.
 ## 2 Chronicles 27:2

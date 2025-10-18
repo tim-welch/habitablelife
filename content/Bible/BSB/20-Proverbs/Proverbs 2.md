@@ -1,4 +1,3 @@
-# Proverbs 2
 ## Proverbs 2:1
 My son, if you accept my words and hide my commandments within you,
 ## Proverbs 2:2

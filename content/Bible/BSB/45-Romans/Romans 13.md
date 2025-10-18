@@ -1,4 +1,3 @@
-# Romans 13
 ## Romans 13:1
 Everyone must submit himself to the governing authorities, for there is no authority except that which is from God. The authorities that exist have been appointed by God.
 ## Romans 13:2

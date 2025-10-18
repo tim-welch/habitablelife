@@ -1,4 +1,3 @@
-# Genesis 25
 ## Genesis 25:1
 Now Abraham had taken another wife, named Keturah,
 ## Genesis 25:2

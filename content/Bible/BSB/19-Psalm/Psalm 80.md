@@ -1,4 +1,3 @@
-# Psalm 80
 ## Psalm 80:1
 For the choirmaster. To the tune of “The Lilies of the Covenant.” A Psalm of Asaph. Hear us, O Shepherd of Israel, who leads Joseph like a flock; You who sit enthroned between the cherubim, shine forth
 ## Psalm 80:2

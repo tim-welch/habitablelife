@@ -1,4 +1,3 @@
-# Psalm 140
 ## Psalm 140:1
 For the choirmaster. A Psalm of David. Rescue me, O LORD, from evil men. Protect me from men of violence,
 ## Psalm 140:2

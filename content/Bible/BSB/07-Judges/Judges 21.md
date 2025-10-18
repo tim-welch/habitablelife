@@ -1,4 +1,3 @@
-# Judges 21
 ## Judges 21:1
 Now the men of Israel had sworn an oath at Mizpah, saying, “Not one of us will give his daughter in marriage to a Benjamite.”
 ## Judges 21:2

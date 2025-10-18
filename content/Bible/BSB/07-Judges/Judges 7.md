@@ -1,4 +1,3 @@
-# Judges 7
 ## Judges 7:1
 Early in the morning Jerubbaal (that is, Gideon) and all the men with him camped beside the spring of Harod. And the camp of Midian was north of them in the valley near the hill of Moreh.
 ## Judges 7:2

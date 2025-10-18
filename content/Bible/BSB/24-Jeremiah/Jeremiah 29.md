@@ -1,4 +1,3 @@
-# Jeremiah 29
 ## Jeremiah 29:1
 This is the text of the letter that Jeremiah the prophet sent from Jerusalem to the surviving elders among the exiles and to the priests, the prophets, and all the others Nebuchadnezzar had carried into exile from Jerusalem to Babylon.
 ## Jeremiah 29:2

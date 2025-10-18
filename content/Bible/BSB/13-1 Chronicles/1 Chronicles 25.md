@@ -1,4 +1,3 @@
-# 1 Chronicles 25
 ## 1 Chronicles 25:1
 Additionally, David and the commanders of the army set apart some of the sons of Asaph, Heman, and Jeduthun to prophesy with the accompaniment of lyres, harps, and cymbals. The following is the list of the men who performed this service:
 ## 1 Chronicles 25:2

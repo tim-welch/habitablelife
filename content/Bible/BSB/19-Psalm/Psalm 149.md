@@ -1,4 +1,3 @@
-# Psalm 149
 ## Psalm 149:1
 Hallelujah! Sing to the LORD a new song—His praise in the assembly of the godly.
 ## Psalm 149:2

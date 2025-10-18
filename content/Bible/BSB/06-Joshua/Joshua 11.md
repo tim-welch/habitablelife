@@ -1,4 +1,3 @@
-# Joshua 11
 ## Joshua 11:1
 Now when Jabin king of Hazor heard about these things, he sent word to Jobab king of Madon; to the kings of Shimron and Achshaph;
 ## Joshua 11:2

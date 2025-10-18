@@ -1,4 +1,3 @@
-# Revelation 16
 ## Revelation 16:1
 Then I heard a loud voice from the temple saying to the seven angels, “Go, pour out on the earth the seven bowls of God’s wrath.”
 ## Revelation 16:2

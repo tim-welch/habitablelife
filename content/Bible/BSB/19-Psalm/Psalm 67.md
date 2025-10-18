@@ -1,4 +1,3 @@
-# Psalm 67
 ## Psalm 67:1
 For the choirmaster. With stringed instruments. A Psalm. A song. May God be gracious to us and bless us, and cause His face to shine upon us, Selah
 ## Psalm 67:2

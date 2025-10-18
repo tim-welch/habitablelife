@@ -1,4 +1,3 @@
-# Isaiah 61
 ## Isaiah 61:1
 The Spirit of the Lord GOD is on Me, because the LORD has anointed Me to preach good news to the poor. He has sent Me to bind up the brokenhearted, to proclaim liberty to the captives and freedom to the prisoners,
 ## Isaiah 61:2

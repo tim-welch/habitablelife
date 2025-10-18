@@ -1,4 +1,3 @@
-# Exodus 21
 ## Exodus 21:1
 “These are the ordinances that you are to set before them:
 ## Exodus 21:2

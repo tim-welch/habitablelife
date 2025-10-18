@@ -1,4 +1,3 @@
-# Exodus 12
 ## Exodus 12:1
 Now the LORD said to Moses and Aaron in the land of Egypt,
 ## Exodus 12:2

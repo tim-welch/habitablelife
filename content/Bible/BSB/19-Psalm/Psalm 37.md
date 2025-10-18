@@ -1,4 +1,3 @@
-# Psalm 37
 ## Psalm 37:1
 Of David. Do not fret over those who do evil; do not envy those who do wrong.
 ## Psalm 37:2

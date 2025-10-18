@@ -1,4 +1,3 @@
-# Nehemiah 5
 ## Nehemiah 5:1
 About that time there was a great outcry from the people and their wives against their fellow Jews.
 ## Nehemiah 5:2

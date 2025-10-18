@@ -1,4 +1,3 @@
-# Judges 8
 ## Judges 8:1
 Then the men of Ephraim said to Gideon, “Why have you done this to us? Why did you fail to call us when you went to fight against Midian?” And they contended with him violently.
 ## Judges 8:2

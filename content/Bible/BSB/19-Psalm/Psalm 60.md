@@ -1,4 +1,3 @@
-# Psalm 60
 ## Psalm 60:1
 For the choirmaster. To the tune of “The Lily of the Covenant.” A Miktam of David for instruction. When he fought Aram-naharaim and Aram-zobah, and Joab returned and struck down 12,000 Edomites in the Valley of Salt. You have rejected us, O God; You have broken us; You have been angry; restore us!
 ## Psalm 60:2

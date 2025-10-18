@@ -1,4 +1,3 @@
-# Jeremiah 51
 ## Jeremiah 51:1
 This is what the LORD says: “Behold, I will stir up against Babylon and against the people of Leb-kamai the spirit of a destroyer.
 ## Jeremiah 51:2

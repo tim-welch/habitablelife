@@ -1,4 +1,3 @@
-# 1 Timothy 1
 ## 1 Timothy 1:1
 Paul, an apostle of Christ Jesus by the command of God our Savior and of Christ Jesus our hope,
 ## 1 Timothy 1:2

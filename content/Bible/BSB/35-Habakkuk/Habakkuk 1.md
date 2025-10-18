@@ -1,4 +1,3 @@
-# Habakkuk 1
 ## Habakkuk 1:1
 This is the burden that Habakkuk the prophet received in a vision:
 ## Habakkuk 1:2

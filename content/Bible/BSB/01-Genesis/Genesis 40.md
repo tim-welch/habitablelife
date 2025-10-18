@@ -1,4 +1,3 @@
-# Genesis 40
 ## Genesis 40:1
 Some time later, the king’s cupbearer and baker offended their master, the king of Egypt.
 ## Genesis 40:2

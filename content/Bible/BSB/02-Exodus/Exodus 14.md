@@ -1,4 +1,3 @@
-# Exodus 14
 ## Exodus 14:1
 Then the LORD said to Moses,
 ## Exodus 14:2

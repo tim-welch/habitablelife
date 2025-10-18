@@ -1,4 +1,3 @@
-# Numbers 31
 ## Numbers 31:1
 And the LORD said to Moses,
 ## Numbers 31:2

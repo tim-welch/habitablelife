@@ -1,4 +1,3 @@
-# Ezekiel 5
 ## Ezekiel 5:1
 “As for you, son of man, take a sharp sword, use it as a barber’s razor, and shave your head and beard. Then take a set of scales and divide the hair.
 ## Ezekiel 5:2

@@ -1,4 +1,3 @@
-# Matthew 15
 ## Matthew 15:1
 Then some Pharisees and scribes came to Jesus from Jerusalem and asked,
 ## Matthew 15:2

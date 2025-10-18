@@ -1,4 +1,3 @@
-# 1 Chronicles 14
 ## 1 Chronicles 14:1
 Now Hiram king of Tyre sent envoys to David, along with cedar logs, stonemasons, and carpenters, to build a palace for him.
 ## 1 Chronicles 14:2

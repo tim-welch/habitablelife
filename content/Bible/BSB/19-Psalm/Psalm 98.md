@@ -1,4 +1,3 @@
-# Psalm 98
 ## Psalm 98:1
 A Psalm. Sing to the LORD a new song, for He has done wonders; His right hand and holy arm have gained Him the victory.
 ## Psalm 98:2

@@ -1,4 +1,3 @@
-# Numbers 8
 ## Numbers 8:1
 Then the LORD said to Moses,
 ## Numbers 8:2

@@ -1,4 +1,3 @@
-# Malachi 3
 ## Malachi 3:1
 “Behold, I will send My messenger, who will prepare the way before Me. Then the Lord whom you seek will suddenly come to His temple—the Messenger of the covenant, in whom you delight—see, He is coming,” says the LORD of Hosts.
 ## Malachi 3:2

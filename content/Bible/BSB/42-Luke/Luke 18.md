@@ -1,4 +1,3 @@
-# Luke 18
 ## Luke 18:1
 Then Jesus told them a parable about their need to pray at all times and not lose heart:
 ## Luke 18:2

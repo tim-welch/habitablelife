@@ -1,4 +1,3 @@
-# Joshua 12
 ## Joshua 12:1
 Now these are the kings of the land whom the Israelites struck down and whose lands they took beyond the Jordan to the east, from the Arnon Valley to Mount Hermon, including all the Arabah eastward:
 ## Joshua 12:2

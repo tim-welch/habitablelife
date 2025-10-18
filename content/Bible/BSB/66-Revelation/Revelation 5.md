@@ -1,4 +1,3 @@
-# Revelation 5
 ## Revelation 5:1
 Then I saw a scroll in the right hand of the One seated on the throne. It had writing on both sides and was sealed with seven seals.
 ## Revelation 5:2

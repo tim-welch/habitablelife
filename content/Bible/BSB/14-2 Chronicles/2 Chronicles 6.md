@@ -1,4 +1,3 @@
-# 2 Chronicles 6
 ## 2 Chronicles 6:1
 Then Solomon declared: “The LORD has said that He would dwell in the thick cloud.
 ## 2 Chronicles 6:2

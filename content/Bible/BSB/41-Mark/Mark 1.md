@@ -1,4 +1,3 @@
-# Mark 1
 ## Mark 1:1
 This is the beginning of the gospel of Jesus Christ, the Son of God.
 ## Mark 1:2

@@ -1,4 +1,3 @@
-# Numbers 12
 ## Numbers 12:1
 Then Miriam and Aaron criticized Moses because of the Cushite woman he had married, for he had taken a Cushite wife.
 ## Numbers 12:2

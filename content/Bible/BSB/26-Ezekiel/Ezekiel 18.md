@@ -1,4 +1,3 @@
-# Ezekiel 18
 ## Ezekiel 18:1
 Then the word of the LORD came to me, saying,
 ## Ezekiel 18:2

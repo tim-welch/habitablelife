@@ -1,4 +1,3 @@
-# 1 Corinthians 9
 ## 1 Corinthians 9:1
 Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you yourselves not my workmanship in the Lord?
 ## 1 Corinthians 9:2

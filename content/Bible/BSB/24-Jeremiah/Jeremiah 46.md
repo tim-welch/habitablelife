@@ -1,4 +1,3 @@
-# Jeremiah 46
 ## Jeremiah 46:1
 This is the word of the LORD about the nations—the word that came to Jeremiah the prophet
 ## Jeremiah 46:2

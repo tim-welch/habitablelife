@@ -1,4 +1,3 @@
-# Mark 11
 ## Mark 11:1
 As they approached Jerusalem and came to Bethphage and Bethany at the Mount of Olives, Jesus sent out two of His disciples
 ## Mark 11:2

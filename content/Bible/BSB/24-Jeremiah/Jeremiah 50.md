@@ -1,4 +1,3 @@
-# Jeremiah 50
 ## Jeremiah 50:1
 This is the word that the LORD spoke through Jeremiah the prophet concerning Babylon and the land of the Chaldeans:
 ## Jeremiah 50:2

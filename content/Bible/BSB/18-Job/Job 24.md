@@ -1,4 +1,3 @@
-# Job 24
 ## Job 24:1
 “Why does the Almighty not reserve times for judgment? Why may those who know Him never see His days?
 ## Job 24:2

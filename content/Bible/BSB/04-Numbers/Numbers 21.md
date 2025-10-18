@@ -1,4 +1,3 @@
-# Numbers 21
 ## Numbers 21:1
 When the Canaanite king of Arad, who lived in the Negev, heard that Israel was coming along the road to Atharim, he attacked Israel and captured some prisoners.
 ## Numbers 21:2

@@ -1,4 +1,3 @@
-# Genesis 37
 ## Genesis 37:1
 Now Jacob lived in the land where his father had resided, the land of Canaan.
 ## Genesis 37:2

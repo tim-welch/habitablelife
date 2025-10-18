@@ -1,4 +1,3 @@
-# Isaiah 32
 ## Isaiah 32:1
 Behold, a king will reign in righteousness, and princes will rule with justice.
 ## Isaiah 32:2

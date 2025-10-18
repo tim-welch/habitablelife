@@ -1,4 +1,3 @@
-# Deuteronomy 31
 ## Deuteronomy 31:1
 When Moses had finished speaking these words to all Israel,
 ## Deuteronomy 31:2

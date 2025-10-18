@@ -1,4 +1,3 @@
-# 2 Chronicles 28
 ## 2 Chronicles 28:1
 Ahaz was twenty years old when he became king, and he reigned in Jerusalem sixteen years. And unlike David his father, he did not do what was right in the eyes of the LORD.
 ## 2 Chronicles 28:2

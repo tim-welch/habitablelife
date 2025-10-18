@@ -1,4 +1,3 @@
-# Deuteronomy 4
 ## Deuteronomy 4:1
 Hear now, O Israel, the statutes and ordinances I am teaching you to follow, so that you may live and may enter and take possession of the land that the LORD, the God of your fathers, is giving you.
 ## Deuteronomy 4:2

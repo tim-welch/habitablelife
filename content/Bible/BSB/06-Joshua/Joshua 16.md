@@ -1,4 +1,3 @@
-# Joshua 16
 ## Joshua 16:1
 The allotment for the descendants of Joseph extended from the Jordan at Jericho to the waters of Jericho on the east, through the wilderness that goes up from Jericho into the hill country of Bethel.
 ## Joshua 16:2

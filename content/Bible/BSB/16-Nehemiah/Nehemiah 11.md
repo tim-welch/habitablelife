@@ -1,4 +1,3 @@
-# Nehemiah 11
 ## Nehemiah 11:1
 Now the leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of ten to live in the holy city of Jerusalem, while the remaining nine were to dwell in their own towns.
 ## Nehemiah 11:2

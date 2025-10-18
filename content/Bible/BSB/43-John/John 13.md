@@ -1,4 +1,3 @@
-# John 13
 ## John 13:1
 It was now just before the Passover Feast, and Jesus knew that His hour had come to leave this world and return to the Father. Having loved His own who were in the world, He loved them to the very end.
 ## John 13:2

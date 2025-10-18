@@ -1,4 +1,3 @@
-# Ezekiel 3
 ## Ezekiel 3:1
 “Son of man,” He said to me, “eat what you find here. Eat this scroll, then go and speak to the house of Israel.”
 ## Ezekiel 3:2

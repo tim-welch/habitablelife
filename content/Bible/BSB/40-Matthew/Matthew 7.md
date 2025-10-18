@@ -1,4 +1,3 @@
-# Matthew 7
 ## Matthew 7:1
 “Do not judge, or you will be judged.
 ## Matthew 7:2

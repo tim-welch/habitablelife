@@ -1,4 +1,3 @@
-# Ezra 9
 ## Ezra 9:1
 After these things had been accomplished, the leaders approached me and said, “The people of Israel, including the priests and Levites, have not kept themselves separate from the surrounding peoples whose abominations are like those of the Canaanites, Hittites, Perizzites, Jebusites, Ammonites, Moabites, Egyptians, and Amorites.
 ## Ezra 9:2

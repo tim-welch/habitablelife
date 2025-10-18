@@ -1,4 +1,3 @@
-# 2 Corinthians 4
 ## 2 Corinthians 4:1
 Therefore, since God in His mercy has given us this ministry, we do not lose heart.
 ## 2 Corinthians 4:2

@@ -1,4 +1,3 @@
-# Revelation 19
 ## Revelation 19:1
 After this I heard a sound like the roar of a great multitude in heaven, shouting: “Hallelujah! Salvation and glory and power belong to our God!
 ## Revelation 19:2

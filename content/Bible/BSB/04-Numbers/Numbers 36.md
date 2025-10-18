@@ -1,4 +1,3 @@
-# Numbers 36
 ## Numbers 36:1
 Now the family heads of the clan of Gilead son of Machir son of Manasseh, one of the clans of Joseph, approached Moses and the leaders who were the heads of the Israelite families and addressed them,
 ## Numbers 36:2

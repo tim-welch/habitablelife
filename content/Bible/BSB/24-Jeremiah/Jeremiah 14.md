@@ -1,4 +1,3 @@
-# Jeremiah 14
 ## Jeremiah 14:1
 This is the word of the LORD that came to Jeremiah concerning the drought:
 ## Jeremiah 14:2

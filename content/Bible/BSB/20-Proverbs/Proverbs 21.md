@@ -1,4 +1,3 @@
-# Proverbs 21
 ## Proverbs 21:1
 The king’s heart is a waterway in the hand of the LORD; He directs it where He pleases.
 ## Proverbs 21:2

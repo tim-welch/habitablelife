@@ -1,4 +1,3 @@
-# Psalm 48
 ## Psalm 48:1
 A song. A Psalm of the sons of Korah. Great is the LORD, and greatly to be praised in the city of our God, His holy mountain.
 ## Psalm 48:2

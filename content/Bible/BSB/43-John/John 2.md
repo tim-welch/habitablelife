@@ -1,4 +1,3 @@
-# John 2
 ## John 2:1
 On the third day a wedding took place at Cana in Galilee. Jesus’ mother was there,
 ## John 2:2

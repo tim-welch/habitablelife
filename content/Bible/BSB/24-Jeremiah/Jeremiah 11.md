@@ -1,4 +1,3 @@
-# Jeremiah 11
 ## Jeremiah 11:1
 This is the word that came to Jeremiah from the LORD:
 ## Jeremiah 11:2

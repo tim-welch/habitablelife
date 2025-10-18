@@ -1,4 +1,3 @@
-# Exodus 19
 ## Exodus 19:1
 In the third month, on the same day of the month that the Israelites had left the land of Egypt, they came to the Wilderness of Sinai.
 ## Exodus 19:2

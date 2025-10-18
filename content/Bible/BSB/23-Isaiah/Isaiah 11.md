@@ -1,4 +1,3 @@
-# Isaiah 11
 ## Isaiah 11:1
 Then a shoot will spring up from the stump of Jesse, and a Branch from his roots will bear fruit.
 ## Isaiah 11:2

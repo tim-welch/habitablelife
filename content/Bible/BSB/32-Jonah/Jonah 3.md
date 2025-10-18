@@ -1,4 +1,3 @@
-# Jonah 3
 ## Jonah 3:1
 Then the word of the LORD came to Jonah a second time:
 ## Jonah 3:2

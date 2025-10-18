@@ -1,4 +1,3 @@
-# Luke 20
 ## Luke 20:1
 One day as Jesus was teaching the people in the temple courts and proclaiming the gospel, the chief priests and scribes, together with the elders, came up to Him.
 ## Luke 20:2

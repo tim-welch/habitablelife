@@ -1,4 +1,3 @@
-# Hosea 5
 ## Hosea 5:1
 “Hear this, O priests! Take heed, O house of Israel! Give ear, O royal house! For this judgment is against you because you have been a snare at Mizpah, a net spread out on Tabor.
 ## Hosea 5:2

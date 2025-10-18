@@ -1,4 +1,3 @@
-# Acts 6
 ## Acts 6:1
 In those days when the disciples were increasing in number, the Grecian Jews among them began to grumble against the Hebraic Jews because their widows were being overlooked in the daily distribution of food.
 ## Acts 6:2

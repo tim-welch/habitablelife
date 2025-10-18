@@ -1,4 +1,3 @@
-# Numbers 18
 ## Numbers 18:1
 So the LORD said to Aaron, “You and your sons and your father’s house must bear the iniquity involving the sanctuary. And you and your sons alone must bear the iniquity involving your priesthood.
 ## Numbers 18:2

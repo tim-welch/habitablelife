@@ -1,4 +1,3 @@
-# Psalm 126
 ## Psalm 126:1
 A song of ascents. When the LORD restored the captives of Zion, we were like dreamers.
 ## Psalm 126:2

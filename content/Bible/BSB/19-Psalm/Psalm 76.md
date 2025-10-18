@@ -1,4 +1,3 @@
-# Psalm 76
 ## Psalm 76:1
 For the choirmaster. With stringed instruments. A Psalm of Asaph. A song. God is known in Judah; His name is great in Israel.
 ## Psalm 76:2

@@ -1,4 +1,3 @@
-# Joshua 10
 ## Joshua 10:1
 Now Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction—doing to Ai and its king as he had done to Jericho and its king—and that the people of Gibeon had made peace with Israel and were living near them.
 ## Joshua 10:2

@@ -1,4 +1,3 @@
-# Numbers 17
 ## Numbers 17:1
 And the LORD said to Moses,
 ## Numbers 17:2

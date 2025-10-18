@@ -1,4 +1,3 @@
-# Psalm 123
 ## Psalm 123:1
 A song of ascents. I lift up my eyes to You, the One enthroned in heaven.
 ## Psalm 123:2

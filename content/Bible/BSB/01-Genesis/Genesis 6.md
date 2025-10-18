@@ -1,4 +1,3 @@
-# Genesis 6
 ## Genesis 6:1
 Now when men began to multiply on the face of the earth and daughters were born to them,
 ## Genesis 6:2

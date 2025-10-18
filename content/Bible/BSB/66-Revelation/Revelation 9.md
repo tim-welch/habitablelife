@@ -1,4 +1,3 @@
-# Revelation 9
 ## Revelation 9:1
 Then the fifth angel sounded his trumpet, and I saw a star that had fallen from heaven to earth, and it was given the key to the pit of the Abyss.
 ## Revelation 9:2

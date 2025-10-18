@@ -1,4 +1,3 @@
-# Judges 18
 ## Judges 18:1
 In those days there was no king in Israel, and the tribe of the Danites was looking for territory to occupy. For up to that time they had not come into an inheritance among the tribes of Israel.
 ## Judges 18:2

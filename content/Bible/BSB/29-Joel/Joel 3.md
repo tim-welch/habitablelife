@@ -1,4 +1,3 @@
-# Joel 3
 ## Joel 3:1
 “Yes, in those days and at that time, when I restore Judah and Jerusalem from captivity,
 ## Joel 3:2

@@ -1,4 +1,3 @@
-# Psalm 83
 ## Psalm 83:1
 A song. A Psalm of Asaph. O God, be not silent; be not speechless; be not still, O God.
 ## Psalm 83:2

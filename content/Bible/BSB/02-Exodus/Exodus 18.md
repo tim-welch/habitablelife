@@ -1,4 +1,3 @@
-# Exodus 18
 ## Exodus 18:1
 Now Moses’ father-in-law Jethro, the priest of Midian, heard about all that God had done for Moses and His people Israel, and how the LORD had brought Israel out of Egypt.
 ## Exodus 18:2

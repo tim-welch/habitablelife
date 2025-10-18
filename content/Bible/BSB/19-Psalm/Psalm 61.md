@@ -1,4 +1,3 @@
-# Psalm 61
 ## Psalm 61:1
 For the choirmaster. With stringed instruments. Of David. Hear my cry, O God; attend to my prayer.
 ## Psalm 61:2

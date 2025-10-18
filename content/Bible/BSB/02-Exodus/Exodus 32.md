@@ -1,4 +1,3 @@
-# Exodus 32
 ## Exodus 32:1
 Now when the people saw that Moses was delayed in coming down from the mountain, they gathered around Aaron and said, “Come, make us gods who will go before us. As for this Moses who brought us up out of the land of Egypt, we do not know what has happened to him!”
 ## Exodus 32:2

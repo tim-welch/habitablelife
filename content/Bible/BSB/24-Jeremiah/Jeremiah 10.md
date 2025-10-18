@@ -1,4 +1,3 @@
-# Jeremiah 10
 ## Jeremiah 10:1
 Hear the word that the LORD speaks to you, O house of Israel.
 ## Jeremiah 10:2

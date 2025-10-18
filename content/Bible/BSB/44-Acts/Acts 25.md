@@ -1,4 +1,3 @@
-# Acts 25
 ## Acts 25:1
 Three days after his arrival in the province, Festus went up from Caesarea to Jerusalem,
 ## Acts 25:2

@@ -1,4 +1,3 @@
-# Romans 15
 ## Romans 15:1
 We who are strong ought to bear with the shortcomings of the weak and not to please ourselves.
 ## Romans 15:2

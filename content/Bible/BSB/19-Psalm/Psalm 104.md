@@ -1,4 +1,3 @@
-# Psalm 104
 ## Psalm 104:1
 Bless the LORD, O my soul! O LORD my God, You are very great; You are clothed with splendor and majesty.
 ## Psalm 104:2

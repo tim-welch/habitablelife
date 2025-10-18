@@ -1,4 +1,3 @@
-# Joshua 1
 ## Joshua 1:1
 Now after the death of His servant Moses, the LORD spoke to Joshua son of Nun, Moses’ assistant, saying,
 ## Joshua 1:2

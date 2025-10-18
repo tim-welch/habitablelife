@@ -1,4 +1,3 @@
-# John 12
 ## John 12:1
 Six days before the Passover, Jesus came to Bethany, the hometown of Lazarus, whom He had raised from the dead.
 ## John 12:2

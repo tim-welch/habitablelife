@@ -1,4 +1,3 @@
-# Leviticus 7
 ## Leviticus 7:1
 “Now this is the law of the guilt offering, which is most holy:
 ## Leviticus 7:2

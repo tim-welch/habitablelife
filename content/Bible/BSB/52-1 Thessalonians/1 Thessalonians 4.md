@@ -1,4 +1,3 @@
-# 1 Thessalonians 4
 ## 1 Thessalonians 4:1
 Finally, brothers, we ask and encourage you in the Lord Jesus to live in a way that is pleasing to God, just as you have received from us. This is how you already live, so you should do so all the more.
 ## 1 Thessalonians 4:2

@@ -1,4 +1,3 @@
-# 1 Samuel 25
 ## 1 Samuel 25:1
 When Samuel died, all Israel gathered to mourn for him; and they buried him at his home in Ramah. Then David set out and went down to the Wilderness of Paran.
 ## 1 Samuel 25:2

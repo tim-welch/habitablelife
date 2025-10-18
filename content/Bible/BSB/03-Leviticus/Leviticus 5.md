@@ -1,4 +1,3 @@
-# Leviticus 5
 ## Leviticus 5:1
 “If someone sins by failing to testify when he hears a public charge about something he has witnessed, whether he has seen it or learned of it, he shall bear the iniquity.
 ## Leviticus 5:2

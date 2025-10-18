@@ -1,4 +1,3 @@
-# Joshua 2
 ## Joshua 2:1
 Then Joshua son of Nun secretly sent two spies from Shittim, saying, “Go, inspect the land, especially Jericho.” So they went and entered the house of a prostitute named Rahab and stayed there.
 ## Joshua 2:2

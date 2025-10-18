@@ -1,4 +1,3 @@
-# 1 Kings 13
 ## 1 Kings 13:1
 Suddenly, as Jeroboam was standing beside the altar to burn incense, there came a man of God from Judah to Bethel by the word of the LORD.
 ## 1 Kings 13:2

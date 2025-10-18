@@ -1,4 +1,3 @@
-# 1 Kings 12
 ## 1 Kings 12:1
 Then Rehoboam went to Shechem, for all Israel had gone there to make him king.
 ## 1 Kings 12:2

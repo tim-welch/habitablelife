@@ -1,4 +1,3 @@
-# Proverbs 23
 ## Proverbs 23:1
 When you sit down to dine with a ruler, consider carefully what is set before you,
 ## Proverbs 23:2

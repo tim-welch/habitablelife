@@ -1,4 +1,3 @@
-# Ecclesiastes 10
 ## Ecclesiastes 10:1
 As dead flies bring a stench to the perfumer’s oil, so a little folly outweighs wisdom and honor.
 ## Ecclesiastes 10:2

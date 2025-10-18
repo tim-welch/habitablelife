@@ -1,4 +1,3 @@
-# Genesis 34
 ## Genesis 34:1
 Now Dinah, the daughter Leah had borne to Jacob, went out to visit the daughters of the land.
 ## Genesis 34:2

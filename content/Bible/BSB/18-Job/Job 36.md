@@ -1,4 +1,3 @@
-# Job 36
 ## Job 36:1
 And Elihu continued:
 ## Job 36:2

@@ -1,4 +1,3 @@
-# Proverbs 16
 ## Proverbs 16:1
 The plans of the heart belong to man, but the reply of the tongue is from the LORD.
 ## Proverbs 16:2

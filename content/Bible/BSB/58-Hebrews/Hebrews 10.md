@@ -1,4 +1,3 @@
-# Hebrews 10
 ## Hebrews 10:1
 For the law is only a shadow of the good things to come, not the realities themselves. It can never, by the same sacrifices offered year after year, make perfect those who draw near to worship.
 ## Hebrews 10:2

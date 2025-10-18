@@ -1,4 +1,3 @@
-# Amos 4
 ## Amos 4:1
 Hear this word, you cows of Bashan on Mount Samaria, you women who oppress the poor and crush the needy, who say to your husbands, “Bring us more to drink.”
 ## Amos 4:2

@@ -1,4 +1,3 @@
-# Luke 10
 ## Luke 10:1
 After this, the Lord appointed seventy-two others and sent them two by two ahead of Him to every town and place He was about to visit.
 ## Luke 10:2

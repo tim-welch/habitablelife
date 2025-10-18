@@ -1,4 +1,3 @@
-# Proverbs 31
 ## Proverbs 31:1
 These are the words of King Lemuel—the burden that his mother taught him:
 ## Proverbs 31:2

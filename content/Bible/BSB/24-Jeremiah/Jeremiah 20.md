@@ -1,4 +1,3 @@
-# Jeremiah 20
 ## Jeremiah 20:1
 When Pashhur the priest, the son of Immer and the chief official in the house of the LORD, heard Jeremiah prophesying these things,
 ## Jeremiah 20:2

@@ -1,4 +1,3 @@
-# Jeremiah 37
 ## Jeremiah 37:1
 Nebuchadnezzar king of Babylon made Zedekiah son of Josiah the king of Judah, and he reigned in place of Coniah son of Jehoiakim.
 ## Jeremiah 37:2

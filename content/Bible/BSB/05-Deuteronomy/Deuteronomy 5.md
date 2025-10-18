@@ -1,4 +1,3 @@
-# Deuteronomy 5
 ## Deuteronomy 5:1
 Then Moses summoned all Israel and said to them: Hear, O Israel, the statutes and ordinances that I declare in your hearing this day. Learn them and observe them carefully.
 ## Deuteronomy 5:2

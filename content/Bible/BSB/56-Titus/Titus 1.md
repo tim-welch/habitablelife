@@ -1,4 +1,3 @@
-# Titus 1
 ## Titus 1:1
 Paul, a servant of God and an apostle of Jesus Christ for the faith of God’s elect and their knowledge of the truth that leads to godliness,
 ## Titus 1:2

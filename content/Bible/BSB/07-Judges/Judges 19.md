@@ -1,4 +1,3 @@
-# Judges 19
 ## Judges 19:1
 Now in those days, when there was no king in Israel, a Levite who lived in the remote hill country of Ephraim took for himself a concubine from Bethlehem in Judah.
 ## Judges 19:2

@@ -1,4 +1,3 @@
-# John 21
 ## John 21:1
 Later, by the Sea of Tiberias, Jesus again revealed Himself to the disciples. He made Himself known in this way:
 ## John 21:2

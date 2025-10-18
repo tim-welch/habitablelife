@@ -1,4 +1,3 @@
-# 2 Chronicles 26
 ## 2 Chronicles 26:1
 All the people of Judah took Uzziah, who was sixteen years old, and made him king in place of his father Amaziah.
 ## 2 Chronicles 26:2

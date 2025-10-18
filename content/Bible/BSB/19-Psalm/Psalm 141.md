@@ -1,4 +1,3 @@
-# Psalm 141
 ## Psalm 141:1
 A Psalm of David. I call upon You, O LORD; come quickly to me. Hear my voice when I call to You.
 ## Psalm 141:2

@@ -1,4 +1,3 @@
-# John 17
 ## John 17:1
 When Jesus had spoken these things, He lifted up His eyes to heaven and said, “Father, the hour has come. Glorify Your Son, that Your Son may glorify You.
 ## John 17:2

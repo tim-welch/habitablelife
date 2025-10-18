@@ -1,4 +1,3 @@
-# Psalm 139
 ## Psalm 139:1
 For the choirmaster. A Psalm of David. O LORD, You have searched me and known me.
 ## Psalm 139:2

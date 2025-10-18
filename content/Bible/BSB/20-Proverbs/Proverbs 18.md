@@ -1,4 +1,3 @@
-# Proverbs 18
 ## Proverbs 18:1
 He who isolates himself pursues selfish desires; he rebels against all sound judgment.
 ## Proverbs 18:2

@@ -1,4 +1,3 @@
-# 1 Corinthians 5
 ## 1 Corinthians 5:1
 It is actually reported that there is sexual immorality among you, and of a kind that is intolerable even among pagans: A man has his father’s wife.
 ## 1 Corinthians 5:2

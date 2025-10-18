@@ -1,4 +1,3 @@
-# Psalm 31
 ## Psalm 31:1
 For the choirmaster. A Psalm of David. In You, O LORD, I have taken refuge; let me never be put to shame; save me by Your righteousness.
 ## Psalm 31:2

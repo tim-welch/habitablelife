@@ -1,4 +1,3 @@
-# Exodus 10
 ## Exodus 10:1
 Then the LORD said to Moses, “Go to Pharaoh, for I have hardened his heart and the hearts of his officials, that I may perform these miraculous signs of Mine among them,
 ## Exodus 10:2

@@ -1,4 +1,3 @@
-# Jeremiah 45
 ## Jeremiah 45:1
 This is the word that Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words on a scroll at the dictation of Jeremiah in the fourth year of Jehoiakim son of Josiah, king of Judah:
 ## Jeremiah 45:2

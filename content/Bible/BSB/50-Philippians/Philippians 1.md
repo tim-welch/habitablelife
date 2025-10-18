@@ -1,4 +1,3 @@
-# Philippians 1
 ## Philippians 1:1
 Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus at Philippi, together with the overseers and deacons:
 ## Philippians 1:2

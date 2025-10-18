@@ -1,4 +1,3 @@
-# Nehemiah 3
 ## Nehemiah 3:1
 At the Sheep Gate, Eliashib the high priest and his fellow priests began rebuilding. They dedicated it and installed its doors. After building as far as the Tower of the Hundred and the Tower of Hananel, they dedicated the wall.
 ## Nehemiah 3:2

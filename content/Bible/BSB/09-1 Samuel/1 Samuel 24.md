@@ -1,4 +1,3 @@
-# 1 Samuel 24
 ## 1 Samuel 24:1
 After Saul had returned from pursuing the Philistines, he was told, “David is in the wilderness of En-gedi.”
 ## 1 Samuel 24:2

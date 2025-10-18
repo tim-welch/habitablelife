@@ -1,4 +1,3 @@
-# Psalm 143
 ## Psalm 143:1
 A Psalm of David. O LORD, hear my prayer. In Your faithfulness, give ear to my plea; in Your righteousness, answer me.
 ## Psalm 143:2

@@ -1,4 +1,3 @@
-# Nehemiah 10
 ## Nehemiah 10:1
 Now these were the ones who sealed the document: Nehemiah the governor, son of Hacaliah, and also Zedekiah,
 ## Nehemiah 10:2

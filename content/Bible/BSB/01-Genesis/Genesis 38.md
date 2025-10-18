@@ -1,4 +1,3 @@
-# Genesis 38
 ## Genesis 38:1
 About that time, Judah left his brothers and settled near a man named Hirah, an Adullamite.
 ## Genesis 38:2

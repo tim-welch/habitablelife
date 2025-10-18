@@ -1,4 +1,3 @@
-# Psalm 108
 ## Psalm 108:1
 A song. A Psalm of David. My heart is steadfast, O God; I will sing and make music with all my being.
 ## Psalm 108:2

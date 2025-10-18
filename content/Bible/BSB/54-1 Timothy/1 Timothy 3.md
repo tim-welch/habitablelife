@@ -1,4 +1,3 @@
-# 1 Timothy 3
 ## 1 Timothy 3:1
 This is a trustworthy saying: If anyone aspires to be an overseer, he desires a noble task.
 ## 1 Timothy 3:2

@@ -1,4 +1,3 @@
-# 1 Corinthians 3
 ## 1 Corinthians 3:1
 Brothers, I could not address you as spiritual, but as worldly—as infants in Christ.
 ## 1 Corinthians 3:2

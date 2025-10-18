@@ -1,4 +1,3 @@
-# Jeremiah 5
 ## Jeremiah 5:1
 “Go up and down the streets of Jerusalem. Look now and take note; search her squares. If you can find a single person, anyone who acts justly, anyone who seeks the truth, then I will forgive the city.
 ## Jeremiah 5:2

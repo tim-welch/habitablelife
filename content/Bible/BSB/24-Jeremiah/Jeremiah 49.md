@@ -1,4 +1,3 @@
-# Jeremiah 49
 ## Jeremiah 49:1
 Concerning the Ammonites, this is what the LORD says: “Has Israel no sons? Is he without heir? Why then has Milcom taken possession of Gad? Why have his people settled in their cities?
 ## Jeremiah 49:2

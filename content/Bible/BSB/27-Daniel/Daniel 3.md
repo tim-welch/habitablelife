@@ -1,4 +1,3 @@
-# Daniel 3
 ## Daniel 3:1
 King Nebuchadnezzar made a golden statue sixty cubits high and six cubits wide, and he set it up on the plain of Dura in the province of Babylon.
 ## Daniel 3:2

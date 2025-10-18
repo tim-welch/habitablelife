@@ -1,4 +1,3 @@
-# John 6
 ## John 6:1
 After this, Jesus crossed to the other side of the Sea of Galilee (that is, the Sea of Tiberias).
 ## John 6:2

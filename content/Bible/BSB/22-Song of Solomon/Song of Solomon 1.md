@@ -1,4 +1,3 @@
-# Song of Solomon 1
 ## Song of Solomon 1:1
 This is Solomon’s Song of Songs.
 ## Song of Solomon 1:2

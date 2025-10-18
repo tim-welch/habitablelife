@@ -1,4 +1,3 @@
-# Deuteronomy 2
 ## Deuteronomy 2:1
 Then we turned back and headed for the wilderness by way of the Red Sea, as the LORD had instructed me, and for many days we wandered around Mount Seir.
 ## Deuteronomy 2:2

@@ -1,4 +1,3 @@
-# Proverbs 11
 ## Proverbs 11:1
 Dishonest scales are an abomination to the LORD, but an accurate weight is His delight.
 ## Proverbs 11:2

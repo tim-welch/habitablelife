@@ -1,4 +1,3 @@
-# Psalm 90
 ## Psalm 90:1
 A prayer of Moses the man of God. Lord, You have been our dwelling place through all generations.
 ## Psalm 90:2

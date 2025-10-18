@@ -1,4 +1,3 @@
-# Deuteronomy 17
 ## Deuteronomy 17:1
 You shall not sacrifice to the LORD your God an ox or a sheep with any defect or serious flaw, for that is detestable to the LORD your God.
 ## Deuteronomy 17:2

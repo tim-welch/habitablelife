@@ -1,4 +1,3 @@
-# Job 32
 ## Job 32:1
 So these three men stopped answering Job, because he was righteous in his own eyes.
 ## Job 32:2

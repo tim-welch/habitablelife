@@ -1,4 +1,3 @@
-# 2 Chronicles 13
 ## 2 Chronicles 13:1
 In the eighteenth year of Jeroboam’s reign, Abijah became king of Judah,
 ## 2 Chronicles 13:2

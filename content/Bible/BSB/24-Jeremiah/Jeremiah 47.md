@@ -1,4 +1,3 @@
-# Jeremiah 47
 ## Jeremiah 47:1
 This is the word of the LORD that came to Jeremiah the prophet about the Philistines before Pharaoh struck down Gaza.
 ## Jeremiah 47:2

@@ -1,4 +1,3 @@
-# Jeremiah 6
 ## Jeremiah 6:1
 “Run for cover, O sons of Benjamin; flee from Jerusalem! Sound the ram’s horn in Tekoa; send up a signal over Beth-haccherem, for disaster looms from the north, even great destruction.
 ## Jeremiah 6:2

@@ -1,4 +1,3 @@
-# Song of Solomon 7
 ## Song of Solomon 7:1
 How beautiful are your sandaled feet, O daughter of the prince! The curves of your thighs are like jewels, the handiwork of a master.
 ## Song of Solomon 7:2

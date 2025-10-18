@@ -1,4 +1,3 @@
-# Judges 1
 ## Judges 1:1
 After the death of Joshua, the Israelites inquired of the LORD, “Who will be the first to go up and fight for us against the Canaanites?”
 ## Judges 1:2

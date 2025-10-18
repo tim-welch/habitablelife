@@ -1,4 +1,3 @@
-# Psalm 121
 ## Psalm 121:1
 A song of ascents. I lift up my eyes to the hills. From where does my help come?
 ## Psalm 121:2

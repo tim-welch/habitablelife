@@ -1,4 +1,3 @@
-# 2 Kings 15
 ## 2 Kings 15:1
 In the twenty-seventh year of Jeroboam’s reign over Israel, Azariah son of Amaziah became king of Judah.
 ## 2 Kings 15:2

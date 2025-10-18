@@ -1,4 +1,3 @@
-# Galatians 2
 ## Galatians 2:1
 Fourteen years later I went up again to Jerusalem, accompanied by Barnabas. I took Titus along also.
 ## Galatians 2:2

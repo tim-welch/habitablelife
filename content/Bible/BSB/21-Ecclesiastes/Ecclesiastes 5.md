@@ -1,4 +1,3 @@
-# Ecclesiastes 5
 ## Ecclesiastes 5:1
 Guard your steps when you go to the house of God. Draw near to listen rather than to offer the sacrifice of fools, who do not know that they do wrong.
 ## Ecclesiastes 5:2

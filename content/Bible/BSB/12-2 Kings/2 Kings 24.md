@@ -1,4 +1,3 @@
-# 2 Kings 24
 ## 2 Kings 24:1
 During Jehoiakim’s reign, Nebuchadnezzar king of Babylon invaded. So Jehoiakim became his vassal for three years, until he turned and rebelled against Nebuchadnezzar.
 ## 2 Kings 24:2

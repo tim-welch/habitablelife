@@ -1,4 +1,3 @@
-# Hebrews 1
 ## Hebrews 1:1
 On many past occasions and in many different ways, God spoke to our fathers through the prophets.
 ## Hebrews 1:2

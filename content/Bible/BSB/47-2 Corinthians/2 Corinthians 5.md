@@ -1,4 +1,3 @@
-# 2 Corinthians 5
 ## 2 Corinthians 5:1
 For we know that if the earthly tent we live in is dismantled, we have a building from God, an eternal house in heaven, not built by human hands.
 ## 2 Corinthians 5:2

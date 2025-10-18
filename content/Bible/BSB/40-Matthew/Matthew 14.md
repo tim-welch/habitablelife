@@ -1,4 +1,3 @@
-# Matthew 14
 ## Matthew 14:1
 At that time Herod the tetrarch heard the reports about Jesus
 ## Matthew 14:2

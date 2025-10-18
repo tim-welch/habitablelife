@@ -1,4 +1,3 @@
-# 2 Samuel 8
 ## 2 Samuel 8:1
 Some time later, David defeated the Philistines, subdued them, and took Metheg-ammah from the hand of the Philistines.
 ## 2 Samuel 8:2

@@ -1,4 +1,3 @@
-# Deuteronomy 30
 ## Deuteronomy 30:1
 “When all these things come upon you—the blessings and curses I have set before you—and you call them to mind in all the nations to which the LORD your God has banished you,
 ## Deuteronomy 30:2

@@ -1,4 +1,3 @@
-# Genesis 39
 ## Genesis 39:1
 Meanwhile, Joseph had been taken down to Egypt, where an Egyptian named Potiphar, an officer of Pharaoh and captain of the guard, bought him from the Ishmaelites who had taken him there.
 ## Genesis 39:2

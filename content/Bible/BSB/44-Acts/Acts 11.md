@@ -1,4 +1,3 @@
-# Acts 11
 ## Acts 11:1
 The apostles and brothers throughout Judea soon heard that the Gentiles also had received the word of God.
 ## Acts 11:2

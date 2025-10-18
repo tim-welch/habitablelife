@@ -1,4 +1,3 @@
-# Zechariah 5
 ## Zechariah 5:1
 Again I lifted up my eyes and saw before me a flying scroll.
 ## Zechariah 5:2

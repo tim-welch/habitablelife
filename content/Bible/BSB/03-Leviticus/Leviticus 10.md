@@ -1,4 +1,3 @@
-# Leviticus 10
 ## Leviticus 10:1
 Now Aaron’s sons Nadab and Abihu took their censers, put fire in them and added incense, and offered unauthorized fire before the LORD, contrary to His command.
 ## Leviticus 10:2

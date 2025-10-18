@@ -1,4 +1,3 @@
-# Ezra 2
 ## Ezra 2:1
 Now these are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,
 ## Ezra 2:2

@@ -1,4 +1,3 @@
-# Isaiah 57
 ## Isaiah 57:1
 The righteous perish, and no one takes it to heart; devout men are taken away, while no one considers that the righteous are taken away from the presence of evil.
 ## Isaiah 57:2

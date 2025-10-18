@@ -1,4 +1,3 @@
-# 1 Peter 2
 ## 1 Peter 2:1
 Rid yourselves, therefore, of all malice, deceit, hypocrisy, envy, and slander.
 ## 1 Peter 2:2

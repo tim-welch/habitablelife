@@ -1,4 +1,3 @@
-# Genesis 4
 ## Genesis 4:1
 And Adam had relations with his wife Eve, and she conceived and gave birth to Cain. “With the help of the LORD I have brought forth a man,” she said.
 ## Genesis 4:2

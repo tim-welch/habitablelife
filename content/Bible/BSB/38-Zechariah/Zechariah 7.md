@@ -1,4 +1,3 @@
-# Zechariah 7
 ## Zechariah 7:1
 In the fourth year of King Darius, the word of the LORD came to Zechariah on the fourth day of the ninth month, the month of Chislev.
 ## Zechariah 7:2

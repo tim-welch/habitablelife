@@ -1,4 +1,3 @@
-# Job 39
 ## Job 39:1
 “Do you know when mountain goats give birth? Have you watched the doe bear her fawn?
 ## Job 39:2

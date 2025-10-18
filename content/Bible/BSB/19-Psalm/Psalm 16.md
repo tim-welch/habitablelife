@@ -1,4 +1,3 @@
-# Psalm 16
 ## Psalm 16:1
 A Miktam of David. Preserve me, O God, for in You I take refuge.
 ## Psalm 16:2

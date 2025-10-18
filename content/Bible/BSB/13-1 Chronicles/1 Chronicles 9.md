@@ -1,4 +1,3 @@
-# 1 Chronicles 9
 ## 1 Chronicles 9:1
 So all Israel was recorded in the genealogies written in the Book of the Kings of Israel. But Judah was exiled to Babylon because of their unfaithfulness.
 ## 1 Chronicles 9:2

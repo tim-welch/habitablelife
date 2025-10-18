@@ -1,4 +1,3 @@
-# Isaiah 28
 ## Isaiah 28:1
 Woe to the majestic crown of Ephraim’s drunkards, to the fading flower of his glorious splendor, set on the summit above the fertile valley, the pride of those overcome by wine.
 ## Isaiah 28:2

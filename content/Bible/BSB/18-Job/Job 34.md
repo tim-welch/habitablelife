@@ -1,4 +1,3 @@
-# Job 34
 ## Job 34:1
 Then Elihu continued:
 ## Job 34:2

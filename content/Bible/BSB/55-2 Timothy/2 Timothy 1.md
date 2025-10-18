@@ -1,4 +1,3 @@
-# 2 Timothy 1
 ## 2 Timothy 1:1
 Paul, an apostle of Christ Jesus by the will of God, according to the promise of life in Christ Jesus,
 ## 2 Timothy 1:2

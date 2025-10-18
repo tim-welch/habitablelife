@@ -1,4 +1,3 @@
-# Psalm 146
 ## Psalm 146:1
 Hallelujah! Praise the LORD, O my soul.
 ## Psalm 146:2

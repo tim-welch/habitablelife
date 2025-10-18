@@ -1,4 +1,3 @@
-# 1 Corinthians 15
 ## 1 Corinthians 15:1
 Now, brothers, I want to remind you of the gospel I preached to you, which you received, and in which you stand firm.
 ## 1 Corinthians 15:2

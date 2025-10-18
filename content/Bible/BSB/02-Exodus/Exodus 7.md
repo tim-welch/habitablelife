@@ -1,4 +1,3 @@
-# Exodus 7
 ## Exodus 7:1
 The LORD answered Moses, “See, I have made you like God to Pharaoh, and your brother Aaron will be your prophet.
 ## Exodus 7:2

@@ -1,4 +1,3 @@
-# Ephesians 5
 ## Ephesians 5:1
 Be imitators of God, therefore, as beloved children,
 ## Ephesians 5:2

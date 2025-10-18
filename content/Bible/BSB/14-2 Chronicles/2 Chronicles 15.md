@@ -1,4 +1,3 @@
-# 2 Chronicles 15
 ## 2 Chronicles 15:1
 Now the Spirit of God came upon Azariah son of Oded.
 ## 2 Chronicles 15:2

@@ -1,4 +1,3 @@
-# Acts 21
 ## Acts 21:1
 After we had torn ourselves away from them, we sailed directly to Cos, and the next day on to Rhodes, and from there to Patara.
 ## Acts 21:2

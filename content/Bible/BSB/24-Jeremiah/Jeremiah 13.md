@@ -1,4 +1,3 @@
-# Jeremiah 13
 ## Jeremiah 13:1
 This is what the LORD said to me: “Go and buy yourself a linen loincloth and put it around your waist, but do not let it touch water.”
 ## Jeremiah 13:2

@@ -1,4 +1,3 @@
-# 2 Timothy 4
 ## 2 Timothy 4:1
 I charge you in the presence of God and of Christ Jesus, who will judge the living and the dead, and in view of His appearing and His kingdom:
 ## 2 Timothy 4:2

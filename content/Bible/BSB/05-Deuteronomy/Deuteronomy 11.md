@@ -1,4 +1,3 @@
-# Deuteronomy 11
 ## Deuteronomy 11:1
 You shall therefore love the LORD your God and always keep His charge, His statutes, His ordinances, and His commandments.
 ## Deuteronomy 11:2

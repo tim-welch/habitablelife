@@ -1,4 +1,3 @@
-# Titus 3
 ## Titus 3:1
 Remind the believers to submit to rulers and authorities, to be obedient and ready for every good work,
 ## Titus 3:2

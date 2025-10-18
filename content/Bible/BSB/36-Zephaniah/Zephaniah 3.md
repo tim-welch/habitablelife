@@ -1,4 +1,3 @@
-# Zephaniah 3
 ## Zephaniah 3:1
 Woe to the city of oppressors, rebellious and defiled!
 ## Zephaniah 3:2

@@ -1,4 +1,3 @@
-# Jonah 1
 ## Jonah 1:1
 Now the word of the LORD came to Jonah son of Amittai, saying,
 ## Jonah 1:2

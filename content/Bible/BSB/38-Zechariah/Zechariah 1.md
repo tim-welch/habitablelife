@@ -1,4 +1,3 @@
-# Zechariah 1
 ## Zechariah 1:1
 In the eighth month of the second year of Darius, the word of the LORD came to the prophet Zechariah son of Berechiah, the son of Iddo, saying:
 ## Zechariah 1:2

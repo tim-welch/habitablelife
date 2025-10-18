@@ -1,4 +1,3 @@
-# Revelation 17
 ## Revelation 17:1
 Then one of the seven angels with the seven bowls came and said to me, “Come, I will show you the punishment of the great prostitute, who sits on many waters.
 ## Revelation 17:2

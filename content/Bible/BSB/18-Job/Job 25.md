@@ -1,4 +1,3 @@
-# Job 25
 ## Job 25:1
 Then Bildad the Shuhite replied:
 ## Job 25:2

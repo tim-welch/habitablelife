@@ -1,4 +1,3 @@
-# Isaiah 51
 ## Isaiah 51:1
 “Listen to Me, you who pursue righteousness, you who seek the LORD: Look to the rock from which you were cut, and to the quarry from which you were hewn.
 ## Isaiah 51:2

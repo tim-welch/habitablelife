@@ -1,4 +1,3 @@
-# Isaiah 62
 ## Isaiah 62:1
 For Zion’s sake I will not keep silent, and for Jerusalem’s sake I will not keep still, until her righteousness shines like a bright light, her salvation like a blazing torch.
 ## Isaiah 62:2

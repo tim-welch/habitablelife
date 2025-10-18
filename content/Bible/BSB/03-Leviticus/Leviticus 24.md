@@ -1,4 +1,3 @@
-# Leviticus 24
 ## Leviticus 24:1
 Then the LORD said to Moses,
 ## Leviticus 24:2

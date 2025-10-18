@@ -1,4 +1,3 @@
-# Matthew 17
 ## Matthew 17:1
 After six days Jesus took with Him Peter, James, and John the brother of James, and led them up a high mountain by themselves.
 ## Matthew 17:2

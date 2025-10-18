@@ -1,4 +1,3 @@
-# 2 Kings 25
 ## 2 Kings 25:1
 So in the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army. They encamped outside the city and built a siege wall all around it.
 ## 2 Kings 25:2

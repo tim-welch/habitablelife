@@ -1,4 +1,3 @@
-# Psalm 14
 ## Psalm 14:1
 For the choirmaster. Of David. The fool says in his heart, “There is no God.” They are corrupt; their acts are vile. There is no one who does good.
 ## Psalm 14:2

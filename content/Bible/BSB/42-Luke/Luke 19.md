@@ -1,4 +1,3 @@
-# Luke 19
 ## Luke 19:1
 Then Jesus entered Jericho and was passing through.
 ## Luke 19:2

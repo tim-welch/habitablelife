@@ -1,4 +1,3 @@
-# Mark 5
 ## Mark 5:1
 On the other side of the sea, they arrived in the region of the Gerasenes.
 ## Mark 5:2

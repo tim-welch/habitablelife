@@ -1,4 +1,3 @@
-# Mark 9
 ## Mark 9:1
 Then Jesus said to them, “Truly I tell you, there are some standing here who will not taste death before they see the kingdom of God arrive with power.”
 ## Mark 9:2

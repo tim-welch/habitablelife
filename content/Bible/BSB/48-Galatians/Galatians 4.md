@@ -1,4 +1,3 @@
-# Galatians 4
 ## Galatians 4:1
 What I am saying is that as long as the heir is a child, he is no different from a slave, although he is the owner of everything.
 ## Galatians 4:2

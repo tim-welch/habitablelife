@@ -1,4 +1,3 @@
-# Isaiah 35
 ## Isaiah 35:1
 The wilderness and the dry land will be glad; the desert will rejoice and blossom like a rose.
 ## Isaiah 35:2

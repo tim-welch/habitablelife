@@ -1,4 +1,3 @@
-# Jeremiah 22
 ## Jeremiah 22:1
 This is what the LORD says: “Go down to the palace of the king of Judah and proclaim this message there,
 ## Jeremiah 22:2

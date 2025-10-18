@@ -1,4 +1,3 @@
-# Exodus 15
 ## Exodus 15:1
 Then Moses and the Israelites sang this song to the LORD: “I will sing to the LORD, for He is highly exalted. The horse and rider He has thrown into the sea.
 ## Exodus 15:2

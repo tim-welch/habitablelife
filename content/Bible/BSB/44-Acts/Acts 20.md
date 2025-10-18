@@ -1,4 +1,3 @@
-# Acts 20
 ## Acts 20:1
 When the uproar had ended, Paul sent for the disciples. And after encouraging them, he said goodbye to them and left for Macedonia.
 ## Acts 20:2

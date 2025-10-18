@@ -1,4 +1,3 @@
-# 1 Timothy 2
 ## 1 Timothy 2:1
 First of all, then, I urge that petitions, prayers, intercessions, and thanksgiving be offered for everyone—
 ## 1 Timothy 2:2

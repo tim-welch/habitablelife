@@ -1,4 +1,3 @@
-# 2 Timothy 2
 ## 2 Timothy 2:1
 You therefore, my child, be strong in the grace that is in Christ Jesus.
 ## 2 Timothy 2:2

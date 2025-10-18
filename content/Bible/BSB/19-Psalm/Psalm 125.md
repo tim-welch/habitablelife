@@ -1,4 +1,3 @@
-# Psalm 125
 ## Psalm 125:1
 A song of ascents. Those who trust in the LORD are like Mount Zion. It cannot be moved; it abides forever.
 ## Psalm 125:2

@@ -1,4 +1,3 @@
-# Isaiah 18
 ## Isaiah 18:1
 Woe to the land of whirring wings, along the rivers of Cush,
 ## Isaiah 18:2

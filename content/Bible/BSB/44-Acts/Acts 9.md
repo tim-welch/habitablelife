@@ -1,4 +1,3 @@
-# Acts 9
 ## Acts 9:1
 Meanwhile, Saul was still breathing out murderous threats against the disciples of the Lord. He approached the high priest
 ## Acts 9:2

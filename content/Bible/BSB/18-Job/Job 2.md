@@ -1,4 +1,3 @@
-# Job 2
 ## Job 2:1
 On another day the sons of God came to present themselves before the LORD, and Satan also came with them to present himself before Him.
 ## Job 2:2

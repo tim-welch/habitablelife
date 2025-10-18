@@ -1,4 +1,3 @@
-# Jeremiah 16
 ## Jeremiah 16:1
 Then the word of the LORD came to me, saying,
 ## Jeremiah 16:2

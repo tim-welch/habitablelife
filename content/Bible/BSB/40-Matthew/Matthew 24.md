@@ -1,4 +1,3 @@
-# Matthew 24
 ## Matthew 24:1
 As Jesus left the temple and was walking away, His disciples came up to Him to point out its buildings.
 ## Matthew 24:2

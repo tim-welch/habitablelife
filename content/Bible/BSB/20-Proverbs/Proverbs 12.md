@@ -1,4 +1,3 @@
-# Proverbs 12
 ## Proverbs 12:1
 Whoever loves discipline loves knowledge, but he who hates correction is stupid.
 ## Proverbs 12:2

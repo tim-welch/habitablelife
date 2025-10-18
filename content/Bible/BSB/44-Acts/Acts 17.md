@@ -1,4 +1,3 @@
-# Acts 17
 ## Acts 17:1
 When they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a Jewish synagogue.
 ## Acts 17:2

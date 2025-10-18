@@ -1,4 +1,3 @@
-# Song of Solomon 2
 ## Song of Solomon 2:1
 I am a rose of Sharon, a lily of the valley.
 ## Song of Solomon 2:2

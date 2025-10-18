@@ -1,4 +1,3 @@
-# Psalm 4
 ## Psalm 4:1
 For the choirmaster. With stringed instruments. A Psalm of David. Answer me when I call, O God of my righteousness! You have relieved my distress; show me grace and hear my prayer.
 ## Psalm 4:2

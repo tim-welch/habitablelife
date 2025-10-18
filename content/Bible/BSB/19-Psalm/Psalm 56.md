@@ -1,4 +1,3 @@
-# Psalm 56
 ## Psalm 56:1
 For the choirmaster. To the tune of “A Dove on Distant Oaks.” A Miktam of David, when the Philistines seized him in Gath. Be merciful to me, O God, for men are hounding me; all day they press their attack.
 ## Psalm 56:2

@@ -1,4 +1,3 @@
-# Genesis 3
 ## Genesis 3:1
 Now the serpent was more crafty than any beast of the field that the LORD God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree in the garden?’”
 ## Genesis 3:2

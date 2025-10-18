@@ -1,4 +1,3 @@
-# Ezra 4
 ## Ezra 4:1
 When the enemies of Judah and Benjamin heard that the exiles were building a temple for the LORD, the God of Israel,
 ## Ezra 4:2

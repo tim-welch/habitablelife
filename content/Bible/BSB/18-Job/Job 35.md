@@ -1,4 +1,3 @@
-# Job 35
 ## Job 35:1
 And Elihu went on to say:
 ## Job 35:2

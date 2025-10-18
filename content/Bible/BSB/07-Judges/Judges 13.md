@@ -1,4 +1,3 @@
-# Judges 13
 ## Judges 13:1
 Again the Israelites did evil in the sight of the LORD, so He delivered them into the hand of the Philistines for forty years.
 ## Judges 13:2

@@ -1,4 +1,3 @@
-# Deuteronomy 9
 ## Deuteronomy 9:1
 Hear, O Israel: Today you are about to cross the Jordan to go in and dispossess nations greater and stronger than you, with large cities fortified to the heavens.
 ## Deuteronomy 9:2

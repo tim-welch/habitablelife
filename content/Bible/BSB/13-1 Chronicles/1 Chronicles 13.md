@@ -1,4 +1,3 @@
-# 1 Chronicles 13
 ## 1 Chronicles 13:1
 Then David conferred with all his leaders, the commanders of thousands and of hundreds.
 ## 1 Chronicles 13:2

@@ -1,4 +1,3 @@
-# John 9
 ## John 9:1
 Now as Jesus was passing by, He saw a man blind from birth,
 ## John 9:2

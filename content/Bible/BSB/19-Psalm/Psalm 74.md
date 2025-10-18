@@ -1,4 +1,3 @@
-# Psalm 74
 ## Psalm 74:1
 A Maskil of Asaph. Why have You rejected us forever, O God? Why does Your anger smolder against the sheep of Your pasture?
 ## Psalm 74:2

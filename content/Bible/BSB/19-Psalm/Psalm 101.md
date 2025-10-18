@@ -1,4 +1,3 @@
-# Psalm 101
 ## Psalm 101:1
 A Psalm of David. I will sing of Your loving devotion and justice; to You, O LORD, I will sing praises.
 ## Psalm 101:2

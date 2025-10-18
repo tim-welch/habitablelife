@@ -1,4 +1,3 @@
-# Jeremiah 18
 ## Jeremiah 18:1
 This is the word that came to Jeremiah from the LORD:
 ## Jeremiah 18:2

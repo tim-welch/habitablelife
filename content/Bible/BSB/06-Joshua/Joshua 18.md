@@ -1,4 +1,3 @@
-# Joshua 18
 ## Joshua 18:1
 Then the whole congregation of Israel assembled at Shiloh and set up the Tent of Meeting there. And though the land was subdued before them,
 ## Joshua 18:2

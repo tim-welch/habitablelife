@@ -1,4 +1,3 @@
-# Amos 6
 ## Amos 6:1
 Woe to those at ease in Zion and those secure on Mount Samaria, the distinguished ones of the foremost nation, to whom the house of Israel comes.
 ## Amos 6:2

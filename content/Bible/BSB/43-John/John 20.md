@@ -1,4 +1,3 @@
-# John 20
 ## John 20:1
 Early on the first day of the week, while it was still dark, Mary Magdalene went to the tomb and saw that the stone had been removed from the entrance.
 ## John 20:2

@@ -1,4 +1,3 @@
-# Judges 16
 ## Judges 16:1
 One day Samson went to Gaza, where he saw a prostitute and went in to spend the night with her.
 ## Judges 16:2

@@ -1,4 +1,3 @@
-# Psalm 150
 ## Psalm 150:1
 Hallelujah! Praise God in His sanctuary. Praise Him in His mighty heavens.
 ## Psalm 150:2

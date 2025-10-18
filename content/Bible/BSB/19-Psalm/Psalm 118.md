@@ -1,4 +1,3 @@
-# Psalm 118
 ## Psalm 118:1
 Give thanks to the LORD, for He is good; His loving devotion endures forever.
 ## Psalm 118:2

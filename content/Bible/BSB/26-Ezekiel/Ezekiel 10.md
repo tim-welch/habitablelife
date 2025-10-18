@@ -1,4 +1,3 @@
-# Ezekiel 10
 ## Ezekiel 10:1
 And I looked and saw above the expanse, above the heads of the cherubim, the likeness of a throne of sapphire.
 ## Ezekiel 10:2

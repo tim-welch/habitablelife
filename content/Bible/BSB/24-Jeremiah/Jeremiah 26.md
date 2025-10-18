@@ -1,4 +1,3 @@
-# Jeremiah 26
 ## Jeremiah 26:1
 At the beginning of the reign of Jehoiakim son of Josiah king of Judah, this word came from the LORD:
 ## Jeremiah 26:2

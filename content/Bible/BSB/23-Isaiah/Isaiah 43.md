@@ -1,4 +1,3 @@
-# Isaiah 43
 ## Isaiah 43:1
 But now, this is what the LORD says—He who created you, O Jacob, and He who formed you, O Israel: “Do not fear, for I have redeemed you; I have called you by your name; you are Mine!
 ## Isaiah 43:2

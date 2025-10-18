@@ -1,4 +1,3 @@
-# 1 Chronicles 18
 ## 1 Chronicles 18:1
 Some time later, David defeated the Philistines, subdued them, and took Gath and its villages from the hand of the Philistines.
 ## 1 Chronicles 18:2

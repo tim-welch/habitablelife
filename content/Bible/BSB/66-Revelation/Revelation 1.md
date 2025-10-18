@@ -1,4 +1,3 @@
-# Revelation 1
 ## Revelation 1:1
 This is the revelation of Jesus Christ, which God gave Him to show His servants what must soon come to pass. He made it known by sending His angel to His servant John,
 ## Revelation 1:2

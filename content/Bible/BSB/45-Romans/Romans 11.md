@@ -1,4 +1,3 @@
-# Romans 11
 ## Romans 11:1
 I ask then, did God reject His people? Certainly not! I am an Israelite myself, a descendant of Abraham, from the tribe of Benjamin.
 ## Romans 11:2

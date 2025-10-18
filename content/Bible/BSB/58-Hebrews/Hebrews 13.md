@@ -1,4 +1,3 @@
-# Hebrews 13
 ## Hebrews 13:1
 Continue in brotherly love.
 ## Hebrews 13:2

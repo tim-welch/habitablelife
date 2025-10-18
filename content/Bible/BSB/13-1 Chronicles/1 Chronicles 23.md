@@ -1,4 +1,3 @@
-# 1 Chronicles 23
 ## 1 Chronicles 23:1
 When David was old and full of years, he installed his son Solomon as king over Israel.
 ## 1 Chronicles 23:2

@@ -1,4 +1,3 @@
-# 1 Kings 7
 ## 1 Kings 7:1
 Solomon, however, took thirteen years to complete the construction of his entire palace.
 ## 1 Kings 7:2

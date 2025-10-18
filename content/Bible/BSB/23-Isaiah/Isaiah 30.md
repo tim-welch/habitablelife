@@ -1,4 +1,3 @@
-# Isaiah 30
 ## Isaiah 30:1
 “Woe to the rebellious children,” declares the LORD, “to those who carry out a plan that is not Mine, who form an alliance, but against My will, heaping up sin upon sin.
 ## Isaiah 30:2

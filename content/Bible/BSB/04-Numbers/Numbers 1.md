@@ -1,4 +1,3 @@
-# Numbers 1
 ## Numbers 1:1
 On the first day of the second month of the second year after the Israelites had come out of the land of Egypt, the LORD spoke to Moses in the Tent of Meeting in the Wilderness of Sinai. He said:
 ## Numbers 1:2

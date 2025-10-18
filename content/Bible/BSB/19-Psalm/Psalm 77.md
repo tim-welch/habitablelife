@@ -1,4 +1,3 @@
-# Psalm 77
 ## Psalm 77:1
 For the choirmaster. According to Jeduthun. A Psalm of Asaph. I cried out to God; I cried aloud to God to hear me.
 ## Psalm 77:2

@@ -1,4 +1,3 @@
-# Revelation 4
 ## Revelation 4:1
 After this I looked and saw a door standing open in heaven. And the voice I had previously heard speak to me like a trumpet was saying, “Come up here, and I will show you what must happen after these things.”
 ## Revelation 4:2

@@ -1,4 +1,3 @@
-# Numbers 26
 ## Numbers 26:1
 After the plague had ended, the LORD said to Moses and Eleazar son of Aaron the priest,
 ## Numbers 26:2

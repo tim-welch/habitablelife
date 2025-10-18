@@ -1,4 +1,3 @@
-# Leviticus 2
 ## Leviticus 2:1
 “When anyone brings a grain offering to the LORD, his offering must consist of fine flour. He is to pour olive oil on it, put frankincense on it,
 ## Leviticus 2:2

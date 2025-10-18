@@ -1,4 +1,3 @@
-# Joshua 4
 ## Joshua 4:1
 When the whole nation had finished crossing the Jordan, the LORD said to Joshua,
 ## Joshua 4:2

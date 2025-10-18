@@ -1,4 +1,3 @@
-# 1 Kings 8
 ## 1 Kings 8:1
 At that time Solomon assembled before him in Jerusalem the elders of Israel—all the tribal heads and family leaders of the Israelites—to bring up the ark of the covenant of the LORD from Zion, the City of David.
 ## 1 Kings 8:2

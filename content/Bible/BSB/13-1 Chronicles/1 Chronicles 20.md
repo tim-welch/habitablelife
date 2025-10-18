@@ -1,4 +1,3 @@
-# 1 Chronicles 20
 ## 1 Chronicles 20:1
 In the spring, at the time when kings march out to war, Joab led out the army and ravaged the land of the Ammonites. He came to Rabbah and besieged it, but David remained in Jerusalem. And Joab attacked Rabbah and demolished it.
 ## 1 Chronicles 20:2

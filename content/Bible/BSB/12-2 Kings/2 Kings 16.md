@@ -1,4 +1,3 @@
-# 2 Kings 16
 ## 2 Kings 16:1
 In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham became king of Judah.
 ## 2 Kings 16:2

@@ -1,4 +1,3 @@
-# 2 Corinthians 8
 ## 2 Corinthians 8:1
 Now, brothers, we want you to know about the grace that God has given the churches of Macedonia.
 ## 2 Corinthians 8:2

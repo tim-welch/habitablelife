@@ -1,4 +1,3 @@
-# Isaiah 48
 ## Isaiah 48:1
 “Listen to this, O house of Jacob, you who are called by the name of Israel, who have descended from the line of Judah, who swear by the name of the LORD, who invoke the God of Israel—but not in truth or righteousness—
 ## Isaiah 48:2

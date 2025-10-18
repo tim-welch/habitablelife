@@ -1,4 +1,3 @@
-# Daniel 10
 ## Daniel 10:1
 In the third year of Cyrus king of Persia, a message was revealed to Daniel, who was called Belteshazzar. The message was true, and it concerned a great conflict. And the understanding of the message was given to him in a vision.
 ## Daniel 10:2

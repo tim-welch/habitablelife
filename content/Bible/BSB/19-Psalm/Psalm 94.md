@@ -1,4 +1,3 @@
-# Psalm 94
 ## Psalm 94:1
 O LORD, God of vengeance, O God of vengeance, shine forth.
 ## Psalm 94:2

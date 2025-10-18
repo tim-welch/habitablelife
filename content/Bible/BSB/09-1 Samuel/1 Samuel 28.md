@@ -1,4 +1,3 @@
-# 1 Samuel 28
 ## 1 Samuel 28:1
 Now in those days the Philistines gathered their forces for warfare against Israel. So Achish said to David, “You must understand that you and your men are to go out to battle with me.”
 ## 1 Samuel 28:2

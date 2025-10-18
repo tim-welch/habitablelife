@@ -1,4 +1,3 @@
-# Psalm 147
 ## Psalm 147:1
 Hallelujah! How good it is to sing praises to our God, how pleasant and lovely to praise Him!
 ## Psalm 147:2

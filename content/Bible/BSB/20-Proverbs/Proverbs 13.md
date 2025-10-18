@@ -1,4 +1,3 @@
-# Proverbs 13
 ## Proverbs 13:1
 A wise son heeds his father’s discipline, but a mocker does not listen to rebuke.
 ## Proverbs 13:2

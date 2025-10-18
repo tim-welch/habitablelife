@@ -1,4 +1,3 @@
-# Leviticus 23
 ## Leviticus 23:1
 Then the LORD said to Moses,
 ## Leviticus 23:2

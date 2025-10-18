@@ -1,4 +1,3 @@
-# Acts 14
 ## Acts 14:1
 At Iconium, Paul and Barnabas went as usual into the Jewish synagogue, where they spoke so well that a great number of Jews and Greeks believed.
 ## Acts 14:2

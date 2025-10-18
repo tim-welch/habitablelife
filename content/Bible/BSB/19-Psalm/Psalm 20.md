@@ -1,4 +1,3 @@
-# Psalm 20
 ## Psalm 20:1
 For the choirmaster. A Psalm of David. May the LORD answer you in the day of trouble; may the name of the God of Jacob protect you.
 ## Psalm 20:2

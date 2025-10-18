@@ -1,4 +1,3 @@
-# Job 21
 ## Job 21:1
 Then Job answered:
 ## Job 21:2

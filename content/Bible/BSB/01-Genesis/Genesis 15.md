@@ -1,4 +1,3 @@
-# Genesis 15
 ## Genesis 15:1
 After these events, the word of the LORD came to Abram in a vision: “Do not be afraid, Abram. I am your shield, your very great reward.”
 ## Genesis 15:2

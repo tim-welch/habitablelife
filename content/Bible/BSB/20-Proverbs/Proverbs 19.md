@@ -1,4 +1,3 @@
-# Proverbs 19
 ## Proverbs 19:1
 Better a poor man who walks with integrity than a fool whose lips are perverse.
 ## Proverbs 19:2

@@ -1,4 +1,3 @@
-# Matthew 22
 ## Matthew 22:1
 Once again, Jesus spoke to them in parables:
 ## Matthew 22:2

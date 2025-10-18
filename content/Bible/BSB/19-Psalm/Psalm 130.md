@@ -1,4 +1,3 @@
-# Psalm 130
 ## Psalm 130:1
 A song of ascents. Out of the depths I cry to You, O LORD!
 ## Psalm 130:2

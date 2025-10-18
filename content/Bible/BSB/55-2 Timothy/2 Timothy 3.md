@@ -1,4 +1,3 @@
-# 2 Timothy 3
 ## 2 Timothy 3:1
 But understand this: In the last days terrible times will come.
 ## 2 Timothy 3:2

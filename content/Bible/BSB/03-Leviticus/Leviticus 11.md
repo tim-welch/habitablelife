@@ -1,4 +1,3 @@
-# Leviticus 11
 ## Leviticus 11:1
 The LORD spoke again to Moses and Aaron, telling them,
 ## Leviticus 11:2

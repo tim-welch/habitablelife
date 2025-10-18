@@ -1,4 +1,3 @@
-# Judges 9
 ## Judges 9:1
 Now Abimelech son of Jerubbaal went to his mother’s brothers at Shechem and said to them and to all the clan of his mother,
 ## Judges 9:2

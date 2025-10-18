@@ -1,4 +1,3 @@
-# Psalm 21
 ## Psalm 21:1
 For the choirmaster. A Psalm of David. O LORD, the king rejoices in Your strength. How greatly he exults in Your salvation!
 ## Psalm 21:2

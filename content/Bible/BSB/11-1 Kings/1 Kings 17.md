@@ -1,4 +1,3 @@
-# 1 Kings 17
 ## 1 Kings 17:1
 Now Elijah the Tishbite, who was among the settlers of Gilead, said to Ahab, “As surely as the LORD, the God of Israel, lives, before whom I stand, there will be neither dew nor rain in these years except at my word!”
 ## 1 Kings 17:2

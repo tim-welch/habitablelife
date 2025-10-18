@@ -1,4 +1,3 @@
-# Joshua 7
 ## Joshua 7:1
 The Israelites, however, acted unfaithfully regarding the things devoted to destruction. Achan son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, took some of what was set apart. So the anger of the LORD burned against the Israelites.
 ## Joshua 7:2

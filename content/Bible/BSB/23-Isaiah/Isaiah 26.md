@@ -1,4 +1,3 @@
-# Isaiah 26
 ## Isaiah 26:1
 In that day this song will be sung in the land of Judah: We have a strong city; salvation is established as its walls and ramparts.
 ## Isaiah 26:2

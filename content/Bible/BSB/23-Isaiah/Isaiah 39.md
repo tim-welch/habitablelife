@@ -1,4 +1,3 @@
-# Isaiah 39
 ## Isaiah 39:1
 At that time Merodach-baladan son of Baladan king of Babylon sent letters and a gift to Hezekiah, for he had heard about Hezekiah’s illness and recovery.
 ## Isaiah 39:2

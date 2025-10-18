@@ -1,4 +1,3 @@
-# 2 Samuel 9
 ## 2 Samuel 9:1
 Then David asked, “Is there anyone left from the house of Saul to whom I can show kindness for the sake of Jonathan?”
 ## 2 Samuel 9:2

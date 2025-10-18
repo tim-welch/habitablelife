@@ -1,4 +1,3 @@
-# Exodus 22
 ## Exodus 22:1
 “If a man steals an ox or a sheep and slaughters or sells it, he must repay five oxen for an ox and four sheep for a sheep.
 ## Exodus 22:2

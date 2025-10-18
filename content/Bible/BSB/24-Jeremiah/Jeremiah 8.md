@@ -1,4 +1,3 @@
-# Jeremiah 8
 ## Jeremiah 8:1
 “At that time,” declares the LORD, “the bones of the kings of Judah, the bones of the officials, the bones of the priests, the bones of the prophets, and the bones of the people of Jerusalem will be removed from their graves.
 ## Jeremiah 8:2

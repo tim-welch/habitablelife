@@ -1,4 +1,3 @@
-# Leviticus 15
 ## Leviticus 15:1
 And the LORD said to Moses and Aaron,
 ## Leviticus 15:2

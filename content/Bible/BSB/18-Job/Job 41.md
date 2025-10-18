@@ -1,4 +1,3 @@
-# Job 41
 ## Job 41:1
 “Can you pull in Leviathan with a hook or tie down his tongue with a rope?
 ## Job 41:2

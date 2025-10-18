@@ -1,4 +1,3 @@
-# Numbers 32
 ## Numbers 32:1
 Now the Reubenites and Gadites, who had very large herds and flocks, surveyed the lands of Jazer and Gilead, and they saw that the region was suitable for livestock.
 ## Numbers 32:2

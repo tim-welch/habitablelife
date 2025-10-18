@@ -1,4 +1,3 @@
-# Isaiah 33
 ## Isaiah 33:1
 Woe to you, O destroyer never destroyed, O traitor never betrayed! When you have finished destroying, you will be destroyed. When you have finished betraying, you will be betrayed.
 ## Isaiah 33:2

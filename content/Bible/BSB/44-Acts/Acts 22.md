@@ -1,4 +1,3 @@
-# Acts 22
 ## Acts 22:1
 “Brothers and fathers, listen now to my defense before you.”
 ## Acts 22:2

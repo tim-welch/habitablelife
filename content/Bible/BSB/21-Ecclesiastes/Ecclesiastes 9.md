@@ -1,4 +1,3 @@
-# Ecclesiastes 9
 ## Ecclesiastes 9:1
 So I took all this to heart and concluded that the righteous and the wise, as well as their deeds, are in God’s hands. Man does not know what lies ahead, whether love or hate.
 ## Ecclesiastes 9:2

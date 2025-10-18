@@ -1,4 +1,3 @@
-# 2 Chronicles 16
 ## 2 Chronicles 16:1
 In the thirty-sixth year of Asa’s reign, Baasha king of Israel went up against Judah and fortified Ramah to prevent anyone from leaving or entering the territory of Asa king of Judah.
 ## 2 Chronicles 16:2

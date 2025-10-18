@@ -1,4 +1,3 @@
-# 2 Kings 11
 ## 2 Kings 11:1
 When Athaliah the mother of Ahaziah saw that her son was dead, she proceeded to annihilate all the royal heirs.
 ## 2 Kings 11:2

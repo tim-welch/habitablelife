@@ -1,4 +1,3 @@
-# 2 Chronicles 10
 ## 2 Chronicles 10:1
 Then Rehoboam went to Shechem, for all Israel had gone there to make him king.
 ## 2 Chronicles 10:2

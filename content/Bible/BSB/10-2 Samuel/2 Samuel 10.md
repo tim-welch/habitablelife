@@ -1,4 +1,3 @@
-# 2 Samuel 10
 ## 2 Samuel 10:1
 Some time later, the king of the Ammonites died and was succeeded by his son Hanun.
 ## 2 Samuel 10:2

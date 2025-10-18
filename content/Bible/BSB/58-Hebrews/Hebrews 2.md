@@ -1,4 +1,3 @@
-# Hebrews 2
 ## Hebrews 2:1
 We must pay closer attention, therefore, to what we have heard, so that we do not drift away.
 ## Hebrews 2:2

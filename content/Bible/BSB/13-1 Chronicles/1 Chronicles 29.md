@@ -1,4 +1,3 @@
-# 1 Chronicles 29
 ## 1 Chronicles 29:1
 Then King David said to the whole assembly, “My son Solomon, the one whom God has chosen, is young and inexperienced. The task is great because this palace is not for man, but for the LORD God.
 ## 1 Chronicles 29:2

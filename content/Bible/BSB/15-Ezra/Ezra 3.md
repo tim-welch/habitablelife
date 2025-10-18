@@ -1,4 +1,3 @@
-# Ezra 3
 ## Ezra 3:1
 By the seventh month, the Israelites had settled in their towns, and the people assembled as one man in Jerusalem.
 ## Ezra 3:2

@@ -1,4 +1,3 @@
-# Nahum 1
 ## Nahum 1:1
 This is the burden against Nineveh, the book of the vision of Nahum the Elkoshite:
 ## Nahum 1:2

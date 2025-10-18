@@ -1,4 +1,3 @@
-# Isaiah 54
 ## Isaiah 54:1
 “Shout for joy, O barren woman, who bears no children; break forth in song and cry aloud, you who have never travailed; because more are the children of the desolate woman than of her who has a husband,” says the LORD.
 ## Isaiah 54:2

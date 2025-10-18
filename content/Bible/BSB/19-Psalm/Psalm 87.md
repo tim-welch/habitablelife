@@ -1,4 +1,3 @@
-# Psalm 87
 ## Psalm 87:1
 A Psalm of the sons of Korah. A song. He has founded His city on the holy mountains.
 ## Psalm 87:2

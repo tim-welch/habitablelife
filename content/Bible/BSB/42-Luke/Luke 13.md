@@ -1,4 +1,3 @@
-# Luke 13
 ## Luke 13:1
 At that time some of those present told Jesus about the Galileans whose blood Pilate had mixed with their sacrifices.
 ## Luke 13:2

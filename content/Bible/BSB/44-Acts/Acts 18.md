@@ -1,4 +1,3 @@
-# Acts 18
 ## Acts 18:1
 After this, Paul left Athens and went to Corinth.
 ## Acts 18:2

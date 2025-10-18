@@ -1,4 +1,3 @@
-# Amos 3
 ## Amos 3:1
 Hear this word that the LORD has spoken against you, O children of Israel, against the whole family that I brought up out of the land of Egypt:
 ## Amos 3:2

@@ -1,4 +1,3 @@
-# Song of Solomon 3
 ## Song of Solomon 3:1
 On my bed at night I sought the one I love; I sought him, but did not find him.
 ## Song of Solomon 3:2

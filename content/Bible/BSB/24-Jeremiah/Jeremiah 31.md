@@ -1,4 +1,3 @@
-# Jeremiah 31
 ## Jeremiah 31:1
 “At that time,” declares the LORD, “I will be the God of all the families of Israel, and they will be My people.”
 ## Jeremiah 31:2

@@ -1,4 +1,3 @@
-# Matthew 9
 ## Matthew 9:1
 Jesus got into a boat, crossed over, and came to His own town.
 ## Matthew 9:2

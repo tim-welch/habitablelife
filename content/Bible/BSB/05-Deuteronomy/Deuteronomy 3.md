@@ -1,4 +1,3 @@
-# Deuteronomy 3
 ## Deuteronomy 3:1
 Then we turned and went up the road to Bashan, and Og king of Bashan and his whole army came out to meet us in battle at Edrei.
 ## Deuteronomy 3:2

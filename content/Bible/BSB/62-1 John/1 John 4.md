@@ -1,4 +1,3 @@
-# 1 John 4
 ## 1 John 4:1
 Beloved, do not believe every spirit, but test the spirits to see whether they are from God. For many false prophets have gone out into the world.
 ## 1 John 4:2

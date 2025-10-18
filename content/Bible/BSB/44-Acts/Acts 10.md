@@ -1,4 +1,3 @@
-# Acts 10
 ## Acts 10:1
 At Caesarea there was a man named Cornelius, a centurion in what was called the Italian Regiment.
 ## Acts 10:2

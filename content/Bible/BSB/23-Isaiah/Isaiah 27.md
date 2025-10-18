@@ -1,4 +1,3 @@
-# Isaiah 27
 ## Isaiah 27:1
 In that day the LORD will take His sharp, great, and mighty sword, and bring judgment on Leviathan the fleeing serpent—Leviathan the coiling serpent—and He will slay the dragon of the sea.
 ## Isaiah 27:2

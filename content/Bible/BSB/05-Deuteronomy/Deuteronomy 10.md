@@ -1,4 +1,3 @@
-# Deuteronomy 10
 ## Deuteronomy 10:1
 At that time the LORD said to me, “Chisel out two stone tablets like the originals, come up to Me on the mountain, and make an ark of wood.
 ## Deuteronomy 10:2

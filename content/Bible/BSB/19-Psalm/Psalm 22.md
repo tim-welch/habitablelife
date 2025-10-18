@@ -1,4 +1,3 @@
-# Psalm 22
 ## Psalm 22:1
 For the choirmaster. To the tune of “The Doe of the Dawn.” A Psalm of David. My God, my God, why have You forsaken me? Why are You so far from saving me, so far from my words of groaning?
 ## Psalm 22:2

@@ -1,4 +1,3 @@
-# Genesis 46
 ## Genesis 46:1
 So Israel set out with all that he had, and when he came to Beersheba, he offered sacrifices to the God of his father Isaac.
 ## Genesis 46:2

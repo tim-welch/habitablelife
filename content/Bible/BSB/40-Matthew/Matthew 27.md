@@ -1,4 +1,3 @@
-# Matthew 27
 ## Matthew 27:1
 When morning came, all the chief priests and elders of the people conspired against Jesus to put Him to death.
 ## Matthew 27:2

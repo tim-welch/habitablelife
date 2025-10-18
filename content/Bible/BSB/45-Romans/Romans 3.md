@@ -1,4 +1,3 @@
-# Romans 3
 ## Romans 3:1
 What, then, is the advantage of being a Jew? Or what is the value of circumcision?
 ## Romans 3:2

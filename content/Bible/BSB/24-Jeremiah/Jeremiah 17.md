@@ -1,4 +1,3 @@
-# Jeremiah 17
 ## Jeremiah 17:1
 “The sin of Judah is written with an iron stylus, engraved with a diamond point on the tablets of their hearts and on the horns of their altars.
 ## Jeremiah 17:2

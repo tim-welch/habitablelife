@@ -1,4 +1,3 @@
-# Proverbs 5
 ## Proverbs 5:1
 My son, pay attention to my wisdom; incline your ear to my insight,
 ## Proverbs 5:2

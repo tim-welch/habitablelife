@@ -1,4 +1,3 @@
-# 1 John 1
 ## 1 John 1:1
 That which was from the beginning, which we have heard, which we have seen with our own eyes, which we have gazed upon and touched with our own hands—this is the Word of life.
 ## 1 John 1:2

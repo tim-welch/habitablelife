@@ -1,4 +1,3 @@
-# Isaiah 21
 ## Isaiah 21:1
 This is the burden against the Desert by the Sea: Like whirlwinds sweeping through the Negev, an invader comes from the desert, from a land of terror.
 ## Isaiah 21:2

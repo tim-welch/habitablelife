@@ -1,4 +1,3 @@
-# Isaiah 44
 ## Isaiah 44:1
 But now listen, O Jacob My servant, Israel, whom I have chosen.
 ## Isaiah 44:2

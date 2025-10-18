@@ -1,4 +1,3 @@
-# 1 Samuel 2
 ## 1 Samuel 2:1
 At that time Hannah prayed: “My heart rejoices in the LORD; my horn is exalted in the LORD. My mouth speaks boldly against my enemies, for I rejoice in Your salvation.
 ## 1 Samuel 2:2

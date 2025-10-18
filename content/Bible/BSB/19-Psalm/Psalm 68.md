@@ -1,4 +1,3 @@
-# Psalm 68
 ## Psalm 68:1
 For the choirmaster. A Psalm of David. A song. God arises. His enemies are scattered, and those who hate Him flee His presence.
 ## Psalm 68:2

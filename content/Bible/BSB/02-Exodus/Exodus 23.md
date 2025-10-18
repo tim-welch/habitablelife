@@ -1,4 +1,3 @@
-# Exodus 23
 ## Exodus 23:1
 “You shall not spread a false report. Do not join the wicked by being a malicious witness.
 ## Exodus 23:2

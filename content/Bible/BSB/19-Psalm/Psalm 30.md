@@ -1,4 +1,3 @@
-# Psalm 30
 ## Psalm 30:1
 A Psalm. A song for the dedication of the temple. Of David. I will exalt You, O LORD, for You have lifted me up and have not allowed my foes to rejoice over me.
 ## Psalm 30:2

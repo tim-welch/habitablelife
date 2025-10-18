@@ -1,4 +1,3 @@
-# Isaiah 7
 ## Isaiah 7:1
 Now in the days that Ahaz son of Jotham, the son of Uzziah, was king of Judah, Rezin king of Aram marched up to wage war against Jerusalem. He was accompanied by Pekah son of Remaliah the king of Israel, but he could not overpower the city.
 ## Isaiah 7:2

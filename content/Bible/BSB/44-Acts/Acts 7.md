@@ -1,4 +1,3 @@
-# Acts 7
 ## Acts 7:1
 Then the high priest asked Stephen, “Are these charges true?”
 ## Acts 7:2

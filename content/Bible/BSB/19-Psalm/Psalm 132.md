@@ -1,4 +1,3 @@
-# Psalm 132
 ## Psalm 132:1
 A song of ascents. O LORD, remember on behalf of David all the hardships he endured,
 ## Psalm 132:2

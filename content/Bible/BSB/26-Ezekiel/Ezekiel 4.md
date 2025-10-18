@@ -1,4 +1,3 @@
-# Ezekiel 4
 ## Ezekiel 4:1
 “Now you, son of man, take a brick, place it before you, and draw on it the city of Jerusalem.
 ## Ezekiel 4:2

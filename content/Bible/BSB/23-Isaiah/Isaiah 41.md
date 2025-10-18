@@ -1,4 +1,3 @@
-# Isaiah 41
 ## Isaiah 41:1
 “Be silent before Me, O islands, and let the peoples renew their strength. Let them come forward and testify; let us together draw near for judgment.
 ## Isaiah 41:2

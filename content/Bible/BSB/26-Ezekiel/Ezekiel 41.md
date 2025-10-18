@@ -1,4 +1,3 @@
-# Ezekiel 41
 ## Ezekiel 41:1
 Then the man brought me into the outer sanctuary and measured the side pillars to be six cubits wide on each side.
 ## Ezekiel 41:2

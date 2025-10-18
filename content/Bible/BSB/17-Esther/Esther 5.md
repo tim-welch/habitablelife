@@ -1,4 +1,3 @@
-# Esther 5
 ## Esther 5:1
 On the third day, Esther put on her royal robes and stood in the inner court of the palace across from the king’s quarters. The king was sitting on his royal throne in the royal courtroom, facing the entrance.
 ## Esther 5:2

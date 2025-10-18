@@ -1,4 +1,3 @@
-# Numbers 23
 ## Numbers 23:1
 Then Balaam said to Balak, “Build for me seven altars here, and prepare for me seven bulls and seven rams.”
 ## Numbers 23:2

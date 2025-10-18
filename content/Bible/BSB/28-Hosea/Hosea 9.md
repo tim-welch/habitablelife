@@ -1,4 +1,3 @@
-# Hosea 9
 ## Hosea 9:1
 Do not rejoice, O Israel, with exultation like the nations, for you have played the harlot against your God; you have made love for hire on every threshing floor.
 ## Hosea 9:2

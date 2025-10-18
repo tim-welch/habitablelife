@@ -1,4 +1,3 @@
-# Psalm 136
 ## Psalm 136:1
 Give thanks to the LORD, for He is good. His loving devotion endures forever.
 ## Psalm 136:2

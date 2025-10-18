@@ -1,4 +1,3 @@
-# Ecclesiastes 12
 ## Ecclesiastes 12:1
 Remember your Creator in the days of your youth, before the days of adversity come and the years approach of which you will say, “I find no pleasure in them,”
 ## Ecclesiastes 12:2

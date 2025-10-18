@@ -1,4 +1,3 @@
-# 2 Chronicles 1
 ## 2 Chronicles 1:1
 Now Solomon son of David established himself securely over his kingdom, and the LORD his God was with him and highly exalted him.
 ## 2 Chronicles 1:2

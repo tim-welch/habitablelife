@@ -1,4 +1,3 @@
-# Exodus 34
 ## Exodus 34:1
 Then the LORD said to Moses, “Chisel out two stone tablets like the originals, and I will write on them the words that were on the first tablets, which you broke.
 ## Exodus 34:2

@@ -1,4 +1,3 @@
-# Psalm 117
 ## Psalm 117:1
 Praise the LORD, all you nations! Extol Him, all you peoples!
 ## Psalm 117:2

@@ -1,4 +1,3 @@
-# Malachi 1
 ## Malachi 1:1
 This is the burden of the word of the LORD to Israel through Malachi:
 ## Malachi 1:2

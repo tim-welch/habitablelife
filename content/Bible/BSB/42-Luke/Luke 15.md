@@ -1,4 +1,3 @@
-# Luke 15
 ## Luke 15:1
 Now all the tax collectors and sinners were gathering around to listen to Jesus.
 ## Luke 15:2

@@ -1,4 +1,3 @@
-# Psalm 43
 ## Psalm 43:1
 Vindicate me, O God, and plead my case against an ungodly nation; deliver me from deceitful and unjust men.
 ## Psalm 43:2

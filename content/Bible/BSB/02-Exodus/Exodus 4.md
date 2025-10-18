@@ -1,4 +1,3 @@
-# Exodus 4
 ## Exodus 4:1
 Then Moses answered, “What if they do not believe me or listen to my voice? For they may say, ‘The LORD has not appeared to you.’”
 ## Exodus 4:2

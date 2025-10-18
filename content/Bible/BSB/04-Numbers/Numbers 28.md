@@ -1,4 +1,3 @@
-# Numbers 28
 ## Numbers 28:1
 Then the LORD said to Moses,
 ## Numbers 28:2

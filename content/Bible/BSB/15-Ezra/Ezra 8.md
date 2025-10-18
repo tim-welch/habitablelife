@@ -1,4 +1,3 @@
-# Ezra 8
 ## Ezra 8:1
 These are the family heads and genealogical records of those who returned with me from Babylon during the reign of King Artaxerxes:
 ## Ezra 8:2

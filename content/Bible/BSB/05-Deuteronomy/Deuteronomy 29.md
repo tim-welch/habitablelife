@@ -1,4 +1,3 @@
-# Deuteronomy 29
 ## Deuteronomy 29:1
 These are the words of the covenant that the LORD commanded Moses to make with the Israelites in the land of Moab, in addition to the covenant He had made with them at Horeb.
 ## Deuteronomy 29:2

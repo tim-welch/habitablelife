@@ -1,4 +1,3 @@
-# Matthew 19
 ## Matthew 19:1
 When Jesus had finished saying these things, He left Galilee and went into the region of Judea beyond the Jordan.
 ## Matthew 19:2

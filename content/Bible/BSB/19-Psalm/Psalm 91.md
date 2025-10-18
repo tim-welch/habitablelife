@@ -1,4 +1,3 @@
-# Psalm 91
 ## Psalm 91:1
 He who dwells in the shelter of the Most High will abide in the shadow of the Almighty.
 ## Psalm 91:2

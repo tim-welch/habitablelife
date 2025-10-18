@@ -1,4 +1,3 @@
-# 2 Chronicles 5
 ## 2 Chronicles 5:1
 So all the work that Solomon had performed for the house of the LORD was completed. Then Solomon brought in the items his father David had dedicated—the silver, the gold, and all the furnishings—and he placed them in the treasuries of the house of God.
 ## 2 Chronicles 5:2

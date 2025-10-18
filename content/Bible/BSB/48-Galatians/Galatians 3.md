@@ -1,4 +1,3 @@
-# Galatians 3
 ## Galatians 3:1
 O foolish Galatians! Who has bewitched you? Before your very eyes Jesus Christ was clearly portrayed as crucified.
 ## Galatians 3:2

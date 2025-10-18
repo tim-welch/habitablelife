@@ -1,4 +1,3 @@
-# Matthew 28
 ## Matthew 28:1
 After the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to see the tomb.
 ## Matthew 28:2

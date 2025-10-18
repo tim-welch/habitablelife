@@ -1,4 +1,3 @@
-# Nehemiah 9
 ## Nehemiah 9:1
 On the twenty-fourth day of the same month, the Israelites gathered together, fasting and wearing sackcloth, with dust on their heads.
 ## Nehemiah 9:2

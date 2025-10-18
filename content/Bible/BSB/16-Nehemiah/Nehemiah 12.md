@@ -1,4 +1,3 @@
-# Nehemiah 12
 ## Nehemiah 12:1
 Now these are the priests and Levites who went up with Zerubbabel son of Shealtiel and with Jeshua: Seraiah, Jeremiah, Ezra,
 ## Nehemiah 12:2

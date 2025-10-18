@@ -1,4 +1,3 @@
-# Job 16
 ## Job 16:1
 Then Job answered:
 ## Job 16:2

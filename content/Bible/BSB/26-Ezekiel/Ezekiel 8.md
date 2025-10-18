@@ -1,4 +1,3 @@
-# Ezekiel 8
 ## Ezekiel 8:1
 In the sixth year, on the fifth day of the sixth month, I was sitting in my house, and the elders of Judah were sitting before me; and there the hand of the Lord GOD fell upon me.
 ## Ezekiel 8:2

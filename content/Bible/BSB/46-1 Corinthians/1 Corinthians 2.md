@@ -1,4 +1,3 @@
-# 1 Corinthians 2
 ## 1 Corinthians 2:1
 When I came to you, brothers, I did not come with eloquence or wisdom as I proclaimed to you the testimony about God.
 ## 1 Corinthians 2:2

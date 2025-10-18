@@ -1,4 +1,3 @@
-# Psalm 18
 ## Psalm 18:1
 For the choirmaster. Of David the servant of the LORD, who sang this song to the LORD on the day the LORD had delivered him from the hand of all his enemies and from the hand of Saul. He said: I love You, O LORD, my strength.
 ## Psalm 18:2

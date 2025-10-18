@@ -1,4 +1,3 @@
-# Proverbs 29
 ## Proverbs 29:1
 A man who remains stiff-necked after much reproof will suddenly be shattered beyond recovery.
 ## Proverbs 29:2

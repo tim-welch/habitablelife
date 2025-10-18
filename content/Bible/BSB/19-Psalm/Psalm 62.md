@@ -1,4 +1,3 @@
-# Psalm 62
 ## Psalm 62:1
 For the choirmaster. According to Jeduthun. A Psalm of David. In God alone my soul finds rest; my salvation comes from Him.
 ## Psalm 62:2

@@ -1,4 +1,3 @@
-# Isaiah 15
 ## Isaiah 15:1
 This is the burden against Moab: Ar in Moab is ruined, destroyed in a night! Kir in Moab is devastated, destroyed in a night!
 ## Isaiah 15:2

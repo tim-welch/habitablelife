@@ -1,4 +1,3 @@
-# Psalm 100
 ## Psalm 100:1
 A Psalm of thanksgiving. Make a joyful noise to the LORD, all the earth.
 ## Psalm 100:2

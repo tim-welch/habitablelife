@@ -1,4 +1,3 @@
-# Job 7
 ## Job 7:1
 “Is not man consigned to labor on earth? Are not his days like those of a hired hand?
 ## Job 7:2

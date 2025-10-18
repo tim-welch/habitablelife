@@ -1,4 +1,3 @@
-# Acts 3
 ## Acts 3:1
 One afternoon Peter and John were going up to the temple at the hour of prayer, the ninth hour.
 ## Acts 3:2

@@ -1,4 +1,3 @@
-# 1 Peter 3
 ## 1 Peter 3:1
 Wives, in the same way, submit yourselves to your husbands, so that even if they refuse to believe the word, they will be won over without words by the behavior of their wives
 ## 1 Peter 3:2

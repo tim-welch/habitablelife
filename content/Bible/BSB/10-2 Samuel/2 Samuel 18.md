@@ -1,4 +1,3 @@
-# 2 Samuel 18
 ## 2 Samuel 18:1
 Then David reviewed his troops and appointed over them commanders of thousands and of hundreds.
 ## 2 Samuel 18:2

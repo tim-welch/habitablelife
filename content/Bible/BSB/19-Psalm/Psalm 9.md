@@ -1,4 +1,3 @@
-# Psalm 9
 ## Psalm 9:1
 For the choirmaster. To the tune of “The Death of the Son.” A Psalm of David. I will give thanks to the LORD with all my heart; I will recount all Your wonders.
 ## Psalm 9:2

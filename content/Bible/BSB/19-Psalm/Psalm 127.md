@@ -1,4 +1,3 @@
-# Psalm 127
 ## Psalm 127:1
 A song of ascents. Of Solomon. Unless the LORD builds the house, its builders labor in vain; unless the LORD protects the city, its watchmen stand guard in vain.
 ## Psalm 127:2

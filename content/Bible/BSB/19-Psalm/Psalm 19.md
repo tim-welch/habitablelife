@@ -1,4 +1,3 @@
-# Psalm 19
 ## Psalm 19:1
 For the choirmaster. A Psalm of David. The heavens declare the glory of God; the skies proclaim the work of His hands.
 ## Psalm 19:2

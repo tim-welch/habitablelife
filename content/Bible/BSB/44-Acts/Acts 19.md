@@ -1,4 +1,3 @@
-# Acts 19
 ## Acts 19:1
 While Apollos was at Corinth, Paul passed through the interior and came to Ephesus. There he found some disciples
 ## Acts 19:2

@@ -1,4 +1,3 @@
-# 1 Corinthians 1
 ## 1 Corinthians 1:1
 Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,
 ## 1 Corinthians 1:2

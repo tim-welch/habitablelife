@@ -1,4 +1,3 @@
-# Psalm 95
 ## Psalm 95:1
 Come, let us sing for joy to the LORD; let us shout to the Rock of our salvation!
 ## Psalm 95:2

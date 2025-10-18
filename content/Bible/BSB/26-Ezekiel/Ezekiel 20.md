@@ -1,4 +1,3 @@
-# Ezekiel 20
 ## Ezekiel 20:1
 In the seventh year, on the tenth day of the fifth month, some of the elders of Israel came to inquire of the LORD, and they sat down before me.
 ## Ezekiel 20:2

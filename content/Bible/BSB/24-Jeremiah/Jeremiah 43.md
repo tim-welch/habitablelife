@@ -1,4 +1,3 @@
-# Jeremiah 43
 ## Jeremiah 43:1
 When Jeremiah had finished telling all the people all the words of the LORD their God—everything that the LORD had sent him to say—
 ## Jeremiah 43:2

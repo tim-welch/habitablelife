@@ -1,4 +1,3 @@
-# Luke 16
 ## Luke 16:1
 Jesus also said to His disciples, “There was a rich man whose manager was accused of wasting his possessions.
 ## Luke 16:2

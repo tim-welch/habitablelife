@@ -1,4 +1,3 @@
-# Mark 13
 ## Mark 13:1
 As Jesus was leaving the temple, one of His disciples said to Him, “Teacher, look at the magnificent stones and buildings!”
 ## Mark 13:2

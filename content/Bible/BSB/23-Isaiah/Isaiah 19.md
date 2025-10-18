@@ -1,4 +1,3 @@
-# Isaiah 19
 ## Isaiah 19:1
 This is the burden against Egypt: Behold, the LORD rides on a swift cloud; He is coming to Egypt. The idols of Egypt will tremble before Him, and the hearts of the Egyptians will melt within them.
 ## Isaiah 19:2

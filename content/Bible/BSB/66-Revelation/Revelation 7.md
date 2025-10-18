@@ -1,4 +1,3 @@
-# Revelation 7
 ## Revelation 7:1
 After this I saw four angels standing at the four corners of the earth, holding back its four winds so that no wind would blow on land or sea or on any tree.
 ## Revelation 7:2

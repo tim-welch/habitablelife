@@ -1,4 +1,3 @@
-# Revelation 20
 ## Revelation 20:1
 Then I saw an angel coming down from heaven with the key to the Abyss, holding in his hand a great chain.
 ## Revelation 20:2

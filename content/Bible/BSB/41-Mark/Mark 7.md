@@ -1,4 +1,3 @@
-# Mark 7
 ## Mark 7:1
 Then the Pharisees and some of the scribes who had come from Jerusalem gathered around Jesus,
 ## Mark 7:2

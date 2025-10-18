@@ -1,4 +1,3 @@
-# 1 Thessalonians 3
 ## 1 Thessalonians 3:1
 So when we could bear it no longer, we were willing to be left on our own in Athens.
 ## 1 Thessalonians 3:2

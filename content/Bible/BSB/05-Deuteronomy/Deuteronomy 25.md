@@ -1,4 +1,3 @@
-# Deuteronomy 25
 ## Deuteronomy 25:1
 If there is a dispute between men, they are to go to court to be judged, so that the innocent may be acquitted and the guilty condemned.
 ## Deuteronomy 25:2

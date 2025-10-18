@@ -1,4 +1,3 @@
-# Psalm 71
 ## Psalm 71:1
 In You, O LORD, I have taken refuge; let me never be put to shame.
 ## Psalm 71:2

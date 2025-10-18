@@ -1,4 +1,3 @@
-# Romans 7
 ## Romans 7:1
 Do you not know, brothers (for I am speaking to those who know the law), that the law has authority over a man only as long as he lives?
 ## Romans 7:2

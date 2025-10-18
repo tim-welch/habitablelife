@@ -1,4 +1,3 @@
-# Hebrews 6
 ## Hebrews 6:1
 Therefore let us leave the elementary teachings about Christ and go on to maturity, not laying again the foundation of repentance from dead works, and of faith in God,
 ## Hebrews 6:2

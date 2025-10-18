@@ -1,4 +1,3 @@
-# Deuteronomy 33
 ## Deuteronomy 33:1
 This is the blessing that Moses the man of God pronounced upon the Israelites before his death.
 ## Deuteronomy 33:2

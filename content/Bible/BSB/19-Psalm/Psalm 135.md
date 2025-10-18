@@ -1,4 +1,3 @@
-# Psalm 135
 ## Psalm 135:1
 Hallelujah! Praise the name of the LORD. Give praise, O servants of the LORD,
 ## Psalm 135:2

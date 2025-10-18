@@ -1,4 +1,3 @@
-# 2 Kings 3
 ## 2 Kings 3:1
 In the eighteenth year of Jehoshaphat’s reign over Judah, Jehoram son of Ahab became king of Israel, and he reigned in Samaria twelve years.
 ## 2 Kings 3:2

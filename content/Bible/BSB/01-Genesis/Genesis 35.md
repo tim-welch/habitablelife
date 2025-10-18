@@ -1,4 +1,3 @@
-# Genesis 35
 ## Genesis 35:1
 Then God said to Jacob, “Arise, go up to Bethel, and settle there. Build an altar there to the God who appeared to you when you fled from your brother Esau.”
 ## Genesis 35:2

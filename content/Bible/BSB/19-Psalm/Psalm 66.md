@@ -1,4 +1,3 @@
-# Psalm 66
 ## Psalm 66:1
 For the choirmaster. A song. A Psalm. Make a joyful noise to God, all the earth!
 ## Psalm 66:2

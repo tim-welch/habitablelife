@@ -1,4 +1,3 @@
-# Ruth 4
 ## Ruth 4:1
 Meanwhile, Boaz went to the gate and sat down there. Soon the kinsman-redeemer of whom he had spoken came along, and Boaz said, “Come over here, my friend, and sit down.” So he went over and sat down.
 ## Ruth 4:2

@@ -1,4 +1,3 @@
-# Deuteronomy 14
 ## Deuteronomy 14:1
 You are sons of the LORD your God; do not cut yourselves or shave your foreheads on behalf of the dead,
 ## Deuteronomy 14:2

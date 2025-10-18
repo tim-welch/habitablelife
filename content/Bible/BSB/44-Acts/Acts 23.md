@@ -1,4 +1,3 @@
-# Acts 23
 ## Acts 23:1
 Paul looked directly at the Sanhedrin and said, “Brothers, I have conducted myself before God in all good conscience to this day.”
 ## Acts 23:2

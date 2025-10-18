@@ -1,4 +1,3 @@
-# Revelation 14
 ## Revelation 14:1
 Then I looked and saw the Lamb standing on Mount Zion, and with Him 144,000 who had His name and His Father’s name written on their foreheads.
 ## Revelation 14:2

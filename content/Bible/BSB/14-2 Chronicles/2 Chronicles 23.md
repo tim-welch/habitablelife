@@ -1,4 +1,3 @@
-# 2 Chronicles 23
 ## 2 Chronicles 23:1
 Then in the seventh year, Jehoiada strengthened himself and made a covenant with the commanders of hundreds—with Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.
 ## 2 Chronicles 23:2

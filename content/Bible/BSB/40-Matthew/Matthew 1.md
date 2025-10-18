@@ -1,4 +1,3 @@
-# Matthew 1
 ## Matthew 1:1
 This is the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:
 ## Matthew 1:2

@@ -1,4 +1,3 @@
-# Psalm 114
 ## Psalm 114:1
 When Israel departed from Egypt, the house of Jacob from a people of foreign tongue,
 ## Psalm 114:2

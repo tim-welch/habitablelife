@@ -1,4 +1,3 @@
-# Ezekiel 2
 ## Ezekiel 2:1
 “Son of man,” He said to me, “stand up on your feet and I will speak to you.”
 ## Ezekiel 2:2

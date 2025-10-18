@@ -1,4 +1,3 @@
-# Psalm 2
 ## Psalm 2:1
 Why do the nations rage and the peoples plot in vain?
 ## Psalm 2:2

@@ -1,4 +1,3 @@
-# Job 38
 ## Job 38:1
 Then the LORD answered Job out of the whirlwind and said:
 ## Job 38:2

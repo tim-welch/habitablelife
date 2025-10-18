@@ -1,4 +1,3 @@
-# Genesis 27
 ## Genesis 27:1
 When Isaac was old and his eyes were so weak that he could no longer see, he called his older son Esau and said to him, “My son.” “Here I am,” Esau replied.
 ## Genesis 27:2

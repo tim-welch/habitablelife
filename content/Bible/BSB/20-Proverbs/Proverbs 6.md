@@ -1,4 +1,3 @@
-# Proverbs 6
 ## Proverbs 6:1
 My son, if you have put up security for your neighbor, if you have struck hands in pledge with a stranger,
 ## Proverbs 6:2

@@ -1,4 +1,3 @@
-# Mark 16
 ## Mark 16:1
 When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so they could go and anoint the body of Jesus.
 ## Mark 16:2

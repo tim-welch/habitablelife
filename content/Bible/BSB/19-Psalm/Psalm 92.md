@@ -1,4 +1,3 @@
-# Psalm 92
 ## Psalm 92:1
 A Psalm. A song for the Sabbath day. It is good to praise the LORD, and to sing praises to Your name, O Most High,
 ## Psalm 92:2

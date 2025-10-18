@@ -1,4 +1,3 @@
-# Exodus 25
 ## Exodus 25:1
 Then the LORD said to Moses,
 ## Exodus 25:2

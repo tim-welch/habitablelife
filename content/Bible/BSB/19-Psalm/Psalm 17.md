@@ -1,4 +1,3 @@
-# Psalm 17
 ## Psalm 17:1
 A prayer of David. Hear, O LORD, my righteous plea; listen to my cry. Give ear to my prayer—it comes from lips free of deceit.
 ## Psalm 17:2

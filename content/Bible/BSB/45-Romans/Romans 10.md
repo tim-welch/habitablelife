@@ -1,4 +1,3 @@
-# Romans 10
 ## Romans 10:1
 Brothers, my heart’s desire and prayer to God for the Israelites is for their salvation.
 ## Romans 10:2

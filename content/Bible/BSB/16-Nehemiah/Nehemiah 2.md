@@ -1,4 +1,3 @@
-# Nehemiah 2
 ## Nehemiah 2:1
 Now in the month of Nisan, in the twentieth year of King Artaxerxes, when wine was set before him, I took the wine and gave it to the king. I had never been sad in his presence,
 ## Nehemiah 2:2

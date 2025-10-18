@@ -1,4 +1,3 @@
-# Numbers 14
 ## Numbers 14:1
 Then the whole congregation lifted up their voices and cried out, and that night the people wept.
 ## Numbers 14:2

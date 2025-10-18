@@ -1,4 +1,3 @@
-# 2 Chronicles 36
 ## 2 Chronicles 36:1
 Then the people of the land took Jehoahaz son of Josiah and made him king in Jerusalem in place of his father.
 ## 2 Chronicles 36:2

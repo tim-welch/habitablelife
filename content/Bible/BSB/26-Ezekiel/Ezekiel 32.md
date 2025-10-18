@@ -1,4 +1,3 @@
-# Ezekiel 32
 ## Ezekiel 32:1
 In the twelfth year, on the first day of the twelfth month, the word of the LORD came to me, saying,
 ## Ezekiel 32:2

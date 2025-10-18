@@ -1,4 +1,3 @@
-# Leviticus 27
 ## Leviticus 27:1
 Then the LORD said to Moses,
 ## Leviticus 27:2

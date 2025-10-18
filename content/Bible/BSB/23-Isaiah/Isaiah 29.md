@@ -1,4 +1,3 @@
-# Isaiah 29
 ## Isaiah 29:1
 Woe to you, O Ariel, the city of Ariel where David camped! Year upon year let your festivals recur.
 ## Isaiah 29:2

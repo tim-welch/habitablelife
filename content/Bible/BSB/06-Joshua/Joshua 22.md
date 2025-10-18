@@ -1,4 +1,3 @@
-# Joshua 22
 ## Joshua 22:1
 Then Joshua summoned the Reubenites, the Gadites, and the half-tribe of Manasseh
 ## Joshua 22:2

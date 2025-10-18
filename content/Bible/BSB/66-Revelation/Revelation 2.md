@@ -1,4 +1,3 @@
-# Revelation 2
 ## Revelation 2:1
 “To the angel of the church in Ephesus write: These are the words of Him who holds the seven stars in His right hand and walks among the seven golden lampstands.
 ## Revelation 2:2

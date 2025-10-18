@@ -1,4 +1,3 @@
-# Jeremiah 28
 ## Jeremiah 28:1
 In the fifth month of that same year, the fourth year, near the beginning of the reign of King Zedekiah of Judah, the prophet Hananiah son of Azzur, who was from Gibeon, said to me in the house of the LORD in the presence of the priests and all the people:
 ## Jeremiah 28:2

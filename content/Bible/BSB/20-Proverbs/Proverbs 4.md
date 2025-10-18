@@ -1,4 +1,3 @@
-# Proverbs 4
 ## Proverbs 4:1
 Listen, my sons, to a father’s instruction; pay attention and gain understanding.
 ## Proverbs 4:2

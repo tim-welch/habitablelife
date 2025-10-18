@@ -1,4 +1,3 @@
-# Hosea 10
 ## Hosea 10:1
 Israel was a luxuriant vine, yielding fruit for himself. The more his fruit increased, the more he increased the altars. The better his land produced, the better he made the sacred pillars.
 ## Hosea 10:2

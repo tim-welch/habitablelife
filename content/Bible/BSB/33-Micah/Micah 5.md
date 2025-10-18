@@ -1,4 +1,3 @@
-# Micah 5
 ## Micah 5:1
 Now, O daughter of troops, mobilize your troops; for a siege is laid against us! With a rod they will strike the cheek of the judge of Israel.
 ## Micah 5:2

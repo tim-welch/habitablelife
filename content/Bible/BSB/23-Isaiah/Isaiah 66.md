@@ -1,4 +1,3 @@
-# Isaiah 66
 ## Isaiah 66:1
 This is what the LORD says: “Heaven is My throne, and earth is My footstool. What kind of house will you build for Me? Or where will My place of repose be?
 ## Isaiah 66:2

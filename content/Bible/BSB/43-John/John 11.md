@@ -1,4 +1,3 @@
-# John 11
 ## John 11:1
 At this time a man named Lazarus was sick. He lived in Bethany, the village of Mary and her sister Martha.
 ## John 11:2

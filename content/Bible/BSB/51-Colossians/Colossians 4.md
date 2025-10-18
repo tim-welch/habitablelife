@@ -1,4 +1,3 @@
-# Colossians 4
 ## Colossians 4:1
 Masters, supply your slaves with what is right and fair, since you know that you also have a Master in heaven.
 ## Colossians 4:2

@@ -1,4 +1,3 @@
-# Isaiah 49
 ## Isaiah 49:1
 Listen to Me, O islands; pay attention, O distant peoples: The LORD called Me from the womb; from the body of My mother He named Me.
 ## Isaiah 49:2

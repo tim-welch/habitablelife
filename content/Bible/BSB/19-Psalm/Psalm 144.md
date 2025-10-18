@@ -1,4 +1,3 @@
-# Psalm 144
 ## Psalm 144:1
 Of David. Blessed be the LORD, my Rock, who trains my hands for war, my fingers for battle.
 ## Psalm 144:2

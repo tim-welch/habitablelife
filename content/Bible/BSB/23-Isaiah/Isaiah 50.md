@@ -1,4 +1,3 @@
-# Isaiah 50
 ## Isaiah 50:1
 This is what the LORD says: “Where is your mother’s certificate of divorce with which I sent her away? Or to which of My creditors did I sell you? Look, you were sold for your iniquities, and for your transgressions your mother was sent away.
 ## Isaiah 50:2

@@ -1,4 +1,3 @@
-# Jeremiah 27
 ## Jeremiah 27:1
 At the beginning of the reign of Zedekiah son of Josiah king of Judah, this word came to Jeremiah from the LORD.
 ## Jeremiah 27:2

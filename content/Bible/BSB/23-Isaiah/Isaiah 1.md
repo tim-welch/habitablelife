@@ -1,4 +1,3 @@
-# Isaiah 1
 ## Isaiah 1:1
 This is the vision concerning Judah and Jerusalem that Isaiah son of Amoz saw during the reigns of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 ## Isaiah 1:2

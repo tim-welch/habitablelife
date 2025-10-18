@@ -1,4 +1,3 @@
-# Jeremiah 34
 ## Jeremiah 34:1
 This is the word that came to Jeremiah from the LORD when Nebuchadnezzar king of Babylon, all his army, all the earthly kingdoms under his control, and all the other nations were fighting against Jerusalem and all its surrounding cities.
 ## Jeremiah 34:2

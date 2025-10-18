@@ -1,4 +1,3 @@
-# 1 Thessalonians 5
 ## 1 Thessalonians 5:1
 Now about the times and seasons, brothers, we do not need to write to you.
 ## 1 Thessalonians 5:2

@@ -1,4 +1,3 @@
-# 1 Chronicles 11
 ## 1 Chronicles 11:1
 Then all Israel came together to David at Hebron and said, “Here we are, your own flesh and blood.
 ## 1 Chronicles 11:2

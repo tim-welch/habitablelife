@@ -1,4 +1,3 @@
-# Psalm 58
 ## Psalm 58:1
 For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David. Do you indeed speak justly, O rulers? Do you judge uprightly, O sons of men?
 ## Psalm 58:2

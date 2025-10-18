@@ -1,4 +1,3 @@
-# Judges 17
 ## Judges 17:1
 Now a man named Micah from the hill country of Ephraim
 ## Judges 17:2

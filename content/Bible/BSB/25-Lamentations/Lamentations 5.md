@@ -1,4 +1,3 @@
-# Lamentations 5
 ## Lamentations 5:1
 Remember, O LORD, what has happened to us. Look and see our disgrace!
 ## Lamentations 5:2

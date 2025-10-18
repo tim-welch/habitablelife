@@ -1,4 +1,3 @@
-# Psalm 138
 ## Psalm 138:1
 Of David. I give You thanks with all my heart; before the gods I sing Your praises.
 ## Psalm 138:2

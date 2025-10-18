@@ -1,4 +1,3 @@
-# Micah 2
 ## Micah 2:1
 Woe to those who devise iniquity and plot evil on their beds! At morning’s light they accomplish it because the power is in their hands.
 ## Micah 2:2

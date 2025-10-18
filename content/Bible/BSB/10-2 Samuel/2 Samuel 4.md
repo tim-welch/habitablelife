@@ -1,4 +1,3 @@
-# 2 Samuel 4
 ## 2 Samuel 4:1
 Now when Ish-bosheth son of Saul heard that Abner had died in Hebron, he lost courage, and all Israel was dismayed.
 ## 2 Samuel 4:2

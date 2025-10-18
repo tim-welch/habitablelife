@@ -1,4 +1,3 @@
-# Leviticus 21
 ## Leviticus 21:1
 Then the LORD said to Moses, “Speak to Aaron’s sons, the priests, and tell them that a priest is not to defile himself for a dead person among his people,
 ## Leviticus 21:2

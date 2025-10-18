@@ -1,4 +1,3 @@
-# 1 Chronicles 22
 ## 1 Chronicles 22:1
 Then David said, “Here shall be the house of the LORD God, as well as the altar of burnt offering for Israel.”
 ## 1 Chronicles 22:2

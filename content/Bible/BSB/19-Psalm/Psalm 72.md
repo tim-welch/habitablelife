@@ -1,4 +1,3 @@
-# Psalm 72
 ## Psalm 72:1
 Of Solomon. Endow the king with Your justice, O God, and the son of the king with Your righteousness.
 ## Psalm 72:2

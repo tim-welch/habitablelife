@@ -1,4 +1,3 @@
-# Ezekiel 14
 ## Ezekiel 14:1
 Then some of the elders of Israel came and sat down before me.
 ## Ezekiel 14:2

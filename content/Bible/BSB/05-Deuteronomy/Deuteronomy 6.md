@@ -1,4 +1,3 @@
-# Deuteronomy 6
 ## Deuteronomy 6:1
 These are the commandments and statutes and ordinances that the LORD your God has instructed me to teach you to follow in the land that you are about to enter and possess,
 ## Deuteronomy 6:2

@@ -1,4 +1,3 @@
-# Habakkuk 3
 ## Habakkuk 3:1
 This is a prayer of Habakkuk the prophet, according to Shigionoth:
 ## Habakkuk 3:2

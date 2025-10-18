@@ -1,4 +1,3 @@
-# Matthew 2
 ## Matthew 2:1
 After Jesus was born in Bethlehem in Judea, during the time of King Herod, Magi from the east arrived in Jerusalem,
 ## Matthew 2:2

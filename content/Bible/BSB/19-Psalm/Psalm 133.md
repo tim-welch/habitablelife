@@ -1,4 +1,3 @@
-# Psalm 133
 ## Psalm 133:1
 A song of ascents. Of David. Behold, how good and pleasant it is when brothers live together in harmony!
 ## Psalm 133:2

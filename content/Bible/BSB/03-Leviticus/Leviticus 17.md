@@ -1,4 +1,3 @@
-# Leviticus 17
 ## Leviticus 17:1
 Then the LORD said to Moses,
 ## Leviticus 17:2

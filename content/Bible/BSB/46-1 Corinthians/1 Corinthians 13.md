@@ -1,4 +1,3 @@
-# 1 Corinthians 13
 ## 1 Corinthians 13:1
 If I speak in the tongues of men and of angels, but have not love, I am only a ringing gong or a clanging cymbal.
 ## 1 Corinthians 13:2

@@ -1,4 +1,3 @@
-# Leviticus 12
 ## Leviticus 12:1
 Then the LORD said to Moses,
 ## Leviticus 12:2

@@ -1,4 +1,3 @@
-# 2 Chronicles 11
 ## 2 Chronicles 11:1
 When Rehoboam arrived in Jerusalem, he mobilized the house of Judah and Benjamin—180,000 chosen warriors—to fight against Israel and restore the kingdom to Rehoboam.
 ## 2 Chronicles 11:2

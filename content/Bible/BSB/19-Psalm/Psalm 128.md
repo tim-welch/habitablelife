@@ -1,4 +1,3 @@
-# Psalm 128
 ## Psalm 128:1
 A song of ascents. Blessed are all who fear the LORD, who walk in His ways!
 ## Psalm 128:2

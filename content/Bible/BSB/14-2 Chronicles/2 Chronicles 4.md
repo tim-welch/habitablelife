@@ -1,4 +1,3 @@
-# 2 Chronicles 4
 ## 2 Chronicles 4:1
 He made a bronze altar twenty cubits long, twenty cubits wide, and ten cubits high.
 ## 2 Chronicles 4:2

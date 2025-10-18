@@ -1,4 +1,3 @@
-# Joshua 15
 ## Joshua 15:1
 Now the allotment for the clans of the tribe of Judah extended to the border of Edom, to the Wilderness of Zin at the extreme southern boundary:
 ## Joshua 15:2

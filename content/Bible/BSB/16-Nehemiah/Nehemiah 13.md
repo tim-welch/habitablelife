@@ -1,4 +1,3 @@
-# Nehemiah 13
 ## Nehemiah 13:1
 At that time the Book of Moses was read aloud in the hearing of the people, and in it they found the passage stating that no Ammonite or Moabite should ever enter the assembly of God,
 ## Nehemiah 13:2

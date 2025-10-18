@@ -1,4 +1,3 @@
-# 1 Chronicles 15
 ## 1 Chronicles 15:1
 David constructed buildings for himself in the City of David, and he prepared a place for the ark of God and pitched a tent for it.
 ## 1 Chronicles 15:2

@@ -1,4 +1,3 @@
-# 1 Chronicles 12
 ## 1 Chronicles 12:1
 Now these were the men who came to David at Ziklag, while he was still banished from the presence of Saul son of Kish (they were among the mighty men who helped him in battle;
 ## 1 Chronicles 12:2

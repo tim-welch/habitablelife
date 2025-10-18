@@ -1,4 +1,3 @@
-# Exodus 30
 ## Exodus 30:1
 “You are also to make an altar of acacia wood for the burning of incense.
 ## Exodus 30:2

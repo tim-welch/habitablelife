@@ -1,4 +1,3 @@
-# 1 John 5
 ## 1 John 5:1
 Everyone who believes that Jesus is the Christ has been born of God, and everyone who loves the Father also loves those born of Him.
 ## 1 John 5:2

@@ -1,4 +1,3 @@
-# 1 Kings 6
 ## 1 Kings 6:1
 In the four hundred and eightieth year after the Israelites had come out of the land of Egypt, in the fourth year of Solomon’s reign over Israel, in the month of Ziv, the second month, he began to build the house of the LORD.
 ## 1 Kings 6:2

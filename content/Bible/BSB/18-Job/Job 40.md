@@ -1,4 +1,3 @@
-# Job 40
 ## Job 40:1
 And the LORD said to Job:
 ## Job 40:2

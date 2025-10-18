@@ -1,4 +1,3 @@
-# Genesis 10
 ## Genesis 10:1
 This is the account of Noah’s sons Shem, Ham, and Japheth, who also had sons after the flood.
 ## Genesis 10:2

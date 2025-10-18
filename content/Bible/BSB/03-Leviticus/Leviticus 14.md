@@ -1,4 +1,3 @@
-# Leviticus 14
 ## Leviticus 14:1
 Then the LORD said to Moses,
 ## Leviticus 14:2

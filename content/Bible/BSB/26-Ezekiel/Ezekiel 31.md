@@ -1,4 +1,3 @@
-# Ezekiel 31
 ## Ezekiel 31:1
 In the eleventh year, on the first day of the third month, the word of the LORD came to me, saying,
 ## Ezekiel 31:2

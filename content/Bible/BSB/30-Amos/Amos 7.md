@@ -1,4 +1,3 @@
-# Amos 7
 ## Amos 7:1
 This is what the Lord GOD showed me: He was preparing swarms of locusts just after the king’s harvest, as the late spring crop was coming up.
 ## Amos 7:2

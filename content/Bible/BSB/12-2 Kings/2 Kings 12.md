@@ -1,4 +1,3 @@
-# 2 Kings 12
 ## 2 Kings 12:1
 In the seventh year of Jehu, Joash became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah; she was from Beersheba.
 ## 2 Kings 12:2

@@ -1,4 +1,3 @@
-# Matthew 23
 ## Matthew 23:1
 Then Jesus spoke to the crowds and to His disciples:
 ## Matthew 23:2

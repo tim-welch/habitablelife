@@ -1,4 +1,3 @@
-# Daniel 9
 ## Daniel 9:1
 In the first year of Darius son of Xerxes, a Mede by descent, who was made ruler over the kingdom of the Chaldeans—
 ## Daniel 9:2

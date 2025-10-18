@@ -1,4 +1,3 @@
-# Joshua 13
 ## Joshua 13:1
 Now Joshua was old and well along in years, and the LORD said to him, “You are old and well along in years, but very much of the land remains to be possessed.
 ## Joshua 13:2

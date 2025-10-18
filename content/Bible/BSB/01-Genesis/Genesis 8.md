@@ -1,4 +1,3 @@
-# Genesis 8
 ## Genesis 8:1
 But God remembered Noah and all the animals and livestock that were with him in the ark. And God sent a wind over the earth, and the waters began to subside.
 ## Genesis 8:2

@@ -1,4 +1,3 @@
-# Ezekiel 42
 ## Ezekiel 42:1
 Then the man led me out northward into the outer court, and he brought me to the group of chambers opposite the temple courtyard and the outer wall on the north side.
 ## Ezekiel 42:2

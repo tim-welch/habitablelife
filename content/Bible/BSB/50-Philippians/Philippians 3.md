@@ -1,4 +1,3 @@
-# Philippians 3
 ## Philippians 3:1
 Finally, my brothers, rejoice in the Lord. It is no trouble for me to write the same things to you again, and it is a safeguard for you.
 ## Philippians 3:2

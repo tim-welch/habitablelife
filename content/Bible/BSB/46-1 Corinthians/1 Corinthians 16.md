@@ -1,4 +1,3 @@
-# 1 Corinthians 16
 ## 1 Corinthians 16:1
 Now about the collection for the saints, you are to do as I directed the churches of Galatia:
 ## 1 Corinthians 16:2

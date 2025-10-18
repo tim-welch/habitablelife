@@ -1,4 +1,3 @@
-# 1 Kings 9
 ## 1 Kings 9:1
 Now when Solomon had finished building the house of the LORD and the royal palace, and had achieved all that he had desired to do,
 ## 1 Kings 9:2

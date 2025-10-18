@@ -1,4 +1,3 @@
-# Proverbs 17
 ## Proverbs 17:1
 Better a dry morsel in quietness than a house full of feasting with strife.
 ## Proverbs 17:2

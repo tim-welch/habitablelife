@@ -1,4 +1,3 @@
-# Jeremiah 39
 ## Jeremiah 39:1
 In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon marched against Jerusalem with his entire army and laid siege to the city.
 ## Jeremiah 39:2

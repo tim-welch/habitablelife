@@ -1,4 +1,3 @@
-# Matthew 11
 ## Matthew 11:1
 After Jesus had finished instructing His twelve disciples, He went on from there to teach and preach in their cities.
 ## Matthew 11:2

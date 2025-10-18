@@ -1,4 +1,3 @@
-# 1 Samuel 26
 ## 1 Samuel 26:1
 Then the Ziphites came to Saul at Gibeah and said, “Is not David hiding on the hill of Hachilah, opposite Jeshimon?”
 ## 1 Samuel 26:2

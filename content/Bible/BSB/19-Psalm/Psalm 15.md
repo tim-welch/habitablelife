@@ -1,4 +1,3 @@
-# Psalm 15
 ## Psalm 15:1
 A Psalm of David. O LORD, who may abide in Your tent? Who may dwell on Your holy mountain?
 ## Psalm 15:2

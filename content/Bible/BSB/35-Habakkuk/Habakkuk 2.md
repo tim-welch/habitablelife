@@ -1,4 +1,3 @@
-# Habakkuk 2
 ## Habakkuk 2:1
 I will stand at my guard post and station myself on the ramparts. I will watch to see what He will say to me, and how I should answer when corrected.
 ## Habakkuk 2:2

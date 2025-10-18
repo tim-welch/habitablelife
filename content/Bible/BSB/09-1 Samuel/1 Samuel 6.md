@@ -1,4 +1,3 @@
-# 1 Samuel 6
 ## 1 Samuel 6:1
 When the ark of the LORD had been in the land of the Philistines seven months,
 ## 1 Samuel 6:2

@@ -1,4 +1,3 @@
-# 2 Chronicles 34
 ## 2 Chronicles 34:1
 Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years.
 ## 2 Chronicles 34:2

@@ -1,4 +1,3 @@
-# 2 Samuel 14
 ## 2 Samuel 14:1
 Now Joab son of Zeruiah perceived that the king’s heart longed for Absalom.
 ## 2 Samuel 14:2

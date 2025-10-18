@@ -1,4 +1,3 @@
-# Genesis 44
 ## Genesis 44:1
 Then Joseph instructed his steward: “Fill the men’s sacks with as much food as they can carry, and put each one’s silver in the mouth of his sack.
 ## Genesis 44:2

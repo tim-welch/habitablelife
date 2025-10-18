@@ -1,4 +1,3 @@
-# 2 Kings 5
 ## 2 Kings 5:1
 Now Naaman, the commander of the army of the king of Aram, was a great man in his master’s sight and highly regarded, for through him the LORD had given victory to Aram. And he was a mighty man of valor, but he was a leper.
 ## 2 Kings 5:2

@@ -1,4 +1,3 @@
-# Song of Solomon 4
 ## Song of Solomon 4:1
 How beautiful you are, my darling—how very beautiful! Your eyes are like doves behind your veil. Your hair is like a flock of goats streaming down Mount Gilead.
 ## Song of Solomon 4:2

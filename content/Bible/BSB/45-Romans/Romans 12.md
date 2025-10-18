@@ -1,4 +1,3 @@
-# Romans 12
 ## Romans 12:1
 Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship.
 ## Romans 12:2

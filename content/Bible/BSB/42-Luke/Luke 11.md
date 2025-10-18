@@ -1,4 +1,3 @@
-# Luke 11
 ## Luke 11:1
 One day in a place where Jesus had just finished praying, one of His disciples requested, “Lord, teach us to pray, just as John taught his disciples.”
 ## Luke 11:2

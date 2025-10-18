@@ -1,4 +1,3 @@
-# Zechariah 3
 ## Zechariah 3:1
 Then the angel showed me Joshua the high priest standing before the angel of the LORD, with Satan standing at his right hand to accuse him.
 ## Zechariah 3:2

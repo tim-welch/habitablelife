@@ -1,4 +1,3 @@
-# Ezekiel 21
 ## Ezekiel 21:1
 And the word of the LORD came to me, saying,
 ## Ezekiel 21:2

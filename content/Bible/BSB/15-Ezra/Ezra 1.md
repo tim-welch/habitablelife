@@ -1,4 +1,3 @@
-# Ezra 1
 ## Ezra 1:1
 In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken through Jeremiah, the LORD stirred the spirit of Cyrus king of Persia to send a proclamation throughout his kingdom and to put it in writing as follows:
 ## Ezra 1:2

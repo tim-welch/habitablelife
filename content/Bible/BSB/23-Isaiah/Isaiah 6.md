@@ -1,4 +1,3 @@
-# Isaiah 6
 ## Isaiah 6:1
 In the year that King Uzziah died, I saw the Lord seated on a throne, high and exalted; and the train of His robe filled the temple.
 ## Isaiah 6:2

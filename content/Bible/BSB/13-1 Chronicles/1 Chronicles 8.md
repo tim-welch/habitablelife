@@ -1,4 +1,3 @@
-# 1 Chronicles 8
 ## 1 Chronicles 8:1
 Benjamin was the father of Bela his firstborn, Ashbel the second, Aharah the third,
 ## 1 Chronicles 8:2

@@ -1,4 +1,3 @@
-# Ezekiel 27
 ## Ezekiel 27:1
 Then the word of the LORD came to me, saying,
 ## Ezekiel 27:2

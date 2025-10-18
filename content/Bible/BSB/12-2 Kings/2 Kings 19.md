@@ -1,4 +1,3 @@
-# 2 Kings 19
 ## 2 Kings 19:1
 On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and entered the house of the LORD.
 ## 2 Kings 19:2

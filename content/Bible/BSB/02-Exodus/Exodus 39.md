@@ -1,4 +1,3 @@
-# Exodus 39
 ## Exodus 39:1
 From the blue, purple, and scarlet yarn they made specially woven garments for ministry in the sanctuary, as well as the holy garments for Aaron, just as the LORD had commanded Moses.
 ## Exodus 39:2

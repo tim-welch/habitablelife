@@ -1,4 +1,3 @@
-# Luke 23
 ## Luke 23:1
 Then the whole council rose and led Jesus away to Pilate.
 ## Luke 23:2

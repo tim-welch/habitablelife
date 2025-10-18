@@ -1,4 +1,3 @@
-# Isaiah 47
 ## Isaiah 47:1
 “Go down and sit in the dust, O Virgin Daughter of Babylon. Sit on the ground without a throne, O Daughter of the Chaldeans! For you will no longer be called tender or delicate.
 ## Isaiah 47:2

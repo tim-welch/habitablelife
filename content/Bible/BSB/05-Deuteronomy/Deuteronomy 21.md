@@ -1,4 +1,3 @@
-# Deuteronomy 21
 ## Deuteronomy 21:1
 If one is found slain, lying in a field in the land that the LORD your God is giving you to possess, and it is not known who killed him,
 ## Deuteronomy 21:2

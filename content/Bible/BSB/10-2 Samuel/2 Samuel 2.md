@@ -1,4 +1,3 @@
-# 2 Samuel 2
 ## 2 Samuel 2:1
 Some time later, David inquired of the LORD, “Should I go up to one of the towns of Judah?” “Go up,” the LORD answered. Then David asked, “Where should I go?” “To Hebron,” replied the LORD.
 ## 2 Samuel 2:2

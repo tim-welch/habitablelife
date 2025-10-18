@@ -1,4 +1,3 @@
-# 2 Chronicles 29
 ## 2 Chronicles 29:1
 Hezekiah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Abijah, the daughter of Zechariah.
 ## 2 Chronicles 29:2

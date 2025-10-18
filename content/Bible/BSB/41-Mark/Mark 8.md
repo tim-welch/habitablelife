@@ -1,4 +1,3 @@
-# Mark 8
 ## Mark 8:1
 In those days the crowd once again became very large, and they had nothing to eat. Jesus called the disciples to Him and said,
 ## Mark 8:2

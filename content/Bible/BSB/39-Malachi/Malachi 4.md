@@ -1,4 +1,3 @@
-# Malachi 4
 ## Malachi 4:1
 “For behold, the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them.”
 ## Malachi 4:2

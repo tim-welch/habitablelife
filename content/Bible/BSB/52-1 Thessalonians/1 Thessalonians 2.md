@@ -1,4 +1,3 @@
-# 1 Thessalonians 2
 ## 1 Thessalonians 2:1
 You yourselves know, brothers, that our visit to you was not in vain.
 ## 1 Thessalonians 2:2

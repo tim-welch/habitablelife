@@ -1,4 +1,3 @@
-# Ezekiel 15
 ## Ezekiel 15:1
 Then the word of the LORD came to me, saying,
 ## Ezekiel 15:2

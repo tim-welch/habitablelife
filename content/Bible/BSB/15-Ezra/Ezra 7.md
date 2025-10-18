@@ -1,4 +1,3 @@
-# Ezra 7
 ## Ezra 7:1
 Many years later, during the reign of Artaxerxes king of Persia, Ezra son of Seraiah, the son of Azariah, the son of Hilkiah,
 ## Ezra 7:2

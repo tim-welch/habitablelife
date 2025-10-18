@@ -1,4 +1,3 @@
-# 1 Samuel 5
 ## 1 Samuel 5:1
 After the Philistines had captured the ark of God, they took it from Ebenezer to Ashdod,
 ## 1 Samuel 5:2

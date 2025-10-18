@@ -1,4 +1,3 @@
-# Genesis 13
 ## Genesis 13:1
 So Abram went up out of Egypt into the Negev—he and his wife and all his possessions—and Lot was with him.
 ## Genesis 13:2

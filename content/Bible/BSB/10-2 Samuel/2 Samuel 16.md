@@ -1,4 +1,3 @@
-# 2 Samuel 16
 ## 2 Samuel 16:1
 When David had gone a little beyond the summit, Ziba the servant of Mephibosheth was there to meet him. He had a pair of saddled donkeys loaded with two hundred loaves of bread, a hundred clusters of raisins, a hundred summer fruits, and a skin of wine.
 ## 2 Samuel 16:2

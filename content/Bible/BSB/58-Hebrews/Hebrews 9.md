@@ -1,4 +1,3 @@
-# Hebrews 9
 ## Hebrews 9:1
 Now the first covenant had regulations for worship and also an earthly sanctuary.
 ## Hebrews 9:2

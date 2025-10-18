@@ -1,4 +1,3 @@
-# 1 Samuel 19
 ## 1 Samuel 19:1
 Then Saul ordered his son Jonathan and all his servants to kill David. But Jonathan delighted greatly in David,
 ## 1 Samuel 19:2

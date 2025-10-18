@@ -1,4 +1,3 @@
-# Lamentations 4
 ## Lamentations 4:1
 How the gold has become tarnished, the pure gold has become dull! The gems of the temple lie scattered on every street corner.
 ## Lamentations 4:2

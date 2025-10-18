@@ -1,4 +1,3 @@
-# Ecclesiastes 7
 ## Ecclesiastes 7:1
 A good name is better than fine perfume, and one’s day of death is better than his day of birth.
 ## Ecclesiastes 7:2

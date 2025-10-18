@@ -1,4 +1,3 @@
-# 2 Samuel 20
 ## 2 Samuel 20:1
 Now a worthless man named Sheba son of Bichri, a Benjamite, happened to be there, and he blew the ram’s horn and shouted: “We have no share in David, no inheritance in Jesse’s son. Every man to his tent, O Israel!”
 ## 2 Samuel 20:2

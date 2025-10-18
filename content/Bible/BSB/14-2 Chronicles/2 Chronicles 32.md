@@ -1,4 +1,3 @@
-# 2 Chronicles 32
 ## 2 Chronicles 32:1
 After all these acts of faithfulness, Sennacherib king of Assyria came and invaded Judah. He laid siege to the fortified cities, intending to conquer them for himself.
 ## 2 Chronicles 32:2

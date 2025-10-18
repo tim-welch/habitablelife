@@ -1,4 +1,3 @@
-# Luke 22
 ## Luke 22:1
 Now the Feast of Unleavened Bread, called the Passover, was approaching,
 ## Luke 22:2

@@ -1,4 +1,3 @@
-# Philippians 2
 ## Philippians 2:1
 Therefore if you have any encouragement in Christ, if any comfort from His love, if any fellowship with the Spirit, if any affection and compassion,
 ## Philippians 2:2

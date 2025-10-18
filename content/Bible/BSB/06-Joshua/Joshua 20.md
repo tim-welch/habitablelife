@@ -1,4 +1,3 @@
-# Joshua 20
 ## Joshua 20:1
 Then the LORD said to Joshua,
 ## Joshua 20:2

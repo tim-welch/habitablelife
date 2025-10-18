@@ -1,4 +1,3 @@
-# 1 Samuel 15
 ## 1 Samuel 15:1
 Then Samuel said to Saul, “The LORD sent me to anoint you king over His people Israel. Now therefore, listen to the words of the LORD.
 ## 1 Samuel 15:2

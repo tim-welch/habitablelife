@@ -1,4 +1,3 @@
-# Deuteronomy 34
 ## Deuteronomy 34:1
 Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which faces Jericho. And the LORD showed him the whole land—from Gilead as far as Dan,
 ## Deuteronomy 34:2

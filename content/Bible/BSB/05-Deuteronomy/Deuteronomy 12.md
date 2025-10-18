@@ -1,4 +1,3 @@
-# Deuteronomy 12
 ## Deuteronomy 12:1
 These are the statutes and ordinances you must be careful to follow all the days you live in the land that the LORD, the God of your fathers, has given you to possess.
 ## Deuteronomy 12:2

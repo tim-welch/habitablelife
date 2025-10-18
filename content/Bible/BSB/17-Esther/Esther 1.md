@@ -1,4 +1,3 @@
-# Esther 1
 ## Esther 1:1
 This is what happened in the days of Xerxes, who reigned over 127 provinces from India to Cush.
 ## Esther 1:2

@@ -1,4 +1,3 @@
-# Exodus 20
 ## Exodus 20:1
 And God spoke all these words:
 ## Exodus 20:2

@@ -1,4 +1,3 @@
-# Jonah 4
 ## Jonah 4:1
 Jonah, however, was greatly displeased, and he became angry.
 ## Jonah 4:2

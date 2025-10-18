@@ -1,4 +1,3 @@
-# Luke 17
 ## Luke 17:1
 Jesus said to His disciples, “It is inevitable that stumbling blocks will come, but woe to the one through whom they come!
 ## Luke 17:2

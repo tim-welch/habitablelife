@@ -1,4 +1,3 @@
-# 1 Peter 5
 ## 1 Peter 5:1
 As a fellow elder, a witness of Christ’s sufferings, and a partaker of the glory to be revealed, I appeal to the elders among you:
 ## 1 Peter 5:2

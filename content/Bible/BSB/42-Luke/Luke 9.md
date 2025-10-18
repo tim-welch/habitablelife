@@ -1,4 +1,3 @@
-# Luke 9
 ## Luke 9:1
 Then Jesus called the Twelve together and gave them power and authority over all demons, and power to cure diseases.
 ## Luke 9:2

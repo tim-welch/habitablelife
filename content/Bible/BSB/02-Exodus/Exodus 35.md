@@ -1,4 +1,3 @@
-# Exodus 35
 ## Exodus 35:1
 Then Moses assembled the whole congregation of Israel and said to them, “These are the things that the LORD has commanded you to do:
 ## Exodus 35:2

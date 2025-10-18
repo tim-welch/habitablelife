@@ -1,4 +1,3 @@
-# Luke 7
 ## Luke 7:1
 When Jesus had concluded His discourse in the hearing of the people, He went to Capernaum.
 ## Luke 7:2

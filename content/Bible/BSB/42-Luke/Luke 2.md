@@ -1,4 +1,3 @@
-# Luke 2
 ## Luke 2:1
 Now in those days a decree went out from Caesar Augustus that a census should be taken of the whole empire.
 ## Luke 2:2

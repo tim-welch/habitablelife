@@ -1,4 +1,3 @@
-# Isaiah 4
 ## Isaiah 4:1
 In that day seven women will take hold of one man and say, “We will eat our own bread and provide our own clothes. Just let us be called by your name. Take away our disgrace!”
 ## Isaiah 4:2

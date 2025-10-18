@@ -1,4 +1,3 @@
-# Jeremiah 1
 ## Jeremiah 1:1
 These are the words of Jeremiah son of Hilkiah, one of the priests in Anathoth in the territory of Benjamin.
 ## Jeremiah 1:2

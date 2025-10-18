@@ -1,4 +1,3 @@
-# Ezekiel 16
 ## Ezekiel 16:1
 Again the word of the LORD came to me, saying,
 ## Ezekiel 16:2

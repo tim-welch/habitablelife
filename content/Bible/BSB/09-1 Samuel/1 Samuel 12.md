@@ -1,4 +1,3 @@
-# 1 Samuel 12
 ## 1 Samuel 12:1
 Then Samuel said to all Israel, “I have listened to your voice in all that you have said to me, and I have set over you a king.
 ## 1 Samuel 12:2

@@ -1,4 +1,3 @@
-# Psalm 40
 ## Psalm 40:1
 For the choirmaster. A Psalm of David. I waited patiently for the LORD; He inclined to me and heard my cry.
 ## Psalm 40:2

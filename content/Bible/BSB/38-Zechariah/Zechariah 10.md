@@ -1,4 +1,3 @@
-# Zechariah 10
 ## Zechariah 10:1
 Ask the LORD for rain in springtime; the LORD makes the storm clouds, and He will give everyone showers of rain and crops in the field.
 ## Zechariah 10:2

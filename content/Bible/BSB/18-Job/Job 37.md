@@ -1,4 +1,3 @@
-# Job 37
 ## Job 37:1
 “At this my heart also pounds and leaps from its place.
 ## Job 37:2

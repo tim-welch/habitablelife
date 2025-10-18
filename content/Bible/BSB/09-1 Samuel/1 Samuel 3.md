@@ -1,4 +1,3 @@
-# 1 Samuel 3
 ## 1 Samuel 3:1
 And the boy Samuel ministered to the LORD before Eli. Now in those days the word of the LORD was rare, and visions were scarce.
 ## 1 Samuel 3:2

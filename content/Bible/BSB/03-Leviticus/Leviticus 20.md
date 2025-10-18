@@ -1,4 +1,3 @@
-# Leviticus 20
 ## Leviticus 20:1
 Then the LORD said to Moses,
 ## Leviticus 20:2

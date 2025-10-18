@@ -1,4 +1,3 @@
-# 2 Chronicles 8
 ## 2 Chronicles 8:1
 Now at the end of the twenty years during which Solomon had built the house of the LORD and his own palace,
 ## 2 Chronicles 8:2

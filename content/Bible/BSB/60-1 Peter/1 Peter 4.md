@@ -1,4 +1,3 @@
-# 1 Peter 4
 ## 1 Peter 4:1
 Therefore, since Christ suffered in His body, arm yourselves with the same resolve, because anyone who has suffered in his body is done with sin.
 ## 1 Peter 4:2

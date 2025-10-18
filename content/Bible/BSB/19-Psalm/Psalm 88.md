@@ -1,4 +1,3 @@
-# Psalm 88
 ## Psalm 88:1
 A song. A Psalm of the sons of Korah. For the choirmaster. According to Mahalath Leannoth. A Maskil of Heman the Ezrahite. O LORD, the God of my salvation, day and night I cry out before You.
 ## Psalm 88:2

@@ -1,4 +1,3 @@
-# Matthew 6
 ## Matthew 6:1
 “Be careful not to perform your righteous acts before men to be seen by them. If you do, you will have no reward from your Father in heaven.
 ## Matthew 6:2

@@ -1,4 +1,3 @@
-# Ecclesiastes 4
 ## Ecclesiastes 4:1
 Again I looked, and I considered all the oppression taking place under the sun. I saw the tears of the oppressed, and they had no comforter; the power lay in the hands of their oppressors, and there was no comforter.
 ## Ecclesiastes 4:2

@@ -1,4 +1,3 @@
-# Jeremiah 40
 ## Jeremiah 40:1
 This is the word that came to Jeremiah from the LORD after Nebuzaradan captain of the guard had released him at Ramah, having found him bound in chains among all the captives of Jerusalem and Judah who were being exiled to Babylon.
 ## Jeremiah 40:2

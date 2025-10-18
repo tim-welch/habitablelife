@@ -1,4 +1,3 @@
-# Ezekiel 26
 ## Ezekiel 26:1
 In the eleventh month of the twelfth year, on the first day of the month, the word of the LORD came to me, saying,
 ## Ezekiel 26:2

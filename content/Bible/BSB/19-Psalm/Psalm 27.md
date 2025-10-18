@@ -1,4 +1,3 @@
-# Psalm 27
 ## Psalm 27:1
 Of David. The LORD is my light and my salvation—whom shall I fear? The LORD is the stronghold of my life—whom shall I dread?
 ## Psalm 27:2

@@ -1,4 +1,3 @@
-# Zechariah 2
 ## Zechariah 2:1
 Then I lifted up my eyes and saw a man with a measuring line in his hand.
 ## Zechariah 2:2

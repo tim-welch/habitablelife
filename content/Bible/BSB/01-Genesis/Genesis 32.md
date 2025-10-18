@@ -1,4 +1,3 @@
-# Genesis 32
 ## Genesis 32:1
 Jacob also went on his way, and the angels of God met him.
 ## Genesis 32:2

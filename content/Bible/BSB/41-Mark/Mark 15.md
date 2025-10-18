@@ -1,4 +1,3 @@
-# Mark 15
 ## Mark 15:1
 Early in the morning, the chief priests, elders, scribes, and the whole Sanhedrin devised a plan. They bound Jesus, led Him away, and handed Him over to Pilate.
 ## Mark 15:2

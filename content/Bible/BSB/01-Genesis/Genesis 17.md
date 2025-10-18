@@ -1,4 +1,3 @@
-# Genesis 17
 ## Genesis 17:1
 When Abram was ninety-nine years old, the LORD appeared to him and said, “I am God Almighty. Walk before Me and be blameless.
 ## Genesis 17:2

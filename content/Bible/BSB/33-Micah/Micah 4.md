@@ -1,4 +1,3 @@
-# Micah 4
 ## Micah 4:1
 In the last days the mountain of the house of the LORD will be established as the chief of the mountains; it will be raised above the hills, and the peoples will stream to it.
 ## Micah 4:2

@@ -1,4 +1,3 @@
-# Psalm 112
 ## Psalm 112:1
 Hallelujah! Blessed is the man who fears the LORD, who greatly delights in His commandments.
 ## Psalm 112:2

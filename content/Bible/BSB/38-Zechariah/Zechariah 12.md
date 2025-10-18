@@ -1,4 +1,3 @@
-# Zechariah 12
 ## Zechariah 12:1
 This is the burden of the word of the LORD concerning Israel. Thus declares the LORD, who stretches out the heavens and lays the foundation of the earth, who forms the spirit of man within him:
 ## Zechariah 12:2

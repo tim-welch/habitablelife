@@ -1,4 +1,3 @@
-# Jeremiah 42
 ## Jeremiah 42:1
 Then all the commanders of the forces, along with Johanan son of Kareah, Jezaniah son of Hoshaiah, and all the people from the least to the greatest, approached
 ## Jeremiah 42:2

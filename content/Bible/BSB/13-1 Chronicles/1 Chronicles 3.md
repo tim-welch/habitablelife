@@ -1,4 +1,3 @@
-# 1 Chronicles 3
 ## 1 Chronicles 3:1
 These were the sons of David who were born to him in Hebron: The firstborn was Amnon by Ahinoam of Jezreel; the second was Daniel by Abigail of Carmel;
 ## 1 Chronicles 3:2

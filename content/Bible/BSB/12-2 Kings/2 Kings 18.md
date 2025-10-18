@@ -1,4 +1,3 @@
-# 2 Kings 18
 ## 2 Kings 18:1
 In the third year of the reign of Hoshea son of Elah over Israel, Hezekiah son of Ahaz became king of Judah.
 ## 2 Kings 18:2

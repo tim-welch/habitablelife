@@ -1,4 +1,3 @@
-# Job 27
 ## Job 27:1
 Job continued his discourse:
 ## Job 27:2

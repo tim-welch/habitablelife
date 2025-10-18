@@ -1,4 +1,3 @@
-# Nehemiah 7
 ## Nehemiah 7:1
 When the wall had been rebuilt and I had set the doors in place, the gatekeepers, singers, and Levites were appointed.
 ## Nehemiah 7:2

@@ -1,4 +1,3 @@
-# Psalm 64
 ## Psalm 64:1
 For the choirmaster. A Psalm of David. Hear, O God, my voice of complaint; preserve my life from dread of the enemy.
 ## Psalm 64:2

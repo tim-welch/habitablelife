@@ -1,4 +1,3 @@
-# Genesis 24
 ## Genesis 24:1
 By now Abraham was old and well along in years, and the LORD had blessed him in every way.
 ## Genesis 24:2

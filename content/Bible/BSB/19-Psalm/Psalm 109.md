@@ -1,4 +1,3 @@
-# Psalm 109
 ## Psalm 109:1
 For the choirmaster. A Psalm of David. O God of my praise, be not silent.
 ## Psalm 109:2

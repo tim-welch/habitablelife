@@ -1,4 +1,3 @@
-# Numbers 15
 ## Numbers 15:1
 Then the LORD said to Moses,
 ## Numbers 15:2

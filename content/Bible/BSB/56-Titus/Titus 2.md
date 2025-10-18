@@ -1,4 +1,3 @@
-# Titus 2
 ## Titus 2:1
 But as for you, speak the things that are consistent with sound doctrine.
 ## Titus 2:2

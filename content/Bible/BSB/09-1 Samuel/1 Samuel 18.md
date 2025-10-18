@@ -1,4 +1,3 @@
-# 1 Samuel 18
 ## 1 Samuel 18:1
 After David had finished speaking with Saul, the souls of Jonathan and David were knit together, and Jonathan loved him as himself.
 ## 1 Samuel 18:2

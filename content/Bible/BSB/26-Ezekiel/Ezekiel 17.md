@@ -1,4 +1,3 @@
-# Ezekiel 17
 ## Ezekiel 17:1
 Now the word of the LORD came to me, saying,
 ## Ezekiel 17:2

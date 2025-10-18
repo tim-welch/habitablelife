@@ -1,4 +1,3 @@
-# 2 Peter 2
 ## 2 Peter 2:1
 Now there were also false prophets among the people, just as there will be false teachers among you. They will secretly introduce destructive heresies, even denying the Master who bought them—bringing swift destruction on themselves.
 ## 2 Peter 2:2

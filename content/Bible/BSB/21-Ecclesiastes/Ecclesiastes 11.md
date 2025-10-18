@@ -1,4 +1,3 @@
-# Ecclesiastes 11
 ## Ecclesiastes 11:1
 Cast your bread upon the waters, for after many days you will find it again.
 ## Ecclesiastes 11:2

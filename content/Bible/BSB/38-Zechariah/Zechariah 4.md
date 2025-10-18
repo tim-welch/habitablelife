@@ -1,4 +1,3 @@
-# Zechariah 4
 ## Zechariah 4:1
 Then the angel who was speaking with me returned and woke me, as a man is awakened from his sleep.
 ## Zechariah 4:2

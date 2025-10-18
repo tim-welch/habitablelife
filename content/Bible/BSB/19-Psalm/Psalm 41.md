@@ -1,4 +1,3 @@
-# Psalm 41
 ## Psalm 41:1
 For the choirmaster. A Psalm of David. Blessed is the one who cares for the poor; the LORD will deliver him in the day of trouble.
 ## Psalm 41:2

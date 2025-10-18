@@ -1,4 +1,3 @@
-# Acts 12
 ## Acts 12:1
 About that time, King Herod reached out to harm some who belonged to the church.
 ## Acts 12:2

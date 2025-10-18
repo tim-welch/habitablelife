@@ -1,4 +1,3 @@
-# Genesis 42
 ## Genesis 42:1
 When Jacob learned that there was grain in Egypt, he said to his sons, “Why are you staring at one another?”
 ## Genesis 42:2

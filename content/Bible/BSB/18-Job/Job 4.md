@@ -1,4 +1,3 @@
-# Job 4
 ## Job 4:1
 Then Eliphaz the Temanite replied:
 ## Job 4:2

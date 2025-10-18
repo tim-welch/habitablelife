@@ -1,4 +1,3 @@
-# Psalm 42
 ## Psalm 42:1
 For the choirmaster. A Maskil of the sons of Korah. As the deer pants for streams of water, so my soul longs after You, O God.
 ## Psalm 42:2

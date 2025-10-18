@@ -1,4 +1,3 @@
-# Proverbs 14
 ## Proverbs 14:1
 Every wise woman builds her house, but a foolish one tears it down with her own hands.
 ## Proverbs 14:2

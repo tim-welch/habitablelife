@@ -1,4 +1,3 @@
-# Acts 24
 ## Acts 24:1
 Five days later the high priest Ananias came down with some elders and a lawyer named Tertullus, who presented to the governor their case against Paul.
 ## Acts 24:2

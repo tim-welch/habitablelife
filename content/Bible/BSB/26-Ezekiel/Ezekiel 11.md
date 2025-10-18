@@ -1,4 +1,3 @@
-# Ezekiel 11
 ## Ezekiel 11:1
 Then the Spirit lifted me up and brought me to the gate of the house of the LORD that faces east. And there at the entrance of the gate were twenty-five men. Among them I saw Jaazaniah son of Azzur and Pelatiah son of Benaiah, who were leaders of the people.
 ## Ezekiel 11:2

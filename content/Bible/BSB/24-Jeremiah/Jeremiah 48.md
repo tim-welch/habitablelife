@@ -1,4 +1,3 @@
-# Jeremiah 48
 ## Jeremiah 48:1
 Concerning Moab, this is what the LORD of Hosts, the God of Israel, says: “Woe to Nebo, for it will be devastated. Kiriathaim will be captured and disgraced; the fortress will be shattered and dismantled.
 ## Jeremiah 48:2

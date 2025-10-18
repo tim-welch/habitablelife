@@ -1,4 +1,3 @@
-# Hosea 12
 ## Hosea 12:1
 Ephraim feeds on the wind and pursues the east wind all day long; he multiplies lies and violence; he makes a covenant with Assyria and sends olive oil to Egypt.
 ## Hosea 12:2

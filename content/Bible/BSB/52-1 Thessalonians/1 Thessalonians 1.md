@@ -1,4 +1,3 @@
-# 1 Thessalonians 1
 ## 1 Thessalonians 1:1
 Paul, Silvanus, and Timothy, To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace and peace to you.
 ## 1 Thessalonians 1:2

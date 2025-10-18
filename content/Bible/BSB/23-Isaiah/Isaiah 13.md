@@ -1,4 +1,3 @@
-# Isaiah 13
 ## Isaiah 13:1
 This is the burden against Babylon that Isaiah son of Amoz received:
 ## Isaiah 13:2

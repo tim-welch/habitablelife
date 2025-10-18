@@ -1,4 +1,3 @@
-# Ezekiel 12
 ## Ezekiel 12:1
 Then the word of the LORD came to me, saying,
 ## Ezekiel 12:2

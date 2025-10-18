@@ -1,4 +1,3 @@
-# Isaiah 42
 ## Isaiah 42:1
 “Here is My Servant, whom I uphold, My Chosen One, in whom My soul delights. I will put My Spirit on Him, and He will bring justice to the nations.
 ## Isaiah 42:2

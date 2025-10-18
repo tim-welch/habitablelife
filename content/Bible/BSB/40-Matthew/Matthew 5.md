@@ -1,4 +1,3 @@
-# Matthew 5
 ## Matthew 5:1
 When Jesus saw the crowds, He went up on the mountain and sat down. His disciples came to Him,
 ## Matthew 5:2

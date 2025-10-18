@@ -1,4 +1,3 @@
-# Psalm 32
 ## Psalm 32:1
 Of David. A Maskil. Blessed is he whose transgressions are forgiven, whose sins are covered.
 ## Psalm 32:2

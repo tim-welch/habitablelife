@@ -1,4 +1,3 @@
-# 1 Kings 2
 ## 1 Kings 2:1
 As the time drew near for David to die, he charged his son Solomon,
 ## 1 Kings 2:2

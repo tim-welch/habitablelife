@@ -1,4 +1,3 @@
-# 1 Timothy 4
 ## 1 Timothy 4:1
 Now the Spirit expressly states that in later times some will abandon the faith to follow deceitful spirits and the teachings of demons,
 ## 1 Timothy 4:2

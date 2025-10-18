@@ -1,4 +1,3 @@
-# Psalm 12
 ## Psalm 12:1
 For the choirmaster. According to Sheminith. A Psalm of David. Help, O LORD, for the godly are no more; the faithful have vanished from among men.
 ## Psalm 12:2

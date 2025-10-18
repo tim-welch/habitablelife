@@ -1,4 +1,3 @@
-# Psalm 35
 ## Psalm 35:1
 Of David. Contend with my opponents, O LORD; fight against those who fight against me.
 ## Psalm 35:2

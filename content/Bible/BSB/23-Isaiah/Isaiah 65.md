@@ -1,4 +1,3 @@
-# Isaiah 65
 ## Isaiah 65:1
 “I revealed Myself to those who did not ask for Me; I was found by those who did not seek Me. To a nation that did not call My name, I said, ‘Here I am! Here I am!’
 ## Isaiah 65:2

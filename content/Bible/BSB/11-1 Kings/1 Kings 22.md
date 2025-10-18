@@ -1,4 +1,3 @@
-# 1 Kings 22
 ## 1 Kings 22:1
 Then three years passed without war between Aram and Israel.
 ## 1 Kings 22:2

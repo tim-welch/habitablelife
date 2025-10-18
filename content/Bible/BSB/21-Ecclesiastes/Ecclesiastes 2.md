@@ -1,4 +1,3 @@
-# Ecclesiastes 2
 ## Ecclesiastes 2:1
 I said to myself, “Come now, I will test you with pleasure; enjoy what is good!” But it proved to be futile.
 ## Ecclesiastes 2:2

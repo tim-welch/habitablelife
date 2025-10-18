@@ -1,4 +1,3 @@
-# Romans 9
 ## Romans 9:1
 I speak the truth in Christ; I am not lying, as confirmed by my conscience in the Holy Spirit.
 ## Romans 9:2

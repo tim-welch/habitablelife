@@ -1,4 +1,3 @@
-# Jeremiah 3
 ## Jeremiah 3:1
 “If a man divorces his wife and she leaves him to marry another, can he ever return to her? Would not such a land be completely defiled? But you have played the harlot with many lovers—and you would return to Me?” declares the LORD.
 ## Jeremiah 3:2

@@ -1,4 +1,3 @@
-# Psalm 51
 ## Psalm 51:1
 For the choirmaster. A Psalm of David. When Nathan the prophet came to him after his adultery with Bathsheba. Have mercy on me, O God, according to Your loving devotion; according to Your great compassion, blot out my transgressions.
 ## Psalm 51:2

@@ -1,4 +1,3 @@
-# Exodus 3
 ## Exodus 3:1
 Meanwhile, Moses was shepherding the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb, the mountain of God.
 ## Exodus 3:2

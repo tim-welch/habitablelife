@@ -1,4 +1,3 @@
-# Leviticus 19
 ## Leviticus 19:1
 Then the LORD said to Moses,
 ## Leviticus 19:2

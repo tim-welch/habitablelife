@@ -1,4 +1,3 @@
-# Deuteronomy 15
 ## Deuteronomy 15:1
 At the end of every seven years you must cancel debts.
 ## Deuteronomy 15:2

@@ -1,4 +1,3 @@
-# 2 Kings 9
 ## 2 Kings 9:1
 Now Elisha the prophet summoned one of the sons of the prophets and said to him, “Tuck your cloak under your belt, take this flask of oil, and go to Ramoth-gilead.
 ## 2 Kings 9:2

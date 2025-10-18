@@ -1,4 +1,3 @@
-# 2 Samuel 11
 ## 2 Samuel 11:1
 In the spring, at the time when kings march out to war, David sent out Joab and his servants with the whole army of Israel. They destroyed the Ammonites and besieged Rabbah, but David remained in Jerusalem.
 ## 2 Samuel 11:2

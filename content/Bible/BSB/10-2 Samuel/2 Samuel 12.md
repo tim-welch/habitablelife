@@ -1,4 +1,3 @@
-# 2 Samuel 12
 ## 2 Samuel 12:1
 Then the LORD sent Nathan to David, and when he arrived, he said, “There were two men in a certain city, one rich and the other poor.
 ## 2 Samuel 12:2

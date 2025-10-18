@@ -1,4 +1,3 @@
-# 1 Kings 3
 ## 1 Kings 3:1
 Later, Solomon formed an alliance with Pharaoh king of Egypt by marrying his daughter. Solomon brought her to the City of David until he had finished building his palace and the house of the LORD, as well as the wall around Jerusalem.
 ## 1 Kings 3:2

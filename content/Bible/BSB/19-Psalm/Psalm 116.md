@@ -1,4 +1,3 @@
-# Psalm 116
 ## Psalm 116:1
 I love the LORD, for He has heard my voice—my appeal for mercy.
 ## Psalm 116:2

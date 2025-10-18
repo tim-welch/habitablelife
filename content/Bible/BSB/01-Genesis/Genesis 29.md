@@ -1,4 +1,3 @@
-# Genesis 29
 ## Genesis 29:1
 Jacob resumed his journey and came to the land of the people of the east.
 ## Genesis 29:2

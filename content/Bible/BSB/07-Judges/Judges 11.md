@@ -1,4 +1,3 @@
-# Judges 11
 ## Judges 11:1
 Now Jephthah the Gileadite was a mighty man of valor; he was the son of a prostitute, and Gilead was his father.
 ## Judges 11:2

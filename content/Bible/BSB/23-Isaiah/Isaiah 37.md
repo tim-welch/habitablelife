@@ -1,4 +1,3 @@
-# Isaiah 37
 ## Isaiah 37:1
 On hearing this report, King Hezekiah tore his clothes, put on sackcloth, and entered the house of the LORD.
 ## Isaiah 37:2

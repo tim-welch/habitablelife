@@ -1,4 +1,3 @@
-# Matthew 16
 ## Matthew 16:1
 Then the Pharisees and Sadducees came and tested Jesus by asking Him to show them a sign from heaven.
 ## Matthew 16:2

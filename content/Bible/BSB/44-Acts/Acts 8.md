@@ -1,4 +1,3 @@
-# Acts 8
 ## Acts 8:1
 And Saul was there, giving approval to Stephen’s death. On that day a great persecution broke out against the church in Jerusalem, and all except the apostles were scattered throughout Judea and Samaria.
 ## Acts 8:2

@@ -1,4 +1,3 @@
-# Song of Solomon 5
 ## Song of Solomon 5:1
 I have come to my garden, my sister, my bride; I have gathered my myrrh with my spice. I have eaten my honeycomb with my honey; I have drunk my wine with my milk. Eat, O friends, and drink; drink freely, O beloved.
 ## Song of Solomon 5:2

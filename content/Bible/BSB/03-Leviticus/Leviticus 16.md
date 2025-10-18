@@ -1,4 +1,3 @@
-# Leviticus 16
 ## Leviticus 16:1
 Now the LORD spoke to Moses after the death of two of Aaron’s sons when they approached the presence of the LORD.
 ## Leviticus 16:2

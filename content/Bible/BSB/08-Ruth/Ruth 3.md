@@ -1,4 +1,3 @@
-# Ruth 3
 ## Ruth 3:1
 One day Ruth’s mother-in-law Naomi said to her, “My daughter, should I not seek a resting place for you, that it may be well with you?
 ## Ruth 3:2

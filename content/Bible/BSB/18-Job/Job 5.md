@@ -1,4 +1,3 @@
-# Job 5
 ## Job 5:1
 “Call out if you please, but who will answer? To which of the holy ones will you turn?
 ## Job 5:2

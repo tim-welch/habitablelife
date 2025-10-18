@@ -1,4 +1,3 @@
-# Job 12
 ## Job 12:1
 Then Job answered:
 ## Job 12:2

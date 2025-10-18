@@ -1,4 +1,3 @@
-# 2 Kings 7
 ## 2 Kings 7:1
 Then Elisha said, “Hear the word of the LORD! This is what the LORD says: ‘About this time tomorrow at the gate of Samaria, a seah of fine flour will sell for a shekel, and two seahs of barley will sell for a shekel.’”
 ## 2 Kings 7:2

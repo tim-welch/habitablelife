@@ -1,4 +1,3 @@
-# John 19
 ## John 19:1
 Then Pilate took Jesus and had Him flogged.
 ## John 19:2

@@ -1,4 +1,3 @@
-# Joshua 14
 ## Joshua 14:1
 Now these are the portions that the Israelites inherited in the land of Canaan, as distributed by Eleazar the priest, Joshua son of Nun, and the heads of the families of the tribes of Israel.
 ## Joshua 14:2

@@ -1,4 +1,3 @@
-# Deuteronomy 23
 ## Deuteronomy 23:1
 No man with crushed or severed genitals may enter the assembly of the LORD.
 ## Deuteronomy 23:2

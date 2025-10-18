@@ -1,4 +1,3 @@
-# James 4
 ## James 4:1
 What causes conflicts and quarrels among you? Don’t they come from the passions at war within you?
 ## James 4:2

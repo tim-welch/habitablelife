@@ -1,4 +1,3 @@
-# Ezekiel 30
 ## Ezekiel 30:1
 Again the word of the LORD came to me, saying,
 ## Ezekiel 30:2

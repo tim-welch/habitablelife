@@ -1,4 +1,3 @@
-# Deuteronomy 26
 ## Deuteronomy 26:1
 When you enter the land that the LORD your God is giving you as an inheritance, and you take possession of it and settle in it,
 ## Deuteronomy 26:2

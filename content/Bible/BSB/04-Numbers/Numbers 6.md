@@ -1,4 +1,3 @@
-# Numbers 6
 ## Numbers 6:1
 And the LORD said to Moses,
 ## Numbers 6:2

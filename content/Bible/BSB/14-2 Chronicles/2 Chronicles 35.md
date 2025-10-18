@@ -1,4 +1,3 @@
-# 2 Chronicles 35
 ## 2 Chronicles 35:1
 Then Josiah kept the Passover to the LORD in Jerusalem, and the Passover lamb was slaughtered on the fourteenth day of the first month.
 ## 2 Chronicles 35:2

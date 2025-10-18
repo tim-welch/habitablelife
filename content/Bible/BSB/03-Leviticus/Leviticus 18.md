@@ -1,4 +1,3 @@
-# Leviticus 18
 ## Leviticus 18:1
 Then the LORD said to Moses,
 ## Leviticus 18:2

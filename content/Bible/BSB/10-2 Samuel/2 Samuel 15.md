@@ -1,4 +1,3 @@
-# 2 Samuel 15
 ## 2 Samuel 15:1
 Some time later, Absalom provided for himself a chariot with horses and fifty men to run ahead of him.
 ## 2 Samuel 15:2

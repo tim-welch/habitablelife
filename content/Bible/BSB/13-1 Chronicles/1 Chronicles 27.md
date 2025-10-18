@@ -1,4 +1,3 @@
-# 1 Chronicles 27
 ## 1 Chronicles 27:1
 This is the list of the Israelites—the heads of families, the commanders of thousands and of hundreds, and their officers who served the king in every matter concerning the divisions on rotating military duty each month throughout the year. There were 24,000 men in each division:
 ## 1 Chronicles 27:2

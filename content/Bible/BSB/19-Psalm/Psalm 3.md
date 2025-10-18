@@ -1,4 +1,3 @@
-# Psalm 3
 ## Psalm 3:1
 A Psalm of David, when he fled from his son Absalom. O LORD, how my foes have increased! How many rise up against me!
 ## Psalm 3:2

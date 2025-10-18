@@ -1,4 +1,3 @@
-# Job 9
 ## Job 9:1
 Then Job answered:
 ## Job 9:2

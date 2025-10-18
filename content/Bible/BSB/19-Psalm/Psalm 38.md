@@ -1,4 +1,3 @@
-# Psalm 38
 ## Psalm 38:1
 A Psalm of David, for remembrance. O LORD, do not rebuke me in Your anger or discipline me in Your wrath.
 ## Psalm 38:2

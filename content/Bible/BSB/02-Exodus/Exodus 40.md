@@ -1,4 +1,3 @@
-# Exodus 40
 ## Exodus 40:1
 Then the LORD said to Moses,
 ## Exodus 40:2

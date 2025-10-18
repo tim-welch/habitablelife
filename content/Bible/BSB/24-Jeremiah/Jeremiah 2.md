@@ -1,4 +1,3 @@
-# Jeremiah 2
 ## Jeremiah 2:1
 Now the word of the LORD came to me, saying,
 ## Jeremiah 2:2

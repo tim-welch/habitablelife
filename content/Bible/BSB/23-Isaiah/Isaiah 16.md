@@ -1,4 +1,3 @@
-# Isaiah 16
 ## Isaiah 16:1
 Send the tribute lambs to the ruler of the land, from Sela in the desert to the mount of Daughter Zion.
 ## Isaiah 16:2

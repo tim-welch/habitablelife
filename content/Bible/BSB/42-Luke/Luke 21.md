@@ -1,4 +1,3 @@
-# Luke 21
 ## Luke 21:1
 Then Jesus looked up and saw the rich putting their gifts into the treasury,
 ## Luke 21:2

@@ -1,4 +1,3 @@
-# Ezekiel 19
 ## Ezekiel 19:1
 “As for you, take up a lament for the princes of Israel
 ## Ezekiel 19:2

@@ -1,4 +1,3 @@
-# Psalm 29
 ## Psalm 29:1
 A Psalm of David. Ascribe to the LORD, O heavenly beings, ascribe to the LORD glory and strength.
 ## Psalm 29:2

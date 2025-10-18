@@ -1,4 +1,3 @@
-# Zechariah 6
 ## Zechariah 6:1
 And again I lifted up my eyes and saw four chariots coming out from between two mountains—mountains of bronze.
 ## Zechariah 6:2

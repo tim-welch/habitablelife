@@ -1,4 +1,3 @@
-# 2 Samuel 19
 ## 2 Samuel 19:1
 Then it was reported to Joab, “The king is weeping and mourning over Absalom.”
 ## 2 Samuel 19:2

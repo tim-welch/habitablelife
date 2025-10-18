@@ -1,4 +1,3 @@
-# Isaiah 34
 ## Isaiah 34:1
 Come near, O nations, to listen; pay attention, O peoples. Let the earth hear, and all that fills it, the world and all that springs from it.
 ## Isaiah 34:2

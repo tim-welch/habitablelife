@@ -1,4 +1,3 @@
-# Jeremiah 24
 ## Jeremiah 24:1
 After Nebuchadnezzar king of Babylon had carried away Jeconiah son of Jehoiakim king of Judah, as well as the officials of Judah and the craftsmen and metalsmiths from Jerusalem, and had brought them to Babylon, the LORD showed me two baskets of figs placed in front of the temple of the LORD.
 ## Jeremiah 24:2

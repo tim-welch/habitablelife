@@ -1,4 +1,3 @@
-# Job 29
 ## Job 29:1
 And Job continued his discourse:
 ## Job 29:2

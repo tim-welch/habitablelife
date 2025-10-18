@@ -1,4 +1,3 @@
-# Job 30
 ## Job 30:1
 “But now they mock me, men younger than I am, whose fathers I would have refused to put with my sheep dogs.
 ## Job 30:2

@@ -1,4 +1,3 @@
-# Luke 14
 ## Luke 14:1
 One Sabbath, Jesus went to eat in the home of a leading Pharisee, and those in attendance were watching Him closely.
 ## Luke 14:2

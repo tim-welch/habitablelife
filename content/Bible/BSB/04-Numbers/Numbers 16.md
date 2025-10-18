@@ -1,4 +1,3 @@
-# Numbers 16
 ## Numbers 16:1
 Now Korah son of Izhar, the son of Kohath son of Levi, along with some Reubenites—Dathan and Abiram, sons of Eliab, and On son of Peleth—conducted
 ## Numbers 16:2

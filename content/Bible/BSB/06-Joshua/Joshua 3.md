@@ -1,4 +1,3 @@
-# Joshua 3
 ## Joshua 3:1
 Early the next morning Joshua got up and left Shittim with all the Israelites. They went as far as the Jordan, where they camped before crossing over.
 ## Joshua 3:2

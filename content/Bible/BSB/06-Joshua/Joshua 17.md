@@ -1,4 +1,3 @@
-# Joshua 17
 ## Joshua 17:1
 Now this was the allotment for the tribe of Manasseh as Joseph’s firstborn son, namely for Machir the firstborn of Manasseh and father of the Gileadites, who had received Gilead and Bashan because Machir was a man of war.
 ## Joshua 17:2

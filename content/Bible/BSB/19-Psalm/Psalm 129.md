@@ -1,4 +1,3 @@
-# Psalm 129
 ## Psalm 129:1
 A song of ascents. Many a time they have persecuted me from my youth—let Israel now declare—
 ## Psalm 129:2

@@ -1,4 +1,3 @@
-# Mark 3
 ## Mark 3:1
 Once again Jesus entered the synagogue, and a man with a withered hand was there.
 ## Mark 3:2

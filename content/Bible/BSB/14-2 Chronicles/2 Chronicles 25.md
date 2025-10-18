@@ -1,4 +1,3 @@
-# 2 Chronicles 25
 ## 2 Chronicles 25:1
 Amaziah was twenty-five years old when he became king, and he reigned in Jerusalem twenty-nine years. His mother’s name was Jehoaddan; she was from Jerusalem.
 ## 2 Chronicles 25:2

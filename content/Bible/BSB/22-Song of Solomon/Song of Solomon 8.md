@@ -1,4 +1,3 @@
-# Song of Solomon 8
 ## Song of Solomon 8:1
 O that you were to me like a brother who nursed at my mother’s breasts! If I found you outdoors, I would kiss you, and no one would despise me.
 ## Song of Solomon 8:2

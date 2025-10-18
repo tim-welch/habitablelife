@@ -1,4 +1,3 @@
-# 1 Corinthians 4
 ## 1 Corinthians 4:1
 So then, men ought to regard us as servants of Christ and stewards of the mysteries of God.
 ## 1 Corinthians 4:2

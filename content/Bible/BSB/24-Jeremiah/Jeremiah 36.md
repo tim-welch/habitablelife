@@ -1,4 +1,3 @@
-# Jeremiah 36
 ## Jeremiah 36:1
 In the fourth year of Jehoiakim son of Josiah king of Judah, this word came to Jeremiah from the LORD:
 ## Jeremiah 36:2

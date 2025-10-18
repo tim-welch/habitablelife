@@ -1,4 +1,3 @@
-# Daniel 2
 ## Daniel 2:1
 In the second year of his reign, Nebuchadnezzar had dreams that troubled his spirit, and sleep escaped him.
 ## Daniel 2:2

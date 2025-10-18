@@ -1,4 +1,3 @@
-# Hebrews 8
 ## Hebrews 8:1
 The point of what we are saying is this: We do have such a high priest, who sat down at the right hand of the throne of the Majesty in heaven,
 ## Hebrews 8:2

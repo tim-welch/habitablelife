@@ -1,4 +1,3 @@
-# Acts 16
 ## Acts 16:1
 Paul came to Derbe and then to Lystra, where he found a disciple named Timothy, the son of a believing Jewish woman and a Greek father.
 ## Acts 16:2

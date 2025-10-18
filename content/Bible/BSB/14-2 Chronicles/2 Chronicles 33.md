@@ -1,4 +1,3 @@
-# 2 Chronicles 33
 ## 2 Chronicles 33:1
 Manasseh was twelve years old when he became king, and he reigned in Jerusalem fifty-five years.
 ## 2 Chronicles 33:2

@@ -1,4 +1,3 @@
-# Jeremiah 35
 ## Jeremiah 35:1
 This is the word that came to Jeremiah from the LORD in the days of Jehoiakim son of Josiah king of Judah:
 ## Jeremiah 35:2

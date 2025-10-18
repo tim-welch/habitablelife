@@ -1,4 +1,3 @@
-# Psalm 122
 ## Psalm 122:1
 A song of ascents. Of David. I was glad when they said to me, “Let us go to the house of the LORD.”
 ## Psalm 122:2

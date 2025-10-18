@@ -1,4 +1,3 @@
-# Ezekiel 33
 ## Ezekiel 33:1
 Again the word of the LORD came to me, saying,
 ## Ezekiel 33:2

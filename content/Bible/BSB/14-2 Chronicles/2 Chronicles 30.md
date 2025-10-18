@@ -1,4 +1,3 @@
-# 2 Chronicles 30
 ## 2 Chronicles 30:1
 Then Hezekiah sent word throughout all Israel and Judah, and he also wrote letters to Ephraim and Manasseh inviting them to come to the house of the LORD in Jerusalem to keep the Passover of the LORD, the God of Israel.
 ## 2 Chronicles 30:2

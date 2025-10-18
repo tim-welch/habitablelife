@@ -1,4 +1,3 @@
-# Matthew 18
 ## Matthew 18:1
 At that time the disciples came to Jesus and asked, “Who then is the greatest in the kingdom of heaven?”
 ## Matthew 18:2

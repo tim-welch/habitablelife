@@ -1,4 +1,3 @@
-# 2 Peter 3
 ## 2 Peter 3:1
 Beloved, this is now my second letter to you. Both of them are reminders to stir you to wholesome thinking
 ## 2 Peter 3:2

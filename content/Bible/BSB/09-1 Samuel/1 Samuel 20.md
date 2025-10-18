@@ -1,4 +1,3 @@
-# 1 Samuel 20
 ## 1 Samuel 20:1
 Then David fled from Naioth in Ramah. He came to Jonathan and asked, “What have I done? What is my iniquity? How have I sinned against your father, that he wants to take my life?”
 ## 1 Samuel 20:2

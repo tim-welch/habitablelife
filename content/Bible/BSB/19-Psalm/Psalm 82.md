@@ -1,4 +1,3 @@
-# Psalm 82
 ## Psalm 82:1
 A Psalm of Asaph. God presides in the divine assembly; He renders judgment among the gods:
 ## Psalm 82:2

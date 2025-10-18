@@ -1,4 +1,3 @@
-# 2 Corinthians 3
 ## 2 Corinthians 3:1
 Are we beginning to commend ourselves again? Or do we need, like some people, letters of recommendation to you or from you?
 ## 2 Corinthians 3:2

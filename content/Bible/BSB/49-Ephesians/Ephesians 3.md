@@ -1,4 +1,3 @@
-# Ephesians 3
 ## Ephesians 3:1
 For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles...
 ## Ephesians 3:2

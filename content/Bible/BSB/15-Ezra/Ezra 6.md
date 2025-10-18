@@ -1,4 +1,3 @@
-# Ezra 6
 ## Ezra 6:1
 Thus King Darius ordered a search of the archives stored in the treasury of Babylon.
 ## Ezra 6:2

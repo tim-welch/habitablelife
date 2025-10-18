@@ -1,4 +1,3 @@
-# Matthew 8
 ## Matthew 8:1
 When Jesus came down from the mountain, large crowds followed Him.
 ## Matthew 8:2

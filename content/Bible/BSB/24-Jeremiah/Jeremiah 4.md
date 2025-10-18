@@ -1,4 +1,3 @@
-# Jeremiah 4
 ## Jeremiah 4:1
 “If you will return, O Israel, return to Me,” declares the LORD. “If you will remove your detestable idols from My sight and no longer waver,
 ## Jeremiah 4:2

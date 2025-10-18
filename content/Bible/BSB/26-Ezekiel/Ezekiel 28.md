@@ -1,4 +1,3 @@
-# Ezekiel 28
 ## Ezekiel 28:1
 And the word of the LORD came to me, saying,
 ## Ezekiel 28:2

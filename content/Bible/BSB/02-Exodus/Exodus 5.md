@@ -1,4 +1,3 @@
-# Exodus 5
 ## Exodus 5:1
 After that, Moses and Aaron went to Pharaoh and said, “This is what the LORD, the God of Israel, says: ‘Let My people go, so that they may hold a feast to Me in the wilderness.’”
 ## Exodus 5:2

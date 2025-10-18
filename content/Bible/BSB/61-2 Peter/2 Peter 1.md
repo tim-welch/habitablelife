@@ -1,4 +1,3 @@
-# 2 Peter 1
 ## 2 Peter 1:1
 Simon Peter, a servant and apostle of Jesus Christ, To those who through the righteousness of our God and Savior Jesus Christ have received a faith as precious as ours:
 ## 2 Peter 1:2

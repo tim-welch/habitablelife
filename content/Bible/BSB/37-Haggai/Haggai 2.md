@@ -1,4 +1,3 @@
-# Haggai 2
 ## Haggai 2:1
 On the twenty-first day of the seventh month, the word of the LORD came through Haggai the prophet, saying:
 ## Haggai 2:2

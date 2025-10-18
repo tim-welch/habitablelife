@@ -1,4 +1,3 @@
-# Numbers 13
 ## Numbers 13:1
 And the LORD said to Moses,
 ## Numbers 13:2

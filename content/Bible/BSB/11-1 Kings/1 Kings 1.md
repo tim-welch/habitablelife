@@ -1,4 +1,3 @@
-# 1 Kings 1
 ## 1 Kings 1:1
 Now King David was old and well along in years, and though they covered him with blankets, he could not keep warm.
 ## 1 Kings 1:2

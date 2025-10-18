@@ -1,4 +1,3 @@
-# Psalm 59
 ## Psalm 59:1
 For the choirmaster. To the tune of “Do Not Destroy.” A Miktam of David, when Saul sent men to watch David’s house in order to kill him. Deliver me from my enemies, O my God; protect me from those who rise against me.
 ## Psalm 59:2

@@ -1,4 +1,3 @@
-# 1 Samuel 8
 ## 1 Samuel 8:1
 When Samuel grew old, he appointed his sons as judges over Israel.
 ## 1 Samuel 8:2

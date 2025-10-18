@@ -1,4 +1,3 @@
-# Ezekiel 1
 ## Ezekiel 1:1
 In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens opened and I saw visions of God.
 ## Ezekiel 1:2

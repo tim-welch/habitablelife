@@ -1,4 +1,3 @@
-# Daniel 7
 ## Daniel 7:1
 In the first year of the reign of Belshazzar over Babylon, Daniel had a dream, and visions passed through his mind as he lay on his bed. He wrote down the dream, and this is the summary of his account.
 ## Daniel 7:2

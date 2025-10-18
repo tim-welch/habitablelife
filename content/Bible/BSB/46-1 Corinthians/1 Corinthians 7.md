@@ -1,4 +1,3 @@
-# 1 Corinthians 7
 ## 1 Corinthians 7:1
 Now for the matters you wrote about: It is good to abstain from sexual relations.
 ## 1 Corinthians 7:2

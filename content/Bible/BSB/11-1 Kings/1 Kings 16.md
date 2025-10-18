@@ -1,4 +1,3 @@
-# 1 Kings 16
 ## 1 Kings 16:1
 Then the word of the LORD came to Jehu son of Hanani against Baasha, saying:
 ## 1 Kings 16:2

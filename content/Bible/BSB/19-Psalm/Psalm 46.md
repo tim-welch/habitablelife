@@ -1,4 +1,3 @@
-# Psalm 46
 ## Psalm 46:1
 For the choirmaster. Of the sons of Korah. According to Alamoth. A song. God is our refuge and strength, an ever-present help in times of trouble.
 ## Psalm 46:2

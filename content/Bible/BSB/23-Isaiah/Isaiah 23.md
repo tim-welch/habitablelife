@@ -1,4 +1,3 @@
-# Isaiah 23
 ## Isaiah 23:1
 This is the burden against Tyre: Wail, O ships of Tarshish, for Tyre is laid waste, without house or harbor. Word has reached them from the land of Cyprus.
 ## Isaiah 23:2

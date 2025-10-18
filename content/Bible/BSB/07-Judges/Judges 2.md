@@ -1,4 +1,3 @@
-# Judges 2
 ## Judges 2:1
 Now the angel of the LORD went up from Gilgal to Bochim and said, “I brought you up out of Egypt and led you into the land that I had promised to your fathers, and I said, ‘I will never break My covenant with you,
 ## Judges 2:2

@@ -1,4 +1,3 @@
-# Job 17
 ## Job 17:1
 “My spirit is broken; my days are extinguished; the grave awaits me.
 ## Job 17:2

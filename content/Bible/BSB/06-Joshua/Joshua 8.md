@@ -1,4 +1,3 @@
-# Joshua 8
 ## Joshua 8:1
 Then the LORD said to Joshua, “Do not be afraid or discouraged. Take the whole army with you, and go up and attack Ai. See, I have delivered into your hand the king of Ai, his people, his city, and his land.
 ## Joshua 8:2

@@ -1,4 +1,3 @@
-# Exodus 27
 ## Exodus 27:1
 “You are to build an altar of acacia wood. The altar must be square, five cubits long, five cubits wide, and three cubits high.
 ## Exodus 27:2

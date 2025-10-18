@@ -1,4 +1,3 @@
-# 1 Samuel 13
 ## 1 Samuel 13:1
 Saul was thirty years old when he became king, and he reigned over Israel forty-two years.
 ## 1 Samuel 13:2

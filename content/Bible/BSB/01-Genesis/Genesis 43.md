@@ -1,4 +1,3 @@
-# Genesis 43
 ## Genesis 43:1
 Now the famine was still severe in the land.
 ## Genesis 43:2

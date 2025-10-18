@@ -1,4 +1,3 @@
-# Matthew 10
 ## Matthew 10:1
 And calling His twelve disciples to Him, Jesus gave them authority over unclean spirits, so that they could drive them out and heal every disease and sickness.
 ## Matthew 10:2

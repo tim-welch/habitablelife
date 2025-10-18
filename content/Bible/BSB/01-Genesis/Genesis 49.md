@@ -1,4 +1,3 @@
-# Genesis 49
 ## Genesis 49:1
 Then Jacob called for his sons and said, “Gather around so that I can tell you what will happen to you in the days to come:
 ## Genesis 49:2

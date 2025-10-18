@@ -1,4 +1,3 @@
-# Psalm 1
 ## Psalm 1:1
 Blessed is the man who does not walk in the counsel of the wicked, or set foot on the path of sinners, or sit in the seat of mockers.
 ## Psalm 1:2

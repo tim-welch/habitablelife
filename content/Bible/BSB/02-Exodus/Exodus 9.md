@@ -1,4 +1,3 @@
-# Exodus 9
 ## Exodus 9:1
 Then the LORD said to Moses, “Go to Pharaoh and tell him that this is what the LORD, the God of the Hebrews, says: ‘Let My people go, so that they may worship Me.
 ## Exodus 9:2

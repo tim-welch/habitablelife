@@ -1,4 +1,3 @@
-# 2 Chronicles 31
 ## 2 Chronicles 31:1
 When all this had ended, the Israelites in attendance went out to the cities of Judah and broke up the sacred pillars, chopped down the Asherah poles, and tore down the high places and altars throughout Judah and Benjamin, as well as in Ephraim and Manasseh, until they had utterly destroyed them all. Then all the Israelites returned to their cities, each to his own property.
 ## 2 Chronicles 31:2

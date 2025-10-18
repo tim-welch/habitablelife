@@ -1,4 +1,3 @@
-# Psalm 39
 ## Psalm 39:1
 For the choirmaster. For Jeduthun. A Psalm of David. I said, “I will watch my ways so that I will not sin with my tongue; I will guard my mouth with a muzzle as long as the wicked are present.”
 ## Psalm 39:2

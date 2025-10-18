@@ -1,4 +1,3 @@
-# Acts 28
 ## Acts 28:1
 Once we were safely ashore, we learned that the island was called Malta.
 ## Acts 28:2

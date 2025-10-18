@@ -1,4 +1,3 @@
-# Acts 13
 ## Acts 13:1
 Now in the church at Antioch there were prophets and teachers: Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen (who had been brought up with Herod the tetrarch), and Saul.
 ## Acts 13:2

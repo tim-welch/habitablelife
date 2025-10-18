@@ -1,4 +1,3 @@
-# Isaiah 53
 ## Isaiah 53:1
 Who has believed our message? And to whom has the arm of the LORD been revealed?
 ## Isaiah 53:2

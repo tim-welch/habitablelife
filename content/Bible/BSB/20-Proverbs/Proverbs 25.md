@@ -1,4 +1,3 @@
-# Proverbs 25
 ## Proverbs 25:1
 These are additional proverbs of Solomon, which were copied by the men of Hezekiah king of Judah:
 ## Proverbs 25:2

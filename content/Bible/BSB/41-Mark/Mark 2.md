@@ -1,4 +1,3 @@
-# Mark 2
 ## Mark 2:1
 A few days later Jesus went back to Capernaum. And when the people heard that He was home,
 ## Mark 2:2

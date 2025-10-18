@@ -1,4 +1,3 @@
-# Revelation 6
 ## Revelation 6:1
 Then I watched as the Lamb opened one of the seven seals, and I heard one of the four living creatures say in a voice like thunder, “Come!”
 ## Revelation 6:2

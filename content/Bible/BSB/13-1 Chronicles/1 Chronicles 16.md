@@ -1,4 +1,3 @@
-# 1 Chronicles 16
 ## 1 Chronicles 16:1
 So they brought the ark of God and placed it inside the tent that David had pitched for it. And they presented burnt offerings and peace offerings before God.
 ## 1 Chronicles 16:2

@@ -1,4 +1,3 @@
-# 1 Corinthians 14
 ## 1 Corinthians 14:1
 Earnestly pursue love and eagerly desire spiritual gifts, especially the gift of prophecy.
 ## 1 Corinthians 14:2

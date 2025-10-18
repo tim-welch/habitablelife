@@ -1,4 +1,3 @@
-# 2 Chronicles 21
 ## 2 Chronicles 21:1
 And Jehoshaphat rested with his fathers and was buried with them in the City of David. And his son Jehoram reigned in his place.
 ## 2 Chronicles 21:2

@@ -1,4 +1,3 @@
-# Revelation 8
 ## Revelation 8:1
 When the Lamb opened the seventh seal, there was silence in heaven for about half an hour.
 ## Revelation 8:2

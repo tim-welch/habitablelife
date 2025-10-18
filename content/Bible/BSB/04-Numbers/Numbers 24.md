@@ -1,4 +1,3 @@
-# Numbers 24
 ## Numbers 24:1
 And when Balaam saw that it pleased the LORD to bless Israel, he did not seek omens as on previous occasions, but he turned his face toward the wilderness.
 ## Numbers 24:2

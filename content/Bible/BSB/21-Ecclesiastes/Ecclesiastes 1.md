@@ -1,4 +1,3 @@
-# Ecclesiastes 1
 ## Ecclesiastes 1:1
 These are the words of the Teacher, the son of David, king in Jerusalem:
 ## Ecclesiastes 1:2

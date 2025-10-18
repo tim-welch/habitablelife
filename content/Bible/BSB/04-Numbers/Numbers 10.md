@@ -1,4 +1,3 @@
-# Numbers 10
 ## Numbers 10:1
 Then the LORD said to Moses,
 ## Numbers 10:2

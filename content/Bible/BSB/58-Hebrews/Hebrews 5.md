@@ -1,4 +1,3 @@
-# Hebrews 5
 ## Hebrews 5:1
 Every high priest is appointed from among men to represent them in matters relating to God, to offer gifts and sacrifices for sins.
 ## Hebrews 5:2

@@ -1,4 +1,3 @@
-# Job 28
 ## Job 28:1
 “Surely there is a mine for silver and a place where gold is refined.
 ## Job 28:2

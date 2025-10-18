@@ -1,4 +1,3 @@
-# Jeremiah 25
 ## Jeremiah 25:1
 This is the word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah, which was the first year of Nebuchadnezzar king of Babylon.
 ## Jeremiah 25:2

@@ -1,4 +1,3 @@
-# Psalm 75
 ## Psalm 75:1
 For the choirmaster: To the tune of “Do Not Destroy.” A Psalm of Asaph. A song. We give thanks to You, O God; we give thanks, for Your Name is near. The people declare Your wondrous works.
 ## Psalm 75:2

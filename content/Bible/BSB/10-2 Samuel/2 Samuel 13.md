@@ -1,4 +1,3 @@
-# 2 Samuel 13
 ## 2 Samuel 13:1
 After some time, David’s son Amnon fell in love with Tamar, the beautiful sister of David’s son Absalom.
 ## 2 Samuel 13:2

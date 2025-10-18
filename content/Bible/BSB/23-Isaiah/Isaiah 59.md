@@ -1,4 +1,3 @@
-# Isaiah 59
 ## Isaiah 59:1
 Surely the arm of the LORD is not too short to save, nor His ear too dull to hear.
 ## Isaiah 59:2

@@ -1,4 +1,3 @@
-# Matthew 25
 ## Matthew 25:1
 “At that time the kingdom of heaven will be like ten virgins who took their lamps and went out to meet the bridegroom.
 ## Matthew 25:2

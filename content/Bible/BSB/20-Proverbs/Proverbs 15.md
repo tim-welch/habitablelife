@@ -1,4 +1,3 @@
-# Proverbs 15
 ## Proverbs 15:1
 A gentle answer turns away wrath, but a harsh word stirs up anger.
 ## Proverbs 15:2

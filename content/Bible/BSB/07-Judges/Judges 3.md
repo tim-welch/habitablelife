@@ -1,4 +1,3 @@
-# Judges 3
 ## Judges 3:1
 These are the nations that the LORD left to test all the Israelites who had not known any of the wars in Canaan,
 ## Judges 3:2

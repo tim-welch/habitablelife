@@ -1,4 +1,3 @@
-# 2 Corinthians 10
 ## 2 Corinthians 10:1
 Now by the mildness and gentleness of Christ, I appeal to you—I, Paul, who am humble when face to face with you, but bold when away.
 ## 2 Corinthians 10:2

@@ -1,4 +1,3 @@
-# Jeremiah 30
 ## Jeremiah 30:1
 This is the word that came to Jeremiah from the LORD:
 ## Jeremiah 30:2

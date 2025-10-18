@@ -1,4 +1,3 @@
-# Jeremiah 41
 ## Jeremiah 41:1
 In the seventh month, Ishmael son of Nethaniah, the son of Elishama, who was a member of the royal family and one of the king’s chief officers, came with ten men to Gedaliah son of Ahikam at Mizpah, and they ate a meal together there.
 ## Jeremiah 41:2

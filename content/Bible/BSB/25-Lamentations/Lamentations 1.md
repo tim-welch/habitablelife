@@ -1,4 +1,3 @@
-# Lamentations 1
 ## Lamentations 1:1
 How lonely lies the city, once so full of people! She who was great among the nations has become a widow. The princess of the provinces has become a slave.
 ## Lamentations 1:2

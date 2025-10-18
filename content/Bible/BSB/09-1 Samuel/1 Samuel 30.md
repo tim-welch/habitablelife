@@ -1,4 +1,3 @@
-# 1 Samuel 30
 ## 1 Samuel 30:1
 On the third day David and his men arrived in Ziklag, and the Amalekites had raided the Negev, attacked Ziklag, and burned it down.
 ## 1 Samuel 30:2

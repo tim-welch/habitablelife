@@ -1,4 +1,3 @@
-# Mark 6
 ## Mark 6:1
 Jesus went on from there and came to His hometown, accompanied by His disciples.
 ## Mark 6:2

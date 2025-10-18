@@ -1,4 +1,3 @@
-# Romans 8
 ## Romans 8:1
 Therefore, there is now no condemnation for those who are in Christ Jesus.
 ## Romans 8:2

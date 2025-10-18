@@ -1,4 +1,3 @@
-# Revelation 3
 ## Revelation 3:1
 “To the angel of the church in Sardis write: These are the words of the One who holds the seven spirits of God and the seven stars. I know your deeds; you have a reputation for being alive, yet you are dead.
 ## Revelation 3:2

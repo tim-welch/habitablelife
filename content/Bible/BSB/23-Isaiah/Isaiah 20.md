@@ -1,4 +1,3 @@
-# Isaiah 20
 ## Isaiah 20:1
 Before the year that the chief commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it,
 ## Isaiah 20:2

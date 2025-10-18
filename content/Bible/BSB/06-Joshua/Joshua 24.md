@@ -1,4 +1,3 @@
-# Joshua 24
 ## Joshua 24:1
 Then Joshua assembled all the tribes of Israel at Shechem. He summoned the elders, leaders, judges, and officers of Israel, and they presented themselves before God.
 ## Joshua 24:2

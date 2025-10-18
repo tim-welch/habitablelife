@@ -1,4 +1,3 @@
-# Isaiah 22
 ## Isaiah 22:1
 This is the burden against the Valley of Vision: What ails you now, that you have all gone up to the rooftops,
 ## Isaiah 22:2

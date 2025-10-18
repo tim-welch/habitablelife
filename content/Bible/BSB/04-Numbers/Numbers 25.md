@@ -1,4 +1,3 @@
-# Numbers 25
 ## Numbers 25:1
 While Israel was staying in Shittim, the men began to indulge in sexual immorality with the daughters of Moab,
 ## Numbers 25:2

@@ -1,4 +1,3 @@
-# Genesis 23
 ## Genesis 23:1
 Now Sarah lived to be 127 years old.
 ## Genesis 23:2

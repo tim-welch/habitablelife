@@ -1,4 +1,3 @@
-# Isaiah 55
 ## Isaiah 55:1
 “Come, all you who are thirsty, come to the waters; and you without money, come, buy, and eat! Come, buy wine and milk without money and without cost!
 ## Isaiah 55:2

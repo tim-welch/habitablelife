@@ -1,4 +1,3 @@
-# Esther 2
 ## Esther 2:1
 Some time later, when the anger of King Xerxes had subsided, he remembered Vashti and what she had done, and what had been decreed against her.
 ## Esther 2:2

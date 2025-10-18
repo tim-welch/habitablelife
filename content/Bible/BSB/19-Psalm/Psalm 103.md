@@ -1,4 +1,3 @@
-# Psalm 103
 ## Psalm 103:1
 Of David. Bless the LORD, O my soul; all that is within me, bless His holy name.
 ## Psalm 103:2

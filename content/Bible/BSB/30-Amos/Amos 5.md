@@ -1,4 +1,3 @@
-# Amos 5
 ## Amos 5:1
 Hear this word, O house of Israel, this lamentation I take up against you:
 ## Amos 5:2

@@ -1,4 +1,3 @@
-# Leviticus 13
 ## Leviticus 13:1
 Then the LORD said to Moses and Aaron,
 ## Leviticus 13:2

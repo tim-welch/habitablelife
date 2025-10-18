@@ -1,4 +1,3 @@
-# 2 Kings 13
 ## 2 Kings 13:1
 In the twenty-third year of the reign of Joash son of Ahaziah over Judah, Jehoahaz son of Jehu became king of Israel, and he reigned in Samaria seventeen years.
 ## 2 Kings 13:2

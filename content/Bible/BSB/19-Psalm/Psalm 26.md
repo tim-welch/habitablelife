@@ -1,4 +1,3 @@
-# Psalm 26
 ## Psalm 26:1
 Of David. Vindicate me, O LORD! For I have walked with integrity; I have trusted in the LORD without wavering.
 ## Psalm 26:2

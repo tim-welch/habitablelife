@@ -1,4 +1,3 @@
-# Exodus 29
 ## Exodus 29:1
 “Now this is what you are to do to consecrate Aaron and his sons to serve Me as priests: Take a young bull and two rams without blemish,
 ## Exodus 29:2

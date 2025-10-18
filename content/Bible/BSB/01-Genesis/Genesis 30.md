@@ -1,4 +1,3 @@
-# Genesis 30
 ## Genesis 30:1
 When Rachel saw that she was not bearing any children for Jacob, she envied her sister. “Give me children, or I will die!” she said to Jacob.
 ## Genesis 30:2

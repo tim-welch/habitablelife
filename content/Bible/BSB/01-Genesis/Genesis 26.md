@@ -1,4 +1,3 @@
-# Genesis 26
 ## Genesis 26:1
 Now there was another famine in the land, subsequent to the one that had occurred in Abraham’s time. And Isaac went to Abimelech king of the Philistines at Gerar.
 ## Genesis 26:2

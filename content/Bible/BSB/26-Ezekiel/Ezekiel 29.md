@@ -1,4 +1,3 @@
-# Ezekiel 29
 ## Ezekiel 29:1
 In the tenth year, on the twelfth day of the tenth month, the word of the LORD came to me, saying,
 ## Ezekiel 29:2

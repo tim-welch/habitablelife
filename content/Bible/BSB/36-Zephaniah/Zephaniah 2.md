@@ -1,4 +1,3 @@
-# Zephaniah 2
 ## Zephaniah 2:1
 Gather yourselves, gather together, O shameful nation,
 ## Zephaniah 2:2

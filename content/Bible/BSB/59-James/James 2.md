@@ -1,4 +1,3 @@
-# James 2
 ## James 2:1
 My brothers, as you hold out your faith in our glorious Lord Jesus Christ, do not show favoritism.
 ## James 2:2

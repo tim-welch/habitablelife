@@ -1,4 +1,3 @@
-# Isaiah 46
 ## Isaiah 46:1
 Bel crouches; Nebo cowers. Their idols weigh down beasts and cattle. The images you carry are burdensome, a load to the weary animal.
 ## Isaiah 46:2

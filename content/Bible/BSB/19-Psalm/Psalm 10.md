@@ -1,4 +1,3 @@
-# Psalm 10
 ## Psalm 10:1
 Why, O LORD, do You stand far off? Why do You hide in times of trouble?
 ## Psalm 10:2

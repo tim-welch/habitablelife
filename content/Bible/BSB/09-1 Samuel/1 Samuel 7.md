@@ -1,4 +1,3 @@
-# 1 Samuel 7
 ## 1 Samuel 7:1
 Then the men of Kiriath-jearim came for the ark of the LORD and took it into Abinadab’s house on the hill. And they consecrated his son Eleazar to guard the ark of the LORD.
 ## 1 Samuel 7:2

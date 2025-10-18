@@ -1,4 +1,3 @@
-# Proverbs 20
 ## Proverbs 20:1
 Wine is a mocker, strong drink is a brawler, and whoever is led astray by them is not wise.
 ## Proverbs 20:2

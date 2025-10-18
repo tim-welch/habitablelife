@@ -1,4 +1,3 @@
-# Psalm 79
 ## Psalm 79:1
 A Psalm of Asaph. The nations, O God, have invaded Your inheritance; they have defiled Your holy temple and reduced Jerusalem to rubble.
 ## Psalm 79:2

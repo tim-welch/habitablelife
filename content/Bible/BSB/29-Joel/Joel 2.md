@@ -1,4 +1,3 @@
-# Joel 2
 ## Joel 2:1
 Blow the ram’s horn in Zion; sound the alarm on My holy mountain! Let all who dwell in the land tremble, for the Day of the LORD is coming; indeed, it is near—
 ## Joel 2:2

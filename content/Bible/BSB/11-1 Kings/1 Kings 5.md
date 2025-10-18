@@ -1,4 +1,3 @@
-# 1 Kings 5
 ## 1 Kings 5:1
 Now when Hiram king of Tyre heard that Solomon had been anointed king in his father’s place, he sent envoys to Solomon; for Hiram had always been a friend of David.
 ## 1 Kings 5:2

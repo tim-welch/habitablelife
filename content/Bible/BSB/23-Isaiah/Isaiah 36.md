@@ -1,4 +1,3 @@
-# Isaiah 36
 ## Isaiah 36:1
 In the fourteenth year of Hezekiah’s reign, Sennacherib king of Assyria attacked and captured all the fortified cities of Judah.
 ## Isaiah 36:2

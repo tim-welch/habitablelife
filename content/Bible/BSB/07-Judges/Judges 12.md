@@ -1,4 +1,3 @@
-# Judges 12
 ## Judges 12:1
 Then the men of Ephraim assembled and crossed the Jordan to Zaphon. They said to Jephthah, “Why have you crossed over to fight the Ammonites without calling us to go with you? We will burn your house down with you inside!”
 ## Judges 12:2

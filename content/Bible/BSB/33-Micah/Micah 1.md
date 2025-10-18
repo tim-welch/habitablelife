@@ -1,4 +1,3 @@
-# Micah 1
 ## Micah 1:1
 This is the word of the LORD that came to Micah the Moreshite in the days of Jotham, Ahaz, and Hezekiah, kings of Judah—what he saw regarding Samaria and Jerusalem:
 ## Micah 1:2

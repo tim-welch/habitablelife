@@ -1,4 +1,3 @@
-# Matthew 21
 ## Matthew 21:1
 As they approached Jerusalem and came to Bethphage on the Mount of Olives, Jesus sent out two disciples,
 ## Matthew 21:2

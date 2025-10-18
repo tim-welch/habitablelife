@@ -1,4 +1,3 @@
-# Job 10
 ## Job 10:1
 “I loathe my own life; I will express my complaint and speak in the bitterness of my soul.
 ## Job 10:2

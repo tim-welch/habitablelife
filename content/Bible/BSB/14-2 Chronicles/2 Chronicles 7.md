@@ -1,4 +1,3 @@
-# 2 Chronicles 7
 ## 2 Chronicles 7:1
 When Solomon had finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of the LORD filled the temple.
 ## 2 Chronicles 7:2

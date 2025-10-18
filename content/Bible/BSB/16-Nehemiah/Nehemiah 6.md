@@ -1,4 +1,3 @@
-# Nehemiah 6
 ## Nehemiah 6:1
 When Sanballat, Tobiah, Geshem the Arab, and the rest of our enemies heard that I had rebuilt the wall and not a gap was left—though to that time I had not yet installed the doors in the gates—
 ## Nehemiah 6:2

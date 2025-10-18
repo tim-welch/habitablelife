@@ -1,4 +1,3 @@
-# Ecclesiastes 3
 ## Ecclesiastes 3:1
 To everything there is a season, and a time for every purpose under heaven:
 ## Ecclesiastes 3:2

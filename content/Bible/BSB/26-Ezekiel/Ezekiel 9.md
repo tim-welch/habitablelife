@@ -1,4 +1,3 @@
-# Ezekiel 9
 ## Ezekiel 9:1
 Then I heard Him call out in a loud voice, saying, “Draw near, O executioners of the city, each with a weapon of destruction in hand.”
 ## Ezekiel 9:2

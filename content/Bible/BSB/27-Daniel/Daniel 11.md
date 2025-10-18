@@ -1,4 +1,3 @@
-# Daniel 11
 ## Daniel 11:1
 “And I, in the first year of Darius the Mede, stood up to strengthen and protect him.
 ## Daniel 11:2

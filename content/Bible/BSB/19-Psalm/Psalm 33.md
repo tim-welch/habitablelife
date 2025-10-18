@@ -1,4 +1,3 @@
-# Psalm 33
 ## Psalm 33:1
 Rejoice in the LORD, O righteous ones; it is fitting for the upright to praise Him.
 ## Psalm 33:2

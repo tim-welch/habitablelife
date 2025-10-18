@@ -1,4 +1,3 @@
-# Judges 15
 ## Judges 15:1
 Later on, at the time of the wheat harvest, Samson took a young goat and went to visit his wife. “I want to go to my wife in her room,” he said. But her father would not let him enter.
 ## Judges 15:2

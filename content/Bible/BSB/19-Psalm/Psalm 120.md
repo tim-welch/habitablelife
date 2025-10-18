@@ -1,4 +1,3 @@
-# Psalm 120
 ## Psalm 120:1
 A song of ascents. In my distress I cried to the LORD, and He answered me.
 ## Psalm 120:2

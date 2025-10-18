@@ -1,4 +1,3 @@
-# Job 14
 ## Job 14:1
 “Man, who is born of woman, is short of days and full of trouble.
 ## Job 14:2

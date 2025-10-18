@@ -1,4 +1,3 @@
-# Genesis 2
 ## Genesis 2:1
 Thus the heavens and the earth were completed in all their vast array.
 ## Genesis 2:2

@@ -1,4 +1,3 @@
-# Deuteronomy 13
 ## Deuteronomy 13:1
 If a prophet or dreamer of dreams arises among you and proclaims a sign or wonder to you,
 ## Deuteronomy 13:2

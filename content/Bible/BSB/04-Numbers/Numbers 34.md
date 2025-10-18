@@ -1,4 +1,3 @@
-# Numbers 34
 ## Numbers 34:1
 Then the LORD said to Moses,
 ## Numbers 34:2

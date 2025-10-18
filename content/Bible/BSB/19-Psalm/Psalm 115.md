@@ -1,4 +1,3 @@
-# Psalm 115
 ## Psalm 115:1
 Not to us, O LORD, not to us, but to Your name be the glory, because of Your loving devotion, because of Your faithfulness.
 ## Psalm 115:2

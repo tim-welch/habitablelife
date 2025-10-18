@@ -1,4 +1,3 @@
-# Isaiah 45
 ## Isaiah 45:1
 This is what the LORD says to Cyrus His anointed, whose right hand I have grasped to subdue nations before him, to disarm kings, to open the doors before him, so that the gates will not be shut:
 ## Isaiah 45:2

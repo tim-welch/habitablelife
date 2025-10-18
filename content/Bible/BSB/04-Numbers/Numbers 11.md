@@ -1,4 +1,3 @@
-# Numbers 11
 ## Numbers 11:1
 Soon the people began to complain about their hardship in the hearing of the LORD, and when He heard them, His anger was kindled, and fire from the LORD blazed among them and consumed the outskirts of the camp.
 ## Numbers 11:2

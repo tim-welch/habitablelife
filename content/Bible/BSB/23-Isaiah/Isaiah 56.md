@@ -1,4 +1,3 @@
-# Isaiah 56
 ## Isaiah 56:1
 This is what the LORD says: “Maintain justice and do what is right, for My salvation is coming soon, and My righteousness will be revealed.
 ## Isaiah 56:2

@@ -1,4 +1,3 @@
-# 1 Kings 19
 ## 1 Kings 19:1
 Now Ahab told Jezebel everything that Elijah had done and how he had killed all the prophets with the sword.
 ## 1 Kings 19:2

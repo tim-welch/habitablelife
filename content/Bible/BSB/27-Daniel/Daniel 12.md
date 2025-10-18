@@ -1,4 +1,3 @@
-# Daniel 12
 ## Daniel 12:1
 “At that time Michael, the great prince who stands watch over your people, will rise up. There will be a time of distress, the likes of which will not have occurred from the beginning of nations until that time. But at that time your people—everyone whose name is found written in the book—will be delivered.
 ## Daniel 12:2

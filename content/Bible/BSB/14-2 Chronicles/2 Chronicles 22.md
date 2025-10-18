@@ -1,4 +1,3 @@
-# 2 Chronicles 22
 ## 2 Chronicles 22:1
 Then the people of Jerusalem made Ahaziah, the youngest son of Jehoram, king in his place, since the raiders who had come into the camp with the Arabs had killed all the older sons. So Ahaziah son of Jehoram became king of Judah.
 ## 2 Chronicles 22:2

@@ -1,4 +1,3 @@
-# Galatians 5
 ## Galatians 5:1
 It is for freedom that Christ has set us free. Stand firm, then, and do not be encumbered once more by a yoke of slavery.
 ## Galatians 5:2

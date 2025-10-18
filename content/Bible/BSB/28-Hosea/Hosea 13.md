@@ -1,4 +1,3 @@
-# Hosea 13
 ## Hosea 13:1
 When Ephraim spoke, there was trembling; he was exalted in Israel. But he incurred guilt through Baal, and he died.
 ## Hosea 13:2

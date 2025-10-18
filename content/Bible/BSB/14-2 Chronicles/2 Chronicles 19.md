@@ -1,4 +1,3 @@
-# 2 Chronicles 19
 ## 2 Chronicles 19:1
 When Jehoshaphat king of Judah had returned safely to his home in Jerusalem,
 ## 2 Chronicles 19:2

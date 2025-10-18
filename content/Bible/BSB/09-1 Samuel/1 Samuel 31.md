@@ -1,4 +1,3 @@
-# 1 Samuel 31
 ## 1 Samuel 31:1
 Now the Philistines fought against Israel, and the men of Israel fled before them, and many fell slain on Mount Gilboa.
 ## 1 Samuel 31:2

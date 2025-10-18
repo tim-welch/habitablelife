@@ -1,4 +1,3 @@
-# Leviticus 8
 ## Leviticus 8:1
 Then the LORD said to Moses,
 ## Leviticus 8:2

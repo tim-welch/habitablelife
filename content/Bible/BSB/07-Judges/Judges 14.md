@@ -1,4 +1,3 @@
-# Judges 14
 ## Judges 14:1
 One day Samson went down to Timnah, where he saw a young Philistine woman.
 ## Judges 14:2

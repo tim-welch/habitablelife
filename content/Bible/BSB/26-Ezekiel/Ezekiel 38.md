@@ -1,4 +1,3 @@
-# Ezekiel 38
 ## Ezekiel 38:1
 And the word of the LORD came to me, saying,
 ## Ezekiel 38:2

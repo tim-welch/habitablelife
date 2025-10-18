@@ -1,4 +1,3 @@
-# Luke 4
 ## Luke 4:1
 Then Jesus, full of the Holy Spirit, returned from the Jordan and was led by the Spirit into the wilderness,
 ## Luke 4:2

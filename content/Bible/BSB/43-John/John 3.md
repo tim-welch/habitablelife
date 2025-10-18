@@ -1,4 +1,3 @@
-# John 3
 ## John 3:1
 Now there was a man of the Pharisees named Nicodemus, a leader of the Jews.
 ## John 3:2

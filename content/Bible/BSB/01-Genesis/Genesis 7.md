@@ -1,4 +1,3 @@
-# Genesis 7
 ## Genesis 7:1
 Then the LORD said to Noah, “Go into the ark, you and all your family, because I have found you righteous in this generation.
 ## Genesis 7:2

@@ -1,4 +1,3 @@
-# Proverbs 10
 ## Proverbs 10:1
 The proverbs of Solomon: A wise son brings joy to his father, but a foolish son grief to his mother.
 ## Proverbs 10:2

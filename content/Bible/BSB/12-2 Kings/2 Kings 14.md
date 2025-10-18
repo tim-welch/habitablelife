@@ -1,4 +1,3 @@
-# 2 Kings 14
 ## 2 Kings 14:1
 In the second year of the reign of Jehoash son of Jehoahaz over Israel, Amaziah son of Joash became king of Judah.
 ## 2 Kings 14:2

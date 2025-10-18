@@ -1,4 +1,3 @@
-# Numbers 30
 ## Numbers 30:1
 Then Moses said to the heads of the tribes of Israel, “This is what the LORD has commanded:
 ## Numbers 30:2

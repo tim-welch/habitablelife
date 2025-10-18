@@ -1,4 +1,3 @@
-# Ezekiel 35
 ## Ezekiel 35:1
 Moreover, the word of the LORD came to me, saying,
 ## Ezekiel 35:2

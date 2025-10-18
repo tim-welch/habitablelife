@@ -1,4 +1,3 @@
-# Job 11
 ## Job 11:1
 Then Zophar the Naamathite replied:
 ## Job 11:2

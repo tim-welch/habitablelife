@@ -1,4 +1,3 @@
-# 1 Samuel 17
 ## 1 Samuel 17:1
 Now the Philistines gathered their forces for war at Socoh in Judah, and they camped between Socoh and Azekah in Ephes-dammim.
 ## 1 Samuel 17:2

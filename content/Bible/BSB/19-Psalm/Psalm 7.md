@@ -1,4 +1,3 @@
-# Psalm 7
 ## Psalm 7:1
 A Shiggaion of David, which he sang to the LORD concerning the words of Cush, a Benjamite. O LORD my God, I take refuge in You; save me and deliver me from all my pursuers,
 ## Psalm 7:2

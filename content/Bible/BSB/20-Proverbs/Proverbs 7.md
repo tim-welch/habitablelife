@@ -1,4 +1,3 @@
-# Proverbs 7
 ## Proverbs 7:1
 My son, keep my words and treasure my commandments within you.
 ## Proverbs 7:2

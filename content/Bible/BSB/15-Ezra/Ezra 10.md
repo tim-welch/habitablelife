@@ -1,4 +1,3 @@
-# Ezra 10
 ## Ezra 10:1
 While Ezra prayed and made this confession, weeping and falling facedown before the house of God, a very large assembly of Israelites—men, women, and children—gathered around him, and the people wept bitterly as well.
 ## Ezra 10:2

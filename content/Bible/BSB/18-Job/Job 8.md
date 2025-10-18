@@ -1,4 +1,3 @@
-# Job 8
 ## Job 8:1
 Then Bildad the Shuhite replied:
 ## Job 8:2

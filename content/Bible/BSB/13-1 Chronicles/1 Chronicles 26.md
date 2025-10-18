@@ -1,4 +1,3 @@
-# 1 Chronicles 26
 ## 1 Chronicles 26:1
 These were the divisions of the gatekeepers: From the Korahites: Meshelemiah son of Kore, one of the sons of Asaph.
 ## 1 Chronicles 26:2

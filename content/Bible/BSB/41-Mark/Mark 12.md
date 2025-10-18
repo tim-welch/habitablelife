@@ -1,4 +1,3 @@
-# Mark 12
 ## Mark 12:1
 Then Jesus began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a wine vat, and built a watchtower. Then he rented it out to some tenants and went away on a journey.
 ## Mark 12:2

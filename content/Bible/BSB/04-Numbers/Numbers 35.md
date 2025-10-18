@@ -1,4 +1,3 @@
-# Numbers 35
 ## Numbers 35:1
 Again the LORD spoke to Moses on the plains of Moab by the Jordan across from Jericho:
 ## Numbers 35:2

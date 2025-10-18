@@ -1,4 +1,3 @@
-# Job 15
 ## Job 15:1
 Then Eliphaz the Temanite replied:
 ## Job 15:2

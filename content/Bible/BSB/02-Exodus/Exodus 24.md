@@ -1,4 +1,3 @@
-# Exodus 24
 ## Exodus 24:1
 Then the LORD said to Moses, “Come up to the LORD—you and Aaron, Nadab and Abihu, and seventy of Israel’s elders—and you are to worship at a distance.
 ## Exodus 24:2

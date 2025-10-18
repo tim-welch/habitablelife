@@ -1,4 +1,3 @@
-# Exodus 37
 ## Exodus 37:1
 Bezalel went on to construct the ark of acacia wood, two and a half cubits long, a cubit and a half wide, and a cubit and a half high.
 ## Exodus 37:2

@@ -1,4 +1,3 @@
-# Nahum 3
 ## Nahum 3:1
 Woe to the city of blood, full of lies, full of plunder, never without prey.
 ## Nahum 3:2

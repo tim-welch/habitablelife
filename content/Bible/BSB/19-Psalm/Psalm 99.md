@@ -1,4 +1,3 @@
-# Psalm 99
 ## Psalm 99:1
 The LORD reigns; let the nations tremble! He is enthroned above the cherubim; let the earth quake!
 ## Psalm 99:2

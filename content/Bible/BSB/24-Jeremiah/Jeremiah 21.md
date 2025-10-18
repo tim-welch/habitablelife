@@ -1,4 +1,3 @@
-# Jeremiah 21
 ## Jeremiah 21:1
 This is the word that came to Jeremiah from the LORD when King Zedekiah sent to him Pashhur son of Malchijah and the priest Zephaniah son of Maaseiah. They said,
 ## Jeremiah 21:2

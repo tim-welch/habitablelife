@@ -1,4 +1,3 @@
-# Daniel 8
 ## Daniel 8:1
 In the third year of the reign of King Belshazzar, a vision appeared to me, Daniel, subsequent to the one that had appeared to me earlier.
 ## Daniel 8:2

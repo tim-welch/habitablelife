@@ -1,4 +1,3 @@
-# 1 Chronicles 1
 ## 1 Chronicles 1:1
 Adam, Seth, Enosh,
 ## 1 Chronicles 1:2

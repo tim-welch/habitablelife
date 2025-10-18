@@ -1,4 +1,3 @@
-# Genesis 18
 ## Genesis 18:1
 Then the LORD appeared to Abraham by the Oaks of Mamre in the heat of the day, while he was sitting at the entrance of his tent.
 ## Genesis 18:2

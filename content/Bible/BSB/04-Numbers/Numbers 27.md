@@ -1,4 +1,3 @@
-# Numbers 27
 ## Numbers 27:1
 Now the daughters of Zelophehad son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, belonged to the clans of Manasseh son of Joseph. These were the names of his daughters: Mahlah, Noah, Hoglah, Milcah, and Tirzah. They approached
 ## Numbers 27:2

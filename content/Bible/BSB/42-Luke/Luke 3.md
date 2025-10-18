@@ -1,4 +1,3 @@
-# Luke 3
 ## Luke 3:1
 In the fifteenth year of the reign of Tiberius Caesar, while Pontius Pilate was governor of Judea, Herod tetrarch of Galilee, his brother Philip tetrarch of Ituraea and Trachonitis, and Lysanias tetrarch of Abilene,
 ## Luke 3:2

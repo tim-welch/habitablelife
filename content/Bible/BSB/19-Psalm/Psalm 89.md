@@ -1,4 +1,3 @@
-# Psalm 89
 ## Psalm 89:1
 A Maskil of Ethan the Ezrahite. I will sing of the loving devotion of the LORD forever; with my mouth I will proclaim Your faithfulness to all generations.
 ## Psalm 89:2

@@ -1,4 +1,3 @@
-# Psalm 137
 ## Psalm 137:1
 By the rivers of Babylon we sat and wept when we remembered Zion.
 ## Psalm 137:2

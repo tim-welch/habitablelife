@@ -1,4 +1,3 @@
-# Ezekiel 6
 ## Ezekiel 6:1
 And the word of the LORD came to me, saying,
 ## Ezekiel 6:2

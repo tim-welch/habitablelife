@@ -1,4 +1,3 @@
-# Isaiah 2
 ## Isaiah 2:1
 This is the message that was revealed to Isaiah son of Amoz concerning Judah and Jerusalem:
 ## Isaiah 2:2

@@ -1,4 +1,3 @@
-# Mark 4
 ## Mark 4:1
 Once again Jesus began to teach beside the sea, and such a large crowd gathered around Him that He got into a boat and sat in it, while all the people crowded along the shore.
 ## Mark 4:2

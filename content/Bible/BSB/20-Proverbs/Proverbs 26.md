@@ -1,4 +1,3 @@
-# Proverbs 26
 ## Proverbs 26:1
 Like snow in summer and rain at harvest, honor does not befit a fool.
 ## Proverbs 26:2

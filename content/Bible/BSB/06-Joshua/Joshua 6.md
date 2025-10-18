@@ -1,4 +1,3 @@
-# Joshua 6
 ## Joshua 6:1
 Now Jericho was tightly shut up because of the Israelites. No one went out and no one came in.
 ## Joshua 6:2

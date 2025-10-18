@@ -1,4 +1,3 @@
-# Leviticus 3
 ## Leviticus 3:1
 “If one’s offering is a peace offering and he offers an animal from the herd, whether male or female, he must present it without blemish before the LORD.
 ## Leviticus 3:2

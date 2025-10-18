@@ -1,4 +1,3 @@
-# Colossians 2
 ## Colossians 2:1
 For I want you to know how much I am struggling for you and for those at Laodicea, and for all who have not met me face to face,
 ## Colossians 2:2

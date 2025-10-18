@@ -1,4 +1,3 @@
-# 1 Kings 10
 ## 1 Kings 10:1
 Now when the queen of Sheba heard about the fame of Solomon concerning the name of the LORD, she came to test him with difficult questions.
 ## 1 Kings 10:2

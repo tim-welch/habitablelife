@@ -1,4 +1,3 @@
-# Ezra 5
 ## Ezra 5:1
 Later, the prophets Haggai and Zechariah son of Iddo prophesied to the Jews in Judah and Jerusalem in the name of the God of Israel, who was over them.
 ## Ezra 5:2

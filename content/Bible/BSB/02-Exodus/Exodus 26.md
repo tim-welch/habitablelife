@@ -1,4 +1,3 @@
-# Exodus 26
 ## Exodus 26:1
 “You are to construct the tabernacle itself with ten curtains of finely spun linen, each with blue, purple, and scarlet yarn, and cherubim skillfully worked into them.
 ## Exodus 26:2

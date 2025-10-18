@@ -1,4 +1,3 @@
-# Psalm 6
 ## Psalm 6:1
 For the choirmaster. With stringed instruments, according to Sheminith. A Psalm of David. O LORD, do not rebuke me in Your anger or discipline me in Your wrath.
 ## Psalm 6:2

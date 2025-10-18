@@ -1,4 +1,3 @@
-# Deuteronomy 24
 ## Deuteronomy 24:1
 If a man marries a woman, but she becomes displeasing to him because he finds some indecency in her, he may write her a certificate of divorce, hand it to her, and send her away from his house.
 ## Deuteronomy 24:2

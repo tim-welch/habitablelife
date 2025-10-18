@@ -1,4 +1,3 @@
-# Ezekiel 39
 ## Ezekiel 39:1
 “As for you, O son of man, prophesy against Gog and declare that this is what the Lord GOD says: Behold, I am against you, O Gog, chief prince of Meshech and Tubal.
 ## Ezekiel 39:2

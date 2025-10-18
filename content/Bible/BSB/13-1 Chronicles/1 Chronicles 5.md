@@ -1,4 +1,3 @@
-# 1 Chronicles 5
 ## 1 Chronicles 5:1
 These were the sons of Reuben the firstborn of Israel. Though he was the firstborn, his birthright was given to the sons of Joseph son of Israel, because Reuben defiled his father’s bed. So he is not reckoned according to birthright.
 ## 1 Chronicles 5:2

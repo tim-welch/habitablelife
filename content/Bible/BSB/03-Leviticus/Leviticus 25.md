@@ -1,4 +1,3 @@
-# Leviticus 25
 ## Leviticus 25:1
 Then the LORD said to Moses on Mount Sinai,
 ## Leviticus 25:2

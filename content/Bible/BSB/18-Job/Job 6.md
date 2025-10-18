@@ -1,4 +1,3 @@
-# Job 6
 ## Job 6:1
 Then Job replied:
 ## Job 6:2

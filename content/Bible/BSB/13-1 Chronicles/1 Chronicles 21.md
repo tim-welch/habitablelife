@@ -1,4 +1,3 @@
-# 1 Chronicles 21
 ## 1 Chronicles 21:1
 Then Satan rose up against Israel and incited David to take a census of Israel.
 ## 1 Chronicles 21:2

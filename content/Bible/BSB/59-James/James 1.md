@@ -1,4 +1,3 @@
-# James 1
 ## James 1:1
 James, a servant of God and of the Lord Jesus Christ, To the twelve tribes of the Dispersion: Greetings.
 ## James 1:2

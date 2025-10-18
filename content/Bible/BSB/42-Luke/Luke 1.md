@@ -1,4 +1,3 @@
-# Luke 1
 ## Luke 1:1
 Many have undertaken to compose an account of the things that have been fulfilled among us,
 ## Luke 1:2

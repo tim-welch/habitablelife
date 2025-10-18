@@ -1,4 +1,3 @@
-# Jeremiah 32
 ## Jeremiah 32:1
 This is the word that came to Jeremiah from the LORD in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.
 ## Jeremiah 32:2

@@ -1,4 +1,3 @@
-# Psalm 85
 ## Psalm 85:1
 For the choirmaster. A Psalm of the sons of Korah. You showed favor to Your land, O LORD; You restored Jacob from captivity.
 ## Psalm 85:2

@@ -1,4 +1,3 @@
-# 2 Chronicles 3
 ## 2 Chronicles 3:1
 Then Solomon began to build the house of the LORD in Jerusalem on Mount Moriah, where the LORD had appeared to his father David. This was the place that David had prepared on the threshing floor of Ornan the Jebusite.
 ## 2 Chronicles 3:2

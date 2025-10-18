@@ -1,4 +1,3 @@
-# Luke 12
 ## Luke 12:1
 In the meantime, a crowd of many thousands had gathered, so that they were trampling one another. Jesus began to speak first to His disciples: “Beware of the leaven of the Pharisees, which is hypocrisy.
 ## Luke 12:2

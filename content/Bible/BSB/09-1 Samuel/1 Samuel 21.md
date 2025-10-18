@@ -1,4 +1,3 @@
-# 1 Samuel 21
 ## 1 Samuel 21:1
 Then David came to Nob, to Ahimelech the priest. And when Ahimelech met David, he trembled and asked him, “Why are you alone? Why is no one with you?”
 ## 1 Samuel 21:2

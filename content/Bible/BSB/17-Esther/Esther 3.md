@@ -1,4 +1,3 @@
-# Esther 3
 ## Esther 3:1
 After these events, King Xerxes honored Haman son of Hammedatha, the Agagite, elevating him to a position above all the princes who were with him.
 ## Esther 3:2

@@ -1,4 +1,3 @@
-# Genesis 28
 ## Genesis 28:1
 So Isaac called for Jacob and blessed him. “Do not take a wife from the Canaanite women,” he commanded.
 ## Genesis 28:2

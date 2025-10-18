@@ -1,4 +1,3 @@
-# Zechariah 13
 ## Zechariah 13:1
 “On that day a fountain will be opened to the house of David and the people of Jerusalem, to cleanse them from sin and impurity.
 ## Zechariah 13:2

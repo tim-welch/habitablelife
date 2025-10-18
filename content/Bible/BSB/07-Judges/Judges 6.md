@@ -1,4 +1,3 @@
-# Judges 6
 ## Judges 6:1
 Again the Israelites did evil in the sight of the LORD; so He delivered them into the hand of Midian for seven years,
 ## Judges 6:2

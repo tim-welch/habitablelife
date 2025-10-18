@@ -1,4 +1,3 @@
-# Hosea 14
 ## Hosea 14:1
 Return, O Israel, to the LORD your God, for you have stumbled by your iniquity.
 ## Hosea 14:2

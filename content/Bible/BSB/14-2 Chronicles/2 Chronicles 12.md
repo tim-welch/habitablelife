@@ -1,4 +1,3 @@
-# 2 Chronicles 12
 ## 2 Chronicles 12:1
 After Rehoboam had established his sovereignty and royal power, he and all Israel with him forsook the Law of the LORD.
 ## 2 Chronicles 12:2

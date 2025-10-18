@@ -1,4 +1,3 @@
-# 2 Kings 22
 ## 2 Kings 22:1
 Josiah was eight years old when he became king, and he reigned in Jerusalem thirty-one years. His mother’s name was Jedidah daughter of Adaiah; she was from Bozkath.
 ## 2 Kings 22:2

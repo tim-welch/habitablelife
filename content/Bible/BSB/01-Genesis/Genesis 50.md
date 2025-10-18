@@ -1,4 +1,3 @@
-# Genesis 50
 ## Genesis 50:1
 Then Joseph fell upon his father’s face, wept over him, and kissed him.
 ## Genesis 50:2

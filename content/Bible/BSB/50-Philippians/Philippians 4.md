@@ -1,4 +1,3 @@
-# Philippians 4
 ## Philippians 4:1
 Therefore, my brothers, whom I love and long for, my joy and crown, that is how you must stand firm in the Lord, my beloved.
 ## Philippians 4:2

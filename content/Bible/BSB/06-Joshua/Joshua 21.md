@@ -1,4 +1,3 @@
-# Joshua 21
 ## Joshua 21:1
 Now the family heads of the Levites approached Eleazar the priest, Joshua son of Nun, and the heads of the other tribes of Israel
 ## Joshua 21:2

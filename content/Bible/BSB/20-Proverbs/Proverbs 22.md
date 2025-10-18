@@ -1,4 +1,3 @@
-# Proverbs 22
 ## Proverbs 22:1
 A good name is more desirable than great riches; favor is better than silver and gold.
 ## Proverbs 22:2

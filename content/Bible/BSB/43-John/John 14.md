@@ -1,4 +1,3 @@
-# John 14
 ## John 14:1
 “Do not let your hearts be troubled. You believe in God; believe in Me as well.
 ## John 14:2

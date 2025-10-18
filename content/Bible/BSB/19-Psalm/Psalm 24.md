@@ -1,4 +1,3 @@
-# Psalm 24
 ## Psalm 24:1
 A Psalm of David. The earth is the LORD’s, and the fullness thereof, the world and all who dwell therein.
 ## Psalm 24:2

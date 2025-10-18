@@ -1,4 +1,3 @@
-# Lamentations 2
 ## Lamentations 2:1
 How the Lord has covered the Daughter of Zion with the cloud of His anger! He has cast the glory of Israel from heaven to earth. He has abandoned His footstool in the day of His anger.
 ## Lamentations 2:2

@@ -1,4 +1,3 @@
-# Psalm 65
 ## Psalm 65:1
 For the choirmaster. A Psalm of David. A song. Praise awaits You, O God, in Zion; to You our vows will be fulfilled.
 ## Psalm 65:2

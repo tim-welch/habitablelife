@@ -1,4 +1,3 @@
-# Psalm 131
 ## Psalm 131:1
 A song of ascents. Of David. My heart is not proud, O LORD, my eyes are not haughty. I do not aspire to great things or matters too lofty for me.
 ## Psalm 131:2

@@ -1,4 +1,3 @@
-# James 5
 ## James 5:1
 Come now, you who are rich, weep and wail over the misery to come upon you.
 ## James 5:2

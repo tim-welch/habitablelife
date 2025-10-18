@@ -1,4 +1,3 @@
-# Exodus 17
 ## Exodus 17:1
 Then the whole congregation of Israel left the Desert of Sin, moving from place to place as the LORD commanded. They camped at Rephidim, but there was no water for the people to drink.
 ## Exodus 17:2

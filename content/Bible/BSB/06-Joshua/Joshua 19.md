@@ -1,4 +1,3 @@
-# Joshua 19
 ## Joshua 19:1
 The second lot came out for the clans of the tribe of Simeon: Their inheritance lay within the territory of Judah
 ## Joshua 19:2

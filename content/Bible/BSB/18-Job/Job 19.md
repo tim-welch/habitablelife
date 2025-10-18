@@ -1,4 +1,3 @@
-# Job 19
 ## Job 19:1
 Then Job answered:
 ## Job 19:2

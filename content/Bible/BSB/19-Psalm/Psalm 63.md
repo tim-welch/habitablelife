@@ -1,4 +1,3 @@
-# Psalm 63
 ## Psalm 63:1
 A Psalm of David, when he was in the Wilderness of Judah. O God, You are my God. Earnestly I seek You; my soul thirsts for You. My body yearns for You in a dry and weary land without water.
 ## Psalm 63:2

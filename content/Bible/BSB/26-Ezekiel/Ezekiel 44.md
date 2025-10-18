@@ -1,4 +1,3 @@
-# Ezekiel 44
 ## Ezekiel 44:1
 The man then brought me back to the outer gate of the sanctuary that faced east, but it was shut.
 ## Ezekiel 44:2

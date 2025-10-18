@@ -1,4 +1,3 @@
-# Psalm 53
 ## Psalm 53:1
 For the choirmaster. According to Mahalath. A Maskil of David. The fool says in his heart, “There is no God.” They are corrupt; their ways are vile. There is no one who does good.
 ## Psalm 53:2

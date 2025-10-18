@@ -1,4 +1,3 @@
-# Psalm 97
 ## Psalm 97:1
 The LORD reigns, let the earth rejoice; let the distant shores be glad.
 ## Psalm 97:2

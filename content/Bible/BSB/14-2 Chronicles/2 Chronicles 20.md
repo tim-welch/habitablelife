@@ -1,4 +1,3 @@
-# 2 Chronicles 20
 ## 2 Chronicles 20:1
 After this, the Moabites and Ammonites, together with some of the Meunites, came to make war against Jehoshaphat.
 ## 2 Chronicles 20:2

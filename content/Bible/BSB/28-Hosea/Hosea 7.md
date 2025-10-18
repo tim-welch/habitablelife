@@ -1,4 +1,3 @@
-# Hosea 7
 ## Hosea 7:1
 When I heal Israel, the iniquity of Ephraim will be exposed, as well as the crimes of Samaria. For they practice deceit and thieves break in; bandits raid in the streets.
 ## Hosea 7:2

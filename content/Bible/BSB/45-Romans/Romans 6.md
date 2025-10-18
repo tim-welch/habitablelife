@@ -1,4 +1,3 @@
-# Romans 6
 ## Romans 6:1
 What then shall we say? Shall we continue in sin so that grace may increase?
 ## Romans 6:2

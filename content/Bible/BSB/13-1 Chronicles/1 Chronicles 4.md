@@ -1,4 +1,3 @@
-# 1 Chronicles 4
 ## 1 Chronicles 4:1
 The descendants of Judah: Perez, Hezron, Carmi, Hur, and Shobal.
 ## 1 Chronicles 4:2

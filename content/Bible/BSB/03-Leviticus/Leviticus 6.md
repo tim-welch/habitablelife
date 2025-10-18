@@ -1,4 +1,3 @@
-# Leviticus 6
 ## Leviticus 6:1
 And the LORD said to Moses,
 ## Leviticus 6:2

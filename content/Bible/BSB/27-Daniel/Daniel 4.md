@@ -1,4 +1,3 @@
-# Daniel 4
 ## Daniel 4:1
 King Nebuchadnezzar, To the people of every nation and language who dwell in all the earth: May your prosperity be multiplied.
 ## Daniel 4:2

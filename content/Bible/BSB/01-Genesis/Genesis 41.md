@@ -1,4 +1,3 @@
-# Genesis 41
 ## Genesis 41:1
 After two full years had passed, Pharaoh had a dream: He was standing beside the Nile,
 ## Genesis 41:2

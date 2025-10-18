@@ -1,4 +1,3 @@
-# Isaiah 12
 ## Isaiah 12:1
 In that day you will say: “O LORD, I will praise You. Although You were angry with me, Your anger has turned away, and You have comforted me.
 ## Isaiah 12:2

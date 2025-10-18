@@ -1,4 +1,3 @@
-# 2 Kings 2
 ## 2 Kings 2:1
 Shortly before the LORD took Elijah up to heaven in a whirlwind, Elijah and Elisha were on their way from Gilgal,
 ## 2 Kings 2:2

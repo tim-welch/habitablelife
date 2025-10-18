@@ -1,4 +1,3 @@
-# Ezekiel 25
 ## Ezekiel 25:1
 Then the word of the LORD came to me, saying,
 ## Ezekiel 25:2

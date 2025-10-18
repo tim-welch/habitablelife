@@ -1,4 +1,3 @@
-# Job 31
 ## Job 31:1
 “I have made a covenant with my eyes. How then could I gaze with desire at a virgin?
 ## Job 31:2

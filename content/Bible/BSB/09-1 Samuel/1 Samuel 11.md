@@ -1,4 +1,3 @@
-# 1 Samuel 11
 ## 1 Samuel 11:1
 Then Nahash the Ammonite came up and laid siege to Jabesh-gilead. All the men of Jabesh said to him, “Make a treaty with us, and we will serve you.”
 ## 1 Samuel 11:2

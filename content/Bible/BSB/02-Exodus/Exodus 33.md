@@ -1,4 +1,3 @@
-# Exodus 33
 ## Exodus 33:1
 Then the LORD said to Moses, “Leave this place, you and the people you brought up out of the land of Egypt, and go to the land that I promised to Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’
 ## Exodus 33:2

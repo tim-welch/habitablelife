@@ -1,4 +1,3 @@
-# Luke 6
 ## Luke 6:1
 One Sabbath Jesus was passing through the grainfields, and His disciples began to pick the heads of grain, rub them in their hands, and eat them.
 ## Luke 6:2

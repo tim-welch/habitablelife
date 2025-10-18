@@ -1,4 +1,3 @@
-# Isaiah 63
 ## Isaiah 63:1
 Who is this coming from Edom, from Bozrah with crimson-stained garments? Who is this robed in splendor, marching in the greatness of His strength? “It is I, proclaiming vindication, mighty to save.”
 ## Isaiah 63:2

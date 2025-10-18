@@ -1,4 +1,3 @@
-# Numbers 19
 ## Numbers 19:1
 Then the LORD said to Moses and Aaron,
 ## Numbers 19:2

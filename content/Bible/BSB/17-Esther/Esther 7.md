@@ -1,4 +1,3 @@
-# Esther 7
 ## Esther 7:1
 So the king and Haman went to dine with Esther the queen,
 ## Esther 7:2

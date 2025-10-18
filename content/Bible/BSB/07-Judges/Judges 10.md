@@ -1,4 +1,3 @@
-# Judges 10
 ## Judges 10:1
 After the time of Abimelech, a man of Issachar, Tola son of Puah, the son of Dodo, rose up to save Israel. He lived in Shamir, in the hill country of Ephraim.
 ## Judges 10:2

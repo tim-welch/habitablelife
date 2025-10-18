@@ -1,4 +1,3 @@
-# Genesis 31
 ## Genesis 31:1
 Now Jacob heard that Laban’s sons were saying, “Jacob has taken away all that belonged to our father and built all this wealth at our father’s expense.”
 ## Genesis 31:2

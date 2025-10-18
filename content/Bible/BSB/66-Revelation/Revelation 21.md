@@ -1,4 +1,3 @@
-# Revelation 21
 ## Revelation 21:1
 Then I saw a new heaven and a new earth, for the first heaven and earth had passed away, and the sea was no more.
 ## Revelation 21:2

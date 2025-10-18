@@ -1,4 +1,3 @@
-# Isaiah 25
 ## Isaiah 25:1
 O LORD, You are my God! I will exalt You; I will praise Your name. For You have worked wonders—plans formed long ago—in perfect faithfulness.
 ## Isaiah 25:2

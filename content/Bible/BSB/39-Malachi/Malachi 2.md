@@ -1,4 +1,3 @@
-# Malachi 2
 ## Malachi 2:1
 “And now this decree is for you, O priests:
 ## Malachi 2:2

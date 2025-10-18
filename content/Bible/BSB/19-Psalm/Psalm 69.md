@@ -1,4 +1,3 @@
-# Psalm 69
 ## Psalm 69:1
 For the choirmaster. To the tune of “Lilies.” Of David. Save me, O God, for the waters are up to my neck.
 ## Psalm 69:2

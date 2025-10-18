@@ -1,4 +1,3 @@
-# Ephesians 2
 ## Ephesians 2:1
 And you were dead in your trespasses and sins,
 ## Ephesians 2:2

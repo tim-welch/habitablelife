@@ -1,4 +1,3 @@
-# Galatians 6
 ## Galatians 6:1
 Brothers, if someone is caught in a trespass, you who are spiritual should restore him with a spirit of gentleness. But watch yourself, or you also may be tempted.
 ## Galatians 6:2

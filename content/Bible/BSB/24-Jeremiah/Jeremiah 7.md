@@ -1,4 +1,3 @@
-# Jeremiah 7
 ## Jeremiah 7:1
 This is the word that came to Jeremiah from the LORD, saying,
 ## Jeremiah 7:2

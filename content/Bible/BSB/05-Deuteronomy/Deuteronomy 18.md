@@ -1,4 +1,3 @@
-# Deuteronomy 18
 ## Deuteronomy 18:1
 The Levitical priests—indeed the whole tribe of Levi—shall have no portion or inheritance with Israel. They are to eat the food offerings to the LORD; that is their inheritance.
 ## Deuteronomy 18:2

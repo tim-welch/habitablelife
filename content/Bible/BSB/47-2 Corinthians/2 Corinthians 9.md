@@ -1,4 +1,3 @@
-# 2 Corinthians 9
 ## 2 Corinthians 9:1
 Now about the service to the saints, there is no need for me to write to you.
 ## 2 Corinthians 9:2

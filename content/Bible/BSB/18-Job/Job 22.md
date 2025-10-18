@@ -1,4 +1,3 @@
-# Job 22
 ## Job 22:1
 Then Eliphaz the Temanite replied:
 ## Job 22:2

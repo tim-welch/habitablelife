@@ -1,4 +1,3 @@
-# Psalm 47
 ## Psalm 47:1
 For the choirmaster. A Psalm of the sons of Korah. Clap your hands, all you peoples; shout unto God with a voice of triumph.
 ## Psalm 47:2

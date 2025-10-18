@@ -1,4 +1,3 @@
-# Mark 14
 ## Mark 14:1
 Now the Passover and the Feast of Unleavened Bread were two days away, and the chief priests and scribes were looking for a covert way to arrest Jesus and kill Him.
 ## Mark 14:2

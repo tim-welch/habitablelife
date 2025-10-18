@@ -1,4 +1,3 @@
-# Ezekiel 23
 ## Ezekiel 23:1
 Again the word of the LORD came to me, saying,
 ## Ezekiel 23:2

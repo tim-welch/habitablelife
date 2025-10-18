@@ -1,4 +1,3 @@
-# Romans 14
 ## Romans 14:1
 Accept him whose faith is weak, without passing judgment on his opinions.
 ## Romans 14:2

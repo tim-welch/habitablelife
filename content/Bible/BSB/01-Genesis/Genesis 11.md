@@ -1,4 +1,3 @@
-# Genesis 11
 ## Genesis 11:1
 Now the whole world had one language and a common form of speech.
 ## Genesis 11:2

@@ -1,4 +1,3 @@
-# 1 Samuel 10
 ## 1 Samuel 10:1
 Then Samuel took a flask of oil, poured it on Saul’s head, kissed him, and said, “Has not the LORD anointed you ruler over His inheritance?
 ## 1 Samuel 10:2

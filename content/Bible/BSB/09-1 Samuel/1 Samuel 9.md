@@ -1,4 +1,3 @@
-# 1 Samuel 9
 ## 1 Samuel 9:1
 Now there was a Benjamite, a powerful man, whose name was Kish son of Abiel, the son of Zeror, the son of Becorath, the son of Aphiah of Benjamin.
 ## 1 Samuel 9:2

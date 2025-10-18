@@ -1,4 +1,3 @@
-# Numbers 29
 ## Numbers 29:1
 “On the first day of the seventh month, you are to hold a sacred assembly, and you must not do any regular work. This will be a day for you to sound the trumpets.
 ## Numbers 29:2

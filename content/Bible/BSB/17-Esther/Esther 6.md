@@ -1,4 +1,3 @@
-# Esther 6
 ## Esther 6:1
 That night sleep escaped the king; so he ordered the Book of Records, the Chronicles, to be brought in and read to him.
 ## Esther 6:2

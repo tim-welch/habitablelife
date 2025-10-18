@@ -1,4 +1,3 @@
-# Genesis 12
 ## Genesis 12:1
 Then the LORD said to Abram, “Leave your country, your kindred, and your father’s household, and go to the land I will show you.
 ## Genesis 12:2

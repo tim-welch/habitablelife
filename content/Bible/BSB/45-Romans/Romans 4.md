@@ -1,4 +1,3 @@
-# Romans 4
 ## Romans 4:1
 What then shall we say that Abraham, our forefather according to the flesh, has discovered?
 ## Romans 4:2

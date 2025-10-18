@@ -1,4 +1,3 @@
-# 2 Corinthians 2
 ## 2 Corinthians 2:1
 So I made up my mind not to make another painful visit to you.
 ## 2 Corinthians 2:2

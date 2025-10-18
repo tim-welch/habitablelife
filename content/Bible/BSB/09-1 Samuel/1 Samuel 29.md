@@ -1,4 +1,3 @@
-# 1 Samuel 29
 ## 1 Samuel 29:1
 Now the Philistines brought all their forces together at Aphek, while Israel camped by the spring in Jezreel.
 ## 1 Samuel 29:2

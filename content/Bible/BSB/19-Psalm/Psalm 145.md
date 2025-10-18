@@ -1,4 +1,3 @@
-# Psalm 145
 ## Psalm 145:1
 A Psalm of praise. Of David. I will exalt You, my God and King; I will bless Your name forever and ever.
 ## Psalm 145:2

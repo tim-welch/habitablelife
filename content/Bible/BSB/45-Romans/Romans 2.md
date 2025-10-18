@@ -1,4 +1,3 @@
-# Romans 2
 ## Romans 2:1
 You, therefore, have no excuse, you who pass judgment on another. For on whatever grounds you judge the other, you are condemning yourself, because you who pass judgment do the same things.
 ## Romans 2:2

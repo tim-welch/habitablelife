@@ -1,4 +1,3 @@
-# Isaiah 8
 ## Isaiah 8:1
 Then the LORD said to me, “Take a large scroll and write on it with an ordinary stylus: Maher-shalal-hash-baz.
 ## Isaiah 8:2

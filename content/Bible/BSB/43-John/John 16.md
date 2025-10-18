@@ -1,4 +1,3 @@
-# John 16
 ## John 16:1
 “I have told you these things so that you will not fall away.
 ## John 16:2

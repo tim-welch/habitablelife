@@ -1,4 +1,3 @@
-# Leviticus 22
 ## Leviticus 22:1
 Then the LORD said to Moses,
 ## Leviticus 22:2

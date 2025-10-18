@@ -1,4 +1,3 @@
-# Deuteronomy 32
 ## Deuteronomy 32:1
 Give ear, O heavens, and I will speak; hear, O earth, the words of my mouth.
 ## Deuteronomy 32:2

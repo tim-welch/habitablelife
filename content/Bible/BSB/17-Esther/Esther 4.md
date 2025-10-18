@@ -1,4 +1,3 @@
-# Esther 4
 ## Esther 4:1
 When Mordecai learned of all that had happened, he tore his clothes, put on sackcloth and ashes, and went out into the middle of the city, wailing loudly and bitterly.
 ## Esther 4:2

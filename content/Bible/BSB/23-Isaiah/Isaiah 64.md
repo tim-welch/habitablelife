@@ -1,4 +1,3 @@
-# Isaiah 64
 ## Isaiah 64:1
 If only You would rend the heavens and come down, so that mountains would quake at Your presence,
 ## Isaiah 64:2

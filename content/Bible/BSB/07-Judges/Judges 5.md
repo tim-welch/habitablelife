@@ -1,4 +1,3 @@
-# Judges 5
 ## Judges 5:1
 On that day Deborah and Barak son of Abinoam sang this song:
 ## Judges 5:2

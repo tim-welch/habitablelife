@@ -1,4 +1,3 @@
-# Psalm 78
 ## Psalm 78:1
 A Maskil of Asaph. Give ear, O my people, to my instruction; listen to the words of my mouth.
 ## Psalm 78:2

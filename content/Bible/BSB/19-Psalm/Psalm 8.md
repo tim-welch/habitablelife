@@ -1,4 +1,3 @@
-# Psalm 8
 ## Psalm 8:1
 For the choirmaster. According to Gittith. A Psalm of David. O LORD, our Lord, how majestic is Your name in all the earth! You have set Your glory above the heavens.
 ## Psalm 8:2

@@ -1,4 +1,3 @@
-# Joshua 9
 ## Joshua 9:1
 Now when news of this reached all the kings west of the Jordan—those in the hill country, the foothills, and all along the coast of the Great Sea toward Lebanon (the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites)—
 ## Joshua 9:2

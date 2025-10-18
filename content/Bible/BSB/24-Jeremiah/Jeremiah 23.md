@@ -1,4 +1,3 @@
-# Jeremiah 23
 ## Jeremiah 23:1
 “Woe to the shepherds who destroy and scatter the sheep of My pasture!” declares the LORD.
 ## Jeremiah 23:2

@@ -1,4 +1,3 @@
-# 1 Kings 15
 ## 1 Kings 15:1
 In the eighteenth year of the reign of Jeroboam son of Nebat, Abijam became king of Judah,
 ## 1 Kings 15:2

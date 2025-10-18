@@ -1,4 +1,3 @@
-# Psalm 106
 ## Psalm 106:1
 Hallelujah! Give thanks to the LORD, for He is good; His loving devotion endures forever.
 ## Psalm 106:2

@@ -1,4 +1,3 @@
-# Psalm 96
 ## Psalm 96:1
 Sing to the LORD a new song; sing to the LORD, all the earth.
 ## Psalm 96:2

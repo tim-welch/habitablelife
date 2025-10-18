@@ -1,4 +1,3 @@
-# Isaiah 24
 ## Isaiah 24:1
 Behold, the LORD lays waste the earth and leaves it in ruins. He will twist its surface and scatter its inhabitants—
 ## Isaiah 24:2

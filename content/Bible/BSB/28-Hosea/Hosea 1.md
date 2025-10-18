@@ -1,4 +1,3 @@
-# Hosea 1
 ## Hosea 1:1
 This is the word of the LORD that came to Hosea son of Beeri in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and of Jeroboam son of Jehoash, king of Israel.
 ## Hosea 1:2

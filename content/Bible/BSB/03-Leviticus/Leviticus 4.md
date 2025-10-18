@@ -1,4 +1,3 @@
-# Leviticus 4
 ## Leviticus 4:1
 Then the LORD said to Moses,
 ## Leviticus 4:2

@@ -1,4 +1,3 @@
-# Hosea 4
 ## Hosea 4:1
 Hear the word of the LORD, O children of Israel, for the LORD has a case against the people of the land: “There is no truth, no loving devotion, and no knowledge of God in the land!
 ## Hosea 4:2

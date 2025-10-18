@@ -1,4 +1,3 @@
-# Numbers 33
 ## Numbers 33:1
 These are the journeys of the Israelites when they came out of the land of Egypt by their divisions under the leadership of Moses and Aaron.
 ## Numbers 33:2

@@ -1,4 +1,3 @@
-# Acts 26
 ## Acts 26:1
 Agrippa said to Paul, “You have permission to speak for yourself.” Then Paul stretched out his hand and began his defense:
 ## Acts 26:2

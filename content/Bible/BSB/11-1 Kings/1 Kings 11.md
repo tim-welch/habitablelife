@@ -1,4 +1,3 @@
-# 1 Kings 11
 ## 1 Kings 11:1
 King Solomon, however, loved many foreign women along with the daughter of Pharaoh—women of Moab, Ammon, Edom, and Sidon, as well as Hittite women.
 ## 1 Kings 11:2

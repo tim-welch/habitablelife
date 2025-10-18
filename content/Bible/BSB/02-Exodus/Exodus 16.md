@@ -1,4 +1,3 @@
-# Exodus 16
 ## Exodus 16:1
 On the fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin, which is between Elim and Sinai.
 ## Exodus 16:2

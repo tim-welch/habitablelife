@@ -1,4 +1,3 @@
-# Jeremiah 44
 ## Jeremiah 44:1
 This is the word that came to Jeremiah concerning all the Jews living in the land of Egypt—in Migdol, Tahpanhes, and Memphis—and in the land of Pathros:
 ## Jeremiah 44:2

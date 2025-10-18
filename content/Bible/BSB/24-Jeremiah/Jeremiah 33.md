@@ -1,4 +1,3 @@
-# Jeremiah 33
 ## Jeremiah 33:1
 While Jeremiah was still confined in the courtyard of the guard, the word of the LORD came to him a second time:
 ## Jeremiah 33:2

@@ -1,4 +1,3 @@
-# 2 Kings 4
 ## 2 Kings 4:1
 Now the wife of one of the sons of the prophets cried out to Elisha, “Your servant, my husband, is dead, and you know that your servant feared the LORD. And now his creditor is coming to take my two children as his slaves!”
 ## 2 Kings 4:2

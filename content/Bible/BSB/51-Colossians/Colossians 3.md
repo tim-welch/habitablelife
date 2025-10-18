@@ -1,4 +1,3 @@
-# Colossians 3
 ## Colossians 3:1
 Therefore, since you have been raised with Christ, strive for the things above, where Christ is seated at the right hand of God.
 ## Colossians 3:2

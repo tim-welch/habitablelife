@@ -1,4 +1,3 @@
-# Psalm 55
 ## Psalm 55:1
 For the choirmaster. With stringed instruments. A Maskil of David. Listen to my prayer, O God, and do not ignore my plea.
 ## Psalm 55:2

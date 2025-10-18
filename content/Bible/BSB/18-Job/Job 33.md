@@ -1,4 +1,3 @@
-# Job 33
 ## Job 33:1
 “But now, O Job, hear my speech, and listen to all my words.
 ## Job 33:2

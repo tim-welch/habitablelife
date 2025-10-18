@@ -1,4 +1,3 @@
-# Exodus 13
 ## Exodus 13:1
 Then the LORD said to Moses,
 ## Exodus 13:2

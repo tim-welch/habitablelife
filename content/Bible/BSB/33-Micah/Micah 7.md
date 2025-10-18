@@ -1,4 +1,3 @@
-# Micah 7
 ## Micah 7:1
 Woe is me! For I am like one gathering summer fruit at the gleaning of the vineyard; there is no cluster to eat, no early fig that I crave.
 ## Micah 7:2

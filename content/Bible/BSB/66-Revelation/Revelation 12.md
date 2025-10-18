@@ -1,4 +1,3 @@
-# Revelation 12
 ## Revelation 12:1
 And a great sign appeared in heaven: a woman clothed in the sun, with the moon under her feet and a crown of twelve stars on her head.
 ## Revelation 12:2

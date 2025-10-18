@@ -1,4 +1,3 @@
-# John 4
 ## John 4:1
 When Jesus realized that the Pharisees were aware He was gaining and baptizing more disciples than John
 ## John 4:2

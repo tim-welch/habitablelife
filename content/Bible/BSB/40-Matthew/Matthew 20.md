@@ -1,4 +1,3 @@
-# Matthew 20
 ## Matthew 20:1
 “For the kingdom of heaven is like a landowner who went out early in the morning to hire workers for his vineyard.
 ## Matthew 20:2

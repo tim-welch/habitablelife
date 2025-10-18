@@ -1,4 +1,3 @@
-# Psalm 34
 ## Psalm 34:1
 Of David, when he pretended to be insane before Abimelech, so that the king drove him away. I will bless the LORD at all times; His praise will always be on my lips.
 ## Psalm 34:2

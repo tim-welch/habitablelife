@@ -1,4 +1,3 @@
-# Job 1
 ## Job 1:1
 There was a man in the land of Uz whose name was Job. And this man was blameless and upright, fearing God and shunning evil.
 ## Job 1:2

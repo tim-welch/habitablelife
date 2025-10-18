@@ -1,4 +1,3 @@
-# Job 20
 ## Job 20:1
 Then Zophar the Naamathite replied:
 ## Job 20:2

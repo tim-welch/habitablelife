@@ -1,4 +1,3 @@
-# Proverbs 1
 ## Proverbs 1:1
 These are the proverbs of Solomon son of David, king of Israel,
 ## Proverbs 1:2

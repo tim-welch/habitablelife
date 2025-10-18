@@ -1,4 +1,3 @@
-# Acts 27
 ## Acts 27:1
 When it was decided that we would sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who belonged to the Imperial Regiment.
 ## Acts 27:2

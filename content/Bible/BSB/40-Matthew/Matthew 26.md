@@ -1,4 +1,3 @@
-# Matthew 26
 ## Matthew 26:1
 When Jesus had finished saying all these things, He told His disciples,
 ## Matthew 26:2

@@ -1,4 +1,3 @@
-# Numbers 2
 ## Numbers 2:1
 Then the LORD said to Moses and Aaron:
 ## Numbers 2:2

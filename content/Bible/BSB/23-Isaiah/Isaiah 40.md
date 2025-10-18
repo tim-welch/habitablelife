@@ -1,4 +1,3 @@
-# Isaiah 40
 ## Isaiah 40:1
 “Comfort, comfort My people,” says your God.
 ## Isaiah 40:2

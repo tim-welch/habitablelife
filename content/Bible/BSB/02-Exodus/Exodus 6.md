@@ -1,4 +1,3 @@
-# Exodus 6
 ## Exodus 6:1
 But the LORD said to Moses, “Now you will see what I will do to Pharaoh, for because of My mighty hand he will let the people go; because of My strong hand he will drive them out of his land.”
 ## Exodus 6:2

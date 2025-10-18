@@ -1,4 +1,3 @@
-# Exodus 38
 ## Exodus 38:1
 Bezalel constructed the altar of burnt offering from acacia wood. It was square, five cubits long, five cubits wide, and three cubits high.
 ## Exodus 38:2

@@ -1,4 +1,3 @@
-# John 15
 ## John 15:1
 “I am the true vine, and My Father is the keeper of the vineyard.
 ## John 15:2

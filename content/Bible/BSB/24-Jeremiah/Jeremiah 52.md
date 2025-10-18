@@ -1,4 +1,3 @@
-# Jeremiah 52
 ## Jeremiah 52:1
 Zedekiah was twenty-one years old when he became king, and he reigned in Jerusalem eleven years. His mother’s name was Hamutal daughter of Jeremiah; she was from Libnah.
 ## Jeremiah 52:2

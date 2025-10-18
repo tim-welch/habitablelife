@@ -1,4 +1,3 @@
-# Genesis 21
 ## Genesis 21:1
 Now the LORD attended to Sarah as He had said, and the LORD did for Sarah what He had promised.
 ## Genesis 21:2

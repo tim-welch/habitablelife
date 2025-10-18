@@ -1,4 +1,3 @@
-# Genesis 48
 ## Genesis 48:1
 Some time later Joseph was told, “Your father is ill.” So he set out with his two sons, Manasseh and Ephraim.
 ## Genesis 48:2

@@ -1,4 +1,3 @@
-# 2 Samuel 1
 ## 2 Samuel 1:1
 After the death of Saul, David returned from the slaughter of the Amalekites and stayed in Ziklag two days.
 ## 2 Samuel 1:2

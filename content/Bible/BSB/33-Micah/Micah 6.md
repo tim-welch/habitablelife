@@ -1,4 +1,3 @@
-# Micah 6
 ## Micah 6:1
 Hear now what the LORD says: “Arise, plead your case before the mountains, and let the hills hear your voice.
 ## Micah 6:2

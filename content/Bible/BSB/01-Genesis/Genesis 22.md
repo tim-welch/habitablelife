@@ -1,4 +1,3 @@
-# Genesis 22
 ## Genesis 22:1
 Some time later God tested Abraham and said to him, “Abraham!” “Here I am,” he answered.
 ## Genesis 22:2

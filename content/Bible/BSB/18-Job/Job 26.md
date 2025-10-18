@@ -1,4 +1,3 @@
-# Job 26
 ## Job 26:1
 Then Job answered:
 ## Job 26:2

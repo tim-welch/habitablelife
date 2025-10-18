@@ -1,4 +1,3 @@
-# Psalm 45
 ## Psalm 45:1
 For the choirmaster. To the tune of “The Lilies.” A Maskil of the sons of Korah. A love song. My heart is stirred by a noble theme as I recite my verses to the king; my tongue is the pen of a skillful writer.
 ## Psalm 45:2

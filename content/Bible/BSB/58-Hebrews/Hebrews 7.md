@@ -1,4 +1,3 @@
-# Hebrews 7
 ## Hebrews 7:1
 This Melchizedek was king of Salem and priest of God Most High. He met Abraham returning from the slaughter of the kings and blessed him,
 ## Hebrews 7:2

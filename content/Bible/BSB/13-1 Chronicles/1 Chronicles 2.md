@@ -1,4 +1,3 @@
-# 1 Chronicles 2
 ## 1 Chronicles 2:1
 These were the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
 ## 1 Chronicles 2:2

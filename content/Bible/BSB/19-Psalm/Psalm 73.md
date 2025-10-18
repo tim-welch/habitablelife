@@ -1,4 +1,3 @@
-# Psalm 73
 ## Psalm 73:1
 A Psalm of Asaph. Surely God is good to Israel, to those who are pure in heart.
 ## Psalm 73:2

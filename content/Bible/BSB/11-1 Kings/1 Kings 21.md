@@ -1,4 +1,3 @@
-# 1 Kings 21
 ## 1 Kings 21:1
 Some time after these events, Naboth the Jezreelite owned a vineyard in Jezreel next to the palace of Ahab king of Samaria.
 ## 1 Kings 21:2

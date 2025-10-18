@@ -1,4 +1,3 @@
-# Judges 20
 ## Judges 20:1
 Then all the Israelites from Dan to Beersheba and from the land of Gilead came out, and the congregation assembled as one man before the LORD at Mizpah.
 ## Judges 20:2

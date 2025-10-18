@@ -1,4 +1,3 @@
-# Luke 5
 ## Luke 5:1
 On one occasion, while Jesus was standing by the Lake of Gennesaret with the crowd pressing in on Him to hear the word of God,
 ## Luke 5:2

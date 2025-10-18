@@ -1,4 +1,3 @@
-# Nehemiah 4
 ## Nehemiah 4:1
 Now when Sanballat heard that we were rebuilding the wall, he was furious and filled with indignation. He ridiculed the Jews
 ## Nehemiah 4:2

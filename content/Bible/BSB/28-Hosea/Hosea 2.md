@@ -1,4 +1,3 @@
-# Hosea 2
 ## Hosea 2:1
 “Say of your brothers, ‘My people,’ and of your sisters, ‘My loved one.’
 ## Hosea 2:2

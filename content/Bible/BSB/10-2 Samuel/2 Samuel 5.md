@@ -1,4 +1,3 @@
-# 2 Samuel 5
 ## 2 Samuel 5:1
 Then all the tribes of Israel came to David at Hebron and said, “Here we are, your own flesh and blood.
 ## 2 Samuel 5:2

@@ -1,4 +1,3 @@
-# 2 Corinthians 13
 ## 2 Corinthians 13:1
 This is the third time I am coming to you. “Every matter must be established by the testimony of two or three witnesses.”
 ## 2 Corinthians 13:2

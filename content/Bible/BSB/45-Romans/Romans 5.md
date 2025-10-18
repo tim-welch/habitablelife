@@ -1,4 +1,3 @@
-# Romans 5
 ## Romans 5:1
 Therefore, since we have been justified through faith, we have peace with God through our Lord Jesus Christ,
 ## Romans 5:2

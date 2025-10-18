@@ -1,4 +1,3 @@
-# Jeremiah 15
 ## Jeremiah 15:1
 Then the LORD said to me: “Even if Moses and Samuel should stand before Me, My heart would not go out to this people. Send them from My presence, and let them go!
 ## Jeremiah 15:2

@@ -1,4 +1,3 @@
-# Psalm 105
 ## Psalm 105:1
 Give thanks to the LORD, call upon His name; make known His deeds among the nations.
 ## Psalm 105:2

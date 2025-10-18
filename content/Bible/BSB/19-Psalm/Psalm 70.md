@@ -1,4 +1,3 @@
-# Psalm 70
 ## Psalm 70:1
 For the choirmaster. Of David. To bring remembrance. Make haste, O God, to deliver me! Hurry, O LORD, to help me!
 ## Psalm 70:2

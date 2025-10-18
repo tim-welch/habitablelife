@@ -1,4 +1,3 @@
-# Romans 16
 ## Romans 16:1
 I commend to you our sister Phoebe, a servant of the church in Cenchrea.
 ## Romans 16:2

@@ -1,4 +1,3 @@
-# 2 Kings 23
 ## 2 Kings 23:1
 Then the king summoned all the elders of Judah and Jerusalem.
 ## 2 Kings 23:2

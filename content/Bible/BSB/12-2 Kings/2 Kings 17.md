@@ -1,4 +1,3 @@
-# 2 Kings 17
 ## 2 Kings 17:1
 In the twelfth year of the reign of Ahaz over Judah, Hoshea son of Elah became king of Israel, and he reigned in Samaria nine years.
 ## 2 Kings 17:2

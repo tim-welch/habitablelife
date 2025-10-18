@@ -1,4 +1,3 @@
-# Psalm 44
 ## Psalm 44:1
 For the choirmaster. A Maskil of the sons of Korah. We have heard with our ears, O God; our fathers have told us the work You did in their days, in the days of old.
 ## Psalm 44:2

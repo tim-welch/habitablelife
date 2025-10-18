@@ -1,4 +1,3 @@
-# Jeremiah 9
 ## Jeremiah 9:1
 Oh, that my head were a spring of water, and my eyes a fountain of tears! I would weep day and night over the slain daughter of my people.
 ## Jeremiah 9:2

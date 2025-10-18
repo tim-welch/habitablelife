@@ -1,4 +1,3 @@
-# 1 Kings 18
 ## 1 Kings 18:1
 After a long time, in the third year of the drought, the word of the LORD came to Elijah: “Go and present yourself to Ahab, and I will send rain upon the face of the earth.”
 ## 1 Kings 18:2

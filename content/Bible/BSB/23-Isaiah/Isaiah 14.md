@@ -1,4 +1,3 @@
-# Isaiah 14
 ## Isaiah 14:1
 For the LORD will have compassion on Jacob; once again He will choose Israel and settle them in their own land. The foreigner will join them and unite with the house of Jacob.
 ## Isaiah 14:2

@@ -1,4 +1,3 @@
-# Psalm 25
 ## Psalm 25:1
 Of David. To You, O LORD, I lift up my soul;
 ## Psalm 25:2

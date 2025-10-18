@@ -1,4 +1,3 @@
-# Psalm 111
 ## Psalm 111:1
 Hallelujah! I will give thanks to the LORD with all my heart in the council of the upright and in the assembly.
 ## Psalm 111:2

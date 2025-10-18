@@ -1,4 +1,3 @@
-# Genesis 33
 ## Genesis 33:1
 Now Jacob looked up and saw Esau coming toward him with four hundred men. So he divided the children among Leah, Rachel, and the two maidservants.
 ## Genesis 33:2

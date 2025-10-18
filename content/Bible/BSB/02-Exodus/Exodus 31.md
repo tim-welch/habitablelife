@@ -1,4 +1,3 @@
-# Exodus 31
 ## Exodus 31:1
 Then the LORD said to Moses,
 ## Exodus 31:2

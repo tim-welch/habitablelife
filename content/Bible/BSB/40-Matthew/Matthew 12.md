@@ -1,4 +1,3 @@
-# Matthew 12
 ## Matthew 12:1
 At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry and began to pick the heads of grain and eat them.
 ## Matthew 12:2

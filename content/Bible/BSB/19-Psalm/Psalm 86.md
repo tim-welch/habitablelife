@@ -1,4 +1,3 @@
-# Psalm 86
 ## Psalm 86:1
 A prayer of David. Incline Your ear, O LORD, and answer me, for I am poor and needy.
 ## Psalm 86:2

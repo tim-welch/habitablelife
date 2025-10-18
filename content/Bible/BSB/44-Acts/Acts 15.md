@@ -1,4 +1,3 @@
-# Acts 15
 ## Acts 15:1
 Then some men came down from Judea and were teaching the brothers, “Unless you are circumcised according to the custom of Moses, you cannot be saved.”
 ## Acts 15:2

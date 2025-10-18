@@ -1,4 +1,3 @@
-# Nehemiah 1
 ## Nehemiah 1:1
 These are the words of Nehemiah son of Hacaliah: In the month of Chislev, in the twentieth year, while I was in the citadel of Susa,
 ## Nehemiah 1:2

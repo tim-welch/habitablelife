@@ -1,4 +1,3 @@
-# 2 Corinthians 11
 ## 2 Corinthians 11:1
 I hope you will put up with a little of my foolishness, but you are already doing that.
 ## 2 Corinthians 11:2

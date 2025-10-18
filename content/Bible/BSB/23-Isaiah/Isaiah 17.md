@@ -1,4 +1,3 @@
-# Isaiah 17
 ## Isaiah 17:1
 This is the burden against Damascus: “Behold, Damascus is no longer a city; it has become a heap of ruins.
 ## Isaiah 17:2

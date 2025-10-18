@@ -1,4 +1,3 @@
-# Ecclesiastes 8
 ## Ecclesiastes 8:1
 Who is like the wise man? Who knows the interpretation of a matter? A man’s wisdom brightens his face, and the sternness of his face is changed.
 ## Ecclesiastes 8:2

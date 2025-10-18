@@ -1,4 +1,3 @@
-# Revelation 13
 ## Revelation 13:1
 Then I saw a beast with ten horns and seven heads rising out of the sea. There were ten royal crowns on its horns and blasphemous names on its heads.
 ## Revelation 13:2

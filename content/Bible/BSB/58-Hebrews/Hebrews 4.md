@@ -1,4 +1,3 @@
-# Hebrews 4
 ## Hebrews 4:1
 Therefore, while the promise of entering His rest still stands, let us be careful that none of you be deemed to have fallen short of it.
 ## Hebrews 4:2

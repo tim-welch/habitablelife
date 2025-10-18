@@ -1,4 +1,3 @@
-# Luke 24
 ## Luke 24:1
 On the first day of the week, very early in the morning, the women came to the tomb, bringing the spices they had prepared.
 ## Luke 24:2

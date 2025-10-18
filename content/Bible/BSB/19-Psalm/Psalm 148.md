@@ -1,4 +1,3 @@
-# Psalm 148
 ## Psalm 148:1
 Hallelujah! Praise the LORD from the heavens; praise Him in the highest places.
 ## Psalm 148:2

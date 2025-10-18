@@ -1,4 +1,3 @@
-# Psalm 93
 ## Psalm 93:1
 The LORD reigns! He is robed in majesty; the LORD has clothed and armed Himself with strength. The world indeed is firmly established; it cannot be moved.
 ## Psalm 93:2

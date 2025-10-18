@@ -1,4 +1,3 @@
-# Psalm 81
 ## Psalm 81:1
 For the choirmaster. According to Gittith. Of Asaph. Sing for joy to God our strength; make a joyful noise to the God of Jacob.
 ## Psalm 81:2

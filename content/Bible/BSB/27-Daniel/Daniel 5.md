@@ -1,4 +1,3 @@
-# Daniel 5
 ## Daniel 5:1
 Later, King Belshazzar held a great feast for a thousand of his nobles, and he drank wine with them.
 ## Daniel 5:2

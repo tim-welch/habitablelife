@@ -1,4 +1,3 @@
-# 1 Kings 4
 ## 1 Kings 4:1
 So King Solomon ruled over Israel,
 ## 1 Kings 4:2

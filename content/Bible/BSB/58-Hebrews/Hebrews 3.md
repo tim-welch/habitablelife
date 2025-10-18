@@ -1,4 +1,3 @@
-# Hebrews 3
 ## Hebrews 3:1
 Therefore, holy brothers, who share in the heavenly calling, set your focus on Jesus, the apostle and high priest whom we confess.
 ## Hebrews 3:2

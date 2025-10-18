@@ -1,4 +1,3 @@
-# Genesis 14
 ## Genesis 14:1
 In those days Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of Goiim
 ## Genesis 14:2

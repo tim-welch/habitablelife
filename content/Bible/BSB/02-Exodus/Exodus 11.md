@@ -1,4 +1,3 @@
-# Exodus 11
 ## Exodus 11:1
 Then the LORD said to Moses, “I will bring upon Pharaoh and Egypt one more plague. After that, he will allow you to leave this place. And when he lets you go, he will drive you out completely.
 ## Exodus 11:2

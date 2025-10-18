@@ -1,4 +1,3 @@
-# Psalm 52
 ## Psalm 52:1
 For the choirmaster. A Maskil of David. After Doeg the Edomite went to Saul and told him, “David has gone to the house of Ahimelech.” Why do you boast of evil, O mighty man? The loving devotion of God endures all day long.
 ## Psalm 52:2

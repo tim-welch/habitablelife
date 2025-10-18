@@ -1,4 +1,3 @@
-# Zechariah 14
 ## Zechariah 14:1
 Behold, a day of the LORD is coming when your plunder will be divided in your presence.
 ## Zechariah 14:2

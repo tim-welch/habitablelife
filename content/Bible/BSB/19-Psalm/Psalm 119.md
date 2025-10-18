@@ -1,4 +1,3 @@
-# Psalm 119
 ## Psalm 119:1
 Blessed are those whose way is blameless, who walk in the Law of the LORD.
 ## Psalm 119:2

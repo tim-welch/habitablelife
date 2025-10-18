@@ -1,4 +1,3 @@
-# Ecclesiastes 6
 ## Ecclesiastes 6:1
 There is another evil I have seen under the sun, and it weighs heavily upon mankind:
 ## Ecclesiastes 6:2

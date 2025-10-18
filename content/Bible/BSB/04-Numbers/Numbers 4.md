@@ -1,4 +1,3 @@
-# Numbers 4
 ## Numbers 4:1
 Then the LORD said to Moses and Aaron,
 ## Numbers 4:2

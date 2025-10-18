@@ -1,4 +1,3 @@
-# Isaiah 58
 ## Isaiah 58:1
 “Cry aloud, do not hold back! Raise your voice like a ram’s horn. Declare to My people their transgression and to the house of Jacob their sins.
 ## Isaiah 58:2

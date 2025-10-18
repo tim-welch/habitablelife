@@ -1,4 +1,3 @@
-# Genesis 19
 ## Genesis 19:1
 Now the two angels arrived at Sodom in the evening, and Lot was sitting in the gateway of the city. When Lot saw them, he got up to meet them, bowed facedown,
 ## Genesis 19:2

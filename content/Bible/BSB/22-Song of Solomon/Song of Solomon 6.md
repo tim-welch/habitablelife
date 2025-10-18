@@ -1,4 +1,3 @@
-# Song of Solomon 6
 ## Song of Solomon 6:1
 Where has your beloved gone, O most beautiful among women? Which way has he turned? We will seek him with you.
 ## Song of Solomon 6:2

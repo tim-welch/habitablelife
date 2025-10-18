@@ -1,4 +1,3 @@
-# Isaiah 5
 ## Isaiah 5:1
 I will sing for my beloved a song of his vineyard: My beloved had a vineyard on a very fertile hill.
 ## Isaiah 5:2

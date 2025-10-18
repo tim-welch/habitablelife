@@ -1,4 +1,3 @@
-# 1 Samuel 23
 ## 1 Samuel 23:1
 Now it was reported to David, “Look, the Philistines are fighting against Keilah and looting the threshing floors.”
 ## 1 Samuel 23:2

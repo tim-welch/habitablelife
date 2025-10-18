@@ -1,4 +1,3 @@
-# John 8
 ## John 8:1
 But Jesus went to the Mount of Olives.
 ## John 8:2

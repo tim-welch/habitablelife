@@ -1,4 +1,3 @@
-# Isaiah 10
 ## Isaiah 10:1
 Woe to those who enact unjust statutes and issue oppressive decrees,
 ## Isaiah 10:2

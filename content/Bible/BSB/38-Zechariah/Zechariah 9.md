@@ -1,4 +1,3 @@
-# Zechariah 9
 ## Zechariah 9:1
 This is the burden of the word of the LORD against the land of Hadrach and Damascus its resting place—for the eyes of men and of all the tribes of Israel are upon the LORD—
 ## Zechariah 9:2

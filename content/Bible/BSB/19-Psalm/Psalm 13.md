@@ -1,4 +1,3 @@
-# Psalm 13
 ## Psalm 13:1
 For the choirmaster. A Psalm of David. How long, O LORD? Will You forget me forever? How long will You hide Your face from me?
 ## Psalm 13:2

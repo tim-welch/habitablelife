@@ -1,4 +1,3 @@
-# 2 Corinthians 7
 ## 2 Corinthians 7:1
 Therefore, beloved, since we have these promises, let us cleanse ourselves from everything that defiles body and spirit, perfecting holiness in the fear of God.
 ## 2 Corinthians 7:2

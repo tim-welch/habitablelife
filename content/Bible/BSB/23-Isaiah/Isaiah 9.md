@@ -1,4 +1,3 @@
-# Isaiah 9
 ## Isaiah 9:1
 Nevertheless, there will be no more gloom for those in distress. In the past He humbled the land of Zebulun and the land of Naphtali, but in the future He will honor the Way of the Sea, beyond the Jordan, Galilee of the nations:
 ## Isaiah 9:2

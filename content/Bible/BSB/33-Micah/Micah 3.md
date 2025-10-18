@@ -1,4 +1,3 @@
-# Micah 3
 ## Micah 3:1
 Then I said: “Hear now, O leaders of Jacob, you rulers of the house of Israel. Should you not know justice?
 ## Micah 3:2

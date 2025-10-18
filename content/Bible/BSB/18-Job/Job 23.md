@@ -1,4 +1,3 @@
-# Job 23
 ## Job 23:1
 Then Job answered:
 ## Job 23:2

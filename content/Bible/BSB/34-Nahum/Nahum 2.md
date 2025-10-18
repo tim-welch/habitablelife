@@ -1,4 +1,3 @@
-# Nahum 2
 ## Nahum 2:1
 One who scatters advances against you, O Nineveh. Guard the fortress! Watch the road! Brace yourselves! Summon all your strength!
 ## Nahum 2:2

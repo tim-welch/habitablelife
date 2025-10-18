@@ -1,4 +1,3 @@
-# Psalm 113
 ## Psalm 113:1
 Hallelujah! Give praise, O servants of the LORD; praise the name of the LORD.
 ## Psalm 113:2

@@ -1,4 +1,3 @@
-# 2 John 1
 ## 2 John 1:1
 The elder, To the chosen lady and her children, whom I love in the truth—and not I alone, but also all who know the truth—
 ## 2 John 1:2

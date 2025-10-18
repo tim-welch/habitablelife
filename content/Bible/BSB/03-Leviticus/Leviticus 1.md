@@ -1,4 +1,3 @@
-# Leviticus 1
 ## Leviticus 1:1
 Then the LORD called to Moses and spoke to him from the Tent of Meeting, saying,
 ## Leviticus 1:2

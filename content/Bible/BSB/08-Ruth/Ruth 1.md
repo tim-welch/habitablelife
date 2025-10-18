@@ -1,4 +1,3 @@
-# Ruth 1
 ## Ruth 1:1
 In the days when the judges ruled, there was a famine in the land. And a certain man from Bethlehem in Judah, with his wife and two sons, went to reside in the land of Moab.
 ## Ruth 1:2

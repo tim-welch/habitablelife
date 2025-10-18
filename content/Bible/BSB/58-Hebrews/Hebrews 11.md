@@ -1,4 +1,3 @@
-# Hebrews 11
 ## Hebrews 11:1
 Now faith is the assurance of what we hope for and the certainty of what we do not see.
 ## Hebrews 11:2

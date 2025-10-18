@@ -1,4 +1,3 @@
-# 2 Chronicles 24
 ## 2 Chronicles 24:1
 Joash was seven years old when he became king, and he reigned in Jerusalem forty years. His mother’s name was Zibiah; she was from Beersheba.
 ## 2 Chronicles 24:2

@@ -1,4 +1,3 @@
-# Psalm 124
 ## Psalm 124:1
 A song of ascents. Of David. If the LORD had not been on our side—let Israel now declare—
 ## Psalm 124:2

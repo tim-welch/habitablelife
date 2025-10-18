@@ -1,4 +1,3 @@
-# Psalm 110
 ## Psalm 110:1
 A Psalm of David. The LORD said to my Lord: “Sit at My right hand until I make Your enemies a footstool for Your feet.”
 ## Psalm 110:2

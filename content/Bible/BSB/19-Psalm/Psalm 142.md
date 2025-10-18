@@ -1,4 +1,3 @@
-# Psalm 142
 ## Psalm 142:1
 A Maskil of David, when he was in the cave. A prayer. I cry aloud to the LORD; I lift my voice to the LORD for mercy.
 ## Psalm 142:2

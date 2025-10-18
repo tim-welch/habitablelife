@@ -1,4 +1,3 @@
-# Genesis 5
 ## Genesis 5:1
 This is the book of the generations of Adam. In the day that God created man, He made him in His own likeness.
 ## Genesis 5:2

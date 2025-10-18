@@ -1,4 +1,3 @@
-# Numbers 5
 ## Numbers 5:1
 Then the LORD said to Moses,
 ## Numbers 5:2

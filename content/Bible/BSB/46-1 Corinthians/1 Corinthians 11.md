@@ -1,4 +1,3 @@
-# 1 Corinthians 11
 ## 1 Corinthians 11:1
 You are to imitate me, just as I imitate Christ.
 ## 1 Corinthians 11:2

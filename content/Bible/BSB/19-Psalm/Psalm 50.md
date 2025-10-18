@@ -1,4 +1,3 @@
-# Psalm 50
 ## Psalm 50:1
 A Psalm of Asaph. The Mighty One, God the LORD, speaks and summons the earth from where the sun rises to where it sets.
 ## Psalm 50:2

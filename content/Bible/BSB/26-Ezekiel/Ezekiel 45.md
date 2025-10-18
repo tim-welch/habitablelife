@@ -1,4 +1,3 @@
-# Ezekiel 45
 ## Ezekiel 45:1
 “When you divide the land by lot as an inheritance, you are to set aside a portion for the LORD, a holy portion of the land 25,000 cubits long and 20,000 cubits wide. This entire tract of land will be holy.
 ## Ezekiel 45:2

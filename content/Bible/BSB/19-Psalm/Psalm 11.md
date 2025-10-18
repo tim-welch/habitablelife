@@ -1,4 +1,3 @@
-# Psalm 11
 ## Psalm 11:1
 For the choirmaster. Of David. In the LORD I take refuge. How then can you say to me: “Flee like a bird to your mountain!
 ## Psalm 11:2

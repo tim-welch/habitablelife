@@ -1,4 +1,3 @@
-# Ephesians 1
 ## Ephesians 1:1
 Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, the faithful in Christ Jesus:
 ## Ephesians 1:2

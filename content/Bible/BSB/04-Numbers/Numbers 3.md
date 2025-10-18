@@ -1,4 +1,3 @@
-# Numbers 3
 ## Numbers 3:1
 This is the account of Aaron and Moses at the time the LORD spoke with Moses on Mount Sinai.
 ## Numbers 3:2

@@ -1,4 +1,3 @@
-# 2 Samuel 17
 ## 2 Samuel 17:1
 Furthermore, Ahithophel said to Absalom, “Let me choose twelve thousand men and set out tonight in pursuit of David.
 ## 2 Samuel 17:2

@@ -1,4 +1,3 @@
-# Genesis 16
 ## Genesis 16:1
 Now Abram’s wife Sarai had borne him no children, but she had an Egyptian maidservant named Hagar.
 ## Genesis 16:2

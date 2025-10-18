@@ -1,4 +1,3 @@
-# Numbers 9
 ## Numbers 9:1
 In the first month of the second year after Israel had come out of the land of Egypt, the LORD spoke to Moses in the Wilderness of Sinai:
 ## Numbers 9:2

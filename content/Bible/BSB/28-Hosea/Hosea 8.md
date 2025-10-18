@@ -1,4 +1,3 @@
-# Hosea 8
 ## Hosea 8:1
 Put the ram’s horn to your lips! An eagle looms over the house of the LORD, because the people have transgressed My covenant and rebelled against My law.
 ## Hosea 8:2

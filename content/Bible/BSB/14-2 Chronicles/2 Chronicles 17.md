@@ -1,4 +1,3 @@
-# 2 Chronicles 17
 ## 2 Chronicles 17:1
 Asa’s son Jehoshaphat reigned in his place, and he strengthened himself against Israel.
 ## 2 Chronicles 17:2

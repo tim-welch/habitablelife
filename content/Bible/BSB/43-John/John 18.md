@@ -1,4 +1,3 @@
-# John 18
 ## John 18:1
 After Jesus had spoken these words, He went out with His disciples across the Kidron Valley, where they entered a garden.
 ## John 18:2

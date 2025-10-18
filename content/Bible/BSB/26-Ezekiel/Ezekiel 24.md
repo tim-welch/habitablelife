@@ -1,4 +1,3 @@
-# Ezekiel 24
 ## Ezekiel 24:1
 In the ninth year, on the tenth day of the tenth month, the word of the LORD came to me, saying,
 ## Ezekiel 24:2

@@ -1,4 +1,3 @@
-# 2 Corinthians 6
 ## 2 Corinthians 6:1
 As God’s fellow workers, then, we urge you not to receive God’s grace in vain.
 ## 2 Corinthians 6:2

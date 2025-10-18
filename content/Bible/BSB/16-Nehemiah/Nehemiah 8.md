@@ -1,4 +1,3 @@
-# Nehemiah 8
 ## Nehemiah 8:1
 At that time all the people gathered together in the square before the Water Gate, and they asked Ezra the scribe to bring out the Book of the Law of Moses, which the LORD had commanded for Israel.
 ## Nehemiah 8:2

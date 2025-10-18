@@ -1,4 +1,3 @@
-# Genesis 36
 ## Genesis 36:1
 This is the account of Esau (that is, Edom).
 ## Genesis 36:2

@@ -1,4 +1,3 @@
-# Exodus 2
 ## Exodus 2:1
 Now a man of the house of Levi married a Levite woman,
 ## Exodus 2:2

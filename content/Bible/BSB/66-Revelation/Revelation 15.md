@@ -1,4 +1,3 @@
-# Revelation 15
 ## Revelation 15:1
 Then I saw another great and marvelous sign in heaven: seven angels with the seven final plagues, with which the wrath of God is completed.
 ## Revelation 15:2

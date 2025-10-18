@@ -1,4 +1,3 @@
-# 2 Samuel 24
 ## 2 Samuel 24:1
 Again the anger of the LORD burned against Israel, and He stirred up David against them, saying, “Go and take a census of Israel and Judah.”
 ## 2 Samuel 24:2

@@ -1,4 +1,3 @@
-# Acts 5
 ## Acts 5:1
 Now a man named Ananias, together with his wife Sapphira, also sold a piece of property.
 ## Acts 5:2

@@ -1,4 +1,3 @@
-# Ezekiel 46
 ## Ezekiel 46:1
 “This is what the Lord GOD says: ‘The gate of the inner court that faces east must be kept shut during the six days of work, but on the Sabbath day and on the day of the New Moon it shall be opened.
 ## Ezekiel 46:2

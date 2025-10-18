@@ -1,4 +1,3 @@
-# Psalm 84
 ## Psalm 84:1
 For the choirmaster. According to Gittith. A Psalm of the sons of Korah. How lovely is Your dwelling place, O LORD of Hosts!
 ## Psalm 84:2

@@ -1,4 +1,3 @@
-# 2 Chronicles 14
 ## 2 Chronicles 14:1
 Then Abijah rested with his fathers and was buried in the City of David. And his son Asa reigned in his place, and in his days the land was at peace for ten years.
 ## 2 Chronicles 14:2

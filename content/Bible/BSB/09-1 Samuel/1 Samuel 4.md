@@ -1,4 +1,3 @@
-# 1 Samuel 4
 ## 1 Samuel 4:1
 Thus the word of Samuel came to all Israel. Now the Israelites went out to meet the Philistines in battle and camped at Ebenezer, while the Philistines camped at Aphek.
 ## 1 Samuel 4:2

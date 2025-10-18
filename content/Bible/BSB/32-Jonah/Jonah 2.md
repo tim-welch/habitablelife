@@ -1,4 +1,3 @@
-# Jonah 2
 ## Jonah 2:1
 From inside the fish, Jonah prayed to the LORD his God,
 ## Jonah 2:2

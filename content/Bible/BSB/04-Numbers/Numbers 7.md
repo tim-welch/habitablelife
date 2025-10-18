@@ -1,4 +1,3 @@
-# Numbers 7
 ## Numbers 7:1
 On the day Moses finished setting up the tabernacle, he anointed and consecrated it and all its furnishings, along with the altar and all its utensils.
 ## Numbers 7:2

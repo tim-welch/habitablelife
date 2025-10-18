@@ -1,4 +1,3 @@
-# Psalm 102
 ## Psalm 102:1
 A prayer of one who is afflicted, when he grows faint and pours out his lament before the LORD. Hear my prayer, O LORD; let my cry for help come before You.
 ## Psalm 102:2

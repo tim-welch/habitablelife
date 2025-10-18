@@ -1,4 +1,3 @@
-# Revelation 10
 ## Revelation 10:1
 Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow above his head. His face was like the sun, and his legs were like pillars of fire.
 ## Revelation 10:2

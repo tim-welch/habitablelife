@@ -1,4 +1,3 @@
-# Acts 4
 ## Acts 4:1
 While Peter and John were speaking to the people, the priests and the captain of the temple guard and the Sadducees came up to them,
 ## Acts 4:2

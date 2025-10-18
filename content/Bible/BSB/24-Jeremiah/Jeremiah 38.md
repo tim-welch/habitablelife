@@ -1,4 +1,3 @@
-# Jeremiah 38
 ## Jeremiah 38:1
 Now Shephatiah son of Mattan, Gedaliah son of Pashhur, Jucal son of Shelemiah, and Pashhur son of Malchijah heard that Jeremiah had been telling all the people:
 ## Jeremiah 38:2

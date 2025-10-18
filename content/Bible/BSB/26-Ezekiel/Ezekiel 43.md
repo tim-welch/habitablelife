@@ -1,4 +1,3 @@
-# Ezekiel 43
 ## Ezekiel 43:1
 Then the man brought me back to the gate that faces east,
 ## Ezekiel 43:2

@@ -1,4 +1,3 @@
-# Job 13
 ## Job 13:1
 “Indeed, my eyes have seen all this; my ears have heard and understood.
 ## Job 13:2

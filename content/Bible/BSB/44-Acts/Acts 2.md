@@ -1,4 +1,3 @@
-# Acts 2
 ## Acts 2:1
 When the day of Pentecost came, they were all together in one place.
 ## Acts 2:2

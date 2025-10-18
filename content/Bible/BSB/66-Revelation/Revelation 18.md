@@ -1,4 +1,3 @@
-# Revelation 18
 ## Revelation 18:1
 After this I saw another angel descending from heaven with great authority, and the earth was illuminated by his glory.
 ## Revelation 18:2

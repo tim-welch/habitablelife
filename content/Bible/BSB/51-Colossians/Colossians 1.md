@@ -1,4 +1,3 @@
-# Colossians 1
 ## Colossians 1:1
 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
 ## Colossians 1:2

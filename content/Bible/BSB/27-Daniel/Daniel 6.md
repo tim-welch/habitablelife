@@ -1,4 +1,3 @@
-# Daniel 6
 ## Daniel 6:1
 Now it pleased Darius to appoint 120 satraps to rule throughout the kingdom,
 ## Daniel 6:2

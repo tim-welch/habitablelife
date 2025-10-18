@@ -1,4 +1,3 @@
-# Isaiah 3
 ## Isaiah 3:1
 For behold, the Lord GOD of Hosts is about to remove from Jerusalem and Judah both supply and support: the whole supply of food and water,
 ## Isaiah 3:2

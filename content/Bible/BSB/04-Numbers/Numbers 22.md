@@ -1,4 +1,3 @@
-# Numbers 22
 ## Numbers 22:1
 Then the Israelites traveled on and camped in the plains of Moab near the Jordan, across from Jericho.
 ## Numbers 22:2

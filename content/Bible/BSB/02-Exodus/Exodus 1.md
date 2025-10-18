@@ -1,4 +1,3 @@
-# Exodus 1
 ## Exodus 1:1
 These are the names of the sons of Israel who went to Egypt with Jacob, each with his family:
 ## Exodus 1:2

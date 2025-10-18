@@ -1,4 +1,3 @@
-# 2 Samuel 7
 ## 2 Samuel 7:1
 After the king had settled into his palace and the LORD had given him rest from all his enemies around him,
 ## 2 Samuel 7:2

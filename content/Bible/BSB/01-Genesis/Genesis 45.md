@@ -1,4 +1,3 @@
-# Genesis 45
 ## Genesis 45:1
 Then Joseph could no longer control himself before all his attendants, and he cried out, “Send everyone away from me!” So none of them were with Joseph when he made himself known to his brothers.
 ## Genesis 45:2

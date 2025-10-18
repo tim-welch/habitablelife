@@ -1,4 +1,3 @@
-# Mark 10
 ## Mark 10:1
 Then Jesus left that place and went into the region of Judea, beyond the Jordan. Again the crowds came to Him and He taught them, as was His custom.
 ## Mark 10:2

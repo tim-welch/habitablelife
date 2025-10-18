@@ -1,4 +1,3 @@
-# 2 Samuel 3
 ## 2 Samuel 3:1
 Now the war between the house of Saul and the house of David was protracted. And David grew stronger and stronger, while the house of Saul grew weaker and weaker.
 ## 2 Samuel 3:2

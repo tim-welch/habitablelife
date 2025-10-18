@@ -1,4 +1,3 @@
-# 1 Corinthians 10
 ## 1 Corinthians 10:1
 I do not want you to be unaware, brothers, that our forefathers were all under the cloud, and that they all passed through the sea.
 ## 1 Corinthians 10:2

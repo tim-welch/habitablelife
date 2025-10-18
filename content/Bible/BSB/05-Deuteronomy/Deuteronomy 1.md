@@ -1,4 +1,3 @@
-# Deuteronomy 1
 ## Deuteronomy 1:1
 These are the words that Moses spoke to all Israel in the wilderness east of the Jordan—in the Arabah opposite Suph—between Paran and Tophel, Laban, Hazeroth, and Dizahab.
 ## Deuteronomy 1:2

@@ -1,4 +1,3 @@
-# 2 Thessalonians 3
 ## 2 Thessalonians 3:1
 Finally, brothers, pray for us, that the word of the Lord may spread quickly and be held in honor, just as it was with you.
 ## 2 Thessalonians 3:2

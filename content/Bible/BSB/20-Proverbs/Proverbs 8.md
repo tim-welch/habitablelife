@@ -1,4 +1,3 @@
-# Proverbs 8
 ## Proverbs 8:1
 Does not wisdom call out, and understanding raise her voice?
 ## Proverbs 8:2

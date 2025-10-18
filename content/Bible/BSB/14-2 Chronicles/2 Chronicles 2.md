@@ -1,4 +1,3 @@
-# 2 Chronicles 2
 ## 2 Chronicles 2:1
 Now Solomon purposed to build a house for the Name of the LORD and a royal palace for himself.
 ## 2 Chronicles 2:2

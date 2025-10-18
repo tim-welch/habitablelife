@@ -1,4 +1,3 @@
-# Deuteronomy 16
 ## Deuteronomy 16:1
 Observe the month of Abib and celebrate the Passover to the LORD your God, because in the month of Abib the LORD your God brought you out of Egypt by night.
 ## Deuteronomy 16:2

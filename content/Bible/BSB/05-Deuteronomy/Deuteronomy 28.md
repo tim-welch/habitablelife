@@ -1,4 +1,3 @@
-# Deuteronomy 28
 ## Deuteronomy 28:1
 “Now if you faithfully obey the voice of the LORD your God and are careful to follow all His commandments I am giving you today, the LORD your God will set you high above all the nations of the earth.
 ## Deuteronomy 28:2

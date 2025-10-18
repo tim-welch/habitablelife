@@ -1,4 +1,3 @@
-# Amos 8
 ## Amos 8:1
 This is what the Lord GOD showed me: I saw a basket of summer fruit.
 ## Amos 8:2

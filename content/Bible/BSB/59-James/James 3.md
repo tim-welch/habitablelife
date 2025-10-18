@@ -1,4 +1,3 @@
-# James 3
 ## James 3:1
 Not many of you should become teachers, my brothers, because you know that we who teach will be judged more strictly.
 ## James 3:2

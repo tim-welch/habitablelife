@@ -1,4 +1,3 @@
-# 1 Corinthians 12
 ## 1 Corinthians 12:1
 Now about spiritual gifts, brothers, I do not want you to be uninformed.
 ## 1 Corinthians 12:2
