@@ -79,7 +79,7 @@ for book in bible_verses["books"]:
         chapter_file = chapter_dir.joinpath(f"{book} {chapter}.md")
         os.makedirs(chapter_dir, exist_ok=True)
         with open(chapter_file, "wt", encoding="utf-8") as fchapter:
-            fchapter.write(f"# {book} {chapter}\n")
+            # fchapter.write(f"# {book} {chapter}\n")
             for verse in bible_verses["books"][book]["chapters"][chapter]:
                 verses = verses + 1
                 verse_text = bible_verses["books"][book]["chapters"][chapter][verse]
