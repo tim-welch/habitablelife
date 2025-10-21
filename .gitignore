@@ -11,3 +11,4 @@ replit.nix
 venv/
 .trash/
 .smart-env/
+.env/

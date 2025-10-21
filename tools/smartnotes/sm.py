@@ -31,6 +31,17 @@ Usage examples:
     --instructions ./instr.md \
     --question "Summarize cross-references" \
     --max-price 0.10
+    
+
+  # MODEL_PRICES is now loaded from an external JSON file, defaulting to ~/.smart_notes_model_prices.json.
+  # You can override the location with the environment variable SMART_NOTES_MODEL_PRICES.
+  # Example file content:
+  ```json
+  {
+    "gpt-5.1": { "in": 0.005, "out": 0.015 },
+    "gpt-4o-mini": { "in": 0.15, "out": 0.60 }
+  }
+  ```
 """
 
 from __future__ import annotations
@@ -40,6 +51,7 @@ import hashlib
 import json
 import math
 import os
+import pprint as pp
 import re
 import sys
 import textwrap
@@ -60,6 +72,21 @@ except Exception:
     tiktoken = None
 
 FRONT_MATTER_RE = re.compile(r"^---\s*\n.*?\n---\s*\n", re.DOTALL)
+
+MODEL_PRICES_FILE = Path(os.environ.get("SMART_NOTES_MODEL_PRICES", Path.home() / ".smart_notes_model_prices.json"))
+
+
+def load_model_prices() -> dict:
+    if MODEL_PRICES_FILE.exists():
+        try:
+            with MODEL_PRICES_FILE.open("r", encoding="utf-8") as f:
+                return json.load(f)
+        except Exception as e:
+            sys.stderr.write(f"Warning: could not parse {MODEL_PRICES_FILE}: {e}\n")
+    return {}
+
+
+MODEL_PRICES = load_model_prices()
 
 # ---------------- Files ----------------
 
@@ -222,13 +249,6 @@ def rank_chunks(query: str | None, tfidf, idf, norms) -> list[str]:
 
 # ---------------- Tokens & Pricing ----------------
 
-MODEL_PRICES = {
-    # Fill with your current per-1M token rates. Examples (replace with live values):
-    "gpt-5.1": {"in": 1.25, "out": 10.00},
-    "gpt-4o-mini": {"in": 0.40, "out": 1.60},
-}
-
-
 def count_tokens(model: str, *texts: str) -> int:
     if not tiktoken:
         # Fallback rough estimate: 4 chars/token
@@ -249,10 +269,12 @@ def estimate_cost(model: str, in_tok: int, out_tok: int) -> float:
 # ---------------- OpenAI ----------------
 
 def create_client() -> OpenAI:
-    return OpenAI()
+    key = os.environ.get("OPENAI_API_KEY")
+    return OpenAI(api_key=key)
 
 
 def call_openai_chat(
+    args,
     client: OpenAI,
     model: str,
     system_text: str,
@@ -261,13 +283,17 @@ def call_openai_chat(
     max_tokens: int | None,
     stream: bool,
 ):
+    breakpoint()
+    messages=[
+        {"role": "system", "content": system_text},
+        {"role": "user", "content": user_content},
+    ]
+    if args.verbose:
+        print(f"[Messages] {pp.pformat(messages)}")
     if stream:
         with client.chat.completions.with_streaming_response.create(
             model=model,
-            messages=[
-                {"role": "system", "content": system_text},
-                {"role": "user", "content": user_content},
-            ],
+            messages=messages,
             temperature=temperature,
             max_tokens=max_tokens,
         ) as response:
@@ -286,15 +312,12 @@ def call_openai_chat(
     else:
         resp = client.chat.completions.create(
             model=model,
-            messages=[
-                {"role": "system", "content": system_text},
-                {"role": "user", "content": user_content},
-            ],
+            messages=messages,
             temperature=temperature,
             max_tokens=max_tokens,
         )
         text = resp.choices[0].message.content or ""
-        print(text)
+        print(f"[Output] {text}")
         return text
 
 # ---------------- Cache ----------------
@@ -349,18 +372,19 @@ def parse_args() -> argparse.Namespace:
     gqa.add_argument("--prepend", type=str, default=None, help="Optional text to prepend to the user message.")
 
     gapi = p.add_argument_group("OpenAI")
-    gapi.add_argument("--model", type=str, default="gpt-5.1", help="OpenAI chat model name.")
+    gapi.add_argument("--model", type=str, default="gpt-5", help="OpenAI chat model name.")
     gapi.add_argument("--temperature", type=float, default=0.3, help="Sampling temperature.")
     gapi.add_argument("--max-tokens", type=int, default=700, help="Max tokens in the response.")
     gapi.add_argument("--no-stream", action="store_true", help="Disable streaming output.")
     gapi.add_argument("--max-context-tokens", type=int, default=7000, help="Hard cap on input tokens; truncate if exceeded.")
-    gapi.add_argument("--max-price", type=float, default=None, help="Abort if estimated USD cost would exceed this amount.")
+    gapi.add_argument("--max-price", type=float, default=0.10, help="Abort if estimated USD cost would exceed this amount.")
 
     gout = p.add_argument_group("Output")
     gout.add_argument("--out", type=Path, default=None, help="Write the assistant's response to this file.")
     gout.add_argument("--print-context-summary", action="store_true", help="Print how many chunks and characters were sent.")
     gout.add_argument("--dry-run", action="store_true", help="Do not call the API; show selection and estimates.")
     gout.add_argument("--no-cache", action="store_true", help="Disable response cache lookup/write.")
+    gout.add_argument("--verbose", action="store_true", help="Increase output to verbose")
 
     return p.parse_args()
 
@@ -370,6 +394,8 @@ def main() -> int:
 
     # Gather notes
     note_files = gather_notes(args.note, args.dir, args.recursive)
+    if args.verbose:
+        print(f"[Notes] {pp.pformat(note_files)}", file=sys.stderr)
 
     # Build chunks and index
     corpus = build_corpus_chunks(
@@ -400,7 +426,6 @@ def main() -> int:
     # Token & price estimates
     tokens_in = count_tokens(args.model, system_text, context_md, (args.question or ""))
     est_out = args.max_tokens or 0
-    total_tokens = tokens_in + est_out
     est_cost = estimate_cost(args.model, tokens_in, est_out)
 
     if args.print_context_summary:
@@ -410,8 +435,12 @@ def main() -> int:
             file=sys.stderr,
         )
         if est_cost:
+            if args.verbose:
+                print(f"[Model Prices] {pp.pformat(MODEL_PRICES)}, file=sys.stderr")
+            print(f"[Model] {args.model}, file=sys.stderr")
             print(f"[Estimate] output {est_out} tokens ⇒ ~${est_cost:.4f}", file=sys.stderr)
 
+    breakpoint()
     # Enforce caps/budget
     if tokens_in > args.max_context_tokens:
         # Truncate by reducing K
@@ -466,7 +495,9 @@ def main() -> int:
     # OpenAI call
     client = create_client()
     try:
+        breakpoint()
         output = call_openai_chat(
+            args=args,
             client=client,
             model=args.model,
             system_text=system_text,
