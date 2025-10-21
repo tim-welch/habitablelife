@@ -192,7 +192,7 @@ def split_markdown_into_chunks(md: str, chunk_chars: int = 1800) -> list[str]:
             size += len(part)
     flush()
     # Drop trivial chunks
-    return [c for c in chunks if len(c) > 80]
+    return [c for c in chunks if len(c) > 4]
 
 
 def build_corpus_chunks(note_files: List[Path], strip_front_matter: bool, chunk_chars: int) -> list[tuple[str, str]]:
@@ -283,7 +283,6 @@ def call_openai_chat(
     max_tokens: int | None,
     stream: bool,
 ):
-    breakpoint()
     messages=[
         {"role": "system", "content": system_text},
         {"role": "user", "content": user_content},
@@ -322,7 +321,7 @@ def call_openai_chat(
 
 # ---------------- Cache ----------------
 
-CACHE_DIR = Path(os.environ.get("BIBLE_CLI_CACHE", Path.home() / ".bible_cli_cache"))
+CACHE_DIR = Path(os.environ.get("SMART_NOTES_CACHE", Path.home() / ".smart_notes_cache"))
 
 
 def cache_key(model: str, system_text: str, question: str | None, chunk_ids: list[str]) -> str:
@@ -403,25 +402,35 @@ def main() -> int:
         strip_front_matter=not args.keep_front_matter,
         chunk_chars=args.chunk_size,
     )
+    # print(f"[Corpus] {pp.pformat(corpus)}", file=sys.stderr)
+
     tfidf, idf, norms = build_tfidf_index(corpus)
+    # print(f"[tfidf] {pp.pformat(tfidf)}", file=sys.stderr)
+    # print(f"[idf] {pp.pformat(idf)}", file=sys.stderr)
+    # print(f"[norms] {pp.pformat(norms)}", file=sys.stderr)
+
     ranked_ids = rank_chunks(args.question or args.prepend, tfidf, idf, norms)
+    # print(f"[Ranked ids] {pp.pformat(ranked_ids)}", file=sys.stderr)
 
     # Select top-K chunks
     top_ids = ranked_ids[: max(1, args.top_k)]
     id_to_text = {cid: txt for cid, txt in corpus}
     selected_texts = [id_to_text[cid] for cid in top_ids if cid in id_to_text]
+    # print(f"[top_ids] {pp.pformat(top_ids)}", file=sys.stderr)
+    # print(f"[Selected texts] {pp.pformat(selected_texts)}", file=sys.stderr)
 
     # Build context block
     def label_block(cid: str, body: str) -> str:
         return f"\n\n## ⟪{cid}⟫\n\n{body}" if args.include_file_names else f"\n\n{body}"
 
     context_md = "".join(label_block(cid, body) for cid, body in zip(top_ids, selected_texts)).strip()
-
     if args.prepend:
         context_md = f"{args.prepend.strip()}\n\n{context_md}" if context_md else args.prepend.strip()
+    # print(f"[Context Markdown] {pp.pformat(context_md)}", file=sys.stderr)
 
     # Instructions → system prompt
     system_text = gather_instructions(args.instructions)
+    # print(f"[System Text] {pp.pformat(system_text)}", file=sys.stderr)
 
     # Token & price estimates
     tokens_in = count_tokens(args.model, system_text, context_md, (args.question or ""))
@@ -430,17 +439,16 @@ def main() -> int:
 
     if args.print_context_summary:
         total_chars = sum(len(t) for t in selected_texts)
+        if args.verbose:
+            print(f"[Model Prices] {pp.pformat(MODEL_PRICES)}, file=sys.stderr")
+            print(f"[Model] {args.model}, file=sys.stderr")
         print(
             f"[Context] {len(selected_texts)} chunk(s), {total_chars} characters, ~{tokens_in} input tokens.",
             file=sys.stderr,
         )
         if est_cost:
-            if args.verbose:
-                print(f"[Model Prices] {pp.pformat(MODEL_PRICES)}, file=sys.stderr")
-            print(f"[Model] {args.model}, file=sys.stderr")
             print(f"[Estimate] output {est_out} tokens ⇒ ~${est_cost:.4f}", file=sys.stderr)
 
-    breakpoint()
     # Enforce caps/budget
     if tokens_in > args.max_context_tokens:
         # Truncate by reducing K
@@ -473,14 +481,20 @@ def main() -> int:
         return 0
 
     # Compose user message
-    user_content = context_md if not args.question else f"{context_md}\n\n### User question\n{args.question}"
+    user_content = context_md if not args.question else f"{context_md}\n\n# User question\n{args.question}"
+    if args.verbose:
+        print(f"[User content] {user_content}", file=sys.stderr)
 
     # Cache check
     cache_hit = None
     key = cache_key(args.model, system_text, args.question, top_ids)
+    if args.verbose:
+        print(f"[Cache key] {key}", file=sys.stderr)
     if not args.no_cache:
         cache_hit = cache_read(key)
         if cache_hit is not None:
+            if args.verbose:
+                print("[Cache hit]", file=sys.stderr)
             print(cache_hit)
             if args.out:
                 try:
@@ -495,7 +509,6 @@ def main() -> int:
     # OpenAI call
     client = create_client()
     try:
-        breakpoint()
         output = call_openai_chat(
             args=args,
             client=client,
@@ -510,10 +523,13 @@ def main() -> int:
         sys.stderr.write(f"OpenAI error: {e}\n")
         return 2
 
-    # Save + cache
+    # cache
     if output and not args.no_cache:
+        if args.verbose:
+            print(f"[Updating cache] key={key}", file=sys.stderr)
         cache_write(key, output)
 
+    # save
     if args.out:
         try:
             args.out.parent.mkdir(parents=True, exist_ok=True)
