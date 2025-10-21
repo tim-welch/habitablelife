@@ -283,6 +283,9 @@ def call_openai_chat(
     max_tokens: int | None,
     stream: bool,
 ):
+    # TODO: Fix streaming
+    stream = False
+
     messages=[
         {"role": "system", "content": system_text},
         {"role": "user", "content": user_content},
