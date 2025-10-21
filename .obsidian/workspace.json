@@ -266,6 +266,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "cmdr:Home": false,
+      "cmdr:Open today's exercise log": false,
+      "cmdr:Add new Task": false,
+      "cmdr:Add new source": false,
+      "cmdr:Add new project": false,
+      "cmdr:Add literature note": false,
+      "cmdr:Add fleeting note": false,
+      "cmdr:Add new note": false,
+      "cmdr:Vault search": false,
+      "cmdr:Add meeting": false,
+      "cmdr:Daily notes: Open today's daily note": false,
       "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "obsidian-bible-reference:Bible Verse Lookup": false,
