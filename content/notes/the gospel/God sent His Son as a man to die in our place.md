@@ -2,7 +2,7 @@ God sent His Son as a man to die in our place.
 
 ## Connections
 
-- [[Isaiah 53#Isaiah 53 5|Isaiah 53:5]]  
+- [[The atonement was prophesied]]
 - [[John 1#John 1 14|John 1:14]]
 - [[John 3#John 3 15|John 3:15-16]]
 - [[Romans 5#Romans 5 8|Romans 5:8]]

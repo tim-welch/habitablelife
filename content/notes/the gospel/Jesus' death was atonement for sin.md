@@ -2,7 +2,7 @@ Jesus' death was atonement for sin.
 
 ## Connections
 
-- [[Isaiah 53#Isaiah 53 5|Isaiah 53:5]]  
+- [[The atonement was prophesied]]
 - [[Matthew 26#Matthew 26 28|Matthew 26:28]]
 - [[John 1#John 1 29|John 1:29]]
 - [[Romans 5#Romans 5 8|Romans 5:8]]

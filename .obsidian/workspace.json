@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "4249561628dcd371",
+            "id": "3135795108047df8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md",
+                "file": "content/notes/the gospel/Whoever rejects Jesus will not see life.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,11 +54,65 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📜 Verse suggestions Prompt for OpenAI API Call"
+              "title": "Whoever rejects Jesus will not see life"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ca512ff18e648110",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4249561628dcd371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "suggestions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "suggestions"
+            }
+          },
+          {
+            "id": "bf5a09f73e608c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "summary-2.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "summary-2"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,34 +350,34 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "4249561628dcd371",
+  "active": "3135795108047df8",
   "lastOpenFiles": [
-    "content/notes/the gospel/We believe and are saved.md",
-    "content/notes/the gospel/The Gospel.md",
-    "content/notes/the gospel/There is no other name by which we can be saved.md",
-    "content/Bible/BSB/50-Philippians/Philippians 2.md",
+    "Bible/Berean Bible verse numbers.md",
+    "suggestions.md",
     "content/notes/the gospel/Whoever rejects Jesus will not see life.md",
-    "content/notes/the gospel/Jesus rose again on the third day.md",
-    "content/Bible/BSB/23-Isaiah/Isaiah 53.md",
-    "content/notes/the gospel/Jesus died and was buried.md",
     "content/notes/the gospel/Whoever believes in Jesus has eternal life.md",
+    "content/notes/the gospel/What we deserve for sinning is death.md",
+    "content/notes/the gospel/We believe and are saved.md",
+    "content/notes/the gospel/There is no other name by which we can be saved.md",
+    "content/notes/the gospel/The Gospel.md",
+    "content/notes/the gospel/The atonement was prophesied.md",
+    "content/notes/the gospel/Nothing we do can pay the debt we owe.md",
     "content/notes/the gospel/Jesus' death was atonement for sin.md",
+    "content/notes/the gospel/Jesus rose again on the third day.md",
+    "content/notes/the gospel/Jesus died and was buried.md",
+    "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md",
+    "content/notes/the gospel/God sent His Son as a man to die in our place.md",
+    "summary-2.md",
+    "AI Prompts/📜 Organize and Structure Notes Prompt for OpenAI API Call.md",
+    "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md",
+    "content/Bible/BSB/50-Philippians/Philippians 2.md",
+    "content/Bible/BSB/23-Isaiah/Isaiah 53.md",
     "content/Bible/BSB/62-1 John/1 John 2.md",
     "content/Bible/BSB/54-1 Timothy/1 Timothy 2.md",
-    "content/notes/the gospel/God sent His Son as a man to die in our place.md",
     "content/Bible/BSB/48-Galatians/Galatians 4.md",
-    "content/notes/the gospel/Nothing we do can pay the debt we owe.md",
-    "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md",
     "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
-    "content/notes/the gospel/What we deserve for sinning is death.md",
     "content/Bible/BSB/42-Luke/Luke 12.md",
     "content/Bible/BSB/59-James/James 4.md",
-    "content/Bible/BSB/48-Galatians/Galatians 5.md",
-    "content/Bible/BSB/40-Matthew/Matthew 5.md",
-    "content/Bible/BSB/20-Proverbs/Proverbs 6.md",
-    "Bible/Berean Bible verse numbers.md",
-    "content/Bible/BSB/03-Leviticus/Leviticus 18.md",
-    "content/Bible/BSB/02-Exodus/Exodus 20.md",
     "tools/smartnotes/sm.py",
     "tools/smartnotes",
     "content/notes/the gospel",
