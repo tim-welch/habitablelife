@@ -1,1 +1,0 @@
-Jesus' death was atonement for all sin.

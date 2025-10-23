@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md",
+                "file": "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "I have sinned and have not lived up to the standard God expects"
+              "title": "📜 Verse suggestions Prompt for OpenAI API Call"
             }
           }
         ],
@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5,
-    "collapsed": true
+    "width": 378.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -299,8 +298,25 @@
   },
   "active": "4249561628dcd371",
   "lastOpenFiles": [
-    "content/Bible/BSB/42-Luke/Luke 12.md",
+    "content/notes/the gospel/We believe and are saved.md",
+    "content/notes/the gospel/The Gospel.md",
+    "content/notes/the gospel/There is no other name by which we can be saved.md",
+    "content/Bible/BSB/50-Philippians/Philippians 2.md",
+    "content/notes/the gospel/Whoever rejects Jesus will not see life.md",
+    "content/notes/the gospel/Jesus rose again on the third day.md",
+    "content/Bible/BSB/23-Isaiah/Isaiah 53.md",
+    "content/notes/the gospel/Jesus died and was buried.md",
+    "content/notes/the gospel/Whoever believes in Jesus has eternal life.md",
+    "content/notes/the gospel/Jesus' death was atonement for sin.md",
+    "content/Bible/BSB/62-1 John/1 John 2.md",
+    "content/Bible/BSB/54-1 Timothy/1 Timothy 2.md",
+    "content/notes/the gospel/God sent His Son as a man to die in our place.md",
+    "content/Bible/BSB/48-Galatians/Galatians 4.md",
+    "content/notes/the gospel/Nothing we do can pay the debt we owe.md",
     "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md",
+    "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
+    "content/notes/the gospel/What we deserve for sinning is death.md",
+    "content/Bible/BSB/42-Luke/Luke 12.md",
     "content/Bible/BSB/59-James/James 4.md",
     "content/Bible/BSB/48-Galatians/Galatians 5.md",
     "content/Bible/BSB/40-Matthew/Matthew 5.md",
@@ -308,25 +324,8 @@
     "Bible/Berean Bible verse numbers.md",
     "content/Bible/BSB/03-Leviticus/Leviticus 18.md",
     "content/Bible/BSB/02-Exodus/Exodus 20.md",
-    "content/notes/the gospel/God sent His Son as a man to die in our place.md",
     "tools/smartnotes/sm.py",
     "tools/smartnotes",
-    "content/notes/note taking/Zettelkasten and Inductive Bible Study.md",
-    "content/notes/note taking/Verse Headings Inside Chapters.md",
-    "content/notes/note taking/Understanding presuppositions in Bible study.md",
-    "content/notes/note taking/Observe what this passage says.md",
-    "content/notes/note taking/Observations vs. Interpretations.md",
-    "content/notes/note taking/Observation Notes at Verse Level.md",
-    "content/notes/note taking/Mapping Inductive Study to Zettelkasten.md",
-    "content/notes/note taking/Interpretations as Permanent Notes.md",
-    "content/notes/note taking/Interpret what this passage means.md",
-    "content/notes/note taking/Inductive Bible Study Method.md",
-    "content/notes/note taking/Bible Text Granularity.md",
-    "content/notes/note taking/Apply Bible study to your life.md",
-    "content/notes/note taking/Applications as Practical Notes.md",
-    "content/index.md",
-    "content/about.md",
-    "content/notes/We must receive or reject Jesus.md",
     "content/notes/the gospel",
     "content/MOCs",
     "content/notes/I changed my mind",
