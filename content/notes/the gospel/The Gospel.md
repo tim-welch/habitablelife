@@ -1,22 +1,31 @@
+---
+tags:
+    - type/moc
+---
+
 ## Sin and Human Condition
 
-1. [[I have sinned and have not lived up to the standard God expects]]
-2. [[What we deserve for sinning is death]]
-3. [[Nothing we do can pay the debt we owe]]
+- [[I have sinned and have not lived up to the standard God expects]]
+- [[What we deserve for sinning is death]]
+- [[Nothing we do can pay the debt we owe]]
 
-## Atonement and Sacrifice
+## Atonement through Christ
 
-1. [[God sent His Son as a man to die in our place]]
-2. [[Jesus' death was atonement for sin]]
+- [[God sent His Son as a man to die in our place]]
+- [[Jesus' death was atonement for sin]]
+- [[Jesus died and was buried]]
+- [[There is no other name by which we can be saved]]
 
-## Resurrection and Assurance
+## Resurrection and Eternal Life
 
-3. [[Whoever believes in Jesus has eternal life]]
-4. [[Whoever rejects Jesus will not see life]]
+- [[Whoever believes in Jesus has eternal life]]
+- [[Whoever rejects Jesus will not see life]]
+- [[Jesus rose again on the third day]]
+- [[We believe and are saved]]
 
 ## What do we have to believe about Jesus?
 
-1. [[Jesus died and was buried]]
-2. [[Jesus rose again on the third day]]
-3. [[There is no other name by which we can be saved]]
-4. [[We believe and are saved]]
+- [[Jesus died and was buried]]
+- [[Jesus rose again on the third day]]
+- [[There is no other name by which we can be saved]]
+- [[We believe and are saved]]

@@ -1,8 +1,12 @@
-Jesus died and was buried, paying the penalty of sin.
+---
+tags:
+    - type/atomic
+---
+
+Jesus died and was buried, just as scripture [[The atonement was prophesied | prophesied]]. [[Jesus' death was atonement for sin]].
 
 ## Connections
 
-- [[The atonement was prophesied]]
 - [[Matthew 27#Matthew 27 59|Matthew 27:59-60]]
 - [[Mark 15#Mark 15 43|Mark 15:43-46]]
 - [[John 19#John 19 30|John 19:30]]

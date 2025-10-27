@@ -1,3 +1,8 @@
+---
+tags:
+    - type/atomic
+---
+
 What we deserve for sinning is death.
 
 

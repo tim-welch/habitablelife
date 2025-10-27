@@ -1,3 +1,8 @@
+---
+tags:
+    - type/atomic
+---
+
 Jesus rose again on the third day, proving that the payment was accepted.
 
 ## Connections

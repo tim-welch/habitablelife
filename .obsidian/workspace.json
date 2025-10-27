@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/the gospel/Nothing we do can pay the debt we owe.md",
+                "file": "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Nothing we do can pay the debt we owe"
+              "title": "I have sinned and have not lived up to the standard God expects"
             }
           }
         ],
@@ -65,37 +65,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4249561628dcd371",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "suggestions.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "suggestions"
-            }
-          },
-          {
             "id": "bf5a09f73e608c51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "summary-2.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -144,7 +120,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#bible/keyword/believe",
+                "query": "tag:#type/atomic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -350,24 +326,25 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "4249561628dcd371",
+  "active": "bf5a09f73e608c51",
   "lastOpenFiles": [
-    "content/notes/the gospel/Nothing we do can pay the debt we owe.md",
-    "content/notes/the gospel/Jesus' death was atonement for sin.md",
-    "suggestions.md",
+    "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md",
+    "content/notes/the gospel/Jesus died and was buried.md",
+    "summary-2.md",
+    "content/notes/the gospel/The Gospel.md",
     "content/notes/the gospel/Whoever rejects Jesus will not see life.md",
-    "Bible/Berean Bible verse numbers.md",
     "content/notes/the gospel/Whoever believes in Jesus has eternal life.md",
     "content/notes/the gospel/What we deserve for sinning is death.md",
     "content/notes/the gospel/We believe and are saved.md",
     "content/notes/the gospel/There is no other name by which we can be saved.md",
-    "content/notes/the gospel/The Gospel.md",
     "content/notes/the gospel/The atonement was prophesied.md",
+    "content/notes/the gospel/Nothing we do can pay the debt we owe.md",
+    "content/notes/the gospel/Jesus' death was atonement for sin.md",
     "content/notes/the gospel/Jesus rose again on the third day.md",
-    "content/notes/the gospel/Jesus died and was buried.md",
-    "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md",
     "content/notes/the gospel/God sent His Son as a man to die in our place.md",
-    "summary-2.md",
+    "content/notes/Did Jesus lie.md",
+    "suggestions.md",
+    "Bible/Berean Bible verse numbers.md",
     "AI Prompts/📜 Organize and Structure Notes Prompt for OpenAI API Call.md",
     "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md",
     "content/Bible/BSB/50-Philippians/Philippians 2.md",
@@ -377,7 +354,6 @@
     "content/Bible/BSB/48-Galatians/Galatians 4.md",
     "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
     "content/Bible/BSB/42-Luke/Luke 12.md",
-    "content/Bible/BSB/59-James/James 4.md",
     "tools/smartnotes/sm.py",
     "tools/smartnotes",
     "content/notes/the gospel",

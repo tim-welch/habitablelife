@@ -1,3 +1,8 @@
+---
+tags:
+    - type/atomic
+---
+
 Whoever rejects Jesus will not see life, instead the wrath of God remains on them.
 
 ## Connections

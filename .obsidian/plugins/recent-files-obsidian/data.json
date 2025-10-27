@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "suggestions",
-      "path": "suggestions.md"
+      "basename": "summary-2",
+      "path": "summary-2.md"
     },
     {
-      "basename": "Nothing we do can pay the debt we owe",
-      "path": "content/notes/the gospel/Nothing we do can pay the debt we owe.md"
+      "basename": "I have sinned and have not lived up to the standard God expects",
+      "path": "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md"
     },
     {
-      "basename": "Jesus' death was atonement for sin",
-      "path": "content/notes/the gospel/Jesus' death was atonement for sin.md"
+      "basename": "Jesus died and was buried",
+      "path": "content/notes/the gospel/Jesus died and was buried.md"
+    },
+    {
+      "basename": "The Gospel",
+      "path": "content/notes/the gospel/The Gospel.md"
     },
     {
       "basename": "Whoever rejects Jesus will not see life",
       "path": "content/notes/the gospel/Whoever rejects Jesus will not see life.md"
-    },
-    {
-      "basename": "Berean Bible verse numbers",
-      "path": "Bible/Berean Bible verse numbers.md"
     },
     {
       "basename": "Whoever believes in Jesus has eternal life",
@@ -37,32 +37,32 @@
       "path": "content/notes/the gospel/There is no other name by which we can be saved.md"
     },
     {
-      "basename": "The Gospel",
-      "path": "content/notes/the gospel/The Gospel.md"
-    },
-    {
       "basename": "The atonement was prophesied",
       "path": "content/notes/the gospel/The atonement was prophesied.md"
+    },
+    {
+      "basename": "Nothing we do can pay the debt we owe",
+      "path": "content/notes/the gospel/Nothing we do can pay the debt we owe.md"
+    },
+    {
+      "basename": "Jesus' death was atonement for sin",
+      "path": "content/notes/the gospel/Jesus' death was atonement for sin.md"
     },
     {
       "basename": "Jesus rose again on the third day",
       "path": "content/notes/the gospel/Jesus rose again on the third day.md"
     },
     {
-      "basename": "Jesus died and was buried",
-      "path": "content/notes/the gospel/Jesus died and was buried.md"
-    },
-    {
-      "basename": "I have sinned and have not lived up to the standard God expects",
-      "path": "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md"
-    },
-    {
       "basename": "God sent His Son as a man to die in our place",
       "path": "content/notes/the gospel/God sent His Son as a man to die in our place.md"
     },
     {
-      "basename": "summary-2",
-      "path": "summary-2.md"
+      "basename": "Did Jesus lie",
+      "path": "content/notes/Did Jesus lie.md"
+    },
+    {
+      "basename": "Berean Bible verse numbers",
+      "path": "Bible/Berean Bible verse numbers.md"
     },
     {
       "basename": "📜 Organize and Structure Notes Prompt for OpenAI API Call",

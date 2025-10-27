@@ -1,4 +1,9 @@
-I have sinned and have not lived up to the standard God expects.
+---
+tags:
+    - type/atomic
+---
+
+I have sinned and have not lived up to the standard God expects. [[Nothing we do can pay the debt we owe]].
 
 ## Connections
 

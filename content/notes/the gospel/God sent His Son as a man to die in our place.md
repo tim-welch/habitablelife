@@ -1,3 +1,8 @@
+---
+tags:
+    - type/atomic
+---
+
 God sent His Son as a man to die in our place.
 
 ## Connections

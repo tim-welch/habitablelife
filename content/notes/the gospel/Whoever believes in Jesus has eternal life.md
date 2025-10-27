@@ -1,3 +1,8 @@
+---
+tags:
+    - type/atomic
+---
+
 Whoever believes in Jesus has eternal life.
 
 ## Connections

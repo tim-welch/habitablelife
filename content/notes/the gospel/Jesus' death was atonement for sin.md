@@ -1,3 +1,8 @@
+---
+tags:
+    - type/atomic
+---
+
 Jesus' death was atonement for sin.
 
 ## Connections
