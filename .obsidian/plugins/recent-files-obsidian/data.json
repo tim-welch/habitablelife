@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Doctrine atomic note template",
+      "path": "Templates/Doctrine atomic note template.md"
+    },
+    {
+      "basename": "Doctrine Category MOC template",
+      "path": "Templates/Doctrine Category MOC template.md"
+    },
+    {
+      "basename": "Tertiary Doctrines",
+      "path": "content/notes/statement of faith/Tertiary Doctrines.md"
+    },
+    {
+      "basename": "Secondary Doctrines",
+      "path": "content/notes/statement of faith/Secondary Doctrines.md"
+    },
+    {
+      "basename": "Salvation Doctrines",
+      "path": "content/notes/statement of faith/Salvation Doctrines.md"
+    },
+    {
+      "basename": "Primary Doctrines",
+      "path": "content/notes/statement of faith/Primary Doctrines.md"
+    },
+    {
       "basename": "Statement of faith",
       "path": "content/notes/statement of faith/Statement of faith.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Inductive Bible Study Method",
       "path": "content/notes/note taking/Inductive Bible Study Method.md"
-    },
-    {
-      "basename": "Bible Text Granularity",
-      "path": "content/notes/note taking/Bible Text Granularity.md"
-    },
-    {
-      "basename": "Apply Bible study to your life",
-      "path": "content/notes/note taking/Apply Bible study to your life.md"
-    },
-    {
-      "basename": "Applications as Practical Notes",
-      "path": "content/notes/note taking/Applications as Practical Notes.md"
-    },
-    {
-      "basename": "index",
-      "path": "content/index.md"
-    },
-    {
-      "basename": "about",
-      "path": "content/about.md"
-    },
-    {
-      "basename": "We must receive or reject Jesus",
-      "path": "content/notes/We must receive or reject Jesus.md"
     }
   ],
   "omittedPaths": [
