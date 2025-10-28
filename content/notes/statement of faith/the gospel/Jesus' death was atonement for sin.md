@@ -7,6 +7,7 @@ Jesus' death was atonement for sin.
 
 ## Connections
 
+- [[Jesus died and was buried]]
 - [[The atonement was prophesied]]
 - [[Matthew 26#Matthew 26 28|Matthew 26:28]]
 - [[John 1#John 1 29|John 1:29]]

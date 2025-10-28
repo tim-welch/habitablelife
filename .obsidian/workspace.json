@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md",
+                "file": "content/notes/statement of faith/Statement of faith.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,41 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "I have sinned and have not lived up to the standard God expects"
+              "title": "Statement of faith"
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "ca512ff18e648110",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bf5a09f73e608c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "summary-2.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "summary-2"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -326,22 +296,26 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "bf5a09f73e608c51",
+  "active": "3135795108047df8",
   "lastOpenFiles": [
-    "content/notes/the gospel/I have sinned and have not lived up to the standard God expects.md",
-    "content/notes/the gospel/Jesus died and was buried.md",
+    "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
+    "content/notes/statement of faith/Statement of faith.md",
+    "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
+    "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
+    "content/notes/statement of faith/the gospel/The Gospel.md",
+    "content/notes/statement of faith/the gospel/There is no other name by which we can be saved.md",
     "summary-2.md",
-    "content/notes/the gospel/The Gospel.md",
-    "content/notes/the gospel/Whoever rejects Jesus will not see life.md",
-    "content/notes/the gospel/Whoever believes in Jesus has eternal life.md",
-    "content/notes/the gospel/What we deserve for sinning is death.md",
-    "content/notes/the gospel/We believe and are saved.md",
-    "content/notes/the gospel/There is no other name by which we can be saved.md",
-    "content/notes/the gospel/The atonement was prophesied.md",
-    "content/notes/the gospel/Nothing we do can pay the debt we owe.md",
-    "content/notes/the gospel/Jesus' death was atonement for sin.md",
-    "content/notes/the gospel/Jesus rose again on the third day.md",
-    "content/notes/the gospel/God sent His Son as a man to die in our place.md",
+    "content/notes/statement of faith/the gospel/The atonement was prophesied.md",
+    "content/notes/statement of faith/Who is Jesus",
+    "content/notes/statement of faith/the gospel/God sent His Son as a man to die in our place.md",
+    "content/notes/statement of faith",
+    "content/notes/statement of faith/the gospel/Jesus died and was buried.md",
+    "content/notes/statement of faith/the gospel/I have sinned and have not lived up to the standard God expects.md",
+    "content/notes/statement of faith/the gospel/Whoever rejects Jesus will not see life.md",
+    "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
+    "content/notes/statement of faith/the gospel/What we deserve for sinning is death.md",
+    "content/notes/statement of faith/the gospel/We believe and are saved.md",
+    "content/notes/statement of faith/the gospel/Nothing we do can pay the debt we owe.md",
     "content/notes/Did Jesus lie.md",
     "suggestions.md",
     "Bible/Berean Bible verse numbers.md",
@@ -352,11 +326,9 @@
     "content/Bible/BSB/62-1 John/1 John 2.md",
     "content/Bible/BSB/54-1 Timothy/1 Timothy 2.md",
     "content/Bible/BSB/48-Galatians/Galatians 4.md",
-    "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
-    "content/Bible/BSB/42-Luke/Luke 12.md",
     "tools/smartnotes/sm.py",
     "tools/smartnotes",
-    "content/notes/the gospel",
+    "content/notes/statement of faith/the gospel",
     "content/MOCs",
     "content/notes/I changed my mind",
     "content/Literature Notes/John/Belief.zip",
@@ -371,8 +343,6 @@
     "public/notes/note-taking/Mapping-Inductive-Study-to-Zettelkasten-og-image.webp",
     "public/notes/note-taking/Interpretations-as-Permanent-Notes-og-image.webp",
     "public/notes/note-taking/Interpret-what-this-passage-means-og-image.webp",
-    "public/notes/note-taking/Inductive-Bible-Study-Method-og-image.webp",
-    "public/Bible/BSB/66-Revelation/Revelation-9.html",
-    "public/Bible/BSB/66-Revelation/Revelation-6.html"
+    "public/notes/note-taking/Inductive-Bible-Study-Method-og-image.webp"
   ]
 }
