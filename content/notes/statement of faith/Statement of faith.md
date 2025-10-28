@@ -4,17 +4,23 @@ tags:
 ---
 
 ## Salvation
-These beliefs are required for salvation. You don't have to understand everything about Jesus, God, and Christianity to be saved, but you must believe the Gospel: that Jesus died for our sins, and rose again for our justification, and that believing in Jesus is the only way to the Father and eternal life.
+- Core gospel essentials (beliefs required for salvation).
+- _Purpose:_ Defines who is a Christian.
+- Example: the person and work of Christ, faith alone, grace alone, resurrection.
 
 - [[The Gospel]]
 
 ## Primary
-These beliefs are very important to Christianity. They are non-negotiable, as that must be true for the gospel to be true.
-
+- Beliefs necessary for sound doctrine and a healthy church.
+- _Purpose:_ Defines who you can do church with.
+- Example: authority of Scripture, Trinity, nature of sin, Christ’s return.
 
 ## Secondary
-These beliefs are important but Christians often disagree. These issues often tend to differentiate churches and denominations.
-
+- Beliefs that affect church practice and fellowship but not salvation.
+- _Purpose:_ Defines what kind of church you’d attend or lead.
+- Example: baptism mode, church government, spiritual gifts, gender roles.
 
 ## Tertiary
-These beliefs are of less importance. People often disagree even in the same church. Definitely no reason to split over these beliefs.
+- Beliefs that are interesting or personally meaningful but don’t affect unity.
+- _Purpose:_ Defines what you’ll discuss but not divide over.
+- Example: end-times timelines, old earth vs. young earth, musical style.
