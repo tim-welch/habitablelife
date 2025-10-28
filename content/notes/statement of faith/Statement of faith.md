@@ -13,6 +13,8 @@ These beliefs are very important to Christianity. They are non-negotiable, as th
 
 
 ## Secondary
+These beliefs are important but Christians often disagree. These issues often tend to differentiate churches and denominations.
 
 
 ## Tertiary
+These beliefs are of less importance. People often disagree even in the same church. Definitely no reason to split over these beliefs.
