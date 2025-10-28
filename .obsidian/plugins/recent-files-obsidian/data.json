@@ -5,6 +5,10 @@
       "path": "content/notes/statement of faith/Statement of faith.md"
     },
     {
+      "basename": "Philosophy of Theological Triage",
+      "path": "content/notes/statement of faith/Philosophy of Theological Triage.md"
+    },
+    {
       "basename": "Jesus rose again on the third day",
       "path": "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "We must receive or reject Jesus",
       "path": "content/notes/We must receive or reject Jesus.md"
-    },
-    {
-      "basename": "Those who think they are good reject Jesus",
-      "path": "content/notes/Those who think they are good reject Jesus.md"
     }
   ],
   "omittedPaths": [

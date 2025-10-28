@@ -3,6 +3,8 @@ tags:
   - type/moc
 ---
 
+My [[Philosophy of Theological Triage]] explains how I group beliefs.
+
 ## Salvation
 Core gospel essentials (beliefs required for salvation).
 

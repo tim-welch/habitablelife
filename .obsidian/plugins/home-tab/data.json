@@ -25,7 +25,11 @@
   "recentFilesStore": [
     {
       "filepath": "content/notes/statement of faith/Statement of faith.md",
-      "timestamp": 1761649358303
+      "timestamp": 1761690507052
+    },
+    {
+      "filepath": "content/notes/statement of faith/Philosophy of Theological Triage.md",
+      "timestamp": 1761690458804
     },
     {
       "filepath": "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
       "timestamp": 1761648618285
-    },
-    {
-      "filepath": "content/notes/statement of faith/the gospel/The Gospel.md",
-      "timestamp": 1761648611519
     }
   ],
   "bookmarkedFileStore": [],

@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5,
-    "collapsed": true
+    "width": 378.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -299,8 +298,9 @@
   },
   "active": "3135795108047df8",
   "lastOpenFiles": [
-    "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
+    "content/notes/statement of faith/Philosophy of Theological Triage.md",
     "content/notes/statement of faith/Statement of faith.md",
+    "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
     "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
     "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
     "content/notes/statement of faith/the gospel/The Gospel.md",
@@ -326,7 +326,6 @@
     "content/Bible/BSB/23-Isaiah/Isaiah 53.md",
     "content/Bible/BSB/62-1 John/1 John 2.md",
     "content/Bible/BSB/54-1 Timothy/1 Timothy 2.md",
-    "content/Bible/BSB/48-Galatians/Galatians 4.md",
     "tools/smartnotes/sm.py",
     "tools/smartnotes",
     "content/notes/statement of faith/the gospel",
