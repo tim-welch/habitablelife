@@ -4,23 +4,47 @@ tags:
 ---
 
 ## Salvation
-- Core gospel essentials (beliefs required for salvation).
-- _Purpose:_ Defines who is a Christian.
-- Example: the person and work of Christ, faith alone, grace alone, resurrection.
+Core gospel essentials (beliefs required for salvation).
 
+### Unity Implications
+
+| Type of Unity   | What It Defines                                          | Can You Worship Together?         | Can You Do Ministry Together?     |
+| --------------- | -------------------------------------------------------- | --------------------------------- | --------------------------------- |
+| **Theological** | What is required to be part of Christ’s universal church | Only with agreement on the gospel | Only with agreement on the gospel |
+
+### Beliefs
 - [[The Gospel]]
+- Example: Jesus alone, faith alone, resurrection.
 
 ## Primary
-- Beliefs necessary for sound doctrine and a healthy church.
-- _Purpose:_ Defines who you can do church with.
-- Example: authority of Scripture, Trinity, nature of sin, Christ’s return.
+Beliefs necessary for sound doctrine and a healthy church.
+
+### Unity Implications
+| Type of Unity   | What It Defines                                                 | Can You Worship Together? | Can You Do Ministry Together? |
+| --------------- | --------------------------------------------------------------- | ------------------------- | ----------------------------- |
+| **Theological** | What must be true for a church to remain faithful to the gospel | Only with agreement       | Only with agreement           |
+
+### Beliefs
+- Example: person and work of Christ, the nature of christ, authority of Scripture, Trinity, nature of sin, Christ’s return.
 
 ## Secondary
-- Beliefs that affect church practice and fellowship but not salvation.
-- _Purpose:_ Defines what kind of church you’d attend or lead.
+Beliefs that affect church practice and fellowship but not salvation.
+
+### Unity Implications
+| Type of Unity | What It Defines                                                    | Can You Worship Together? | Can You Do Ministry Together? |
+| ------------- | ------------------------------------------------------------------ | ------------------------- | ----------------------------- |
+| **Practical** | How believers live out shared faith through structure and practice | Often yes                 | Often not long-term           |
+
+### Beliefs
 - Example: baptism mode, church government, spiritual gifts, gender roles.
 
 ## Tertiary
-- Beliefs that are interesting or personally meaningful but don’t affect unity.
-- _Purpose:_ Defines what you’ll discuss but not divide over.
+Beliefs that are interesting or personally meaningful but don’t affect unity.
+
+### Unity Implications
+| Type of Unity | What It Defines                                                | Can You Worship Together? | Can You Do Ministry Together? |
+| ------------- | -------------------------------------------------------------- | ------------------------- | ----------------------------- |
+| **Personal**  | Matters of interpretation and conviction within a shared faith | Always                    | Always                        |
+
+### Beliefs
 - Example: end-times timelines, old earth vs. young earth, musical style.
