@@ -6,8 +6,6 @@ tags:
 Part of: [[Statement of Faith]]
 See also: [[Philosophy of Theological Triage]]
 
-# {{DOCTRINE CATEGORY NAME}}
-
 A collection of doctrines related to {{brief description of the category’s focus, e.g., “God’s revelation through Scripture” or “the nature and work of Christ.”}}  
 Each belief is placed in the tier that best reflects its importance and relationship to the gospel.
 

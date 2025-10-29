@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Doctrine atomic note template",
-      "path": "Templates/Doctrine atomic note template.md"
+      "basename": "The Gospel",
+      "path": "content/notes/statement of faith/the gospel/The Gospel.md"
     },
     {
       "basename": "Doctrine Category MOC template",
       "path": "Templates/Doctrine Category MOC template.md"
+    },
+    {
+      "basename": "Doctrine atomic note template",
+      "path": "Templates/Doctrine atomic note template.md"
+    },
+    {
+      "basename": "Statement of faith",
+      "path": "content/notes/statement of faith/Statement of faith.md"
+    },
+    {
+      "basename": "Salvation Doctrines",
+      "path": "content/notes/statement of faith/Salvation Doctrines.md"
+    },
+    {
+      "basename": "Berean Bible verse numbers",
+      "path": "Bible/Berean Bible verse numbers.md"
     },
     {
       "basename": "Tertiary Doctrines",
@@ -17,16 +33,8 @@
       "path": "content/notes/statement of faith/Secondary Doctrines.md"
     },
     {
-      "basename": "Salvation Doctrines",
-      "path": "content/notes/statement of faith/Salvation Doctrines.md"
-    },
-    {
       "basename": "Primary Doctrines",
       "path": "content/notes/statement of faith/Primary Doctrines.md"
-    },
-    {
-      "basename": "Statement of faith",
-      "path": "content/notes/statement of faith/Statement of faith.md"
     },
     {
       "basename": "Philosophy of Theological Triage",
@@ -43,10 +51,6 @@
     {
       "basename": "Who is Jesus",
       "path": "content/notes/statement of faith/Who is Jesus/Who is Jesus.md"
-    },
-    {
-      "basename": "The Gospel",
-      "path": "content/notes/statement of faith/the gospel/The Gospel.md"
     },
     {
       "basename": "There is no other name by which we can be saved",
@@ -95,10 +99,6 @@
     {
       "basename": "Did Jesus lie",
       "path": "content/notes/Did Jesus lie.md"
-    },
-    {
-      "basename": "Berean Bible verse numbers",
-      "path": "Bible/Berean Bible verse numbers.md"
     },
     {
       "basename": "📜 Organize and Structure Notes Prompt for OpenAI API Call",

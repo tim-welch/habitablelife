@@ -34,13 +34,44 @@
             }
           },
           {
-            "id": "3135795108047df8",
+            "id": "72f79e1df9c14788",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/the gospel/The Gospel.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Gospel"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "e10bbd0711d094cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c51a9b262dbe3b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/Doctrine Category MOC template.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -56,33 +87,8 @@
               "icon": "lucide-file",
               "title": "Doctrine Category MOC template"
             }
-          },
-          {
-            "id": "439b4ae8d75ba851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Doctrine atomic note template.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Doctrine atomic note template"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,20 +326,21 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "439b4ae8d75ba851",
+  "active": "72f79e1df9c14788",
   "lastOpenFiles": [
     "Templates/Doctrine Category MOC template.md",
     "Templates/Doctrine atomic note template.md",
+    "content/notes/statement of faith/the gospel/The Gospel.md",
+    "content/notes/statement of faith/Statement of faith.md",
+    "content/notes/statement of faith/Salvation Doctrines.md",
+    "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/Tertiary Doctrines.md",
     "content/notes/statement of faith/Secondary Doctrines.md",
-    "content/notes/statement of faith/Salvation Doctrines.md",
     "content/notes/statement of faith/Primary Doctrines.md",
-    "content/notes/statement of faith/Statement of faith.md",
     "content/notes/statement of faith/Philosophy of Theological Triage.md",
     "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
     "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
     "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
-    "content/notes/statement of faith/the gospel/The Gospel.md",
     "content/notes/statement of faith/the gospel/There is no other name by which we can be saved.md",
     "summary-2.md",
     "content/notes/statement of faith/the gospel/The atonement was prophesied.md",
@@ -349,7 +356,6 @@
     "content/notes/statement of faith/the gospel/Nothing we do can pay the debt we owe.md",
     "content/notes/Did Jesus lie.md",
     "suggestions.md",
-    "Bible/Berean Bible verse numbers.md",
     "tools/smartnotes/sm.py",
     "tools/smartnotes",
     "content/notes/statement of faith/the gospel",

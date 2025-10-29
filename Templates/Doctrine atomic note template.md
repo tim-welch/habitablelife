@@ -5,8 +5,6 @@ tags:
 
 Part of: [[{{Doctrine Category}}]] [[Statement of Faith]] [[{{Doctrine Tier}} Doctrine]]
 
-# {{Doctrine Title}}
-
 ## Summary
 A brief statement of the doctrine in your own words.  
 Example: “Scripture is the final and sufficient authority for faith and life.”
