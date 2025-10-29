@@ -5,36 +5,44 @@
       "path": "content/notes/statement of faith/the gospel/The Gospel.md"
     },
     {
-      "basename": "Doctrine Category MOC template",
-      "path": "Templates/Doctrine Category MOC template.md"
+      "basename": "God sent His Son as a man to die in our place",
+      "path": "content/notes/statement of faith/the gospel/God sent His Son as a man to die in our place.md"
     },
     {
       "basename": "Doctrine atomic note template",
       "path": "Templates/Doctrine atomic note template.md"
     },
     {
+      "basename": "Doctrine Category MOC template",
+      "path": "Templates/Doctrine Category MOC template.md"
+    },
+    {
       "basename": "Statement of faith",
       "path": "content/notes/statement of faith/Statement of faith.md"
     },
     {
-      "basename": "Salvation Doctrines",
-      "path": "content/notes/statement of faith/Salvation Doctrines.md"
+      "basename": "Tertiary Doctrine",
+      "path": "content/notes/statement of faith/Tertiary Doctrine.md"
+    },
+    {
+      "basename": "Secondary Doctrine",
+      "path": "content/notes/statement of faith/Secondary Doctrine.md"
+    },
+    {
+      "basename": "Primary Doctrine",
+      "path": "content/notes/statement of faith/Primary Doctrine.md"
+    },
+    {
+      "basename": "Salvation Doctrine",
+      "path": "content/notes/statement of faith/Salvation Doctrine.md"
+    },
+    {
+      "basename": "Doctrine MOC Design Guide",
+      "path": "content/notes/statement of faith/Doctrine MOC Design Guide.md"
     },
     {
       "basename": "Berean Bible verse numbers",
       "path": "Bible/Berean Bible verse numbers.md"
-    },
-    {
-      "basename": "Tertiary Doctrines",
-      "path": "content/notes/statement of faith/Tertiary Doctrines.md"
-    },
-    {
-      "basename": "Secondary Doctrines",
-      "path": "content/notes/statement of faith/Secondary Doctrines.md"
-    },
-    {
-      "basename": "Primary Doctrines",
-      "path": "content/notes/statement of faith/Primary Doctrines.md"
     },
     {
       "basename": "Philosophy of Theological Triage",
@@ -63,10 +71,6 @@
     {
       "basename": "The atonement was prophesied",
       "path": "content/notes/statement of faith/the gospel/The atonement was prophesied.md"
-    },
-    {
-      "basename": "God sent His Son as a man to die in our place",
-      "path": "content/notes/statement of faith/the gospel/God sent His Son as a man to die in our place.md"
     },
     {
       "basename": "Jesus died and was buried",
@@ -195,10 +199,6 @@
     {
       "basename": "Interpret what this passage means",
       "path": "content/notes/note taking/Interpret what this passage means.md"
-    },
-    {
-      "basename": "Inductive Bible Study Method",
-      "path": "content/notes/note taking/Inductive Bible Study Method.md"
     }
   ],
   "omittedPaths": [

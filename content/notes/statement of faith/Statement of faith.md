@@ -2,10 +2,6 @@
 tags:
   - type/moc
 ---
----
-tags:
-  - type/moc
----
 
 # Statement of Faith
 
@@ -75,8 +71,4 @@ Beliefs that are interesting or personally meaningful but don’t affect unity.
 - [[Creation]]
 - [[Cultural Expressions of Faith]]
 
----
 
-## Navigation
-- See also: [[Philosophy of Theological Triage]]
-- For supporting notes on salvation: [[The Gospel]]
