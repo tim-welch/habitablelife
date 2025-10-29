@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3631f770081d71b0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/Berean Bible verse numbers.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Berean Bible verse numbers"
-            }
-          },
-          {
             "id": "72f79e1df9c14788",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
+                "file": "content/notes/statement of faith/the gospel/Jesus died and was buried.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Jesus rose again on the third day"
+              "title": "Jesus died and was buried"
             }
           },
           {
@@ -81,8 +55,7 @@
               "title": "John 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e10bbd0711d094cd",
@@ -111,8 +84,35 @@
               "icon": "lucide-file",
               "title": "Doctrine atomic note template"
             }
+          },
+          {
+            "id": "3631f770081d71b0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/Berean Bible verse numbers.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Berean Bible verse numbers"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -350,14 +350,23 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "72f79e1df9c14788",
+  "active": "3631f770081d71b0",
   "lastOpenFiles": [
+    "content/notes/statement of faith/the gospel/Jesus died and was buried.md",
+    "content/notes/statement of faith/the gospel/The atonement was prophesied.md",
+    "content/notes/statement of faith/the gospel/Nothing we do can pay the debt we owe.md",
+    "content/notes/statement of faith/the gospel/We believe and are saved.md",
+    "content/notes/statement of faith/the gospel/What we deserve for sinning is death.md",
+    "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
+    "content/notes/statement of faith/the gospel/Whoever rejects Jesus will not see life.md",
+    "Bible/Berean Bible verse numbers.md",
+    "content/notes/statement of faith/the gospel/I have sinned and have not lived up to the standard God expects.md",
+    "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
+    "content/notes/statement of faith/the gospel/The Gospel.md",
     "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
     "content/notes/statement of faith/the gospel/There is no other name by which we can be saved.md",
     "content/notes/statement of faith/the gospel/God sent His Son as a man to die in our place.md",
     "content/Bible/BSB/43-John/John 3.md",
-    "content/notes/statement of faith/the gospel/I have sinned and have not lived up to the standard God expects.md",
-    "content/notes/statement of faith/the gospel/The Gospel.md",
     "Templates/Doctrine atomic note template.md",
     "Templates/Doctrine Category MOC template.md",
     "content/notes/statement of faith/Statement of faith.md",
@@ -366,20 +375,11 @@
     "content/notes/statement of faith/Primary Doctrine.md",
     "content/notes/statement of faith/Salvation Doctrine.md",
     "content/notes/statement of faith/Doctrine MOC Design Guide.md",
-    "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/Philosophy of Theological Triage.md",
-    "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
     "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
     "summary-2.md",
-    "content/notes/statement of faith/the gospel/The atonement was prophesied.md",
     "content/notes/statement of faith/Who is Jesus",
     "content/notes/statement of faith",
-    "content/notes/statement of faith/the gospel/Jesus died and was buried.md",
-    "content/notes/statement of faith/the gospel/Whoever rejects Jesus will not see life.md",
-    "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
-    "content/notes/statement of faith/the gospel/What we deserve for sinning is death.md",
-    "content/notes/statement of faith/the gospel/We believe and are saved.md",
-    "content/notes/statement of faith/the gospel/Nothing we do can pay the debt we owe.md",
     "tools/smartnotes/sm.py",
     "tools/smartnotes",
     "content/notes/statement of faith/the gospel",

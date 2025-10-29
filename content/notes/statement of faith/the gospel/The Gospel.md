@@ -9,8 +9,14 @@ This note summarizes the message of salvation through Jesus Christ. It explains 
 
 It focuses on the problem of sin, Christ’s atonement, His resurrection, and the response of faith.
 
+## Outline of the Gospel
+[[Titus 3#Titus 3 3|Titus 3:3-7]]
+
+
 ## Sin and the Human Condition
 Humanity has fallen short of God’s standard and is unable to pay the debt of sin.
+
+[[Titus 3#Titus 3 3|Titus 3:3]]
 
 - [[I have sinned and have not lived up to the standard God expects]]
 - [[What we deserve for sinning is death]]

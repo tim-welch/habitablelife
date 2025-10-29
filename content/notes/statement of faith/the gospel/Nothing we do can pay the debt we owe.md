@@ -1,15 +1,28 @@
 ---
 tags:
-    - type/atomic
+  - type/atomic
 ---
 
-Nothing we do can pay the debt we owe. If we try, our best work is nothing but dirty rags in God's sight.
+Part of: [[The Gospel]] [[Sin and Salvation]] [[Statement of Faith]] [[Salvation Doctrine]]
 
-This is why [[Jesus' death was atonement for sin]] is essential.
+## Summary
 
-## Connections
+Nothing we do can pay the debt we owe. If we try, our best work is nothing but dirty rags in God's sight.  This is why [[Jesus' death was atonement for sin]] is essential.
 
-- [[Isaiah 64#Isaiah 64 6|Isaiah 64:6]]
-- [[Ephesians 2#Ephesians 2 8|Ephesians 2:8-9]]
-- [[Titus 3#Titus 3 5|Titus 3:5]]
-- [[Galatians 2#Galatians 2 16|Galatians 2:16]]
+## Biblical Support
+
+- [[Isaiah 64#Isaiah 64 6|Isaiah 64:6]] — All our righteous acts are like filthy rags before God.  
+- [[Ephesians 2#Ephesians 2 8|Ephesians 2:8-9]] — Salvation is by grace through faith, not by works, so that no one can boast.  
+- [[Titus 3#Titus 3 5|Titus 3:5]] — God saved us not because of righteous things we had done but because of His mercy.  
+- [[Galatians 2#Galatians 2 16|Galatians 2:16]] — A person is not justified by works of the law but through faith in Jesus Christ.
+
+## Explanation
+
+
+## Implications
+
+
+## Related Notes
+
+- [[I have sinned and have not lived up to the standard God expects]]  
+- [[Jesus' death was atonement for sin]]
