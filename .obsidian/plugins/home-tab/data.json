@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "content/notes/statement of faith/the gospel/The Gospel.md",
-      "timestamp": 1761700308833
+      "filepath": "content/notes/statement of faith/the gospel/God sent His Son as a man to die in our place.md",
+      "timestamp": 1761732828489
     },
     {
-      "filepath": "content/notes/statement of faith/the gospel/God sent His Son as a man to die in our place.md",
-      "timestamp": 1761699795787
+      "filepath": "content/notes/statement of faith/the gospel/I have sinned and have not lived up to the standard God expects.md",
+      "timestamp": 1761732820160
+    },
+    {
+      "filepath": "content/notes/statement of faith/the gospel/The Gospel.md",
+      "timestamp": 1761700308833
     },
     {
       "filepath": "Templates/Doctrine atomic note template.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "Templates/Doctrine Category MOC template.md",
       "timestamp": 1761699764511
-    },
-    {
-      "filepath": "content/notes/statement of faith/Statement of faith.md",
-      "timestamp": 1761699650837
     }
   ],
   "bookmarkedFileStore": [],
