@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/the gospel/God sent His Son as a man to die in our place.md",
+                "file": "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,7 +54,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "God sent His Son as a man to die in our place"
+              "title": "Jesus rose again on the third day"
+            }
+          },
+          {
+            "id": "c6d0494be584c8be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Bible/BSB/43-John/John 3.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "John 3"
             }
           }
         ],
@@ -328,8 +352,11 @@
   },
   "active": "72f79e1df9c14788",
   "lastOpenFiles": [
-    "content/notes/statement of faith/the gospel/I have sinned and have not lived up to the standard God expects.md",
+    "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
+    "content/notes/statement of faith/the gospel/There is no other name by which we can be saved.md",
     "content/notes/statement of faith/the gospel/God sent His Son as a man to die in our place.md",
+    "content/Bible/BSB/43-John/John 3.md",
+    "content/notes/statement of faith/the gospel/I have sinned and have not lived up to the standard God expects.md",
     "content/notes/statement of faith/the gospel/The Gospel.md",
     "Templates/Doctrine atomic note template.md",
     "Templates/Doctrine Category MOC template.md",
@@ -342,9 +369,7 @@
     "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/Philosophy of Theological Triage.md",
     "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
-    "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
     "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
-    "content/notes/statement of faith/the gospel/There is no other name by which we can be saved.md",
     "summary-2.md",
     "content/notes/statement of faith/the gospel/The atonement was prophesied.md",
     "content/notes/statement of faith/Who is Jesus",
@@ -355,7 +380,6 @@
     "content/notes/statement of faith/the gospel/What we deserve for sinning is death.md",
     "content/notes/statement of faith/the gospel/We believe and are saved.md",
     "content/notes/statement of faith/the gospel/Nothing we do can pay the debt we owe.md",
-    "content/notes/Did Jesus lie.md",
     "tools/smartnotes/sm.py",
     "tools/smartnotes",
     "content/notes/statement of faith/the gospel",
