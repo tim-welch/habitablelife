@@ -3,7 +3,7 @@ tags:
   - type/atomic
 ---
 
-Part of: [[The Gospel]] [[Sin and Salvation]] [[Statement of Faith]] [[Salvation Doctrine]]
+Part of: [[0020 - The Gospel]] [[0021 - Sin and Salvation]] [[0000 - Statement of Faith]] [[0001 - Salvation Doctrine]]
 
 ## Summary
 
@@ -32,7 +32,7 @@ Death entered through disobedience, and only God’s mercy through Christ provid
 ## Related Notes
 
 ### Leads From
-- [[We were enslaved by sin and disobedience]] — Our condition under sin results in spiritual death.  
+- [[Disobedient and enslaved to sin]] — Our condition under sin results in spiritual death.  
 
 ### Leads To
 - [[Whoever rejects Jesus will not see life]] — Rejecting the Son leaves us under wrath and final judgment.  

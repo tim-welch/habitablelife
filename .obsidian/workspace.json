@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/the gospel/What we deserve for sinning is death.md",
+                "file": "content/notes/statement of faith/Disobedient and enslaved to sin.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What we deserve for sinning is death"
+              "title": "Disobedient and enslaved to sin"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
+                "file": "content/notes/statement of faith/0020 - The Gospel.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,15 +52,66 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Whoever believes in Jesus has eternal life"
+              "title": "0020 - The Gospel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e10bbd0711d094cd",
         "type": "tabs",
         "children": [
+          {
+            "id": "0c9e8b9df4fb0c4e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/0000 - Statement of Faith.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0000 - Statement of Faith"
+            }
+          },
+          {
+            "id": "5d9911b243c9631b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/Philosophy of Theological Triage.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Philosophy of Theological Triage"
+            }
+          },
           {
             "id": "4c51a9b262dbe3b3",
             "type": "leaf",
@@ -68,7 +119,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Doctrine atomic note template.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -88,10 +139,11 @@
           {
             "id": "47b9edc42c17872f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/the gospel/The Gospel.md",
+                "file": "content/notes/statement of faith/0020 - The Gospel.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -105,8 +157,9 @@
                   "unlinkedCollapsed": true
                 }
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "The Gospel"
+              "title": "0020 - The Gospel"
             }
           },
           {
@@ -135,8 +188,7 @@
               "title": "Berean Bible verse numbers"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -374,34 +426,34 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "72f79e1df9c14788",
+  "active": "0c9e8b9df4fb0c4e",
   "lastOpenFiles": [
-    "content/notes/statement of faith/the gospel/The Gospel.md",
+    "content/notes/statement of faith/0021 - Sin and Salvation.md",
+    "content/notes/statement of faith/0020 - The Gospel.md",
+    "content/notes/statement of faith/0004 - Tertiary Doctrine.md",
+    "content/notes/statement of faith/0003 - Secondary Doctrine.md",
+    "content/notes/statement of faith/0002 - Primary Doctrine.md",
+    "content/notes/statement of faith/0001 - Salvation Doctrine.md",
+    "content/notes/statement of faith/001 - Tiers of Doctrine.md",
+    "content/notes/statement of faith/0000 - Statement of Faith.md",
+    "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
+    "Templates/Doctrine atomic note template.md",
+    "content/notes/statement of faith/Disobedient and enslaved to sin.md",
+    "content/notes/statement of faith/Philosophy of Theological Triage.md",
+    "content/notes/statement of faith/the gospel/The wages of sin is death.md",
+    "content/notes/statement of faith/Doctrine MOC Design Guide.md",
     "AI Prompts/Priorities and time management Prompt.md",
     "Bible/Berean Bible verse numbers.md",
-    "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
     "content/notes/statement of faith/the gospel/We believe and are saved.md",
     "content/Bible/BSB/43-John/John 3.md",
-    "Templates/Doctrine atomic note template.md",
     "content/notes/statement of faith/the gospel/Jesus died and was buried.md",
     "content/notes/statement of faith/the gospel/The atonement was prophesied.md",
     "content/notes/statement of faith/the gospel/Nothing we do can pay the debt we owe.md",
-    "content/notes/statement of faith/the gospel/What we deserve for sinning is death.md",
     "content/notes/statement of faith/the gospel/Whoever rejects Jesus will not see life.md",
-    "content/notes/statement of faith/the gospel/I have sinned and have not lived up to the standard God expects.md",
     "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
     "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
     "content/notes/statement of faith/the gospel/There is no other name by which we can be saved.md",
     "content/notes/statement of faith/the gospel/God sent His Son as a man to die in our place.md",
-    "Templates/Doctrine Category MOC template.md",
-    "content/notes/statement of faith/Statement of faith.md",
-    "content/notes/statement of faith/Tertiary Doctrine.md",
-    "content/notes/statement of faith/Secondary Doctrine.md",
-    "content/notes/statement of faith/Primary Doctrine.md",
-    "content/notes/statement of faith/Salvation Doctrine.md",
-    "content/notes/statement of faith/Doctrine MOC Design Guide.md",
-    "content/notes/statement of faith/Philosophy of Theological Triage.md",
-    "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
     "content/notes/statement of faith/Who is Jesus",
     "content/notes/statement of faith",
     "tools/smartnotes/sm.py",

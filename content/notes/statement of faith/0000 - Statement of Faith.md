@@ -22,9 +22,9 @@ These doctrines define who is a Christian.
 | **Theological** | What is required to be part of Christ’s universal church and have eternal life | Only with agreement on the gospel | Only with agreement on the gospel |
 
 ### Doctrine Categories
-- [[The Gospel]]
-- [[Sin and Salvation]]
-- [[God and Christ]]
+- [[0020 - The Gospel]]
+- [[0021 - Sin and Salvation]]
+- [[0022 - God and Christ]]
 
 ---
 
@@ -36,11 +36,11 @@ Beliefs necessary for sound doctrine and a healthy church.
 | **Theological** | What must be true for a church to remain faithful to the gospel | Only with agreement | Only with agreement |
 
 ### Doctrine Categories
-- [[Scripture]]
-- [[God and Christ]]
-- [[Sin and Salvation]]
-- [[The Church]]
-- [[Holy Spirit and Gifts]]
+- [[0021 - Sin and Salvation]]
+- [[0022 - God and Christ]]
+- [[0030 - Scripture]]
+- [[0031 - The Church]]
+- [[0032 - Holy Spirit and Gifts]]
 
 ---
 
@@ -52,10 +52,10 @@ Beliefs that affect church practice and fellowship but not salvation.
 | **Practical** | How believers live out shared faith through structure and practice | Often yes | Often not long-term |
 
 ### Doctrine Categories
-- [[Scripture]]
+- [[0030 - Scripture]]
 - [[Church and Practice]]
-- [[Holy Spirit and Gifts]]
-- [[Gender and Roles]]
+- [[0032 - Holy Spirit and Gifts]]
+- [[0033 - Gender and Roles]]
 
 ---
 
@@ -67,8 +67,8 @@ Beliefs that are interesting or personally meaningful but don’t affect unity.
 | **Personal** | Matters of interpretation and conviction within a shared faith | Always | Always |
 
 ### Doctrine Categories
-- [[Eschatology]]
-- [[Creation]]
-- [[Cultural Expressions of Faith]]
+- [[0040 - Eschatology]]
+- [[0041 - Creation]]
+- [[0042 - Cultural Expressions of Faith]]
 
 

@@ -22,4 +22,4 @@
 ## The Gospel
 After all the shifts and debates, I found myself coming back to something simple. The gospel itself.
 
-[[The Gospel]]
+[[0020 - The Gospel]]

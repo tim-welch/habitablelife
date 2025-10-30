@@ -3,7 +3,8 @@ tags:
   - type/atomic
 ---
 
-Part of: [[{{Doctrine Category}}]] [[Statement of Faith]] [[{{Doctrine Tier}} Doctrine]]
+Part of: [[0000 - Statement of Faith]] -> [[{{Doctrine Category}}]]
+Tier: [[{{Doctrine Tier}} Doctrine]]
 
 ## Summary
 A brief statement of the doctrine in your own words.  
@@ -23,3 +24,7 @@ Example: “Scripture is the final and sufficient authority for faith and life.�
 ## Related Notes
 - [[Philosophy of Theological Triage]] — for understanding its tier placement.
 - Related doctrines: {{link to other relevant atomic notes.}}
+
+### Leads From
+### Leads To
+### Contrasts With

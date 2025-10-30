@@ -3,7 +3,7 @@ tags:
   - type/atomic
 ---
 
-Part of: [[The Gospel]] [[Sin and Salvation]] [[Statement of Faith]] [[Salvation Doctrine]]
+Part of: [[0020 - The Gospel]] [[0021 - Sin and Salvation]] [[0000 - Statement of Faith]] [[0001 - Salvation Doctrine]]
 
 ## Summary
 
@@ -24,5 +24,5 @@ Nothing we do can pay the debt we owe. If we try, our best work is nothing but d
 
 ## Related Notes
 
-- [[I have sinned and have not lived up to the standard God expects]]  
+- [[Disobedient and enslaved to sin]]  
 - [[Jesus' death was atonement for sin]]

@@ -3,7 +3,8 @@ tags:
   - type/moc
 ---
 
-Part of: [[Statement of Faith]] [[Salvation Doctrine]]
+Part of: [[0000 - Statement of Faith]]
+Tier: [[0001 - Salvation Doctrine]]
 
 This note summarizes the message of salvation through Jesus Christ, centered on His death and resurrection.  
 
@@ -26,8 +27,8 @@ It concludes with [[John 3#John 3 36|John 3:36]], which declares the response re
 **Verse Focus (Titus 3:3):** Out guilt and inability to meet God’s standard.  
 We were enslaved by sin and disobedience.
 
-- [[I have sinned and have not lived up to the standard God expects]]  
-- [[What we deserve for sinning is death]]
+- [[Disobedient and enslaved to sin]]  
+- [[The wages of sin is death]]
 
 ---
 

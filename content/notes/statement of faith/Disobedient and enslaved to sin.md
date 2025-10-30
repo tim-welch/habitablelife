@@ -3,9 +3,12 @@ tags:
   - type/atomic
 ---
 
-Part of: [[The Gospel]] [[Sin and Salvation]] [[Statement of Faith]] [[Salvation Doctrine]]
+Part of: [[0000 - Statement of Faith]] -> [[0020 - The Gospel]], [[0021 - Sin and Salvation]]
+Tier: [[0001 - Salvation Doctrine]]
 
 ## Summary
+
+> “For at one time we too were foolish, disobedient, misled, and enslaved to all sorts of desires and pleasures. We lived in malice and envy, being hated and hating one another.” — [[Titus 3#Titus 3 3|Titus 3:3, BSB]]
 
 I have sinned and have not lived up to the standard God expects. [[Nothing we do can pay the debt we owe]].
 
@@ -30,4 +33,9 @@ I have sinned and have not lived up to the standard God expects. [[Nothing we do
 
 ## Related Notes
 
+### Leads To
+- [[The wages of sin is death]]
 - [[Nothing we do can pay the debt we owe]]
+
+### Contrasts With
+- [[Jesus never sinned]]

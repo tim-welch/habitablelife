@@ -12,7 +12,7 @@ My [[Philosophy of Theological Triage]] defines the tiers of belief, but doctrin
 ## Purpose
 
 Doctrine MOCs organize related beliefs within a specific area of theology.  
-Each category shows how its doctrines relate to one another and to the gospel, while linking back to the [[Statement of Faith]] and the appropriate tier MOC.
+Each category shows how its doctrines relate to one another and to the gospel, while linking back to the [[0000 - Statement of Faith]] and the appropriate tier MOC.
 
 A doctrine MOC can take different shapes depending on how broad or focused the topic is.
 
@@ -28,7 +28,7 @@ Keep the note organized around the theological or narrative flow of the doctrine
 
 **Examples:**
 
-- [[The Gospel]] — all beliefs belong to the Salvation tier.
+- [[0020 - The Gospel]] — all beliefs belong to the Salvation tier.
     
 - [[Faith and Repentance]] — all beliefs describe the human response to salvation.
     

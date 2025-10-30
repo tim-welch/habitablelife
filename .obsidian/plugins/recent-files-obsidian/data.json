@@ -1,20 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "What we deserve for sinning is death",
-      "path": "content/notes/statement of faith/the gospel/What we deserve for sinning is death.md"
+      "basename": "0000 - Statement of Faith",
+      "path": "content/notes/statement of faith/0000 - Statement of Faith.md"
     },
     {
-      "basename": "The Gospel",
-      "path": "content/notes/statement of faith/the gospel/The Gospel.md"
+      "basename": "0020 - The Gospel",
+      "path": "content/notes/statement of faith/0020 - The Gospel.md"
     },
     {
-      "basename": "Berean Bible verse numbers",
-      "path": "Bible/Berean Bible verse numbers.md"
+      "basename": "0004 - Tertiary Doctrine",
+      "path": "content/notes/statement of faith/0004 - Tertiary Doctrine.md"
+    },
+    {
+      "basename": "0003 - Secondary Doctrine",
+      "path": "content/notes/statement of faith/0003 - Secondary Doctrine.md"
+    },
+    {
+      "basename": "0002 - Primary Doctrine",
+      "path": "content/notes/statement of faith/0002 - Primary Doctrine.md"
+    },
+    {
+      "basename": "0001 - Salvation Doctrine",
+      "path": "content/notes/statement of faith/0001 - Salvation Doctrine.md"
     },
     {
       "basename": "Whoever believes in Jesus has eternal life",
       "path": "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md"
+    },
+    {
+      "basename": "Doctrine atomic note template",
+      "path": "Templates/Doctrine atomic note template.md"
+    },
+    {
+      "basename": "Disobedient and enslaved to sin",
+      "path": "content/notes/statement of faith/Disobedient and enslaved to sin.md"
+    },
+    {
+      "basename": "Philosophy of Theological Triage",
+      "path": "content/notes/statement of faith/Philosophy of Theological Triage.md"
+    },
+    {
+      "basename": "The wages of sin is death",
+      "path": "content/notes/statement of faith/the gospel/The wages of sin is death.md"
+    },
+    {
+      "basename": "Doctrine MOC Design Guide",
+      "path": "content/notes/statement of faith/Doctrine MOC Design Guide.md"
+    },
+    {
+      "basename": "Berean Bible verse numbers",
+      "path": "Bible/Berean Bible verse numbers.md"
     },
     {
       "basename": "We believe and are saved",
@@ -23,10 +59,6 @@
     {
       "basename": "John 3",
       "path": "content/Bible/BSB/43-John/John 3.md"
-    },
-    {
-      "basename": "Doctrine atomic note template",
-      "path": "Templates/Doctrine atomic note template.md"
     },
     {
       "basename": "Jesus died and was buried",
@@ -43,10 +75,6 @@
     {
       "basename": "Whoever rejects Jesus will not see life",
       "path": "content/notes/statement of faith/the gospel/Whoever rejects Jesus will not see life.md"
-    },
-    {
-      "basename": "I have sinned and have not lived up to the standard God expects",
-      "path": "content/notes/statement of faith/the gospel/I have sinned and have not lived up to the standard God expects.md"
     },
     {
       "basename": "Jesus rose again on the third day",
@@ -67,34 +95,6 @@
     {
       "basename": "Doctrine Category MOC template",
       "path": "Templates/Doctrine Category MOC template.md"
-    },
-    {
-      "basename": "Statement of faith",
-      "path": "content/notes/statement of faith/Statement of faith.md"
-    },
-    {
-      "basename": "Tertiary Doctrine",
-      "path": "content/notes/statement of faith/Tertiary Doctrine.md"
-    },
-    {
-      "basename": "Secondary Doctrine",
-      "path": "content/notes/statement of faith/Secondary Doctrine.md"
-    },
-    {
-      "basename": "Primary Doctrine",
-      "path": "content/notes/statement of faith/Primary Doctrine.md"
-    },
-    {
-      "basename": "Salvation Doctrine",
-      "path": "content/notes/statement of faith/Salvation Doctrine.md"
-    },
-    {
-      "basename": "Doctrine MOC Design Guide",
-      "path": "content/notes/statement of faith/Doctrine MOC Design Guide.md"
-    },
-    {
-      "basename": "Philosophy of Theological Triage",
-      "path": "content/notes/statement of faith/Philosophy of Theological Triage.md"
     },
     {
       "basename": "Who is Jesus",
@@ -191,14 +191,6 @@
     {
       "basename": "Observation Notes at Verse Level",
       "path": "content/notes/note taking/Observation Notes at Verse Level.md"
-    },
-    {
-      "basename": "Mapping Inductive Study to Zettelkasten",
-      "path": "content/notes/note taking/Mapping Inductive Study to Zettelkasten.md"
-    },
-    {
-      "basename": "Interpretations as Permanent Notes",
-      "path": "content/notes/note taking/Interpretations as Permanent Notes.md"
     }
   ],
   "omittedPaths": [

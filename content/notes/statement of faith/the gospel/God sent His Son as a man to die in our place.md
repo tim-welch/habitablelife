@@ -3,7 +3,7 @@ tags:
     - type/atomic
 ---
 
-Part of: [[The Gospel]] [[God and Christ]] [[Statement of Faith]] [[Salvation Doctrine]]
+Part of: [[0020 - The Gospel]] [[God and Christ]] [[0000 - Statement of Faith]] [[0001 - Salvation Doctrine]]
 
 ## Summary
 
