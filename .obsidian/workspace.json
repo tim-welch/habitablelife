@@ -72,7 +72,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/notes/statement of faith/0000 - Statement of Faith.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -423,7 +423,9 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false,
+      "workspaces-plus:Manage workspaces": false
     }
   },
   "active": "0c9e8b9df4fb0c4e",
