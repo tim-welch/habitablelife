@@ -6,6 +6,7 @@
       {
         "id": "da926d637237f281",
         "type": "tabs",
+        "dimension": 46.845238095238095,
         "children": [
           {
             "id": "72f79e1df9c14788",
@@ -37,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/0020 - The Gospel.md",
+                "file": "content/notes/statement of faith/0200 - The Gospel.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0020 - The Gospel"
+              "title": "0200 - The Gospel"
             }
           }
         ],
@@ -61,6 +62,7 @@
       {
         "id": "e10bbd0711d094cd",
         "type": "tabs",
+        "dimension": 53.154761904761905,
         "children": [
           {
             "id": "0c9e8b9df4fb0c4e",
@@ -143,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/0020 - The Gospel.md",
+                "file": "content/notes/statement of faith/0200 - The Gospel.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -159,7 +161,7 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "0020 - The Gospel"
+              "title": "0200 - The Gospel"
             }
           },
           {
@@ -428,14 +430,14 @@
   },
   "active": "0c9e8b9df4fb0c4e",
   "lastOpenFiles": [
+    "content/notes/statement of faith/0200 - The Gospel.md",
+    "content/notes/statement of faith/0000 - Statement of Faith.md",
     "content/notes/statement of faith/0021 - Sin and Salvation.md",
-    "content/notes/statement of faith/0020 - The Gospel.md",
     "content/notes/statement of faith/0004 - Tertiary Doctrine.md",
     "content/notes/statement of faith/0003 - Secondary Doctrine.md",
     "content/notes/statement of faith/0002 - Primary Doctrine.md",
     "content/notes/statement of faith/0001 - Salvation Doctrine.md",
     "content/notes/statement of faith/001 - Tiers of Doctrine.md",
-    "content/notes/statement of faith/0000 - Statement of Faith.md",
     "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
     "Templates/Doctrine atomic note template.md",
     "content/notes/statement of faith/Disobedient and enslaved to sin.md",

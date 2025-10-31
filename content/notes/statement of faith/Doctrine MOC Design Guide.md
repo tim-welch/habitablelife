@@ -28,7 +28,7 @@ Keep the note organized around the theological or narrative flow of the doctrine
 
 **Examples:**
 
-- [[0020 - The Gospel]] — all beliefs belong to the Salvation tier.
+- [[0200 - The Gospel]] — all beliefs belong to the Salvation tier.
     
 - [[Faith and Repentance]] — all beliefs describe the human response to salvation.
     

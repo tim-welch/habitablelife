@@ -3,7 +3,7 @@ tags:
   - type/atomic
 ---
 
-Part of: [[0000 - Statement of Faith]] -> [[0020 - The Gospel]], [[0021 - Sin and Salvation]]
+Part of: [[0000 - Statement of Faith]] -> [[0200 - The Gospel]], [[0021 - Sin and Salvation]]
 Tier: [[0001 - Salvation Doctrine]]
 
 ## Summary
