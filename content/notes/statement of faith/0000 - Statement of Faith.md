@@ -19,7 +19,7 @@ Each doctrine category note contains beliefs that may span multiple tiers, but t
 
 ---
 
-## Salvation
+## Ring 1 - Salvation
 Core gospel essentials.  
 These doctrines define what a person must understand and believe to be saved.
 
@@ -34,7 +34,7 @@ These doctrines define what a person must understand and believe to be saved.
 
 ---
 
-## Result of Salvation
+## Ring 2 - Result of Salvation
 
 | Category | Description | Scriptural Anchors |
 |-----------|--------------|--------------------|
