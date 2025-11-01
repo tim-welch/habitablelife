@@ -9,7 +9,7 @@ My [[Philosophy of Theological Triage]] explains how I group beliefs by importan
 
 This note organizes Christian doctrine as concentric rings around the gospel message.  
 Each ring builds on the one before it, moving from what must be believed for salvation to what must be true for the gospel to be true.  
-Beyond these rings are doctrines that orbit the gospel. These are dependent on its truth but not on each other.
+Beyond these rings are doctrines that orbit the gospel. These doctrines are dependent on the gospel being true but not on each other.
 
 ---
 
@@ -41,19 +41,22 @@ What happens when a person is saved.
 
 | Category | Description | Scriptural Anchors |
 |-----------|--------------|--------------------|
-| [[0260 - Union with Christ]] | Life in Christ that brings justification, adoption, and a new identity as God’s children. | Romans 6, Galatians 2 |
+| [[0260 - Union with Christ]] | Life in Christ that brings justification, adoption, and new identity in Him; believers are now in Christ. | Romans 6, Galatians 2, 2 Corinthians 5 |
 | [[0270 - New Creation and Eternal Life]] | The promised outcome of salvation: renewal and glorification. | Revelation 21, 1 Thessalonians 4 |
 
 ---
 
 ## Ring 3 – Foundation of Salvation
-Truths that must be true for the gospel to be true, even if a believer does not yet understand them.
+These doctrines describe who God is and what must be true of Him for salvation to exist.  
+They form the theological foundation of the gospel: the eternal, triune, all-powerful, and faithful God who purposed redemption, became incarnate in Christ, and applies salvation through His Spirit.
 
 | Category | Description | Scriptural Anchors |
 |-----------|--------------|--------------------|
+| [[The Trinity]] | God is one in essence and three in persons—Father, Son, and Spirit—working together in salvation. | Matthew 28 19, John 14 16–17 |
+| [[Attributes of God]] | God is uncreated, eternal, all-knowing, all-present, all-powerful, and unchanging in His being, wisdom, holiness, justice, goodness, and truth. These attributes reveal who He is and make salvation possible. | Exodus 3 14, Psalm 139 1–12, Malachi 3 6, Isaiah 40 28, Romans 11 33–36 |
 | [[The Father’s Plan of Redemption]] | God purposed and initiated salvation before creation. | Ephesians 1 3–10, John 17 1–4 |
-| [[The Spirit’s Work in Salvation]] | The Spirit convicts, regenerates, and applies Christ’s work to believers. | John 16 8–11, Titus 3 5–6 |
 | [[The Nature of Christ]] | Jesus is both divine and human, able to represent God and man. | John 1 1–14, Philippians 2 5–8 |
+| [[The Spirit’s Work in Salvation]] | The Spirit convicts, regenerates, and applies Christ’s work to believers. | John 16 8–11, Titus 3 5–6 |
 | [[The Justice and Love of God]] | God’s nature requires sin to be judged and love to provide redemption. | Romans 3 25–26, 1 John 4 9–10 |
 | [[The Faithfulness of God]] | God’s promises and character ensure the reliability of salvation. | Numbers 23 19, Romans 3 3–4 |
 | [[The Authority of Scripture]] | Salvation rests on God’s revealed Word, trustworthy and inspired. | 2 Timothy 3 15–17, John 17 17 |
@@ -66,10 +69,12 @@ They describe the Christian life, the church, creation, and the world’s future
 
 | Category | Description | Scriptural Anchors |
 |-----------|--------------|--------------------|
-| [[Creation]] | God’s design, power, and purpose in creating all things. | Genesis 1–2, Romans 1 |
 | [[The Church]] | The body of Christ and His ongoing mission in the world. | Acts 2, Ephesians 4 |
+| [[Fruits of the Spirit]] | The Spirit produces Christlike character in believers. | Galatians 5 22–23, John 15 5–8 |
+| [[Gifts of the Spirit]] | The Spirit empowers believers for service and ministry. | 1 Corinthians 12, Romans 12 6–8 |
 | [[Sanctification and Holiness]] | Growth in righteousness through the Spirit and obedience. | 1 Thessalonians 4, Galatians 5 |
 | [[Worship and Sacraments]] | Baptism, the Lord’s Supper, and worship that honors God. | 1 Corinthians 11, Romans 12 |
+| [[Creation]] | God’s design, power, and purpose in creating all things. | Genesis 1–2, Romans 1 |
 | [[Eschatology]] | The return of Christ, resurrection, and final judgment. | Revelation 20–22, Matthew 24 |
 | [[Christian Ethics]] | Living out the gospel through love, truth, and holiness. | Romans 12–14, Matthew 5 |
 | [[Faith and Culture]] | Engaging the world while remaining faithful to Christ. | Romans 12, Colossians 3 |
