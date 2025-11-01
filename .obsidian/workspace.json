@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/notes/statement of faith/0000 - Statement of Faith.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -350,8 +350,10 @@
   "active": "0c9e8b9df4fb0c4e",
   "lastOpenFiles": [
     "content/notes/statement of faith/Philosophy of Theological Triage.md",
-    "content/notes/statement of faith/0001 - Salvation Doctrine.md",
+    "drafts/Statement of Faith Diagram.md",
+    "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
     "content/notes/statement of faith/0000 - Statement of Faith.md",
+    "content/notes/statement of faith/0001 - Salvation Doctrine.md",
     "content/notes/statement of faith/0200 - The Gospel.md",
     "AI Prompts/humanizing prompt.md",
     "content/notes/statement of faith/0021 - Sin and Salvation.md",
@@ -373,8 +375,6 @@
     "content/notes/statement of faith/the gospel/Nothing we do can pay the debt we owe.md",
     "content/notes/statement of faith/the gospel/Whoever rejects Jesus will not see life.md",
     "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
-    "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
-    "content/notes/statement of faith/the gospel/There is no other name by which we can be saved.md",
     "content/notes/statement of faith/Who is Jesus",
     "content/notes/statement of faith",
     "tools/smartnotes/sm.py",

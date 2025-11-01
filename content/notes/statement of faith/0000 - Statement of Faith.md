@@ -96,6 +96,11 @@ All doctrine ultimately points back to the gospel—the center of God’s revela
 
 ---
 
+```m
+```
+
+---
+
 ## Navigation
 **Quick Links:**  
 ➡️ [[#Core Gospel (Center)]] | [[#Ring 1 – Salvation]] | [[#Ring 2 – Result of Salvation]] | [[#Ring 3 – Foundation of Salvation]] | [[#Orbiting Doctrines]]  
