@@ -5,6 +5,10 @@
       "path": "content/notes/statement of faith/0000 - Statement of Faith.md"
     },
     {
+      "basename": "Philosophy of Theological Triage",
+      "path": "content/notes/statement of faith/Philosophy of Theological Triage.md"
+    },
+    {
       "basename": "0200 - The Gospel",
       "path": "content/notes/statement of faith/0200 - The Gospel.md"
     },
@@ -13,20 +17,8 @@
       "path": "AI Prompts/humanizing prompt.md"
     },
     {
-      "basename": "0004 - Tertiary Doctrine",
-      "path": "content/notes/statement of faith/0004 - Tertiary Doctrine.md"
-    },
-    {
       "basename": "0003 - Secondary Doctrine",
       "path": "content/notes/statement of faith/0003 - Secondary Doctrine.md"
-    },
-    {
-      "basename": "0002 - Primary Doctrine",
-      "path": "content/notes/statement of faith/0002 - Primary Doctrine.md"
-    },
-    {
-      "basename": "0001 - Salvation Doctrine",
-      "path": "content/notes/statement of faith/0001 - Salvation Doctrine.md"
     },
     {
       "basename": "Whoever believes in Jesus has eternal life",
@@ -39,10 +31,6 @@
     {
       "basename": "Disobedient and enslaved to sin",
       "path": "content/notes/statement of faith/Disobedient and enslaved to sin.md"
-    },
-    {
-      "basename": "Philosophy of Theological Triage",
-      "path": "content/notes/statement of faith/Philosophy of Theological Triage.md"
     },
     {
       "basename": "The wages of sin is death",
