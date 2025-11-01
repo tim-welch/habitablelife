@@ -12,7 +12,14 @@ Each doctrine category note contains beliefs that may span multiple tiers, but t
 
 ---
 
-## Salvation Tier (0200–0299)
+## The Gospel
+| Category | Description | Scriptural Anchors |
+|-----------|--------------|--------------------|
+| [[0200 - The Gospel]] | The message of salvation: sin, atonement, resurrection, and response. | Titus 3, 1 Corinthians 15, John 3 |
+
+---
+
+## Salvation
 Core gospel essentials.  
 These doctrines define what a person must understand and believe to be saved.
 
@@ -24,6 +31,13 @@ These doctrines define what a person must understand and believe to be saved.
 | [[0230 - Faith and Repentance]] | The human response to grace: believing, turning, and following. | John 3, Acts 2, Romans 10 |
 | [[0240 - God’s Grace]] | God’s mercy and initiative in offering salvation to all who believe. | Ephesians 2, Romans 8 |
 | [[0250 - The Cross and Resurrection]] | The historical and theological center of redemption. | Isaiah 53, 1 Corinthians 15 |
+
+---
+
+## Result of Salvation
+
+| Category | Description | Scriptural Anchors |
+|-----------|--------------|--------------------|
 | [[0260 - Union with Christ]] | Life in Christ that brings justification, adoption, and a new identity as God’s children. | Romans 6, Galatians 2 |
 | [[0270 - New Creation and Eternal Life]] | The promised outcome of salvation: renewal and glorification. | Revelation 21, 1 Thessalonians 4 |
 
