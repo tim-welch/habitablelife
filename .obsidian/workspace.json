@@ -41,7 +41,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/notes/statement of faith/0200 - The Gospel.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -107,6 +107,98 @@
               },
               "icon": "lucide-file",
               "title": "Philosophy of Theological Triage"
+            }
+          },
+          {
+            "id": "aa145472d83049ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/0200 - The Gospel.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "0200 - The Gospel"
+            }
+          },
+          {
+            "id": "b93196cd9d3475d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/the gospel/The wages of sin is death.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The wages of sin is death"
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "fa18a0de78b4f70e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2904b573fa0fde77",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "content/notes/statement of faith/the gospel/The wages of sin is death.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.546875,
+                  "repelStrength": 13.3333333333333,
+                  "linkStrength": 1,
+                  "linkDistance": 206,
+                  "scale": 0.7132754626224423,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of The wages of sin is death"
             }
           }
         ]
@@ -190,7 +282,6 @@
       {
         "id": "50b30d8f2e028c08",
         "type": "tabs",
-        "dimension": 76.06589147286822,
         "children": [
           {
             "id": "984877c526627847",
@@ -198,7 +289,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/John 9_38 - Belief and Worship.md",
+                "file": "content/notes/statement of faith/the gospel/The wages of sin is death.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +299,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for John 9_38 - Belief and Worship"
+              "title": "Backlinks for The wages of sin is death"
             }
           },
           {
@@ -265,50 +356,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "2994308917696632",
-        "type": "tabs",
-        "dimension": 23.934108527131784,
-        "children": [
-          {
-            "id": "2904b573fa0fde77",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "drafts/John 9_38 - Belief and Worship.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.546875,
-                  "repelStrength": 13.3333333333333,
-                  "linkStrength": 1,
-                  "linkDistance": 206,
-                  "scale": 0.7132754626224423,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of John 9_38 - Belief and Worship"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -347,14 +394,15 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "0c9e8b9df4fb0c4e",
+  "active": "b93196cd9d3475d5",
   "lastOpenFiles": [
+    "content/notes/statement of faith/0200 - The Gospel.md",
+    "content/notes/statement of faith/0000 - Statement of Faith.md",
     "content/notes/statement of faith/Philosophy of Theological Triage.md",
+    "drafts/Text diagram of the statement of faith.md",
     "drafts/Statement of Faith Diagram.md",
     "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
-    "content/notes/statement of faith/0000 - Statement of Faith.md",
     "content/notes/statement of faith/0001 - Salvation Doctrine.md",
-    "content/notes/statement of faith/0200 - The Gospel.md",
     "AI Prompts/humanizing prompt.md",
     "content/notes/statement of faith/0021 - Sin and Salvation.md",
     "content/notes/statement of faith/0004 - Tertiary Doctrine.md",
@@ -374,7 +422,6 @@
     "content/notes/statement of faith/the gospel/The atonement was prophesied.md",
     "content/notes/statement of faith/the gospel/Nothing we do can pay the debt we owe.md",
     "content/notes/statement of faith/the gospel/Whoever rejects Jesus will not see life.md",
-    "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md",
     "content/notes/statement of faith/Who is Jesus",
     "content/notes/statement of faith",
     "tools/smartnotes/sm.py",

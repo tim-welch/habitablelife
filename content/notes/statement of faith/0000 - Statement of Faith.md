@@ -3,6 +3,7 @@ tags:
   - type/moc
 ---
 
+
 # Statement of Faith
 
 My [[Philosophy of Theological Triage]] explains how I group beliefs by importance and their relationship to the gospel.
