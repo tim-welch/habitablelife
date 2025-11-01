@@ -10,7 +10,7 @@ Tier: [[0001 - Salvation Doctrine]]
 
 > “For at one time we too were foolish, disobedient, misled, and enslaved to all sorts of desires and pleasures. We lived in malice and envy, being hated and hating one another.” — [[Titus 3#Titus 3 3|Titus 3:3, BSB]]
 
-I have sinned and have not lived up to the standard God expects. [[Nothing we do can pay the debt we owe]].
+We all have been disobedient to what we know we should do. All of us have been enslaved to our desires and pleasures, unable to control ourselves even when we know better.
 
 ## Biblical Support
 

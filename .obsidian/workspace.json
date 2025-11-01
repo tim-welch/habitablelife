@@ -60,6 +60,30 @@
             }
           },
           {
+            "id": "8033ae725e00d522",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/Disobedient and enslaved to sin.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Disobedient and enslaved to sin"
+            }
+          },
+          {
             "id": "3631f770081d71b0",
             "type": "leaf",
             "pinned": true,
@@ -108,57 +132,9 @@
               "icon": "lucide-file",
               "title": "Philosophy of Theological Triage"
             }
-          },
-          {
-            "id": "aa145472d83049ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/0200 - The Gospel.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "0200 - The Gospel"
-            }
-          },
-          {
-            "id": "b93196cd9d3475d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/the gospel/The wages of sin is death.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The wages of sin is death"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "fa18a0de78b4f70e",
@@ -170,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notes/statement of faith/the gospel/The wages of sin is death.md",
+                "file": "content/notes/statement of faith/Disobedient and enslaved to sin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,10 +174,59 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of The wages of sin is death"
+              "title": "Graph of Disobedient and enslaved to sin"
+            }
+          },
+          {
+            "id": "fa7ffbc8bde79d2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Doctrine Category MOC template.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Doctrine Category MOC template"
+            }
+          },
+          {
+            "id": "1f4ad1c6bd7bf9e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Doctrine atomic note template.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Doctrine atomic note template"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -289,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/statement of faith/the gospel/The wages of sin is death.md",
+                "file": "content/notes/statement of faith/Disobedient and enslaved to sin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +324,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The wages of sin is death"
+              "title": "Backlinks for Disobedient and enslaved to sin"
             }
           },
           {
@@ -394,9 +419,13 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "b93196cd9d3475d5",
+  "active": "8033ae725e00d522",
   "lastOpenFiles": [
     "content/notes/statement of faith/0200 - The Gospel.md",
+    "Templates/Doctrine atomic note template.md",
+    "content/notes/statement of faith/Disobedient and enslaved to sin.md",
+    "Templates/Doctrine Category MOC template.md",
+    "content/notes/statement of faith/the gospel/The wages of sin is death.md",
     "content/notes/statement of faith/0000 - Statement of Faith.md",
     "content/notes/statement of faith/Philosophy of Theological Triage.md",
     "drafts/Text diagram of the statement of faith.md",
@@ -410,9 +439,6 @@
     "content/notes/statement of faith/0002 - Primary Doctrine.md",
     "content/notes/statement of faith/001 - Tiers of Doctrine.md",
     "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
-    "Templates/Doctrine atomic note template.md",
-    "content/notes/statement of faith/Disobedient and enslaved to sin.md",
-    "content/notes/statement of faith/the gospel/The wages of sin is death.md",
     "content/notes/statement of faith/Doctrine MOC Design Guide.md",
     "AI Prompts/Priorities and time management Prompt.md",
     "Bible/Berean Bible verse numbers.md",
@@ -421,7 +447,6 @@
     "content/notes/statement of faith/the gospel/Jesus died and was buried.md",
     "content/notes/statement of faith/the gospel/The atonement was prophesied.md",
     "content/notes/statement of faith/the gospel/Nothing we do can pay the debt we owe.md",
-    "content/notes/statement of faith/the gospel/Whoever rejects Jesus will not see life.md",
     "content/notes/statement of faith/Who is Jesus",
     "content/notes/statement of faith",
     "tools/smartnotes/sm.py",
