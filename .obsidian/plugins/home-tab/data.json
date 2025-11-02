@@ -24,12 +24,16 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
+      "timestamp": 1762045295335
+    },
+    {
       "filepath": "Templates/Doctrine atomic note template.md",
-      "timestamp": 1762044592265
+      "timestamp": 1762045292805
     },
     {
       "filepath": "content/notes/statement of faith/Disobedient and enslaved to sin.md",
-      "timestamp": 1762044584248
+      "timestamp": 1762045261364
     },
     {
       "filepath": "drafts/0230 – Faith and Repentance.md",
@@ -38,10 +42,6 @@
     {
       "filepath": "drafts/0000 - Statement of Faith.md",
       "timestamp": 1762042586226
-    },
-    {
-      "filepath": "content/notes/statement of faith/the gospel/0100 - The Gospel.md",
-      "timestamp": 1762042145193
     }
   ],
   "bookmarkedFileStore": [],

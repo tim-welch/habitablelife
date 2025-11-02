@@ -1,7 +1,8 @@
 ---
 title: "Who is Jesus?"
 tags:
-    - type/moc
+  - type/moc
+  - status/discovery
 ---
 
 - The Lamb of God who takes aware the sin of the world
