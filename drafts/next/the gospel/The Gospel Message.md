@@ -10,7 +10,13 @@ tags:
 The core of the gospel message is Christ's death, burial, and resurrection.
 
 ## Biblical Support
-- {{List key passages and how they teach this truth.}}
+- [[Psalm 16#Psalm 16 10|Psalm 16:10]]
+- [[Matthew 28#Matthew 28 6|Matthew 28:6]]
+- [[Luke 24#Luke 24 46|Luke 24:46]]
+- [[Acts 2#Acts 2 31|Acts 2:31]]
+- [[Romans 4#Romans 4 25|Romans 4:25]]
+- [[1 Peter 3#1 Peter 3 18|1 Peter 3:18]]
+- [[Revelation 1#Revelation 1 18|Revelation 1:18]]
 
 ## Explanation
 

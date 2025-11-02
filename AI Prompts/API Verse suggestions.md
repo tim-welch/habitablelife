@@ -1,4 +1,4 @@
-📜 Verse suggestions Prompt for OpenAI API Call
+📜 Prompt for OpenAI API Call: Verse suggestions 
 
 Context:
 You are assisting a theological researcher or Christian educator in generating Scripture references that support a specific theological statement or doctrinal note. The goal is to collect multiple, well-contextualized Bible verses that support or defend the theological claim, ensuring the selected verses are doctrinally sound and consistent across multiple reputable Bible translations. The verses should come from both the Old and New Testaments and represent a balance between the most relevant support and diversity of biblical authorship.
@@ -29,7 +29,7 @@ Do not include verses that are commonly misinterpreted or require theological st
 Ensure the total output fits within a 700-token limit.
 
 Format:
-A plain text, ordered list of Bible verse citations (e.g., “1. Genesis 6:5”, “2. Psalm 51:5”, etc.), without verse text or commentary.
+A plain text, unordered list of Bible verse citations formatted as an Obsidian wikilink (e.g., “- [[Genesis 6#Genesis 6 5|Genesis 6:5]]”, “- [[Psalm 51#Psalm 51 5|Psalm 51:5]]”, etc.), without verse text or commentary.
 
 Target Audience:
 The audience includes pastors, theologians, seminary students, and Bible study leaders. They are highly literate in Scripture, value doctrinal soundness, and prefer outputs that are concise, well-researched, and academically credible while being usable in practical teaching or preaching contexts.

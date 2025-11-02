@@ -96,7 +96,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/next/the gospel/0100 - The Gospel.md",
+                "file": "content/Bible/BSB/66-Revelation/Revelation 1.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -111,7 +111,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0100 - The Gospel"
+              "title": "Revelation 1"
             }
           },
           {
@@ -120,7 +120,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md",
+                "file": "AI Prompts/API Verse suggestions.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -135,7 +135,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "📜 Verse suggestions Prompt for OpenAI API Call"
+              "title": "API Verse suggestions"
             }
           },
           {
@@ -162,8 +162,7 @@
               "title": "Doctrine atomic note template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md",
+                "file": "content/Bible/BSB/66-Revelation/Revelation 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +260,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 📜 Verse suggestions Prompt for OpenAI API Call"
+              "title": "Backlinks for Revelation 1"
             }
           },
           {
@@ -356,12 +355,16 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "61c20c6b03719f45",
+  "active": "69ac7d80fb118e4f",
   "lastOpenFiles": [
-    "AI Prompts/Tim - ChatGPT Customization.md",
     "drafts/next/the gospel/The Gospel Message.md",
-    "content/notes/statement of faith/Disobedient and enslaved to sin.md",
+    "content/Bible/BSB/60-1 Peter/1 Peter 3.md",
+    "content/Bible/BSB/28-Hosea/Hosea 6.md",
     "drafts/next/the gospel/0100 - The Gospel.md",
+    "AI Prompts/API Verse suggestions.md",
+    "tools/getverses.bat",
+    "AI Prompts/Tim - ChatGPT Customization.md",
+    "content/notes/statement of faith/Disobedient and enslaved to sin.md",
     "content/Bible/BSB/46-1 Corinthians/1 Corinthians 15.md",
     "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/The Gospel Message.md",
@@ -381,9 +384,6 @@
     "content/notes/statement of faith/0001 - Salvation Doctrine.md",
     "AI Prompts/humanizing prompt.md",
     "content/notes/statement of faith/0021 - Sin and Salvation.md",
-    "content/notes/statement of faith/0004 - Tertiary Doctrine.md",
-    "content/notes/statement of faith/0003 - Secondary Doctrine.md",
-    "content/notes/statement of faith/0002 - Primary Doctrine.md",
     "drafts/later/Who is Jesus",
     "content/notes/statement of faith",
     "tools/smartnotes/sm.py",
@@ -393,7 +393,6 @@
     "content/notes/I changed my mind",
     "content/Literature Notes/John/Belief.zip",
     "drafts/later",
-    "content/Literature Notes/John/Belief",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/note-taking/Verse-Headings-Inside-Chapters-og-image.webp",
     "public/notes/note-taking/Understanding-presuppositions-in-Bible-study-og-image.webp",

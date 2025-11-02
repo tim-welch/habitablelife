@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "📜 Verse suggestions Prompt for OpenAI API Call",
-      "path": "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md"
-    },
-    {
-      "basename": "Tim - ChatGPT Customization",
-      "path": "AI Prompts/Tim - ChatGPT Customization.md"
+      "basename": "Revelation 1",
+      "path": "content/Bible/BSB/66-Revelation/Revelation 1.md"
     },
     {
       "basename": "The Gospel Message",
       "path": "drafts/next/the gospel/The Gospel Message.md"
     },
     {
-      "basename": "Disobedient and enslaved to sin",
-      "path": "content/notes/statement of faith/Disobedient and enslaved to sin.md"
+      "basename": "1 Peter 3",
+      "path": "content/Bible/BSB/60-1 Peter/1 Peter 3.md"
+    },
+    {
+      "basename": "Hosea 6",
+      "path": "content/Bible/BSB/28-Hosea/Hosea 6.md"
     },
     {
       "basename": "0100 - The Gospel",
       "path": "drafts/next/the gospel/0100 - The Gospel.md"
+    },
+    {
+      "basename": "API Verse suggestions",
+      "path": "AI Prompts/API Verse suggestions.md"
+    },
+    {
+      "basename": "Tim - ChatGPT Customization",
+      "path": "AI Prompts/Tim - ChatGPT Customization.md"
+    },
+    {
+      "basename": "Disobedient and enslaved to sin",
+      "path": "content/notes/statement of faith/Disobedient and enslaved to sin.md"
     },
     {
       "basename": "1 Corinthians 15",
@@ -187,18 +199,6 @@
     {
       "basename": "Verse Headings Inside Chapters",
       "path": "content/notes/note taking/Verse Headings Inside Chapters.md"
-    },
-    {
-      "basename": "Understanding presuppositions in Bible study",
-      "path": "content/notes/note taking/Understanding presuppositions in Bible study.md"
-    },
-    {
-      "basename": "Observe what this passage says",
-      "path": "content/notes/note taking/Observe what this passage says.md"
-    },
-    {
-      "basename": "Observations vs. Interpretations",
-      "path": "content/notes/note taking/Observations vs. Interpretations.md"
     }
   ],
   "omittedPaths": [
