@@ -14,7 +14,7 @@ Each belief is placed in the tier that best reflects its importance and relation
 ## Salvation
 Beliefs that define who is a Christian — core gospel essentials.
 
-- [[0200 - The Gospel]]  <!-- Optional grounding reference -->
+- [[0100 - The Gospel]]  <!-- Optional grounding reference -->
 - {{Add salvation-tier doctrines here.}}
 
 ---

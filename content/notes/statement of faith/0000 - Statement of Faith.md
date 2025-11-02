@@ -20,7 +20,7 @@ This is the heart of the Christian faith and the foundation of every other doctr
 
 | Category | Description | Scriptural Anchors |
 |-----------|--------------|--------------------|
-| [[0200 - The Gospel]] | The good news that God sent His Son, Jesus Christ, to save the world through His death and resurrection. | Titus 3, 1 Corinthians 15, John 3 |
+| [[0100 - The Gospel]] | The good news that God sent His Son, Jesus Christ, to save the world through His death and resurrection. | Titus 3, 1 Corinthians 15, John 3 |
 
 ---
 

@@ -5,12 +5,20 @@
       "path": "content/notes/statement of faith/Disobedient and enslaved to sin.md"
     },
     {
-      "basename": "0200 - The Gospel",
-      "path": "content/notes/statement of faith/0200 - The Gospel.md"
+      "basename": "0100 - The Gospel",
+      "path": "content/notes/statement of faith/the gospel/0100 - The Gospel.md"
     },
     {
       "basename": "Doctrine atomic note template",
       "path": "Templates/Doctrine atomic note template.md"
+    },
+    {
+      "basename": "Whoever believes in Jesus has eternal life",
+      "path": "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md"
+    },
+    {
+      "basename": "We believe and are saved",
+      "path": "content/notes/statement of faith/the gospel/We believe and are saved.md"
     },
     {
       "basename": "Doctrine Category MOC template",
@@ -49,16 +57,8 @@
       "path": "content/notes/statement of faith/0003 - Secondary Doctrine.md"
     },
     {
-      "basename": "Whoever believes in Jesus has eternal life",
-      "path": "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md"
-    },
-    {
       "basename": "Berean Bible verse numbers",
       "path": "Bible/Berean Bible verse numbers.md"
-    },
-    {
-      "basename": "We believe and are saved",
-      "path": "content/notes/statement of faith/the gospel/We believe and are saved.md"
     },
     {
       "basename": "John 3",

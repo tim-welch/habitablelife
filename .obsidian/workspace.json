@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/0200 - The Gospel.md",
+                "file": "content/notes/statement of faith/the gospel/0100 - The Gospel.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -56,7 +56,7 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "0200 - The Gospel"
+              "title": "0100 - The Gospel"
             }
           },
           {
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/Disobedient and enslaved to sin.md",
+                "file": "Templates/Doctrine atomic note template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -80,7 +80,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Disobedient and enslaved to sin"
+              "title": "Doctrine atomic note template"
             }
           },
           {
@@ -207,8 +207,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Doctrine atomic note template.md",
-                "mode": "preview",
+                "file": "content/notes/statement of faith/Disobedient and enslaved to sin.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -222,7 +222,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Doctrine atomic note template"
+              "title": "Disobedient and enslaved to sin"
             }
           }
         ],
@@ -258,7 +258,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#type/atomic",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -419,12 +419,14 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "8033ae725e00d522",
+  "active": "dbbc13162e881098",
   "lastOpenFiles": [
-    "content/notes/statement of faith/Doctrine MOC Design Guide.md",
+    "content/notes/statement of faith/the gospel/0100 - The Gospel.md",
     "content/notes/statement of faith/Disobedient and enslaved to sin.md",
-    "content/notes/statement of faith/0200 - The Gospel.md",
     "Templates/Doctrine atomic note template.md",
+    "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
+    "content/notes/statement of faith/the gospel/We believe and are saved.md",
+    "content/notes/statement of faith/Doctrine MOC Design Guide.md",
     "Templates/Doctrine Category MOC template.md",
     "content/notes/statement of faith/the gospel/The wages of sin is death.md",
     "content/notes/statement of faith/0000 - Statement of Faith.md",
@@ -439,10 +441,8 @@
     "content/notes/statement of faith/0003 - Secondary Doctrine.md",
     "content/notes/statement of faith/0002 - Primary Doctrine.md",
     "content/notes/statement of faith/001 - Tiers of Doctrine.md",
-    "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
     "AI Prompts/Priorities and time management Prompt.md",
     "Bible/Berean Bible verse numbers.md",
-    "content/notes/statement of faith/the gospel/We believe and are saved.md",
     "content/Bible/BSB/43-John/John 3.md",
     "content/notes/statement of faith/the gospel/Jesus died and was buried.md",
     "content/notes/statement of faith/the gospel/The atonement was prophesied.md",

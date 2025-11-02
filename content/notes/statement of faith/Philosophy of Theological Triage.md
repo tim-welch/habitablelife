@@ -103,4 +103,4 @@ Theological triage keeps me both **anchored and charitable**.
 
 ## Connections
 - [[0000 - Statement of Faith]]  
-- [[0200 - The Gospel]]
+- [[0100 - The Gospel]]
