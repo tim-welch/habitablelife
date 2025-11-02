@@ -53,6 +53,10 @@
     {
       "folder": "content/notes",
       "template": "Templates/atomic note template.md"
+    },
+    {
+      "folder": "content/notes/statement of faith",
+      "template": "Templates/Doctrine atomic note template.md"
     }
   ],
   "enable_file_templates": false,

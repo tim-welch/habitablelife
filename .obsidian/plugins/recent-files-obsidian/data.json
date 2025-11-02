@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Who is Jesus",
-      "path": "content/notes/statement of faith/Who is Jesus/Who is Jesus.md"
+      "basename": "📜 Verse suggestions Prompt for OpenAI API Call",
+      "path": "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md"
     },
     {
-      "basename": "Doctrine atomic note template",
-      "path": "Templates/Doctrine atomic note template.md"
+      "basename": "Tim - ChatGPT Customization",
+      "path": "AI Prompts/Tim - ChatGPT Customization.md"
+    },
+    {
+      "basename": "The Gospel Message",
+      "path": "drafts/next/the gospel/The Gospel Message.md"
     },
     {
       "basename": "Disobedient and enslaved to sin",
       "path": "content/notes/statement of faith/Disobedient and enslaved to sin.md"
+    },
+    {
+      "basename": "0100 - The Gospel",
+      "path": "drafts/next/the gospel/0100 - The Gospel.md"
+    },
+    {
+      "basename": "1 Corinthians 15",
+      "path": "content/Bible/BSB/46-1 Corinthians/1 Corinthians 15.md"
+    },
+    {
+      "basename": "Berean Bible verse numbers",
+      "path": "Bible/Berean Bible verse numbers.md"
+    },
+    {
+      "basename": "Who is Jesus",
+      "path": "drafts/later/Who is Jesus/Who is Jesus.md"
+    },
+    {
+      "basename": "Doctrine atomic note template",
+      "path": "Templates/Doctrine atomic note template.md"
     },
     {
       "basename": "0230 – Faith and Repentance",
@@ -21,16 +45,12 @@
       "path": "drafts/0000 - Statement of Faith.md"
     },
     {
-      "basename": "0100 - The Gospel",
-      "path": "content/notes/statement of faith/the gospel/0100 - The Gospel.md"
-    },
-    {
       "basename": "Whoever believes in Jesus has eternal life",
-      "path": "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md"
+      "path": "drafts/next/the gospel/Whoever believes in Jesus has eternal life.md"
     },
     {
       "basename": "We believe and are saved",
-      "path": "content/notes/statement of faith/the gospel/We believe and are saved.md"
+      "path": "drafts/next/the gospel/We believe and are saved.md"
     },
     {
       "basename": "Doctrine Category MOC template",
@@ -38,7 +58,7 @@
     },
     {
       "basename": "The wages of sin is death",
-      "path": "content/notes/statement of faith/the gospel/The wages of sin is death.md"
+      "path": "drafts/next/the gospel/The wages of sin is death.md"
     },
     {
       "basename": "Philosophy of Theological Triage",
@@ -54,7 +74,7 @@
     },
     {
       "basename": "Jesus' death was atonement for sin",
-      "path": "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md"
+      "path": "drafts/next/the gospel/Jesus' death was atonement for sin.md"
     },
     {
       "basename": "humanizing prompt",
@@ -65,40 +85,36 @@
       "path": "content/notes/statement of faith/0003 - Secondary Doctrine.md"
     },
     {
-      "basename": "Berean Bible verse numbers",
-      "path": "Bible/Berean Bible verse numbers.md"
-    },
-    {
       "basename": "John 3",
       "path": "content/Bible/BSB/43-John/John 3.md"
     },
     {
       "basename": "Jesus died and was buried",
-      "path": "content/notes/statement of faith/the gospel/Jesus died and was buried.md"
+      "path": "drafts/next/the gospel/Jesus died and was buried.md"
     },
     {
       "basename": "The atonement was prophesied",
-      "path": "content/notes/statement of faith/the gospel/The atonement was prophesied.md"
+      "path": "drafts/next/the gospel/The atonement was prophesied.md"
     },
     {
       "basename": "Nothing we do can pay the debt we owe",
-      "path": "content/notes/statement of faith/the gospel/Nothing we do can pay the debt we owe.md"
+      "path": "drafts/next/the gospel/Nothing we do can pay the debt we owe.md"
     },
     {
       "basename": "Whoever rejects Jesus will not see life",
-      "path": "content/notes/statement of faith/the gospel/Whoever rejects Jesus will not see life.md"
+      "path": "drafts/next/the gospel/Whoever rejects Jesus will not see life.md"
     },
     {
       "basename": "Jesus rose again on the third day",
-      "path": "content/notes/statement of faith/the gospel/Jesus rose again on the third day.md"
+      "path": "drafts/next/the gospel/Jesus rose again on the third day.md"
     },
     {
       "basename": "There is no other name by which we can be saved",
-      "path": "content/notes/statement of faith/the gospel/There is no other name by which we can be saved.md"
+      "path": "drafts/next/the gospel/There is no other name by which we can be saved.md"
     },
     {
       "basename": "God sent His Son as a man to die in our place",
-      "path": "content/notes/statement of faith/the gospel/God sent His Son as a man to die in our place.md"
+      "path": "drafts/next/the gospel/God sent His Son as a man to die in our place.md"
     },
     {
       "basename": "summary-2",
@@ -111,10 +127,6 @@
     {
       "basename": "📜 Organize and Structure Notes Prompt for OpenAI API Call",
       "path": "AI Prompts/📜 Organize and Structure Notes Prompt for OpenAI API Call.md"
-    },
-    {
-      "basename": "📜 Verse suggestions Prompt for OpenAI API Call",
-      "path": "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md"
     },
     {
       "basename": "Philippians 2",
@@ -187,10 +199,6 @@
     {
       "basename": "Observations vs. Interpretations",
       "path": "content/notes/note taking/Observations vs. Interpretations.md"
-    },
-    {
-      "basename": "Observation Notes at Verse Level",
-      "path": "content/notes/note taking/Observation Notes at Verse Level.md"
     }
   ],
   "omittedPaths": [

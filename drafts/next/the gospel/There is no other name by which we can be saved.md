@@ -25,4 +25,4 @@ There is no other name by which we can be saved.
 
 ## Related Notes
 
-- [[Jesus' Death Was Atonement for Sin]]
+- [[Jesus' death was atonement for sin]]

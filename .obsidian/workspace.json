@@ -8,58 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0c9e8b9df4fb0c4e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "drafts/0000 - Statement of Faith.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "0000 - Statement of Faith"
-            }
-          },
-          {
-            "id": "47b9edc42c17872f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/the gospel/0100 - The Gospel.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "0100 - The Gospel"
-            }
-          },
-          {
             "id": "3631f770081d71b0",
             "type": "leaf",
             "pinned": true,
@@ -86,12 +34,38 @@
             }
           },
           {
+            "id": "47b9edc42c17872f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/next/the gospel/0100 - The Gospel.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0100 - The Gospel"
+            }
+          },
+          {
             "id": "1f4ad1c6bd7bf9e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
+                "file": "content/notes/statement of faith/Disobedient and enslaved to sin.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -106,16 +80,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Who is Jesus"
+              "title": "Disobedient and enslaved to sin"
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "fa18a0de78b4f70e",
+        "type": "tabs",
+        "children": [
           {
-            "id": "eda318558c4d8364",
+            "id": "69ac7d80fb118e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/Philosophy of Theological Triage.md",
+                "file": "drafts/next/the gospel/0100 - The Gospel.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -130,51 +111,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Philosophy of Theological Triage"
+              "title": "0100 - The Gospel"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "fa18a0de78b4f70e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2904b573fa0fde77",
+            "id": "61c20c6b03719f45",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 0.546875,
-                  "repelStrength": 13.3333333333333,
-                  "linkStrength": 1,
-                  "linkDistance": 206,
-                  "scale": 0.7132754626224423,
-                  "close": true
+                "file": "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Who is Jesus"
+              "icon": "lucide-file",
+              "title": "📜 Verse suggestions Prompt for OpenAI API Call"
             }
           },
           {
@@ -290,7 +251,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
+                "file": "AI Prompts/📜 Verse suggestions Prompt for OpenAI API Call.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +261,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Who is Jesus"
+              "title": "Backlinks for 📜 Verse suggestions Prompt for OpenAI API Call"
             }
           },
           {
@@ -395,39 +356,39 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "1f4ad1c6bd7bf9e2",
+  "active": "61c20c6b03719f45",
   "lastOpenFiles": [
-    "Templates/Doctrine atomic note template.md",
-    "content/notes/statement of faith/Who is Jesus/Who is Jesus.md",
+    "AI Prompts/Tim - ChatGPT Customization.md",
+    "drafts/next/the gospel/The Gospel Message.md",
     "content/notes/statement of faith/Disobedient and enslaved to sin.md",
+    "drafts/next/the gospel/0100 - The Gospel.md",
+    "content/Bible/BSB/46-1 Corinthians/1 Corinthians 15.md",
+    "Bible/Berean Bible verse numbers.md",
+    "content/notes/statement of faith/The Gospel Message.md",
+    "drafts/later/Who is Jesus/Who is Jesus.md",
+    "Templates/Doctrine atomic note template.md",
     "drafts/0230 – Faith and Repentance.md",
     "drafts/0000 - Statement of Faith.md",
-    "content/notes/statement of faith/the gospel/0100 - The Gospel.md",
-    "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
-    "content/notes/statement of faith/the gospel/We believe and are saved.md",
+    "drafts/next/the gospel/Whoever believes in Jesus has eternal life.md",
+    "drafts/next/the gospel/We believe and are saved.md",
     "content/notes/statement of faith/Doctrine MOC Design Guide.md",
     "drafts/Doctrine Category MOC template.md",
-    "content/notes/statement of faith/the gospel/The wages of sin is death.md",
+    "drafts/next/the gospel/The wages of sin is death.md",
     "drafts/Philosophy of Theological Triage.md",
     "drafts/Text diagram of the statement of faith.md",
     "drafts/Statement of Faith Diagram.md",
-    "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
+    "drafts/next/the gospel/Jesus' death was atonement for sin.md",
     "content/notes/statement of faith/0001 - Salvation Doctrine.md",
     "AI Prompts/humanizing prompt.md",
     "content/notes/statement of faith/0021 - Sin and Salvation.md",
     "content/notes/statement of faith/0004 - Tertiary Doctrine.md",
     "content/notes/statement of faith/0003 - Secondary Doctrine.md",
     "content/notes/statement of faith/0002 - Primary Doctrine.md",
-    "content/notes/statement of faith/001 - Tiers of Doctrine.md",
-    "AI Prompts/Priorities and time management Prompt.md",
-    "Bible/Berean Bible verse numbers.md",
-    "content/Bible/BSB/43-John/John 3.md",
-    "content/notes/statement of faith/the gospel/Jesus died and was buried.md",
-    "content/notes/statement of faith/Who is Jesus",
+    "drafts/later/Who is Jesus",
     "content/notes/statement of faith",
     "tools/smartnotes/sm.py",
     "tools/smartnotes",
-    "content/notes/statement of faith/the gospel",
+    "drafts/next/the gospel",
     "content/MOCs",
     "content/notes/I changed my mind",
     "content/Literature Notes/John/Belief.zip",
