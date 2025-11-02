@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/0000 - Statement of Faith.md",
+                "file": "drafts/0000 - Statement of Faith.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -60,30 +60,6 @@
             }
           },
           {
-            "id": "8033ae725e00d522",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Doctrine atomic note template.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Doctrine atomic note template"
-            }
-          },
-          {
             "id": "3631f770081d71b0",
             "type": "leaf",
             "pinned": true,
@@ -115,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/Philosophy of Theological Triage.md",
+                "file": "drafts/Philosophy of Theological Triage.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -133,7 +109,8 @@
               "title": "Philosophy of Theological Triage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "fa18a0de78b4f70e",
@@ -145,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notes/statement of faith/0230 – Faith and Repentance.md",
+                "file": "Templates/Doctrine atomic note template.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -173,17 +150,17 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 0230 – Faith and Repentance"
+              "title": "Graph of Doctrine atomic note template"
             }
           },
           {
-            "id": "fa7ffbc8bde79d2d",
+            "id": "8033ae725e00d522",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Doctrine Category MOC template.md",
-                "mode": "preview",
+                "file": "Templates/Doctrine atomic note template.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -197,7 +174,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Doctrine Category MOC template"
+              "title": "Doctrine atomic note template"
             }
           },
           {
@@ -206,7 +183,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/0230 – Faith and Repentance.md",
+                "file": "content/notes/statement of faith/Disobedient and enslaved to sin.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -221,11 +198,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0230 – Faith and Repentance"
+              "title": "Disobedient and enslaved to sin"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -313,7 +290,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/statement of faith/0230 – Faith and Repentance.md",
+                "file": "Templates/Doctrine atomic note template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +300,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0230 – Faith and Repentance"
+              "title": "Backlinks for Doctrine atomic note template"
             }
           },
           {
@@ -418,19 +395,19 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "1f4ad1c6bd7bf9e2",
+  "active": "8033ae725e00d522",
   "lastOpenFiles": [
-    "content/notes/statement of faith/0000 - Statement of Faith.md",
-    "content/notes/statement of faith/0230 – Faith and Repentance.md",
     "content/notes/statement of faith/Disobedient and enslaved to sin.md",
+    "drafts/0230 – Faith and Repentance.md",
+    "drafts/0000 - Statement of Faith.md",
     "content/notes/statement of faith/the gospel/0100 - The Gospel.md",
     "Templates/Doctrine atomic note template.md",
     "content/notes/statement of faith/the gospel/Whoever believes in Jesus has eternal life.md",
     "content/notes/statement of faith/the gospel/We believe and are saved.md",
     "content/notes/statement of faith/Doctrine MOC Design Guide.md",
-    "Templates/Doctrine Category MOC template.md",
+    "drafts/Doctrine Category MOC template.md",
     "content/notes/statement of faith/the gospel/The wages of sin is death.md",
-    "content/notes/statement of faith/Philosophy of Theological Triage.md",
+    "drafts/Philosophy of Theological Triage.md",
     "drafts/Text diagram of the statement of faith.md",
     "drafts/Statement of Faith Diagram.md",
     "content/notes/statement of faith/the gospel/Jesus' death was atonement for sin.md",
