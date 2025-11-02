@@ -18,10 +18,3 @@ All people have disobeyed God’s commands and become slaves to their sinful des
 ## Explanation
 Sin enslaves humanity. We are unable to please God or free ourselves. This condition reveals our need for divine rescue rather than moral improvement.
 
-## Relationships (optional)
-- Related to: [[The wages of sin is death]], [[Nothing we do can pay the debt we owe]]
-- Contrasts with: [[Jesus never sinned]]
-
-## Implications
-- We cannot save ourselves through effort or morality.  
-- Recognizing our sin is the first step toward understanding grace.

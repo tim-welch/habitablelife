@@ -15,10 +15,3 @@ Example: “All have sinned and fall short of the glory of God.”
 {{Write 1–3 short paragraphs explaining what this truth means and why it matters.  
 Explain its relationship to salvation or to God’s nature if you can, but don’t force placement yet.}}
 
-## Relationships (optional)
-- Related to: [[{{linked doctrines}}]]  
-- Contrasts with: [[{{contrasting doctrines}}]]  
-
-## Implications
-- {{List practical or theological consequences.}}
-- {{How does this shape faith, worship, or daily life?}}

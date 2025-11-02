@@ -11,6 +11,9 @@ The core of the gospel message is Christ's death, burial, and resurrection.
 
 ## Biblical Support
 - [[Psalm 16#Psalm 16 10|Psalm 16:10]]
+- [[Isaiah 53#Isaiah 53 9|Isaiah 53:9]]
+- [[Jonah 1#Jonah 1 17|Jonah 1:17]]
+- [[Matthew 12#Matthew 12 40|Matthew 12:40]]
 - [[Matthew 28#Matthew 28 6|Matthew 28:6]]
 - [[Luke 24#Luke 24 46|Luke 24:46]]
 - [[Acts 2#Acts 2 31|Acts 2:31]]
@@ -22,10 +25,3 @@ The core of the gospel message is Christ's death, burial, and resurrection.
 
 As was prophesied God sent Christ to die for our sins. After His death, Jesus was buried like any other corpse. But unlike others, Jesus rose again on the third day just the scriptures promised He would.
 
-## Relationships (optional)
-- Related to: [[The wages of sin is death]]  
-- Contrasts with: [[{{contrasting doctrines}}]]  
-
-## Implications
-- {{List practical or theological consequences.}}
-- {{How does this shape faith, worship, or daily life?}}

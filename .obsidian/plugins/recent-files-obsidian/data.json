@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Revelation 1",
-      "path": "content/Bible/BSB/66-Revelation/Revelation 1.md"
+      "basename": "The Power of the Gospel",
+      "path": "content/notes/statement of faith/The Power of the Gospel.md"
+    },
+    {
+      "basename": "The Gospel Demands a Response",
+      "path": "content/notes/statement of faith/The Gospel Demands a Response.md"
     },
     {
       "basename": "The Gospel Message",
-      "path": "drafts/next/the gospel/The Gospel Message.md"
+      "path": "content/notes/statement of faith/The Gospel Message.md"
+    },
+    {
+      "basename": "Berean Bible verse numbers",
+      "path": "Bible/Berean Bible verse numbers.md"
+    },
+    {
+      "basename": "Psalm 2",
+      "path": "content/Bible/BSB/19-Psalm/Psalm 2.md"
+    },
+    {
+      "basename": "0100 - The Gospel",
+      "path": "drafts/next/the gospel/0100 - The Gospel.md"
+    },
+    {
+      "basename": "Titus 3",
+      "path": "content/Bible/BSB/56-Titus/Titus 3.md"
+    },
+    {
+      "basename": "Disobedient and enslaved to sin",
+      "path": "content/notes/statement of faith/Disobedient and enslaved to sin.md"
+    },
+    {
+      "basename": "Doctrine atomic note template",
+      "path": "Templates/Doctrine atomic note template.md"
+    },
+    {
+      "basename": "Revelation 1",
+      "path": "content/Bible/BSB/66-Revelation/Revelation 1.md"
     },
     {
       "basename": "1 Peter 3",
@@ -17,10 +49,6 @@
       "path": "content/Bible/BSB/28-Hosea/Hosea 6.md"
     },
     {
-      "basename": "0100 - The Gospel",
-      "path": "drafts/next/the gospel/0100 - The Gospel.md"
-    },
-    {
       "basename": "API Verse suggestions",
       "path": "AI Prompts/API Verse suggestions.md"
     },
@@ -29,24 +57,12 @@
       "path": "AI Prompts/Tim - ChatGPT Customization.md"
     },
     {
-      "basename": "Disobedient and enslaved to sin",
-      "path": "content/notes/statement of faith/Disobedient and enslaved to sin.md"
-    },
-    {
       "basename": "1 Corinthians 15",
       "path": "content/Bible/BSB/46-1 Corinthians/1 Corinthians 15.md"
     },
     {
-      "basename": "Berean Bible verse numbers",
-      "path": "Bible/Berean Bible verse numbers.md"
-    },
-    {
       "basename": "Who is Jesus",
       "path": "drafts/later/Who is Jesus/Who is Jesus.md"
-    },
-    {
-      "basename": "Doctrine atomic note template",
-      "path": "Templates/Doctrine atomic note template.md"
     },
     {
       "basename": "0230 – Faith and Repentance",
@@ -183,22 +199,6 @@
     {
       "basename": "Proverbs 6",
       "path": "content/Bible/BSB/20-Proverbs/Proverbs 6.md"
-    },
-    {
-      "basename": "Leviticus 18",
-      "path": "content/Bible/BSB/03-Leviticus/Leviticus 18.md"
-    },
-    {
-      "basename": "Exodus 20",
-      "path": "content/Bible/BSB/02-Exodus/Exodus 20.md"
-    },
-    {
-      "basename": "Zettelkasten and Inductive Bible Study",
-      "path": "content/notes/note taking/Zettelkasten and Inductive Bible Study.md"
-    },
-    {
-      "basename": "Verse Headings Inside Chapters",
-      "path": "content/notes/note taking/Verse Headings Inside Chapters.md"
     }
   ],
   "omittedPaths": [
