@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Washed and Renewed by the Spirit",
-      "path": "content/notes/statement of faith/Washed and Renewed by the Spirit.md"
-    },
-    {
-      "basename": "Justified by His Grace",
-      "path": "content/notes/statement of faith/Justified by His Grace.md"
-    },
-    {
       "basename": "Transformed by the Gospel",
       "path": "content/notes/statement of faith/Transformed by the Gospel.md"
+    },
+    {
+      "basename": "(draft)Not by Righteous Deeds",
+      "path": "content/notes/statement of faith/(draft)Not by Righteous Deeds.md"
     },
     {
       "basename": "Saved by the Gospel",
@@ -19,6 +15,14 @@
     {
       "basename": "Christ Was Raised on the Third Day",
       "path": "content/notes/statement of faith/Christ Was Raised on the Third Day.md"
+    },
+    {
+      "basename": "Justified by His Grace",
+      "path": "content/notes/statement of faith/Justified by His Grace.md"
+    },
+    {
+      "basename": "Washed and Renewed by the Spirit",
+      "path": "content/notes/statement of faith/Washed and Renewed by the Spirit.md"
     },
     {
       "basename": "According to the Scriptures",
@@ -195,10 +199,6 @@
     {
       "basename": "📜 Organize and Structure Notes Prompt for OpenAI API Call",
       "path": "AI Prompts/📜 Organize and Structure Notes Prompt for OpenAI API Call.md"
-    },
-    {
-      "basename": "Philippians 2",
-      "path": "content/Bible/BSB/50-Philippians/Philippians 2.md"
     }
   ],
   "omittedPaths": [

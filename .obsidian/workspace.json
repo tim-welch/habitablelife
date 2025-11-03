@@ -96,8 +96,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
-                "mode": "preview",
+                "file": "content/notes/statement of faith/Transformed by the Gospel.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -111,7 +111,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Washed and Renewed by the Spirit"
+              "title": "Transformed by the Gospel"
             }
           }
         ]
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
+                "file": "content/notes/statement of faith/Transformed by the Gospel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Washed and Renewed by the Spirit"
+              "title": "Backlinks for Transformed by the Gospel"
             }
           },
           {
@@ -309,10 +309,12 @@
   },
   "active": "605da27d32122190",
   "lastOpenFiles": [
-    "content/notes/statement of faith/Justified by His Grace.md",
+    "content/notes/statement of faith/(draft)Not by Righteous Deeds.md",
     "content/notes/statement of faith/Transformed by the Gospel.md",
     "content/notes/statement of faith/Saved by the Gospel.md",
     "content/notes/statement of faith/Christ Was Raised on the Third Day.md",
+    "content/notes/statement of faith/Justified by His Grace.md",
+    "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
     "content/notes/statement of faith/According to the Scriptures.md",
     "content/notes/statement of faith/Christ Died for Our Sins.md",
     "content/notes/statement of faith/The Gospel Message.md",
@@ -323,7 +325,6 @@
     "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
     "content/notes/statement of faith/The Gospel Demands a Response.md",
     "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
-    "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
     "content/Bible/BSB/44-Acts/Acts 2.md",
     "drafts/next/the gospel/0100 - The Gospel.md",
     "drafts/Justified by His Grace.md",
@@ -335,7 +336,6 @@
     "content/Bible/BSB/28-Hosea/Hosea 6.md",
     "AI Prompts/API Verse suggestions.md",
     "tools/getverses.bat",
-    "AI Prompts/Tim - ChatGPT Customization.md",
     "drafts/later/Who is Jesus",
     "content/notes/statement of faith",
     "tools/smartnotes/sm.py",
