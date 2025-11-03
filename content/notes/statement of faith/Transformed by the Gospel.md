@@ -24,7 +24,7 @@ By the mercy of God, the Holy Spirit renews our hearts and gives new life. Throu
 - [[Disobedient and Enslaved to Sin]]
 - [[Washed and Renewed by the Spirit]]
 - [[Justified by His Grace]]
-- [[(draft)Not by Righteous Deeds]]
+- [[Not by Righteous Deeds]]
 - [[The Gospel Message]]
 
 
