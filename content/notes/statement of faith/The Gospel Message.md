@@ -28,5 +28,5 @@ As was prophesied God sent Christ to die for our sins. After His death, Jesus wa
 ## Connections
 
 - [[Christ Died for Our Sins]]
-- [[(draft)Christ Was Raised on the Third Day]]
+- [[Christ Was Raised on the Third Day]]
 - [[According to the Scriptures]]

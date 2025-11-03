@@ -14,7 +14,6 @@ That the Christ would die for our sins and that He would rise again was prophesi
 - [[Psalm 16#Psalm 16 10|Psalm 16:10]]
 - [[Isaiah 53#Isaiah 53 5|Isaiah 53:5]]
 - [[Isaiah 53#Isaiah 53 9|Isaiah 53:9]]
-- [[Hosea 6#Hosea 6 2|Hosea 6:2]]
 - [[Matthew 12#Matthew 12 40|Matthew 12:40]]
 - [[Mark 8#Mark 8 31|Mark 8:31]]
 - [[Luke 24#Luke 24 46|Luke 24:46]]
