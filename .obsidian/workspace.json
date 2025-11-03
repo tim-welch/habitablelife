@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e10bbd0711d094cd",
+        "id": "fa18a0de78b4f70e",
         "type": "tabs",
         "children": [
           {
@@ -34,6 +34,18 @@
             }
           },
           {
+            "id": "41cc5ea91c15f19c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "e70b01485c76041f",
             "type": "leaf",
             "state": {
@@ -55,23 +67,6 @@
               },
               "icon": "lucide-file",
               "title": "Justified by His Grace"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fa18a0de78b4f70e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "41cc5ea91c15f19c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           },
           {
@@ -128,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/The Gospel Demands a Response.md",
+                "file": "content/notes/statement of faith/The Gospel Message.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -143,7 +138,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Gospel Demands a Response"
+              "title": "The Gospel Message"
             }
           },
           {
@@ -194,7 +189,8 @@
               "title": "Doctrine atomic note template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 378.5,
+    "collapsed": true
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -388,13 +385,14 @@
   },
   "active": "41cc5ea91c15f19c",
   "lastOpenFiles": [
+    "content/notes/statement of faith/The Gospel Message.md",
+    "content/notes/statement of faith/The Gospel Demands a Response.md",
+    "content/notes/statement of faith/Transformed by the Gospel.md",
+    "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
     "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
     "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
     "content/notes/statement of faith/Justified by His Grace.md",
-    "content/notes/statement of faith/Transformed by the Gospel.md",
-    "content/notes/statement of faith/The Gospel Demands a Response.md",
     "Bible/Berean Bible verse numbers.md",
-    "content/notes/statement of faith/The Gospel Message.md",
     "content/Bible/BSB/44-Acts/Acts 2.md",
     "drafts/next/the gospel/0100 - The Gospel.md",
     "drafts/Justified by His Grace.md",
@@ -414,7 +412,6 @@
     "drafts/next/the gospel/Whoever believes in Jesus has eternal life.md",
     "drafts/next/the gospel/We believe and are saved.md",
     "content/notes/statement of faith/Doctrine MOC Design Guide.md",
-    "drafts/Doctrine Category MOC template.md",
     "drafts/later/Who is Jesus",
     "content/notes/statement of faith",
     "tools/smartnotes/sm.py",
