@@ -27,7 +27,7 @@ It concludes with [[John 3#John 3 36|John 3:36]], which declares the response re
 **Verse Focus (Titus 3:3):** Out guilt and inability to meet God’s standard.  
 We were enslaved by sin and disobedience.
 
-- [[Disobedient and enslaved to sin]]  
+- [[Disobedient and Enslaved to Sin]]  
 - [[The wages of sin is death]]
 
 ---

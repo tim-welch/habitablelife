@@ -32,7 +32,7 @@ Death entered through disobedience, and only God’s mercy through Christ provid
 ## Related Notes
 
 ### Leads From
-- [[Disobedient and enslaved to sin]] — Our condition under sin results in spiritual death.  
+- [[Disobedient and Enslaved to Sin]] — Our condition under sin results in spiritual death.  
 
 ### Leads To
 - [[Whoever rejects Jesus will not see life]] — Rejecting the Son leaves us under wrath and final judgment.  

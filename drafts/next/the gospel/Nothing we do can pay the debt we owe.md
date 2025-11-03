@@ -24,5 +24,5 @@ Nothing we do can pay the debt we owe. If we try, our best work is nothing but d
 
 ## Related Notes
 
-- [[Disobedient and enslaved to sin]]  
+- [[Disobedient and Enslaved to Sin]]  
 - [[Jesus' death was atonement for sin]]
