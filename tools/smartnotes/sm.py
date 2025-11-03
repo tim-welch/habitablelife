@@ -341,7 +341,7 @@ def call_openai_chat(
             max_tokens=max_tokens,
         )
         text = resp.choices[0].message.content or ""
-        print(f"[Output] {text}")
+        print(f"[Output]\n{text}")
         return text
 
 # ---------------- Cache ----------------
@@ -525,7 +525,7 @@ def main() -> int:
                 try:
                     args.out.parent.mkdir(parents=True, exist_ok=True)
                     args.out.write_text(cache_hit, encoding="utf-8")
-                    print(f"\n[Saved] {args.out}", file=sys.stderr)
+                    print(f"\n[Saved]\n{args.out}", file=sys.stderr)
                 except Exception as e:
                     sys.stderr.write(f"Could not write output file: {e}\n")
                     return 3
