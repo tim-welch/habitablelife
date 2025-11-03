@@ -26,3 +26,6 @@ Because we are [[Disobedient and Enslaved to Sin]] we cannot be saved by doing r
 
 God our Savior appeared as Jesus to save us. Salvation is through being washed and renewed by the Holy Spirit. It is because of God's kindness, love for mankind, and mercy that we are saved, not because of our good deeds.
 
+## Connections
+
+- [[Transformed by the Gospel]]

@@ -21,7 +21,6 @@ All of us have rebelled against God and are enslaved to our desires. There is no
 
 ## Connections
 
-- [[Disobedient and Enslaved to Sin]] (Titus 3:3)
-- [[Washed and Renewed by the Spirit]] (Titus 3:4-5)
-- [[Justified by His Grace]] (Titus 3:6-7)
+- [[The Gospel Message]]
+
 

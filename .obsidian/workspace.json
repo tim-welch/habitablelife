@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "41cc5ea91c15f19c",
+            "id": "e70b01485c76041f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
+                "file": "content/notes/statement of faith/Justified by His Grace.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -54,47 +54,33 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Disobedient and Enslaved to Sin"
-            }
-          },
-          {
-            "id": "1f4ad1c6bd7bf9e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/The Gospel Demands a Response.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Gospel Demands a Response"
+              "title": "Justified by His Grace"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "fa18a0de78b4f70e",
         "type": "tabs",
         "children": [
           {
+            "id": "41cc5ea91c15f19c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
             "id": "69ac7d80fb118e4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/next/the gospel/0100 - The Gospel.md",
+                "file": "content/notes/statement of faith/Justified by His Grace.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -109,7 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "0100 - The Gospel"
+              "title": "Justified by His Grace"
             }
           },
           {
@@ -296,7 +282,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/statement of faith/The Gospel Demands a Response.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -306,7 +291,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Gospel Demands a Response"
+              "title": "Backlinks"
             }
           },
           {
@@ -401,16 +386,17 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "1f4ad1c6bd7bf9e2",
+  "active": "41cc5ea91c15f19c",
   "lastOpenFiles": [
-    "content/notes/statement of faith/The Gospel Message.md",
-    "content/notes/statement of faith/The Gospel Demands a Response.md",
-    "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
-    "drafts/next/the gospel/0100 - The Gospel.md",
-    "content/notes/statement of faith/Justified by His Grace.md",
-    "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
+    "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
+    "content/notes/statement of faith/Justified by His Grace.md",
     "content/notes/statement of faith/Transformed by the Gospel.md",
+    "content/notes/statement of faith/The Gospel Demands a Response.md",
+    "Bible/Berean Bible verse numbers.md",
+    "content/notes/statement of faith/The Gospel Message.md",
+    "content/Bible/BSB/44-Acts/Acts 2.md",
+    "drafts/next/the gospel/0100 - The Gospel.md",
     "drafts/Justified by His Grace.md",
     "content/Bible/BSB/19-Psalm/Psalm 2.md",
     "content/Bible/BSB/56-Titus/Titus 3.md",
@@ -429,7 +415,6 @@
     "drafts/next/the gospel/We believe and are saved.md",
     "content/notes/statement of faith/Doctrine MOC Design Guide.md",
     "drafts/Doctrine Category MOC template.md",
-    "drafts/next/the gospel/The wages of sin is death.md",
     "drafts/later/Who is Jesus",
     "content/notes/statement of faith",
     "tools/smartnotes/sm.py",

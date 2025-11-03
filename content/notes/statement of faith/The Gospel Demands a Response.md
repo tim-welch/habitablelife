@@ -23,5 +23,9 @@ God's Son Jesus accomplished what we cannot. When we hear and understand that go
 
 If instead of believing, we reject the gospel, God's wrath will remain on us and we won't see life.
 
+## Connections
+
+- [[The Gospel Message]]
+
 
 

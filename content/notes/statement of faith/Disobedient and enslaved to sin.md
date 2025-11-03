@@ -18,3 +18,6 @@ All people have disobeyed God’s commands and become slaves to their sinful des
 ## Explanation
 Sin enslaves humanity. We are unable to please God or free ourselves. This condition reveals our need for divine rescue rather than moral improvement.
 
+## Connections
+
+- [[Transformed by the Gospel]]

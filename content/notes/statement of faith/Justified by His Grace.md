@@ -19,4 +19,8 @@ Once we have been justified by God's grace, we become heirs and have the hope of
 
 ## Explanation
 
-Not only do we gain eternal life when we are justified by God's grace, but the the Holy Spirit is poured out on us and we become heirs.
+Not only are we [[Washed and Renewed by the Spirit]], we gain eternal life when we are justified by God's grace, the Holy Spirit is poured out on us and we become heirs.
+
+## Connections
+
+[[Transformed by the Gospel]]
