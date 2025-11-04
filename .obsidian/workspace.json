@@ -10,7 +10,7 @@
           {
             "id": "3f21ea566d464dbb",
             "type": "tabs",
-            "dimension": 56.63716814159292,
+            "dimension": 51.23893805309735,
             "children": [
               {
                 "id": "44553205ce99d546",
@@ -80,7 +80,7 @@
           {
             "id": "ba383a0cc38ef4a3",
             "type": "tabs",
-            "dimension": 43.36283185840708,
+            "dimension": 48.76106194690266,
             "children": [
               {
                 "id": "3631f770081d71b0",
@@ -147,8 +147,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/Why does Paul say God reconciled things in heaven to himself through Jesus.md",
-                "mode": "preview",
+                "file": "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -162,7 +162,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Why does Paul say God reconciled things in heaven to himself through Jesus"
+              "title": "Christ Reconciles All Things to God Through His Blood"
             }
           }
         ],
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bible/Berean Bible verse numbers.md",
+                "file": "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Berean Bible verse numbers"
+              "title": "Backlinks for Christ Reconciles All Things to God Through His Blood"
             }
           },
           {
@@ -359,11 +359,11 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "3631f770081d71b0",
+  "active": "dbbc13162e881098",
   "lastOpenFiles": [
-    "content/notes/Why does Paul say God reconciled things in heaven to himself through Jesus.md",
-    "content/notes/statement of faith/Transformed by the Gospel.md",
     "Bible/Berean Bible verse numbers.md",
+    "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
+    "content/notes/statement of faith/Transformed by the Gospel.md",
     "content/notes/statement of faith/Not by Righteous Deeds.md",
     "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
     "content/notes/statement of faith/The Gospel Message.md",
