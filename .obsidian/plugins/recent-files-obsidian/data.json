@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Berean Bible verse numbers",
+      "path": "Bible/Berean Bible verse numbers.md"
+    },
+    {
+      "basename": "Why does Paul say God reconciled things in heaven to himself through Jesus",
+      "path": "content/notes/Why does Paul say God reconciled things in heaven to himself through Jesus.md"
+    },
+    {
+      "basename": "Transformed by the Gospel",
+      "path": "content/notes/statement of faith/Transformed by the Gospel.md"
+    },
+    {
       "basename": "Not by Righteous Deeds",
       "path": "content/notes/statement of faith/Not by Righteous Deeds.md"
     },
     {
       "basename": "Ephesians 2",
       "path": "content/Bible/BSB/49-Ephesians/Ephesians 2.md"
-    },
-    {
-      "basename": "Berean Bible verse numbers",
-      "path": "Bible/Berean Bible verse numbers.md"
-    },
-    {
-      "basename": "Transformed by the Gospel",
-      "path": "content/notes/statement of faith/Transformed by the Gospel.md"
     },
     {
       "basename": "The Gospel Message",
@@ -195,10 +199,6 @@
     {
       "basename": "Did Jesus lie",
       "path": "content/notes/Did Jesus lie.md"
-    },
-    {
-      "basename": "📜 Organize and Structure Notes Prompt for OpenAI API Call",
-      "path": "AI Prompts/📜 Organize and Structure Notes Prompt for OpenAI API Call.md"
     }
   ],
   "omittedPaths": [
