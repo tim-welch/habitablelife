@@ -5,7 +5,8 @@ tags:
 ---
 
 ## Summary
-> By this gospel you are saved, if you hold firmly to the word I preached to you. Otherwise, you have believed in vain. - [[1 Corinthians 15#1 Corinthians 15 2|1 Corinthians 15:2, BSB]]
+A concise statement of the doctrine in your own words.  
+Example: “All have sinned and fall short of the glory of God.”
 
 ## Biblical Support
 - {{List key passages and how they teach this truth.}}
