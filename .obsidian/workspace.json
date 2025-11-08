@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
+                "file": "drafts/Doctrinal systems - history.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -92,7 +92,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Christ's Work and Reconciliation MOC"
+              "title": "Doctrinal systems - history"
             }
           }
         ],
@@ -394,10 +394,12 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "055a61e7f3427fb4",
+  "active": "e94cde6cf48acd6d",
   "lastOpenFiles": [
-    "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
+    "drafts/Doctrinal systems.md",
+    "drafts/Doctrinal systems - history.md",
     "Suggestions.md",
+    "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
     "content/notes/statement of faith/The Gospel and Salvation.md",
     "content/notes/statement of faith/The Gospel MOC.md",
     "content/notes/statement of faith/Resurrection and Appearances MOC.md",
@@ -421,8 +423,6 @@
     "content/notes/statement of faith/According to the Scriptures.md",
     "content/notes/statement of faith/Belief that Saves.md",
     "drafts/Who is Jesus.md",
-    "drafts/later/Who is Jesus/Who is Jesus.md",
-    "content/notes/statement of faith/Who is Jesus.md",
     "tools/suggest-missing-notes.bat",
     "tools/review-structures.bat",
     "tools/review-connections.bat",

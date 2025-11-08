@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Doctrinal systems - history",
+      "path": "drafts/Doctrinal systems - history.md"
+    },
+    {
+      "basename": "Doctrinal systems",
+      "path": "drafts/Doctrinal systems.md"
+    },
+    {
       "basename": "Suggestions",
       "path": "Suggestions.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Statement of Faith Diagram",
       "path": "drafts/Statement of Faith Diagram.md"
-    },
-    {
-      "basename": "Jesus' death was atonement for sin",
-      "path": "drafts/next/the gospel/Jesus' death was atonement for sin.md"
-    },
-    {
-      "basename": "humanizing prompt",
-      "path": "AI Prompts/humanizing prompt.md"
     }
   ],
   "omittedPaths": [
