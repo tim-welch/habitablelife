@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "API Suggest missing notes",
+      "path": "AI Prompts/API Suggest missing notes.md"
+    },
+    {
       "basename": "API Review Note Structure",
       "path": "AI Prompts/API Review Note Structure.md"
+    },
+    {
+      "basename": "API Review Note Connections",
+      "path": "AI Prompts/API Review Note Connections.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "drafts/Untitled.md"
+    },
+    {
+      "basename": "The Gospel Message",
+      "path": "content/notes/statement of faith/The Gospel Message.md"
+    },
+    {
+      "basename": "Transformed by the Gospel",
+      "path": "content/notes/statement of faith/Transformed by the Gospel.md"
+    },
+    {
+      "basename": "Belief that Saves",
+      "path": "content/notes/statement of faith/Belief that Saves.md"
     },
     {
       "basename": "API Verse suggestions",
@@ -11,14 +35,6 @@
     {
       "basename": "Berean Bible verse numbers",
       "path": "Bible/Berean Bible verse numbers.md"
-    },
-    {
-      "basename": "Belief that Saves",
-      "path": "content/notes/statement of faith/Belief that Saves.md"
-    },
-    {
-      "basename": "The Gospel Message",
-      "path": "content/notes/statement of faith/The Gospel Message.md"
     },
     {
       "basename": "Salvation through Confession",
@@ -43,10 +59,6 @@
     {
       "basename": "Christ Reconciles All Things to God Through His Blood",
       "path": "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md"
-    },
-    {
-      "basename": "Transformed by the Gospel",
-      "path": "content/notes/statement of faith/Transformed by the Gospel.md"
     },
     {
       "basename": "Not by Righteous Deeds",
@@ -187,18 +199,6 @@
     {
       "basename": "Jesus died and was buried",
       "path": "drafts/next/the gospel/Jesus died and was buried.md"
-    },
-    {
-      "basename": "The atonement was prophesied",
-      "path": "drafts/next/the gospel/The atonement was prophesied.md"
-    },
-    {
-      "basename": "Nothing we do can pay the debt we owe",
-      "path": "drafts/next/the gospel/Nothing we do can pay the debt we owe.md"
-    },
-    {
-      "basename": "Whoever rejects Jesus will not see life",
-      "path": "drafts/next/the gospel/Whoever rejects Jesus will not see life.md"
     }
   ],
   "omittedPaths": [
