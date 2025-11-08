@@ -396,7 +396,7 @@ def parse_args() -> argparse.Namespace:
     gqa.add_argument("--prepend", type=str, default=None, help="Optional text to prepend to the user message.")
 
     gapi = p.add_argument_group("OpenAI")
-    gapi.add_argument("--model", type=str, default="gpt-4o-mini", help="OpenAI chat model name.")
+    gapi.add_argument("--model", type=str, default="gpt-4o", help="OpenAI chat model name.")
     gapi.add_argument("--temperature", type=float, default=0.3, help="Sampling temperature.")
     gapi.add_argument("--max-tokens", type=int, default=700, help="Max tokens in the response.")
     gapi.add_argument("--no-stream", action="store_true", help="Disable streaming output.")
@@ -466,7 +466,7 @@ def main() -> int:
         total_chars = sum(len(t) for t in selected_texts)
         if args.verbose:
             print(f"[Model Prices] {pp.pformat(MODEL_PRICES)}, file=sys.stderr")
-            print(f"[Model] {args.model}, file=sys.stderr")
+        print(f"[Model] {args.model}, file=sys.stderr")
         print(
             f"[Context] {len(selected_texts)} chunk(s), {total_chars} characters, ~{tokens_in} input tokens.",
             file=sys.stderr,
