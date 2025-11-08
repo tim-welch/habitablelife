@@ -30,3 +30,7 @@ The gospel that Paul preached saves us if we hold firmly to it. What does it mea
 By using the term "hold firmly" here, Paul is telling us to hold on to the gospel and remain secure in it. We believe in vain if we let go of that message or distort it. Hold onto the message that Paul preached. Otherwise, if we abandon or deny Christ's death, burial, and resurrection, our belief is empty and useless.
 
 Belief is not a momentary acknowledgement of Christ's death and resurrection. Belief is a deep seated, faithful trust that Christ's death for our sin and His resurrection is the only way to salvation. Faith that abandons the gospel reveals itself to be empty and cannot save.
+
+## Connections
+
+- [[Paul Preached the Gospel]]

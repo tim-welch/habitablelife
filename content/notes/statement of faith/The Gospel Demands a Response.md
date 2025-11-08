@@ -25,7 +25,4 @@ If instead of believing, we reject the gospel, God's wrath will remain on us and
 
 ## Connections
 
-- [[The Gospel Message]]
-
-
-
+- [[Belief that Saves]]

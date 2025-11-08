@@ -534,7 +534,6 @@ def main() -> int:
     # OpenAI call
     client = create_client()
     try:
-        breakpoint()
         output = call_openai_chat(
             args=args,
             client=client,

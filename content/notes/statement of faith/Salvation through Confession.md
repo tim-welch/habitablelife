@@ -25,4 +25,6 @@ Where [[Who is Jesus]] reveals the church’s foundation: that Jesus is the Chri
 
 This confession unites believers under Christ’s authority and distinguishes the Church as a community of those who publicly identify with Him.
 
+## Connections
 
+- [[Belief that Saves]]

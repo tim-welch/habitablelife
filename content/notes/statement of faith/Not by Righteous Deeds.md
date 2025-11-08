@@ -27,5 +27,4 @@ Our good deeds are not sufficient to save us. That's why we need a savior.
 
 ## Connections
 
-- [[Transformed by the Gospel]]
-
+- [[Christ Died for Our Sins]]

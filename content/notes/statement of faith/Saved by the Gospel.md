@@ -28,4 +28,5 @@ God works through the gospel to save us.
 There is an important implication here. Since it is by the gospel we are saved it is important that people hear the gospel. It is important that we preach, teach, explain, and defend the gospel so that others will be saved.
 
 ## Connections
+
 - [[The Gospel Message]]

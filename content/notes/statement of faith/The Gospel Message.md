@@ -26,7 +26,3 @@ The core of the gospel message is Christ's death, burial, and resurrection.
 As was prophesied God sent Christ to die for our sins. After His death, Jesus was buried like any other corpse. But unlike others, Jesus rose again on the third day just the scriptures promised He would.
 
 ## Connections
-
-- [[Christ Died for Our Sins]]
-- [[Christ Was Raised on the Third Day]]
-- [[According to the Scriptures]]

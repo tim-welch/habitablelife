@@ -25,5 +25,4 @@ When Paul was writing to the Corinthians, he pointed out than many of the people
 
 ## Connections
 
-- [[The Gospel Message]]
-
+- [[Christ Was Raised on the Third Day]]

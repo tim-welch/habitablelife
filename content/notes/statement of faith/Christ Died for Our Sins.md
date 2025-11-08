@@ -27,4 +27,5 @@ Jesus died for our sins. This means, first and foremost, that we sinned. We all 
 Once we realize that we have sinned, then Christ dying for our sins becomes good news.
 
 ## Connections
+
 - [[The Gospel Message]]

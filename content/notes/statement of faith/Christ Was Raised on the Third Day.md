@@ -29,4 +29,5 @@ Death could not hold Christ. After dying and being buried he was raised on the t
 
 
 ## Connections
+
 - [[The Gospel Message]]

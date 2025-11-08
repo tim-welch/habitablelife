@@ -28,4 +28,5 @@ God our Savior appeared as Jesus to save us. Salvation is through being washed a
 
 ## Connections
 
+- [[Christ Died for Our Sins]]
 - [[Transformed by the Gospel]]

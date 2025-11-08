@@ -30,6 +30,3 @@ Because they stand firm in the gospel of Christ's death, burial, and resurrectio
 ## Connections
 
 - [[The Gospel Message]]
-- [[The Gospel Demands a Response]]
-- [[Hold Firmly to the Gospel]]
-

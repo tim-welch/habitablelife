@@ -18,9 +18,13 @@ When reviewing the notes provided, perform the following steps:
 Return the output in markdown with three sections:
 
 - `## Proposed Backlinks`  
-    For each source note, output:
-    1. The note name from the chunk
-    2. A list of notes with the recommended `[[wikilinks]]` to add
+    - Order the notes starting with the most central notes and working out. 
+    - For each note:
+        - Identify each note by name
+        - List the notes that should link to it using a [[wikilink]]. Do not include notes that already have the link.
+
+
+
 
 ### **Target Audience**
 

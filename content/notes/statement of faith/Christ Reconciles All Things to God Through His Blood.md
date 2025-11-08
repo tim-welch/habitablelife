@@ -29,4 +29,5 @@ Not all human beings will be reconciled, so this isn't literally all things. Thi
 
 Unbelievers and those who do not receive Jesus will not be reconciled. They will perish. Similarly, the fallen angels will not be reconciled. But all powers in heaven and earth will be brought under His rightful authority, through willing submission or through judgement.
 
+## Connections
 

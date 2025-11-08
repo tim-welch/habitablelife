@@ -23,4 +23,5 @@ Not only are we [[Washed and Renewed by the Spirit]], we gain eternal life when 
 
 ## Connections
 
-[[Transformed by the Gospel]]
+- [[Transformed by the Gospel]]
+- [[Washed and Renewed by the Spirit]]

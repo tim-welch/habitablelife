@@ -32,3 +32,5 @@ Throughout Scripture, salvation is consistently linked to belief in Jesus:
 - In [[1 Corinthians 15#1 Corinthians 15 3|1 Corinthians 15:3–4]], Paul defines the gospel that must be believed.
 
 To believe in Jesus is more than agreeing with facts: it is trusting in Him personally as the Christ, the Son of God, the Lord who saves. Faith unites the truths of Jesus' identity and His redemptive work, bringing eternal life to all who believe.
+
+## Connections

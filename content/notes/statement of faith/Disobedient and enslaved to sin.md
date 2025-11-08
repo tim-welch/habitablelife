@@ -20,4 +20,4 @@ Sin enslaves humanity. We are unable to please God or free ourselves. This condi
 
 ## Connections
 
-- [[Transformed by the Gospel]]
+- [[Christ Died for Our Sins]]
