@@ -1,1 +1,1 @@
-python tools\smartnotes\sm.py --instructions "AI Prompts\API Review Note Structure.md" --print-context-summary %*
+python tools\smartnotes\sm.py --instructions "AI Prompts\API Suggest missing notes.md" --print-context-summary %*

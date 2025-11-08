@@ -18,7 +18,9 @@ When reviewing the notes provided, perform the following steps:
 Return the output in markdown with three sections:
 
 - `## Proposed Backlinks`  
-    A list of notes with the recommended `[[wikilinks]]` to add, organized by source note.
+    For each source note, output:
+    1. The note name
+    2. A list of notes with the recommended `[[wikilinks]]` to add
 
 ### **Target Audience**
 

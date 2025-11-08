@@ -389,7 +389,7 @@ def parse_args() -> argparse.Namespace:
     gctx.add_argument("--include-file-names", action="store_true", help="Label chunks with filenames in the context.")
     gctx.add_argument("--keep-front-matter", action="store_true", help="Do NOT strip YAML front matter from notes.")
     gctx.add_argument("--chunk-size", type=int, default=1800, help="Target characters per chunk before ranking.")
-    gctx.add_argument("--top-k", type=int, default=6, help="Send only the top K ranked chunks.")
+    gctx.add_argument("--top-k", type=int, default=1000, help="Send only the top K ranked chunks.")
 
     gqa = p.add_argument_group("Prompt")
     gqa.add_argument("--question", "-q", type=str, default=None, help="The question or task for the assistant.")
@@ -400,7 +400,7 @@ def parse_args() -> argparse.Namespace:
     gapi.add_argument("--temperature", type=float, default=0.3, help="Sampling temperature.")
     gapi.add_argument("--max-tokens", type=int, default=700, help="Max tokens in the response.")
     gapi.add_argument("--no-stream", action="store_true", help="Disable streaming output.")
-    gapi.add_argument("--max-context-tokens", type=int, default=7000, help="Hard cap on input tokens; truncate if exceeded.")
+    gapi.add_argument("--max-context-tokens", type=int, default=10000, help="Hard cap on input tokens; truncate if exceeded.")
     gapi.add_argument("--max-price", type=float, default=0.10, help="Abort if estimated USD cost would exceed this amount.")
 
     gout = p.add_argument_group("Output")
@@ -476,6 +476,7 @@ def main() -> int:
 
     # Enforce caps/budget
     if tokens_in > args.max_context_tokens:
+        breakpoint()
         # Truncate by reducing K
         # Keep trimming until under cap or only 1 chunk remains
         k = len(top_ids)

@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "API Suggest missing notes",
-      "path": "AI Prompts/API Suggest missing notes.md"
-    },
-    {
-      "basename": "API Review Note Structure",
-      "path": "AI Prompts/API Review Note Structure.md"
+      "basename": "Suggestions",
+      "path": "Suggestions.md"
     },
     {
       "basename": "API Review Note Connections",
       "path": "AI Prompts/API Review Note Connections.md"
     },
     {
-      "basename": "Untitled",
-      "path": "drafts/Untitled.md"
+      "basename": "API Review Note Structure",
+      "path": "AI Prompts/API Review Note Structure.md"
+    },
+    {
+      "basename": "API Suggest missing notes",
+      "path": "AI Prompts/API Suggest missing notes.md"
     },
     {
       "basename": "The Gospel Message",
@@ -195,10 +195,6 @@
     {
       "basename": "John 3",
       "path": "content/Bible/BSB/43-John/John 3.md"
-    },
-    {
-      "basename": "Jesus died and was buried",
-      "path": "drafts/next/the gospel/Jesus died and was buried.md"
     }
   ],
   "omittedPaths": [
