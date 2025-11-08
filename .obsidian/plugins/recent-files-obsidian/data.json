@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Belief that Saves",
-      "path": "content/notes/statement of faith/Belief that Saves.md"
+      "basename": "API Review Note Structure",
+      "path": "AI Prompts/API Review Note Structure.md"
+    },
+    {
+      "basename": "API Verse suggestions",
+      "path": "AI Prompts/API Verse suggestions.md"
     },
     {
       "basename": "Berean Bible verse numbers",
       "path": "Bible/Berean Bible verse numbers.md"
+    },
+    {
+      "basename": "Belief that Saves",
+      "path": "content/notes/statement of faith/Belief that Saves.md"
     },
     {
       "basename": "The Gospel Message",
@@ -23,10 +31,6 @@
     {
       "basename": "Paul Preached the Gospel",
       "path": "content/notes/statement of faith/Paul Preached the Gospel.md"
-    },
-    {
-      "basename": "API Verse suggestions",
-      "path": "AI Prompts/API Verse suggestions.md"
     },
     {
       "basename": "Hold Firmly to the Gospel",
@@ -195,10 +199,6 @@
     {
       "basename": "Whoever rejects Jesus will not see life",
       "path": "drafts/next/the gospel/Whoever rejects Jesus will not see life.md"
-    },
-    {
-      "basename": "Jesus rose again on the third day",
-      "path": "drafts/next/the gospel/Jesus rose again on the third day.md"
     }
   ],
   "omittedPaths": [
