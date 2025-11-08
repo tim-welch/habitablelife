@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Belief that Saves",
+      "path": "content/notes/statement of faith/Belief that Saves.md"
+    },
+    {
       "basename": "Berean Bible verse numbers",
       "path": "Bible/Berean Bible verse numbers.md"
+    },
+    {
+      "basename": "The Gospel Message",
+      "path": "content/notes/statement of faith/The Gospel Message.md"
+    },
+    {
+      "basename": "Salvation through Confession",
+      "path": "content/notes/statement of faith/Salvation through Confession.md"
     },
     {
       "basename": "Who is Jesus",
@@ -39,10 +51,6 @@
     {
       "basename": "Ephesians 2",
       "path": "content/Bible/BSB/49-Ephesians/Ephesians 2.md"
-    },
-    {
-      "basename": "The Gospel Message",
-      "path": "content/notes/statement of faith/The Gospel Message.md"
     },
     {
       "basename": "Saved by the Gospel",
@@ -191,14 +199,6 @@
     {
       "basename": "Jesus rose again on the third day",
       "path": "drafts/next/the gospel/Jesus rose again on the third day.md"
-    },
-    {
-      "basename": "There is no other name by which we can be saved",
-      "path": "drafts/next/the gospel/There is no other name by which we can be saved.md"
-    },
-    {
-      "basename": "God sent His Son as a man to die in our place",
-      "path": "drafts/next/the gospel/God sent His Son as a man to die in our place.md"
     }
   ],
   "omittedPaths": [

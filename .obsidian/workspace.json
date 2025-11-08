@@ -171,7 +171,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/Who is Jesus.md",
+                "file": "content/notes/statement of faith/Belief that Saves.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -186,7 +186,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Who is Jesus"
+              "title": "Belief that Saves"
             }
           }
         ],
@@ -383,10 +383,14 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "3631f770081d71b0",
+  "active": "dd90d38730ebaaf5",
   "lastOpenFiles": [
-    "content/notes/statement of faith/Who is Jesus.md",
     "Bible/Berean Bible verse numbers.md",
+    "content/notes/statement of faith/Belief that Saves.md",
+    "content/notes/statement of faith/The Gospel Message.md",
+    "drafts/Untitled.md",
+    "content/notes/statement of faith/Salvation through Confession.md",
+    "content/notes/statement of faith/Who is Jesus.md",
     "content/notes/statement of faith/Paul Preached the Gospel.md",
     "tools/smartnotes/sm.py~",
     "AI Prompts/API Verse suggestions.md",
@@ -396,7 +400,6 @@
     "content/notes/statement of faith/Transformed by the Gospel.md",
     "content/notes/statement of faith/Not by Righteous Deeds.md",
     "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
-    "content/notes/statement of faith/The Gospel Message.md",
     "content/notes/statement of faith/Saved by the Gospel.md",
     "content/notes/statement of faith/Christ Was Raised on the Third Day.md",
     "content/notes/statement of faith/Justified by His Grace.md",
@@ -409,8 +412,6 @@
     "content/Bible/BSB/44-Acts/Acts 2.md",
     "drafts/next/the gospel/0100 - The Gospel.md",
     "drafts/Justified by His Grace.md",
-    "content/Bible/BSB/19-Psalm/Psalm 2.md",
-    "content/Bible/BSB/56-Titus/Titus 3.md",
     "tools/getverses.bat",
     "drafts/later/Who is Jesus",
     "content/notes/statement of faith",
