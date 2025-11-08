@@ -476,7 +476,6 @@ def main() -> int:
 
     # Enforce caps/budget
     if tokens_in > args.max_context_tokens:
-        breakpoint()
         # Truncate by reducing K
         # Keep trimming until under cap or only 1 chunk remains
         k = len(top_ids)
@@ -535,6 +534,7 @@ def main() -> int:
     # OpenAI call
     client = create_client()
     try:
+        breakpoint()
         output = call_openai_chat(
             args=args,
             client=client,

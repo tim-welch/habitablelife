@@ -19,7 +19,7 @@ Return the output in markdown with three sections:
 
 - `## Proposed Backlinks`  
     For each source note, output:
-    1. The note name
+    1. The note name from the chunk
     2. A list of notes with the recommended `[[wikilinks]]` to add
 
 ### **Target Audience**
