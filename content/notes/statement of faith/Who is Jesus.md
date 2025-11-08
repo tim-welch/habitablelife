@@ -5,9 +5,13 @@ tags:
 ---
 
 ## Summary
-> When Jesus came to the region of Caesarea Philippi, He questioned His disciples: “Who do people say the Son of Man is?” They replied, “Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.” “But what about you?” Jesus asked. “Who do you say I am?” Simon Peter answered, “You are the Christ, the Son of the living God.” Jesus replied, “Blessed are you, Simon son of Jonah! For this was not revealed to you by flesh and blood, but by My Father in heaven. And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it... - [[Matthew 16#Matthew 16 13|Matthew 16:13-18]]
+> When Jesus came to the region of Caesarea Philippi, He questioned His disciples: “Who do people say the Son of Man is?” 
+> They replied, “Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.” 
+> “But what about you?” Jesus asked. “Who do you say I am?” 
+> Simon Peter answered, “You are the Christ, the Son of the living God.” 
+> Jesus replied, “Blessed are you, Simon son of Jonah! For this was not revealed to you by flesh and blood, but by My Father in heaven. And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it..." - [[Matthew 16#Matthew 16 13|Matthew 16:13-18]]
 
-Jesus asks His disciples who others say He is and who they say He is. Peter's response is the one that receives praise from Jesus because it is the rock upon which Jesus will build His church.
+Jesus asks His disciples who others say He is and who they say He is. Jesus praised Peter because this truth is the the rock Jesus builds the church on.
 
 ## Biblical Support
 - [[Isaiah 28#Isaiah 28 16|Isaiah 28:16]]
@@ -21,8 +25,8 @@ Jesus asks His disciples who others say He is and who they say He is. Peter's re
 
 ## Explanation
 
-After the disciples returned from preaching the gospel, Jesus asks them who people say He is. The general response is that Jesus is a prophet.
+Jesus asks His disciples who people say He is. The general response is that Jesus is a prophet.
 
-He then asks them the most important question ever asked: "Who do you say I am?" Peter's answer, "You are the Christ, the Son of the living God", is the one that Jesus praises. Jesus' church will be built upon this answer. The answer to this question is what brings the blessing that Peter received.
+He then asks them the most important question ever asked: "Who do you say I am?" Peter's answer, "You are the Christ, the Son of the living God", is the one that Jesus praises. The rock on which Jesus builds His church is the truth that Jesus is the Christ, the Son of the living God. This is the confession that everyone who becomes a part of the church must make.
 
 

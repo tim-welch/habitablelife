@@ -172,7 +172,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/notes/statement of faith/Who is Jesus.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -383,10 +383,10 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "dd90d38730ebaaf5",
+  "active": "3631f770081d71b0",
   "lastOpenFiles": [
-    "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/Who is Jesus.md",
+    "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/Paul Preached the Gospel.md",
     "tools/smartnotes/sm.py~",
     "AI Prompts/API Verse suggestions.md",
