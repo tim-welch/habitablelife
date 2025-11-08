@@ -26,10 +26,12 @@ Only output the verse references (e.g., "Romans 3:23")—do not include the full
 
 Do not include verses that are commonly misinterpreted or require theological stretching to apply. Avoid prooftexting.
 
+Do not include verses that are already in the note.
+
 Ensure the total output fits within a 700-token limit.
 
 Format:
-A plain text, unordered list of Bible verse citations formatted as an Obsidian wikilink (e.g., “- [[Genesis 6#Genesis 6 5|Genesis 6:5]]”, “- [[Psalm 51#Psalm 51 5|Psalm 51:5]]”, etc.), without verse text or commentary.
+A plain text, unordered list of Bible verse citations formatted as an Obsidian wikilink (e.g., "- [[Genesis 6#Genesis 6 5|Genesis 6:5]]", "- [[Psalm 51#Psalm 51 5|Psalm 51:5]]", "- [[Galatians 1#Galatians 1 6|Galatians 1:6-9]]" etc.), without verse text or commentary.
 
 Target Audience:
 The audience includes pastors, theologians, seminary students, and Bible study leaders. They are highly literate in Scripture, value doctrinal soundness, and prefer outputs that are concise, well-researched, and academically credible while being usable in practical teaching or preaching contexts.
