@@ -6,6 +6,7 @@
       {
         "id": "3f21ea566d464dbb",
         "type": "tabs",
+        "dimension": 52.12539851222105,
         "children": [
           {
             "id": "3631f770081d71b0",
@@ -77,9 +78,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/Doctrinal systems - history.md",
-                "mode": "source",
-                "source": true,
+                "file": "drafts/Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation.md",
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -92,7 +93,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Doctrinal systems - history"
+              "title": "Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation"
             }
           }
         ],
@@ -101,6 +102,7 @@
       {
         "id": "fa18a0de78b4f70e",
         "type": "tabs",
+        "dimension": 47.87460148777895,
         "children": [
           {
             "id": "605da27d32122190",
@@ -182,7 +184,7 @@
               "type": "markdown",
               "state": {
                 "file": "Suggestions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -394,11 +396,13 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "e94cde6cf48acd6d",
+  "active": "055a61e7f3427fb4",
   "lastOpenFiles": [
-    "drafts/Doctrinal systems.md",
-    "drafts/Doctrinal systems - history.md",
+    "drafts/Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation.md",
+    "content/notes/statement of faith/Christ Died for Our Sins.md",
     "Suggestions.md",
+    "drafts/Doctrinal systems - history.md",
+    "drafts/Doctrinal systems.md",
     "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
     "content/notes/statement of faith/The Gospel and Salvation.md",
     "content/notes/statement of faith/The Gospel MOC.md",
@@ -419,10 +423,8 @@
     "content/notes/statement of faith/Saved by the Gospel.md",
     "content/notes/statement of faith/Paul Preached the Gospel.md",
     "content/notes/statement of faith/Christ Was Raised on the Third Day.md",
-    "content/notes/statement of faith/Christ Died for Our Sins.md",
     "content/notes/statement of faith/According to the Scriptures.md",
     "content/notes/statement of faith/Belief that Saves.md",
-    "drafts/Who is Jesus.md",
     "tools/suggest-missing-notes.bat",
     "tools/review-structures.bat",
     "tools/review-connections.bat",

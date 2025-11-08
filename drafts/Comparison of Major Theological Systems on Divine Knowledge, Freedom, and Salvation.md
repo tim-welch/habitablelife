@@ -1,0 +1,13 @@
+
+|Aspect|**Calvinism**|**Molinism**|**Arminianism**|**Simple Foreknowledge**|**Open Theism**|
+|---|---|---|---|---|---|
+|**Future**|Determined by God’s eternal decree|God actualizes one world among many possible ones|Single actual future foreknown by God|Single actual future foreknown by God|Future partly open, partly determined|
+|**Human Freedom**|Compatibilist (free within God’s decree)|Libertarian (could have done otherwise)|Libertarian|Libertarian|Libertarian|
+|**Divine Knowledge**|God knows all because He decrees all|God knows all possible and actual outcomes via middle knowledge|God knows all actual future events, including free choices|God knows all actual future events, including free choices|God knows all possibilities but not undetermined future free acts|
+|**Ground of Knowledge**|God’s will and decree|Middle knowledge of counterfactuals of freedom|The reality of what will freely occur|The reality of what will freely occur|The range of possible free choices|
+|**Providence**|Meticulous and exhaustive|Sovereignly orchestrated through chosen world|Cooperative: God works with foreknown free acts|Cooperative: God acts within a foreknown free sequence|Interactive and responsive as events unfold|
+|**God’s Relation to Time**|Timeless (usually)|Timeless (usually)|Timeless or atemporal|Timeless or atemporal|Temporal or partly temporal|
+|**Salvation**|Unconditional election; irresistible grace; limited atonement; perseverance of the saints|Conditional election based on God’s knowledge of who would freely respond|Conditional election; prevenient grace enables free response; resistible grace; possible loss of salvation|Same as Arminianism (usually); salvation freely accepted or rejected by enabled choice|Salvation genuinely open; God desires all to be saved but outcome not foreknown until chosen|
+|**Key Advocates**|Augustine, Calvin, Edwards|Molina, William Lane Craig|Arminius, Wesley, Roger Olson|David Hunt, Alan Rhoda|Clark Pinnock, Greg Boyd, John Sanders|
+|**Main Strength**|Highlights divine sovereignty and assurance of salvation|Balances sovereignty, freedom, and providence logically|Emphasizes moral responsibility and love-based relationship|Maintains one definite future with genuine freedom|Stresses relational love, prayer, and divine responsiveness|
+|**Main Critique**|Tends toward determinism or double predestination|Philosophically complex; speculative|Hard to reconcile foreknowledge with freedom|Offers no mechanism explaining foreknowledge|Limits or redefines omniscience|
