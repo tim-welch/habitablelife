@@ -22,7 +22,14 @@ Paul reminded the believers in Corinth of the gospel that he preached to them, a
 
 ## Explanation
 
-Paul is about to explain to the Corinthians that the gospel is about Christ's death, burial, and resurrection. He begins by reminding them that he isn't teaching them something new. He had already preached it to them before and they had received it. He also reminds the Corinthians that they stand firm in the gospel.
+Paul begins this section of his letter by reminding the Corinthians that he already preached the gospel to them, and they had received it. He is not about to teach them something new. He is preparing them for his defense of the resurrection.
 
-Standing firm implies [[Hold Firmly to the Gospel]]
+Because they stand firm in the gospel of Christ's death, burial, and resurrection, Paul expects all they should need is a reminder about the resurrection to return to the gospel.
+
+
+## Connections
+
+- [[The Gospel Message]]
+- [[The Gospel Demands a Response]]
+- [[Hold Firmly to the Gospel]]
 
