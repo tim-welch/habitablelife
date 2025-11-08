@@ -171,8 +171,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/Paul Preached the Gospel.md",
-                "mode": "source",
+                "file": "content/notes/statement of faith/Who is Jesus.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -186,7 +186,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Paul Preached the Gospel"
+              "title": "Who is Jesus"
             }
           }
         ],
@@ -386,12 +386,12 @@
   "active": "dd90d38730ebaaf5",
   "lastOpenFiles": [
     "Bible/Berean Bible verse numbers.md",
-    "tools/smartnotes/sm.py~",
+    "content/notes/statement of faith/Who is Jesus.md",
     "content/notes/statement of faith/Paul Preached the Gospel.md",
+    "tools/smartnotes/sm.py~",
     "AI Prompts/API Verse suggestions.md",
     "content/notes/statement of faith/Hold Firmly to the Gospel.md",
     "content/Bible/BSB/61-2 Peter/2 Peter 1.md",
-    "content/notes/statement of faith/(draft)Who is Jesus.md",
     "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
     "content/notes/statement of faith/Transformed by the Gospel.md",
     "content/notes/statement of faith/Not by Righteous Deeds.md",

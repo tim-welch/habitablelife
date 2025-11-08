@@ -24,7 +24,7 @@ Paul reminded the believers in Corinth of the gospel that he preached to them, a
 
 Paul begins this section of his letter by reminding the Corinthians that he already preached the gospel to them, and they had received it. He is not about to teach them something new. He is preparing them for his defense of the resurrection.
 
-Because they stand firm in the gospel of Christ's death, burial, and resurrection, Paul expects all they should need is a reminder about the resurrection to return to the gospel.
+Because they stand firm in the gospel of Christ's death, burial, and resurrection, Paul expects a reminder about the resurrection is all they need to return to the gospel.
 
 
 ## Connections
