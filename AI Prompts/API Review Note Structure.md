@@ -17,13 +17,17 @@ When reviewing the notes provided, perform the following steps:
     - Include only links to notes in the provided set or to other suggested structure notes.
     - Use Obsidian-friendly formatting with headings, short descriptions, and links.
     - Keep themes cohesive and distinct.
+    - Do not include a Biblical Support section. Let the linked atomic notes have the biblical support
+    - If an MOC already exists do not rewrite or output it. Instead suggest new links if there is a note that should be included in it but is not.
 
 ### **Format**
 
-Return the output in markdown with three sections:
+Return the output in markdown:
 
 - `## Draft Structure Notes`  
-    Full drafts of the proposed structure notes, formatted as individual markdown notes with links and headings.
+    Full drafts of the proposed structure notes, formatted as individual markdown notes with links and headings. Include these headings: 
+    - `## Key Elements` - the bulk of the note. This should include an outline of the notes that make up this MOC.
+    - `## Related Concepts` - other atomic notes and MOCs that are related to this MOC
 
 ### **Target Audience**
 

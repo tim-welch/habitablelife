@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Prompts/API Review Note Connections.md",
+                "file": "AI Prompts/API Review Note Structure.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -56,7 +56,7 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "API Review Note Connections"
+              "title": "API Review Note Structure"
             }
           },
           {
@@ -77,8 +77,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/Justified by His Grace.md",
-                "mode": "preview",
+                "file": "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -92,7 +92,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Justified by His Grace"
+              "title": "Christ's Work and Reconciliation MOC"
             }
           }
         ],
@@ -396,9 +396,16 @@
   },
   "active": "055a61e7f3427fb4",
   "lastOpenFiles": [
-    "content/notes/statement of faith/Justified by His Grace.md",
+    "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
     "Suggestions.md",
+    "content/notes/statement of faith/The Gospel and Salvation.md",
+    "content/notes/statement of faith/The Gospel MOC.md",
+    "content/notes/statement of faith/Resurrection and Appearances MOC.md",
+    "AI Prompts/API Review Note Structure.md",
+    "content/notes/statement of faith/Salvation and Justification MOC.md",
     "AI Prompts/API Review Note Connections.md",
+    "tools/review-structure.bat",
+    "content/notes/statement of faith/Justified by His Grace.md",
     "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
     "content/notes/statement of faith/Hold Firmly to the Gospel.md",
     "content/notes/statement of faith/Jesus Appeared After His Resurrection.md",
@@ -416,22 +423,15 @@
     "drafts/Who is Jesus.md",
     "drafts/later/Who is Jesus/Who is Jesus.md",
     "content/notes/statement of faith/Who is Jesus.md",
-    "content/notes/statement of faith/The Gospel Message.md",
-    "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
-    "AI Prompts/API Review Note Structure.md",
-    "drafts/Untitled.md",
-    "AI Prompts/API Suggest missing notes.md",
     "tools/suggest-missing-notes.bat",
     "tools/review-structures.bat",
     "tools/review-connections.bat",
     "tools/review.bat",
-    "AI Prompts/API Verse suggestions.md",
     "tools/smartnotes/sm.py~",
     "tools/getverses.bat",
     "drafts/later/Who is Jesus",
     "content/notes/statement of faith",
     "tools/smartnotes/sm.py",
-    "tools/smartnotes",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/note-taking/Verse-Headings-Inside-Chapters-og-image.webp",
     "public/notes/note-taking/Understanding-presuppositions-in-Bible-study-og-image.webp",

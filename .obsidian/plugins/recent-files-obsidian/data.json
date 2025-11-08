@@ -5,12 +5,36 @@
       "path": "Suggestions.md"
     },
     {
-      "basename": "Justified by His Grace",
-      "path": "content/notes/statement of faith/Justified by His Grace.md"
+      "basename": "Christ's Work and Reconciliation MOC",
+      "path": "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md"
+    },
+    {
+      "basename": "The Gospel and Salvation",
+      "path": "content/notes/statement of faith/The Gospel and Salvation.md"
+    },
+    {
+      "basename": "The Gospel MOC",
+      "path": "content/notes/statement of faith/The Gospel MOC.md"
+    },
+    {
+      "basename": "Resurrection and Appearances MOC",
+      "path": "content/notes/statement of faith/Resurrection and Appearances MOC.md"
+    },
+    {
+      "basename": "API Review Note Structure",
+      "path": "AI Prompts/API Review Note Structure.md"
+    },
+    {
+      "basename": "Salvation and Justification MOC",
+      "path": "content/notes/statement of faith/Salvation and Justification MOC.md"
     },
     {
       "basename": "API Review Note Connections",
       "path": "AI Prompts/API Review Note Connections.md"
+    },
+    {
+      "basename": "Justified by His Grace",
+      "path": "content/notes/statement of faith/Justified by His Grace.md"
     },
     {
       "basename": "Washed and Renewed by the Spirit",
@@ -75,10 +99,6 @@
     {
       "basename": "Christ Reconciles All Things to God Through His Blood",
       "path": "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md"
-    },
-    {
-      "basename": "API Review Note Structure",
-      "path": "AI Prompts/API Review Note Structure.md"
     },
     {
       "basename": "API Suggest missing notes",
@@ -179,14 +199,6 @@
     {
       "basename": "humanizing prompt",
       "path": "AI Prompts/humanizing prompt.md"
-    },
-    {
-      "basename": "0003 - Secondary Doctrine",
-      "path": "content/notes/statement of faith/0003 - Secondary Doctrine.md"
-    },
-    {
-      "basename": "John 3",
-      "path": "content/Bible/BSB/43-John/John 3.md"
     }
   ],
   "omittedPaths": [
