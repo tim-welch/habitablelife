@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "verse-linker",
+      "path": "prompts/api/verse-linker.md"
+    },
+    {
+      "basename": "structure",
+      "path": "prompts/api/structure.md"
+    },
+    {
+      "basename": "missing",
+      "path": "prompts/api/missing.md"
+    },
+    {
+      "basename": "expand",
+      "path": "prompts/api/expand.md"
+    },
+    {
+      "basename": "backlinker",
+      "path": "prompts/api/backlinker.md"
+    },
+    {
+      "basename": "The Prophecy of the Gospel Message",
+      "path": "content/notes/statement of faith/The Prophecy of the Gospel Message.md"
+    },
+    {
+      "basename": "Suggestions",
+      "path": "Suggestions.md"
+    },
+    {
       "basename": "Philosophy of Theological Triage",
       "path": "drafts/Philosophy of Theological Triage.md"
-    },
-    {
-      "basename": "API Review Note Structure",
-      "path": "AI Prompts/API Review Note Structure.md"
-    },
-    {
-      "basename": "API Suggest Missing Notes",
-      "path": "AI Prompts/API Suggest Missing Notes.md"
-    },
-    {
-      "basename": "API Suggest New Doctrinal Direction",
-      "path": "AI Prompts/API Suggest New Doctrinal Direction.md"
     },
     {
       "basename": "Berean Bible verse numbers",
@@ -35,14 +51,6 @@
     {
       "basename": "Christ's Work and Reconciliation MOC",
       "path": "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md"
-    },
-    {
-      "basename": "Suggestions",
-      "path": "Suggestions.md"
-    },
-    {
-      "basename": "The Prophecy of the Gospel Message",
-      "path": "content/notes/statement of faith/The Prophecy of the Gospel Message.md"
     },
     {
       "basename": "The Gospel Message",
@@ -71,10 +79,6 @@
     {
       "basename": "The Gospel and Salvation",
       "path": "content/notes/statement of faith/The Gospel and Salvation.md"
-    },
-    {
-      "basename": "API Review Note Connections",
-      "path": "AI Prompts/API Review Note Connections.md"
     },
     {
       "basename": "Justified by His Grace",
@@ -133,10 +137,6 @@
       "path": "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md"
     },
     {
-      "basename": "API Verse suggestions",
-      "path": "AI Prompts/API Verse suggestions.md"
-    },
-    {
       "basename": "2 Peter 1",
       "path": "content/Bible/BSB/61-2 Peter/2 Peter 1.md"
     },
@@ -174,7 +174,7 @@
     },
     {
       "basename": "Tim - ChatGPT Customization",
-      "path": "AI Prompts/Tim - ChatGPT Customization.md"
+      "path": "prompts/Tim - ChatGPT Customization.md"
     },
     {
       "basename": "1 Corinthians 15",

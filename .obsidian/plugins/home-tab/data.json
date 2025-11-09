@@ -24,24 +24,8 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "drafts/Philosophy of Theological Triage.md",
-      "timestamp": 1762692667587
-    },
-    {
-      "filepath": "AI Prompts/API Review Note Structure.md",
-      "timestamp": 1762692551497
-    },
-    {
-      "filepath": "AI Prompts/API Suggest Missing Notes.md",
-      "timestamp": 1762692543176
-    },
-    {
-      "filepath": "AI Prompts/API Suggest New Doctrinal Direction.md",
-      "timestamp": 1762692507697
-    },
-    {
-      "filepath": "Bible/Berean Bible verse numbers.md",
-      "timestamp": 1762692297010
+      "filepath": "prompts/api/verse-linker.md",
+      "timestamp": 1762693218078
     }
   ],
   "bookmarkedFileStore": [],

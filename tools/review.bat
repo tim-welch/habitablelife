@@ -1,0 +1,1 @@
+python tools\smartnotes\sm.py --print-context-summary --include-file-names --max-tokens=2000 %*
