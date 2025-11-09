@@ -11,6 +11,7 @@ Isaiah 53 foretold the essential gospel message later declared by Paul in 1 Cori
 
 ## Biblical Support
 - [[1 Corinthians 15#1 Corinthians 15 3|1 Corinthians 15:3-4]]
+- [[Acts 8#Acts 8 32|Acts 8:32–35]]
 
 
 ## Explanation
@@ -19,6 +20,7 @@ Isaiah 53 foretold the essential gospel message later declared by Paul in 1 Cori
 - That He was assigned a grave with the wicked and with a rich man in His death was fulfilled in Jesus’ burial.
 - Then the Servant would see the light of life after His suffering was fulfilled in the resurrection.
 - Paul summarizes this same pattern of death, burial, and resurrection, calling it the gospel "of first importance".
+- In Acts 8, Philip tells the eunuch that Isaiah 53 is about Jesus.
 
 ## Connections
 

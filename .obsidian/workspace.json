@@ -9,32 +9,6 @@
         "dimension": 47.90005316321106,
         "children": [
           {
-            "id": "3631f770081d71b0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/Berean Bible verse numbers.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Berean Bible verse numbers"
-            }
-          },
-          {
             "id": "41cc5ea91c15f19c",
             "type": "leaf",
             "pinned": true,
@@ -100,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/(draft)The Prophesy of the Gospel Message.md",
+                "file": "content/notes/statement of faith/(draft)The Prophecy of the Gospel Message.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -115,17 +89,43 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "(draft)The Prophesy of the Gospel Message"
+              "title": "(draft)The Prophecy of the Gospel Message"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "fa18a0de78b4f70e",
         "type": "tabs",
         "dimension": 52.099946836788945,
         "children": [
+          {
+            "id": "3631f770081d71b0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bible/Berean Bible verse numbers.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Berean Bible verse numbers"
+            }
+          },
           {
             "id": "605da27d32122190",
             "type": "leaf",
@@ -224,8 +224,7 @@
               "title": "Suggestions"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -313,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/statement of faith/(draft)The Prophesy of the Gospel Message.md",
+                "file": "content/notes/statement of faith/(draft)The Prophecy of the Gospel Message.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +322,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (draft)The Prophesy of the Gospel Message"
+              "title": "Backlinks for (draft)The Prophecy of the Gospel Message"
             }
           },
           {
@@ -346,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/statement of faith/(draft)The Prophesy of the Gospel Message.md",
+                "file": "content/notes/statement of faith/(draft)The Prophecy of the Gospel Message.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (draft)The Prophesy of the Gospel Message"
+              "title": "Outline of (draft)The Prophecy of the Gospel Message"
             }
           },
           {
@@ -392,7 +391,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notes/statement of faith/(draft)The Prophesy of the Gospel Message.md",
+                "file": "content/notes/statement of faith/(draft)The Prophecy of the Gospel Message.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -420,7 +419,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of (draft)The Prophesy of the Gospel Message"
+              "title": "Graph of (draft)The Prophecy of the Gospel Message"
             }
           }
         ]
@@ -464,10 +463,10 @@
   },
   "active": "cc53b49e2e934b40",
   "lastOpenFiles": [
-    "content/notes/statement of faith/The Gospel MOC.md",
-    "content/notes/statement of faith/(draft)The Prophesy of the Gospel Message.md",
-    "content/notes/statement of faith/The Gospel Message.md",
     "Bible/Berean Bible verse numbers.md",
+    "content/notes/statement of faith/(draft)The Prophecy of the Gospel Message.md",
+    "content/notes/statement of faith/The Gospel MOC.md",
+    "content/notes/statement of faith/The Gospel Message.md",
     "Suggestions.md",
     "content/notes/statement of faith/Belief that Saves.md",
     "AI Prompts/API Suggest missing notes.md",
