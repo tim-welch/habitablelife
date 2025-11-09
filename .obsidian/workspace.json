@@ -6,7 +6,7 @@
       {
         "id": "3f21ea566d464dbb",
         "type": "tabs",
-        "dimension": 52.12539851222105,
+        "dimension": 47.90005316321106,
         "children": [
           {
             "id": "3631f770081d71b0",
@@ -32,32 +32,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Berean Bible verse numbers"
-            }
-          },
-          {
-            "id": "b973ef47bce3e54f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI Prompts/API Review Note Structure.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "API Review Note Structure"
             }
           },
           {
@@ -95,14 +69,62 @@
               "icon": "lucide-file",
               "title": "Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation"
             }
+          },
+          {
+            "id": "7e65ed6dfe515fc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/Resurrection and Appearances MOC.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Resurrection and Appearances MOC"
+            }
+          },
+          {
+            "id": "cc53b49e2e934b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/(draft)Jesus' death was prophesied.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "(draft)Jesus' death was prophesied"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "fa18a0de78b4f70e",
         "type": "tabs",
-        "dimension": 47.87460148777895,
+        "dimension": 52.099946836788945,
         "children": [
           {
             "id": "605da27d32122190",
@@ -158,7 +180,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Prompts/API Suggest missing notes.md",
+                "file": "content/notes/statement of faith/The Gospel MOC.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -173,7 +195,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "API Suggest missing notes"
+              "title": "The Gospel MOC"
             }
           },
           {
@@ -291,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/statement of faith/Hold Firmly to the Gospel.md",
+                "file": "content/notes/statement of faith/(draft)Jesus' death was prophesied.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -301,7 +323,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hold Firmly to the Gospel"
+              "title": "Backlinks for (draft)Jesus' death was prophesied"
             }
           },
           {
@@ -324,13 +346,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/Writing is Iterative.md",
+                "file": "content/notes/statement of faith/(draft)Jesus' death was prophesied.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Writing is Iterative"
+              "title": "Outline of (draft)Jesus' death was prophesied"
             }
           },
           {
@@ -357,11 +379,55 @@
               "title": "Calendar"
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "fd7ca84030aa0989",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b133ec98811324f1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "content/notes/statement of faith/(draft)Jesus' death was prophesied.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.524794520547945,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.825636007827789,
+                  "repelStrength": 5.11545988258317,
+                  "linkStrength": 0.581409001956947,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of (draft)Jesus' death was prophesied"
+            }
+          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
+    "width": 573.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -396,17 +462,22 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "055a61e7f3427fb4",
+  "active": "cc53b49e2e934b40",
   "lastOpenFiles": [
+    "Bible/Berean Bible verse numbers.md",
+    "content/notes/statement of faith/(draft)Jesus' death was prophesied.md",
+    "Suggestions.md",
+    "content/notes/statement of faith/Belief that Saves.md",
+    "content/notes/statement of faith/The Gospel MOC.md",
+    "content/notes/statement of faith/The Gospel Message.md",
+    "AI Prompts/API Suggest missing notes.md",
+    "content/notes/statement of faith/Resurrection and Appearances MOC.md",
     "drafts/Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation.md",
     "content/notes/statement of faith/Christ Died for Our Sins.md",
-    "Suggestions.md",
     "drafts/Doctrinal systems - history.md",
     "drafts/Doctrinal systems.md",
     "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
     "content/notes/statement of faith/The Gospel and Salvation.md",
-    "content/notes/statement of faith/The Gospel MOC.md",
-    "content/notes/statement of faith/Resurrection and Appearances MOC.md",
     "AI Prompts/API Review Note Structure.md",
     "content/notes/statement of faith/Salvation and Justification MOC.md",
     "AI Prompts/API Review Note Connections.md",
@@ -420,11 +491,6 @@
     "content/notes/statement of faith/Transformed by the Gospel.md",
     "content/notes/statement of faith/The Gospel Demands a Response.md",
     "content/notes/statement of faith/Salvation through Confession.md",
-    "content/notes/statement of faith/Saved by the Gospel.md",
-    "content/notes/statement of faith/Paul Preached the Gospel.md",
-    "content/notes/statement of faith/Christ Was Raised on the Third Day.md",
-    "content/notes/statement of faith/According to the Scriptures.md",
-    "content/notes/statement of faith/Belief that Saves.md",
     "tools/suggest-missing-notes.bat",
     "tools/review-structures.bat",
     "tools/review-connections.bat",

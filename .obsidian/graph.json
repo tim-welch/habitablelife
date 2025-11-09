@@ -1,12 +1,27 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:\"content/notes/statement of faith\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#type/moc  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -14,9 +29,9 @@
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0.555139186295503,
-  "repelStrength": 8.47608850820842,
-  "linkStrength": 0.378122769450393,
-  "linkDistance": 194,
+  "repelStrength": 12.334637964775,
+  "linkStrength": 0,
+  "linkDistance": 114,
   "scale": 0.6906394964510807,
   "close": true
 }

@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "(draft)Jesus' death was prophesied",
+      "path": "content/notes/statement of faith/(draft)Jesus' death was prophesied.md"
+    },
+    {
+      "basename": "Berean Bible verse numbers",
+      "path": "Bible/Berean Bible verse numbers.md"
+    },
+    {
       "basename": "Suggestions",
       "path": "Suggestions.md"
+    },
+    {
+      "basename": "Belief that Saves",
+      "path": "content/notes/statement of faith/Belief that Saves.md"
+    },
+    {
+      "basename": "The Gospel MOC",
+      "path": "content/notes/statement of faith/The Gospel MOC.md"
+    },
+    {
+      "basename": "The Gospel Message",
+      "path": "content/notes/statement of faith/The Gospel Message.md"
+    },
+    {
+      "basename": "API Suggest missing notes",
+      "path": "AI Prompts/API Suggest missing notes.md"
+    },
+    {
+      "basename": "Resurrection and Appearances MOC",
+      "path": "content/notes/statement of faith/Resurrection and Appearances MOC.md"
     },
     {
       "basename": "Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation",
@@ -27,14 +55,6 @@
     {
       "basename": "The Gospel and Salvation",
       "path": "content/notes/statement of faith/The Gospel and Salvation.md"
-    },
-    {
-      "basename": "The Gospel MOC",
-      "path": "content/notes/statement of faith/The Gospel MOC.md"
-    },
-    {
-      "basename": "Resurrection and Appearances MOC",
-      "path": "content/notes/statement of faith/Resurrection and Appearances MOC.md"
     },
     {
       "basename": "API Review Note Structure",
@@ -101,28 +121,12 @@
       "path": "content/notes/statement of faith/According to the Scriptures.md"
     },
     {
-      "basename": "Belief that Saves",
-      "path": "content/notes/statement of faith/Belief that Saves.md"
-    },
-    {
-      "basename": "The Gospel Message",
-      "path": "content/notes/statement of faith/The Gospel Message.md"
-    },
-    {
       "basename": "Christ Reconciles All Things to God Through His Blood",
       "path": "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md"
     },
     {
-      "basename": "API Suggest missing notes",
-      "path": "AI Prompts/API Suggest missing notes.md"
-    },
-    {
       "basename": "API Verse suggestions",
       "path": "AI Prompts/API Verse suggestions.md"
-    },
-    {
-      "basename": "Berean Bible verse numbers",
-      "path": "Bible/Berean Bible verse numbers.md"
     },
     {
       "basename": "2 Peter 1",
@@ -195,10 +199,6 @@
     {
       "basename": "Philosophy of Theological Triage",
       "path": "drafts/Philosophy of Theological Triage.md"
-    },
-    {
-      "basename": "Text diagram of the statement of faith",
-      "path": "drafts/Text diagram of the statement of faith.md"
     }
   ],
   "omittedPaths": [
