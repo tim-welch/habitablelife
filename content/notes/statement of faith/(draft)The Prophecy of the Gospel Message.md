@@ -16,13 +16,14 @@ Isaiah 53 foretold the essential gospel message later declared by Paul in 1 Cori
 
 ## Explanation
 
-Both Isaiah and Paul use the same structure for this good news:  In Acts 8, Philip tells the eunuch that Isaiah 53 is about Jesus.
+Isaiah's description of what would happen to God's Servant is Paul's gospel "of first importance": the Servant's death, burial, and resurrection. In Acts 8, Philip tells the eunuch that the Servant in Isaiah 53 is Jesus.
 
-- Isaiah's description of the Servant as pierced for our transgressions, crushed for our iniquities, and cut off from the land of the living was fulfilled in Jesus’ crucifixion.
-- That He was assigned a grave with the wicked and with a rich man in His death was fulfilled in Jesus’ burial.
-- Then the Servant would see the light of life after His suffering was fulfilled in the resurrection.
-- Paul summarizes this same pattern of death, burial, and resurrection, calling it the gospel "of first importance".
-- 
+| Isaiah 53                                                                                                          | 1 Corinthians 15:3-4                  |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------- |
+| The Servant as pierced for our transgressions, crushed for our iniquities, and cut off from the land of the living | Jesus' death by cruxifiction          |
+| The Servant was assigned a grave with the wicked and with a rich man in His death                                  | Jesus' burial in a rich man's tomb |
+| The Servant would see the light of life after His suffering was fulfilled                                          | Jesus' resurrection                                      |
+
 
 ## Connections
 
