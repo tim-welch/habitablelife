@@ -117,9 +117,33 @@
               "icon": "lucide-file",
               "title": "Berean Bible verse numbers"
             }
+          },
+          {
+            "id": "0e9686e29e809262",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "drafts/Philosophy of Theological Triage.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Philosophy of Theological Triage"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "fa18a0de78b4f70e",
@@ -257,7 +281,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:content/notes hosea ",
+                "query": "file:MOC.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -297,8 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5,
-    "collapsed": true
+    "width": 378.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -314,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Suggestions.md",
+                "file": "drafts/Philosophy of Theological Triage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -324,7 +347,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Suggestions"
+              "title": "Backlinks for Philosophy of Theological Triage"
             }
           },
           {
@@ -347,13 +370,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Suggestions.md",
+                "file": "drafts/Philosophy of Theological Triage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Suggestions"
+              "title": "Outline of Philosophy of Theological Triage"
             }
           },
           {
@@ -393,7 +416,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Suggestions.md",
+                "file": "drafts/Philosophy of Theological Triage.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -421,7 +444,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Suggestions"
+              "title": "Graph of Philosophy of Theological Triage"
             }
           }
         ]
@@ -463,24 +486,25 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "055a61e7f3427fb4",
+  "active": "0e9686e29e809262",
   "lastOpenFiles": [
+    "AI Prompts/API Review Note Structure.md",
+    "AI Prompts/API Suggest Missing Notes.md",
+    "AI Prompts/API Suggest New Doctrinal Direction.md",
     "Bible/Berean Bible verse numbers.md",
+    "content/notes/statement of faith/The Gospel MOC.md",
+    "content/notes/statement of faith/Salvation and Justification MOC.md",
+    "content/notes/statement of faith/Resurrection and Appearances MOC.md",
+    "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
     "Suggestions.md",
     "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
-    "content/notes/statement of faith/The Gospel MOC.md",
     "content/notes/statement of faith/The Gospel Message.md",
     "content/notes/statement of faith/Belief that Saves.md",
-    "AI Prompts/API Suggest missing notes.md",
-    "content/notes/statement of faith/Resurrection and Appearances MOC.md",
     "drafts/Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation.md",
     "content/notes/statement of faith/Christ Died for Our Sins.md",
     "drafts/Doctrinal systems - history.md",
     "drafts/Doctrinal systems.md",
-    "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
     "content/notes/statement of faith/The Gospel and Salvation.md",
-    "AI Prompts/API Review Note Structure.md",
-    "content/notes/statement of faith/Salvation and Justification MOC.md",
     "AI Prompts/API Review Note Connections.md",
     "tools/review-structure.bat",
     "content/notes/statement of faith/Justified by His Grace.md",
@@ -491,7 +515,6 @@
     "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
     "content/notes/statement of faith/Transformed by the Gospel.md",
     "content/notes/statement of faith/The Gospel Demands a Response.md",
-    "content/notes/statement of faith/Salvation through Confession.md",
     "tools/suggest-missing-notes.bat",
     "tools/review-structures.bat",
     "tools/review-connections.bat",

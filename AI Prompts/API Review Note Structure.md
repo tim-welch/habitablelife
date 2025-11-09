@@ -23,11 +23,25 @@ When reviewing the notes provided, perform the following steps:
 ### **Format**
 
 Return the output in markdown:
+```markdown
+## Suggested Directions for Expansion
 
-- `## Draft Structure Notes`  
-    Full drafts of the proposed structure notes, formatted as individual markdown notes with links and headings. Include these headings: 
-    - `## Key Elements` - the bulk of the note. This should include an outline of the notes that make up this MOC.
-    - `## Related Concepts` - other atomic notes and MOCs that are related to this MOC
+### 1. [Title of Direction]
+**Involves:** Brief explanation of the theological issue, question, or concept to explore.  
+**Grows out of:** [[Note A]], [[Note B]], ...  
+**Why it’s valuable:** Explain how this expansion could clarify, develop, or systematize the theology further.
+
+### 2. [Title of Direction]
+**Involves:** ...  
+**Grows out of:** ...  
+**Why it’s valuable:** ...
+
+### 3. [Title of Direction]
+**Involves:** ...  
+**Grows out of:** ...  
+**Why it’s valuable:** ...
+```
+
 
 ### **Target Audience**
 

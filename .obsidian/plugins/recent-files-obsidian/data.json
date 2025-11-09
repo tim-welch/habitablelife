@@ -1,20 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Suggestions",
-      "path": "Suggestions.md"
+      "basename": "Philosophy of Theological Triage",
+      "path": "drafts/Philosophy of Theological Triage.md"
+    },
+    {
+      "basename": "API Review Note Structure",
+      "path": "AI Prompts/API Review Note Structure.md"
+    },
+    {
+      "basename": "API Suggest Missing Notes",
+      "path": "AI Prompts/API Suggest Missing Notes.md"
+    },
+    {
+      "basename": "API Suggest New Doctrinal Direction",
+      "path": "AI Prompts/API Suggest New Doctrinal Direction.md"
     },
     {
       "basename": "Berean Bible verse numbers",
       "path": "Bible/Berean Bible verse numbers.md"
     },
     {
-      "basename": "The Prophecy of the Gospel Message",
-      "path": "content/notes/statement of faith/The Prophecy of the Gospel Message.md"
-    },
-    {
       "basename": "The Gospel MOC",
       "path": "content/notes/statement of faith/The Gospel MOC.md"
+    },
+    {
+      "basename": "Salvation and Justification MOC",
+      "path": "content/notes/statement of faith/Salvation and Justification MOC.md"
+    },
+    {
+      "basename": "Resurrection and Appearances MOC",
+      "path": "content/notes/statement of faith/Resurrection and Appearances MOC.md"
+    },
+    {
+      "basename": "Christ's Work and Reconciliation MOC",
+      "path": "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md"
+    },
+    {
+      "basename": "Suggestions",
+      "path": "Suggestions.md"
+    },
+    {
+      "basename": "The Prophecy of the Gospel Message",
+      "path": "content/notes/statement of faith/The Prophecy of the Gospel Message.md"
     },
     {
       "basename": "The Gospel Message",
@@ -23,14 +51,6 @@
     {
       "basename": "Belief that Saves",
       "path": "content/notes/statement of faith/Belief that Saves.md"
-    },
-    {
-      "basename": "API Suggest missing notes",
-      "path": "AI Prompts/API Suggest missing notes.md"
-    },
-    {
-      "basename": "Resurrection and Appearances MOC",
-      "path": "content/notes/statement of faith/Resurrection and Appearances MOC.md"
     },
     {
       "basename": "Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation",
@@ -49,20 +69,8 @@
       "path": "drafts/Doctrinal systems.md"
     },
     {
-      "basename": "Christ's Work and Reconciliation MOC",
-      "path": "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md"
-    },
-    {
       "basename": "The Gospel and Salvation",
       "path": "content/notes/statement of faith/The Gospel and Salvation.md"
-    },
-    {
-      "basename": "API Review Note Structure",
-      "path": "AI Prompts/API Review Note Structure.md"
-    },
-    {
-      "basename": "Salvation and Justification MOC",
-      "path": "content/notes/statement of faith/Salvation and Justification MOC.md"
     },
     {
       "basename": "API Review Note Connections",
@@ -191,14 +199,6 @@
     {
       "basename": "Doctrine Category MOC template",
       "path": "drafts/Doctrine Category MOC template.md"
-    },
-    {
-      "basename": "The wages of sin is death",
-      "path": "drafts/next/the gospel/The wages of sin is death.md"
-    },
-    {
-      "basename": "Philosophy of Theological Triage",
-      "path": "drafts/Philosophy of Theological Triage.md"
     }
   ],
   "omittedPaths": [

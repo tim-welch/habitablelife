@@ -1,6 +1,6 @@
 ---
 tags:
-  - type/moc
+  - type/structure
   - status/discovery
 ---
 
