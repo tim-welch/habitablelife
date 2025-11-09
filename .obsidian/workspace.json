@@ -100,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/(draft)Jesus' death was prophesied.md",
+                "file": "content/notes/statement of faith/(draft)The Prophesy of the Gospel Message.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -115,7 +115,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "(draft)Jesus' death was prophesied"
+              "title": "(draft)The Prophesy of the Gospel Message"
             }
           }
         ],
@@ -225,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -313,7 +313,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/statement of faith/(draft)Jesus' death was prophesied.md",
+                "file": "content/notes/statement of faith/(draft)The Prophesy of the Gospel Message.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +323,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (draft)Jesus' death was prophesied"
+              "title": "Backlinks for (draft)The Prophesy of the Gospel Message"
             }
           },
           {
@@ -346,13 +346,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/statement of faith/(draft)Jesus' death was prophesied.md",
+                "file": "content/notes/statement of faith/(draft)The Prophesy of the Gospel Message.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (draft)Jesus' death was prophesied"
+              "title": "Outline of (draft)The Prophesy of the Gospel Message"
             }
           },
           {
@@ -392,7 +392,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notes/statement of faith/(draft)Jesus' death was prophesied.md",
+                "file": "content/notes/statement of faith/(draft)The Prophesy of the Gospel Message.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -420,7 +420,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of (draft)Jesus' death was prophesied"
+              "title": "Graph of (draft)The Prophesy of the Gospel Message"
             }
           }
         ]
@@ -464,12 +464,12 @@
   },
   "active": "cc53b49e2e934b40",
   "lastOpenFiles": [
+    "content/notes/statement of faith/The Gospel MOC.md",
+    "content/notes/statement of faith/(draft)The Prophesy of the Gospel Message.md",
+    "content/notes/statement of faith/The Gospel Message.md",
     "Bible/Berean Bible verse numbers.md",
-    "content/notes/statement of faith/(draft)Jesus' death was prophesied.md",
     "Suggestions.md",
     "content/notes/statement of faith/Belief that Saves.md",
-    "content/notes/statement of faith/The Gospel MOC.md",
-    "content/notes/statement of faith/The Gospel Message.md",
     "AI Prompts/API Suggest missing notes.md",
     "content/notes/statement of faith/Resurrection and Appearances MOC.md",
     "drafts/Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation.md",
