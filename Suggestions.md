@@ -1,11 +1,6 @@
 ## Suggested Missing Notes
 
-1. **The Role of Prophecy in the Gospel Message**
-   - **Description**: Explore how Old Testament prophecies are fulfilled in the New Testament through the life, death, and resurrection of Jesus Christ. This note would provide a deeper understanding of the continuity between the Testaments and how prophecy serves as a foundation for the gospel message.
-   - **Connections**: Links to [[According to the Scriptures]], [[The Gospel Message]], [[Christ Died for Our Sins]], and [[Christ Was Raised on the Third Day]].
-   - **Key Scripture**: Isaiah 53, Psalm 22, and Luke 24:44.
-
-2. **The Nature of Faith in Salvation**
+1. **The Nature of Faith in Salvation**
    - **Description**: Discuss the characteristics of saving faith, distinguishing it from mere intellectual assent. This note would clarify the biblical understanding of faith as trust and reliance on Christ for salvation.
    - **Connections**: Links to [[Belief that Saves]], [[Salvation through Confession]], and [[Hold Firmly to the Gospel]].
    - **Key Scripture**: Hebrews 11:1, Romans 10:17, and James 2:17.

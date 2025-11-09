@@ -74,7 +74,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/(draft)The Prophecy of the Gospel Message.md",
+                "file": "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -89,17 +89,9 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "(draft)The Prophecy of the Gospel Message"
+              "title": "The Prophecy of the Gospel Message"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "fa18a0de78b4f70e",
-        "type": "tabs",
-        "dimension": 35.2212389380531,
-        "children": [
+          },
           {
             "id": "3631f770081d71b0",
             "type": "leaf",
@@ -125,7 +117,15 @@
               "icon": "lucide-file",
               "title": "Berean Bible verse numbers"
             }
-          },
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "fa18a0de78b4f70e",
+        "type": "tabs",
+        "dimension": 35.2212389380531,
+        "children": [
           {
             "id": "605da27d32122190",
             "type": "leaf",
@@ -206,7 +206,7 @@
               "type": "markdown",
               "state": {
                 "file": "Suggestions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -224,7 +224,8 @@
               "title": "Suggestions"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/statement of faith/(draft)The Prophecy of the Gospel Message.md",
+                "file": "Suggestions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +324,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (draft)The Prophecy of the Gospel Message"
+              "title": "Backlinks for Suggestions"
             }
           },
           {
@@ -346,13 +347,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/notes/statement of faith/(draft)The Prophecy of the Gospel Message.md",
+                "file": "Suggestions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of (draft)The Prophecy of the Gospel Message"
+              "title": "Outline of Suggestions"
             }
           },
           {
@@ -392,7 +393,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "content/notes/statement of faith/(draft)The Prophecy of the Gospel Message.md",
+                "file": "Suggestions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -420,7 +421,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of (draft)The Prophecy of the Gospel Message"
+              "title": "Graph of Suggestions"
             }
           }
         ]
@@ -462,13 +463,13 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "cc53b49e2e934b40",
+  "active": "055a61e7f3427fb4",
   "lastOpenFiles": [
     "Bible/Berean Bible verse numbers.md",
-    "content/notes/statement of faith/(draft)The Prophecy of the Gospel Message.md",
+    "Suggestions.md",
+    "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
     "content/notes/statement of faith/The Gospel MOC.md",
     "content/notes/statement of faith/The Gospel Message.md",
-    "Suggestions.md",
     "content/notes/statement of faith/Belief that Saves.md",
     "AI Prompts/API Suggest missing notes.md",
     "content/notes/statement of faith/Resurrection and Appearances MOC.md",
