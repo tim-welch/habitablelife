@@ -10,8 +10,23 @@ if not "%first%"=="" (
     if exist "%first%" (
       set "EXTRA=--instructions=%~1"
       shift
+    ) else (
+      REM Also check ..\prompts\api relative to this script's directory
+      set "alt=%~dp0..\prompts\api\%~1"
+      if exist "!alt!" (
+        set "EXTRA=--instructions=!alt!"
+        shift
+      ) else (
+        REM Try again with .md extension
+        set "altmd=%~dp0..\prompts\api\%~1.md"
+        if exist "!altmd!" (
+          set "EXTRA=--instructions=!altmd!"
+          shift
+        )
+      )
     )
   )
 )
 
-python tools\smartnotes\sm.py --print-context-summary --include-file-names --max-tokens=2000 %EXTRA% %
+
+python tools\smartnotes\sm.py --print-context-summary --include-file-names --max-tokens=2000 %EXTRA% %*

@@ -1,0 +1,1 @@
+.\review.bat backlinker %*

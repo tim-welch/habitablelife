@@ -13,10 +13,6 @@
       "path": "prompts/api/missing.md"
     },
     {
-      "basename": "expand",
-      "path": "prompts/api/expand.md"
-    },
-    {
       "basename": "backlinker",
       "path": "prompts/api/backlinker.md"
     },
