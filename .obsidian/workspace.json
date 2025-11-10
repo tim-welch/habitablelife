@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/api/verse-linker.md",
+                "file": "drafts/Philosophy of Theological Triage.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -88,7 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "verse-linker"
+              "title": "Philosophy of Theological Triage"
             }
           },
           {
@@ -479,6 +479,7 @@
   },
   "active": "cc53b49e2e934b40",
   "lastOpenFiles": [
+    "prompts/api/verse-linker.md",
     "prompts/api/expander.md",
     "tools/expander.bat",
     "tools/backlinker.bat",
@@ -493,7 +494,6 @@
     "prompts/api/expand.md",
     "prompts/api/backlinker.md",
     "prompts/api",
-    "prompts/api/verse-linker.md",
     "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
     "Suggestions.md",
     "drafts/Philosophy of Theological Triage.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Philosophy of Theological Triage",
+      "path": "drafts/Philosophy of Theological Triage.md"
+    },
+    {
       "basename": "verse-linker",
       "path": "prompts/api/verse-linker.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Suggestions",
       "path": "Suggestions.md"
-    },
-    {
-      "basename": "Philosophy of Theological Triage",
-      "path": "drafts/Philosophy of Theological Triage.md"
     },
     {
       "basename": "Berean Bible verse numbers",

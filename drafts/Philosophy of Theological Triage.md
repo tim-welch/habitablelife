@@ -7,100 +7,80 @@ tags:
 
 ## Purpose
 
-This note explains how I prioritize theological beliefs based on their relationship to the gospel, the health of the church, and Christian fellowship.  
+This note explains how I prioritize theological beliefs based on their relationship to the gospel, the foundations that make it true, the effects that follow from it, and the doctrinal pillars that support and systematize the whole structure. Around all of these lie peripheral doctrines that are still important, but less central to salvation and Christian unity.
 
 The goal is to hold truth firmly while maintaining unity where possible.
 
-## Definition
-
-**Theological triage** is the process of distinguishing between doctrines of greater and lesser importance.  
-
-In software engineering, we triage bugs to determine their impact on users and how they rank against other work.  
-
-The same principle applies to theology: not every disagreement deserves equal attention.  
-Some doctrines are critical because they define the gospel itself, while others clarify, support, or express it in practice.
-
 ## The Gospel as the Center
 
-The gospel of Jesus Christ is the immovable center of all theology.  
-Every doctrine’s importance is measured by how close it stands to the gospel’s core truth:  
+The gospel of Jesus Christ is the immovable center of all theology. Every doctrine's importance is measured by how closely it stands to the gospel's core truth:
 
-> “Christ died for our sins according to the Scriptures, that He was buried, and that He was raised on the third day according to the Scriptures.” — 1 Corinthians 15:3–4
+> "Christ died for our sins according to the Scriptures, that He was buried, and that He was raised on the third day according to the Scriptures." - 1 Corinthians 15:3–4
 
-From this center, all other doctrines form **rings** that expand outward in relationship to the gospel.
+This is what must be _believed_ for salvation. It is the core message a person must understand and receive by faith to be saved.
 
----
+## Rings of Theological Priority
 
-## The Rings of Theological Priority
+Visualize theological truth as structured in **concentric rings**, each one building outward from the gospel:
 
-| Ring | Focus | Description |
-|------|--------|-------------|
-| **Core Gospel** | The message itself | What must be believed for salvation. The good news that God sent His Son, Jesus Christ, to save the world through His death and resurrection. |
-| **Ring 1 – Salvation** | Receiving the gospel | What must be understood and believed to receive salvation: sin, who Jesus is, faith and repentance, grace, and the cross. |
-| **Ring 2 – Result of Salvation** | Living the gospel | What happens when someone believes: union with Christ, new creation, and eternal life. |
-| **Ring 3 – Foundation of Salvation** | What makes the gospel possible | Doctrines that must be true for salvation to be true: the Trinity, God’s attributes, His faithfulness, the Spirit’s work, and the authority of Scripture. |
-| **Orbiting Doctrines** | The outworking of the gospel | Doctrines that depend on the gospel’s truth but develop independently, such as the church, ethics, creation, and eschatology. |
+|Ring|Name|Focus|Description|
+|---|---|---|---|
+|🟡|**Core Gospel**|Belief required for salvation|The saving message itself, what must be understood and believed to receive eternal life.|
+|🔵|**Foundational Truths**|Truths required for gospel coherence|Doctrines that must be true for the gospel to be valid, though they may not be fully understood at the moment of belief.|
+|🟠|**Salvation's Effects**|What results from salvation|Doctrines that explain what happens when someone is saved, such as union with Christ and regeneration.|
+|🟣|**Theological Pillars**|Structural support for gospel theology|Doctrines that uphold and systematize the gospel, providing depth and coherence without being part of its core.|
+|⚪|**Peripheral Doctrines**|Secondary beliefs shaped by the gospel|Doctrines important for discipleship, church life, or theology, but not essential for salvation or gospel clarity.|
 
-Each ring depends on the one before it, and everything depends on the gospel at the center.  
-
-Doctrines closer to the center carry more weight and are worth stronger defense.  
-
-Doctrines further out still matter, but faithful believers can differ without breaking fellowship.
-
----
+Each inner ring shapes and supports the ones outside it. Denial of doctrines near the center threatens the gospel; disagreement in outer rings calls for charity.
 
 ## Guiding Principles
 
 1. **Clarity before placement**  
-   Define each doctrine carefully before deciding where it belongs. Misunderstanding often looks like disagreement.
-
+    Define each doctrine carefully before assigning its theological weight. Misunderstanding often looks like disagreement.
+    
 2. **Proximity to the gospel**  
-   The closer a doctrine stands to the gospel’s saving message, the more essential it is.
-
-3. **Scriptural emphasis**  
-   Doctrines that Scripture teaches clearly and repeatedly carry greater authority than those derived from inference or silence.
-
-4. **Dependence and coherence**  
-   Some truths must exist for the gospel to be coherent (e.g., God’s faithfulness, Christ’s divinity). These belong in foundational rings even if they are not part of initial belief.
-
-5. **Church impact**  
-   Teachings that shape the church’s health, order, or unity belong closer to the center than those that concern individual conviction or interpretation.
-
-6. **Charity in differences**  
-   The further a doctrine stands from the gospel center, the greater the need for humility and charity.
-
-7. **Consistency with character**  
-   Theological precision without love contradicts Christ. “Knowledge puffs up, but love builds up” (1 Corinthians 8:1).
-
----
+    The closer a doctrine stands to the gospel's saving message, the more essential it is.
+    
+3. **Ontological necessity vs. epistemic belief**  
+    Some truths must _exist_ for the gospel to be true, even if the believer doesn't yet know or affirm them.
+    
+4. **Doctrinal coherence**  
+    Structural doctrines (pillars) matter because they stabilize theology, not because they are saving knowledge.
+    
+5. **Church health and unity**  
+    Teachings that influence church unity or witness should be held firmly but humbly.
+    
+6. **Charity and wisdom**  
+    The further a doctrine stands from the gospel center, the more it calls for patience and generosity.
+    
+7. **Love as the measure**  
+    Theological precision must be shaped by Christlike character: "Knowledge puffs up, but love builds up" (1 Corinthians 8:1).
+    
 
 ## Diagnostic Questions
 
-When discerning where a doctrine belongs, I ask:
+Use these questions to triage any doctrine:
 
-1. **Core Gospel:** Must a person believe this to be saved?  
-2. **Ring 1 – Salvation:** Does this truth clarify or directly explain how someone is saved?  
-3. **Ring 2 – Result of Salvation:** Does this describe what happens when someone believes?  
-4. **Ring 3 – Foundation of Salvation:** Must this be true for the gospel to be true?  
-5. **Orbiting Doctrines:** Does this depend on the gospel but not directly affect it?  
-6. **Unity and Witness:** Would disagreement here damage gospel fellowship or the church’s mission?
-
----
+1. **Core Gospel:** Must this be believed to be saved?
+2. **Foundational Truths:** Must this be true for the gospel to be true?
+3. **Salvation's Effects:** Does this describe what God does in salvation?
+4. **Theological Pillars:** Does this provide essential structure for gospel-based theology?
+5. **Peripheral Doctrines:** Is this shaped by the gospel but open to faithful disagreement?
+    
 
 ## Practical Application
 
-Theological triage keeps me both **anchored and charitable**.  
+Theological triage helps me stay both **anchored and charitable**:
 
-- It helps me **defend essentials** with confidence and conviction.  
-- It helps me **teach supporting truths** with clarity and coherence.  
-- It helps me **approach secondary matters** with humility and patience.  
-- It helps me **celebrate diversity** in non-essential beliefs while keeping Christ at the center.  
+- It helps me **guard the gospel** with clarity and conviction.
+- It helps me **teach foundational truth** with coherence and confidence.
+- It helps me **frame disagreement** with humility and wisdom.
+- It helps me **recognize unity** where the essentials are shared.
 
-> “In essentials, unity; in non-essentials, liberty; in all things, charity.”  
+> "In essentials, unity; in non-essentials, liberty; in all things, charity."  
 > — Commonly attributed to **Rupertus Meldenius (Peter Meiderlin)**, 17th-century Lutheran theologian.
 
----
-
 ## Connections
-- [[0000 - Statement of Faith]]  
+
+- [[0000 - Statement of Faith]]
 - [[0100 - The Gospel]]
