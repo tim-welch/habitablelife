@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/Philosophy of Theological Triage.md",
+                "file": "content/notes/Philosophy of Theological Triage.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -477,7 +477,7 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "cc53b49e2e934b40",
+  "active": "dbbc13162e881098",
   "lastOpenFiles": [
     "prompts/api/verse-linker.md",
     "prompts/api/expander.md",
@@ -496,7 +496,7 @@
     "prompts/api",
     "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
     "Suggestions.md",
-    "drafts/Philosophy of Theological Triage.md",
+    "content/notes/Philosophy of Theological Triage.md",
     "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/The Gospel MOC.md",
     "content/notes/statement of faith/Salvation and Justification MOC.md",
