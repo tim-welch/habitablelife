@@ -68,37 +68,7 @@
             ]
           },
           {
-            "id": "f772014f681e8257",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1ff7349394a05ed",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "prompts/api/missing.md",
-                    "mode": "preview",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "missing"
-                }
-              }
-            ]
-          },
-          {
-            "id": "f15ea3a9d35aafe1",
+            "id": "602cda8244a87fcc",
             "type": "tabs",
             "children": [
               {
@@ -123,6 +93,36 @@
                   },
                   "icon": "lucide-file",
                   "title": "structure"
+                }
+              }
+            ]
+          },
+          {
+            "id": "d34a22a9ea5eb33e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f1ff7349394a05ed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "prompts/api/missing.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "missing"
                 }
               }
             ]
@@ -396,10 +396,10 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "cc53b49e2e934b40",
+  "active": "f1ff7349394a05ed",
   "lastOpenFiles": [
-    "prompts/api/verse-linker.md",
     "prompts/api/backlinker.md",
+    "prompts/api/verse-linker.md",
     "prompts/api/structure.md",
     "prompts/api/missing.md",
     "prompts/api/expander.md",

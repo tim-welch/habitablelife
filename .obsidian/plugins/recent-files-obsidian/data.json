@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "missing",
+      "path": "prompts/api/missing.md"
+    },
+    {
       "basename": "backlinker",
       "path": "prompts/api/backlinker.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "structure",
       "path": "prompts/api/structure.md"
-    },
-    {
-      "basename": "missing",
-      "path": "prompts/api/missing.md"
     },
     {
       "basename": "expander",

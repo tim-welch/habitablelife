@@ -24,6 +24,10 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "prompts/api/missing.md",
+      "timestamp": 1762822162128
+    },
+    {
       "filepath": "prompts/api/backlinker.md",
       "timestamp": 1762821718714
     },
@@ -34,10 +38,6 @@
     {
       "filepath": "prompts/api/structure.md",
       "timestamp": 1762820668675
-    },
-    {
-      "filepath": "prompts/api/missing.md",
-      "timestamp": 1762820668099
     },
     {
       "filepath": "prompts/api/expander.md",
