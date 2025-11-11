@@ -8,36 +8,6 @@
         "type": "split",
         "children": [
           {
-            "id": "41e1cb7d42746603",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f1ff7349394a05ed",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "prompts/api/missing.md",
-                    "mode": "preview",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "missing"
-                }
-              }
-            ]
-          },
-          {
             "id": "39d40dfb510c14ec",
             "type": "tabs",
             "children": [
@@ -48,7 +18,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "prompts/api/verse-linker.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -93,6 +63,36 @@
                   },
                   "icon": "lucide-file",
                   "title": "backlinker"
+                }
+              }
+            ]
+          },
+          {
+            "id": "f772014f681e8257",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f1ff7349394a05ed",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "prompts/api/missing.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "missing"
                 }
               }
             ]
@@ -396,13 +396,13 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "cc53b49e2e934b40",
+  "active": "c1b50b10b86236aa",
   "lastOpenFiles": [
+    "prompts/api/backlinker.md",
     "prompts/api/verse-linker.md",
     "prompts/api/structure.md",
     "prompts/api/missing.md",
     "prompts/api/expander.md",
-    "prompts/api/backlinker.md",
     "content/notes/Philosophy of Theological Triage.md",
     "tools/expander.bat",
     "tools/backlinker.bat",
