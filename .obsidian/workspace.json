@@ -396,10 +396,10 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "c1b50b10b86236aa",
+  "active": "cc53b49e2e934b40",
   "lastOpenFiles": [
-    "prompts/api/backlinker.md",
     "prompts/api/verse-linker.md",
+    "prompts/api/backlinker.md",
     "prompts/api/structure.md",
     "prompts/api/missing.md",
     "prompts/api/expander.md",

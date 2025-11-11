@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "verse-linker",
-      "path": "prompts/api/verse-linker.md"
-    },
-    {
       "basename": "backlinker",
       "path": "prompts/api/backlinker.md"
+    },
+    {
+      "basename": "verse-linker",
+      "path": "prompts/api/verse-linker.md"
     },
     {
       "basename": "structure",
