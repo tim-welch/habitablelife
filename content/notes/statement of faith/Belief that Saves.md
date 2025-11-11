@@ -2,6 +2,7 @@
 tags:
   - type/atomic
   - status/discovery
+  - ring/core-gospel
 ---
 
 ## Summary

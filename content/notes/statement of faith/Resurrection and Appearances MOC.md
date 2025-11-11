@@ -2,6 +2,7 @@
 tags:
   - type/structure
   - status/discovery
+  - ring/theological-pillars
 ---
 
 This MOC focuses on the resurrection of Jesus Christ and His post-resurrection appearances, which are foundational to Christian doctrine.

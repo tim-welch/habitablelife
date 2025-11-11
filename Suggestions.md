@@ -1,21 +1,48 @@
-## Suggested Missing Notes
+## Ring Tag Review
 
-1. **The Nature of Faith in Salvation**
-   - **Description**: Discuss the characteristics of saving faith, distinguishing it from mere intellectual assent. This note would clarify the biblical understanding of faith as trust and reliance on Christ for salvation.
-   - **Connections**: Links to [[Belief that Saves]], [[Salvation through Confession]], and [[Hold Firmly to the Gospel]].
-   - **Key Scripture**: Hebrews 11:1, Romans 10:17, and James 2:17.
+### [[Christ Reconciles All Things to God Through His Blood]]
+- **Current Tag:** `#ring/theological-pillars`
+- **Recommended Tag:** `#ring/salvations-effects`
+- **Reason:** This note discusses the reconciliation achieved through Christ's blood, which is an effect of salvation in the believer and creation, rather than a supporting doctrine.
 
-3. **The Concept of Atonement in Christian Theology**
-   - **Description**: Examine the theological concept of atonement, focusing on how Christ's death reconciles humanity to God. This note would provide a detailed look at various atonement theories and their biblical basis.
-   - **Connections**: Links to [[Christ Died for Our Sins]], [[Christ Reconciles All Things to God Through His Blood]], and [[Justified by His Grace]].
-   - **Key Scripture**: Leviticus 16, Romans 3:25, and 1 John 2:2.
+---
 
-4. **The Importance of the Resurrection in Christian Faith**
-   - **Description**: Analyze the significance of the resurrection in Christian doctrine, emphasizing its role in validating Jesus' divinity and the hope of eternal life.
-   - **Connections**: Links to [[Christ Was Raised on the Third Day]], [[Jesus Appeared After His Resurrection]], and [[The Gospel Message]].
-   - **Key Scripture**: 1 Corinthians 15:14-17, Romans 6:5, and 1 Peter 1:3.
+### [[The Prophecy of the Gospel Message]]
+- **Current Tag:** `#ring/foundational-truths`
+- **Recommended Tag:** `#ring/core-gospel`
+- **Reason:** This note outlines the prophecy of Christ's death, burial, and resurrection, which are core elements of the gospel message necessary for salvation.
 
-5. **The Work of the Holy Spirit in Salvation**
-   - **Description**: Explore the role of the Holy Spirit in the process of salvation, including regeneration, sanctification, and assurance of salvation.
-   - **Connections**: Links to [[Washed and Renewed by the Spirit]], [[Transformed by the Gospel]], and [[Justified by His Grace]].
-   - **Key Scripture**: John 3:5-8, Titus 3:5, and Ephesians 1:13-14.
+---
+
+### [[The Gospel and Salvation]]
+- **Current Tag:** `#ring/theological-pillars`
+- **Recommended Tag:** `#ring/core-gospel`
+- **Reason:** This note emphasizes the core gospel message and its role in salvation, which are central to the gospel and necessary for salvation.
+
+---
+
+### [[The Gospel MOC]]
+- **Current Tag:** `#ring/theological-pillars`
+- **Recommended Tag:** `#ring/core-gospel`
+- **Reason:** This note focuses on the core elements of the gospel message, which are essential for salvation and thus belong in the core gospel ring.
+
+---
+
+### [[Resurrection and Appearances MOC]]
+- **Current Tag:** `#ring/theological-pillars`
+- **Recommended Tag:** `#ring/core-gospel`
+- **Reason:** The resurrection and appearances of Jesus are central to the gospel message and necessary for salvation, thus belonging in the core gospel ring.
+
+---
+
+### [[Salvation and Justification MOC]]
+- **Current Tag:** `#ring/theological-pillars`
+- **Recommended Tag:** `#ring/core-gospel`
+- **Reason:** This note discusses salvation and justification, which are core aspects of the gospel necessary for salvation.
+
+---
+
+### [[Christ's Work and Reconciliation MOC]]
+- **Current Tag:** `#ring/theological-pillars`
+- **Recommended Tag:** `#ring/salvations-effects`
+- **Reason:** The note focuses on reconciliation and transformation, which are effects of salvation in the believer's life.

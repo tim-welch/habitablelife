@@ -2,6 +2,7 @@
 tags:
   - type/moc
   - status/discovery
+  - ring/theological-pillars
 ---
 
 This MOC explores the interconnected themes of the gospel message and the process of salvation, emphasizing the importance of faith, grace, and transformation through the Holy Spirit.

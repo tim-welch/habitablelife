@@ -1,6 +1,7 @@
 ---
 tags:
   - type/atomic
+  - ring/salvations-effects
 ---
 
 ## Summary

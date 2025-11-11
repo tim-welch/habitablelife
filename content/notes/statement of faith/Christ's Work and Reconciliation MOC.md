@@ -2,6 +2,7 @@
 tags:
   - type/structure
   - status/discovery
+  - ring/theological-pillars
 ---
 
 This MOC delves into the theological implications of Christ's work on the cross, focusing on reconciliation and the comprehensive scope of His redemptive act.

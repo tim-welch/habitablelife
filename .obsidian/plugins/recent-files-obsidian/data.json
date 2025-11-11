@@ -5,6 +5,102 @@
       "path": "prompts/api/ring.md"
     },
     {
+      "basename": "The Gospel and Salvation",
+      "path": "content/notes/statement of faith/The Gospel and Salvation.md"
+    },
+    {
+      "basename": "Suggestions",
+      "path": "Suggestions.md"
+    },
+    {
+      "basename": "Christ Reconciles All Things to God Through His Blood",
+      "path": "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md"
+    },
+    {
+      "basename": "The Prophecy of the Gospel Message",
+      "path": "content/notes/statement of faith/The Prophecy of the Gospel Message.md"
+    },
+    {
+      "basename": "Washed and Renewed by the Spirit",
+      "path": "content/notes/statement of faith/Washed and Renewed by the Spirit.md"
+    },
+    {
+      "basename": "Transformed by the Gospel",
+      "path": "content/notes/statement of faith/Transformed by the Gospel.md"
+    },
+    {
+      "basename": "The Gospel MOC",
+      "path": "content/notes/statement of faith/The Gospel MOC.md"
+    },
+    {
+      "basename": "The Gospel Message",
+      "path": "content/notes/statement of faith/The Gospel Message.md"
+    },
+    {
+      "basename": "The Gospel Demands a Response",
+      "path": "content/notes/statement of faith/The Gospel Demands a Response.md"
+    },
+    {
+      "basename": "Saved by the Gospel",
+      "path": "content/notes/statement of faith/Saved by the Gospel.md"
+    },
+    {
+      "basename": "Salvation through Confession",
+      "path": "content/notes/statement of faith/Salvation through Confession.md"
+    },
+    {
+      "basename": "Salvation and Justification MOC",
+      "path": "content/notes/statement of faith/Salvation and Justification MOC.md"
+    },
+    {
+      "basename": "Resurrection and Appearances MOC",
+      "path": "content/notes/statement of faith/Resurrection and Appearances MOC.md"
+    },
+    {
+      "basename": "Paul Preached the Gospel",
+      "path": "content/notes/statement of faith/Paul Preached the Gospel.md"
+    },
+    {
+      "basename": "Not by Righteous Deeds",
+      "path": "content/notes/statement of faith/Not by Righteous Deeds.md"
+    },
+    {
+      "basename": "Justified by His Grace",
+      "path": "content/notes/statement of faith/Justified by His Grace.md"
+    },
+    {
+      "basename": "Jesus Appeared After His Resurrection",
+      "path": "content/notes/statement of faith/Jesus Appeared After His Resurrection.md"
+    },
+    {
+      "basename": "Hold Firmly to the Gospel",
+      "path": "content/notes/statement of faith/Hold Firmly to the Gospel.md"
+    },
+    {
+      "basename": "Disobedient and Enslaved to Sin",
+      "path": "content/notes/statement of faith/Disobedient and Enslaved to Sin.md"
+    },
+    {
+      "basename": "Christ's Work and Reconciliation MOC",
+      "path": "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md"
+    },
+    {
+      "basename": "Christ Was Raised on the Third Day",
+      "path": "content/notes/statement of faith/Christ Was Raised on the Third Day.md"
+    },
+    {
+      "basename": "Christ Died for Our Sins",
+      "path": "content/notes/statement of faith/Christ Died for Our Sins.md"
+    },
+    {
+      "basename": "Belief that Saves",
+      "path": "content/notes/statement of faith/Belief that Saves.md"
+    },
+    {
+      "basename": "According to the Scriptures",
+      "path": "content/notes/statement of faith/According to the Scriptures.md"
+    },
+    {
       "basename": "missing",
       "path": "prompts/api/missing.md"
     },
@@ -29,48 +125,12 @@
       "path": "content/notes/Philosophy of Theological Triage.md"
     },
     {
-      "basename": "The Prophecy of the Gospel Message",
-      "path": "content/notes/statement of faith/The Prophecy of the Gospel Message.md"
-    },
-    {
-      "basename": "Suggestions",
-      "path": "Suggestions.md"
-    },
-    {
       "basename": "Berean Bible verse numbers",
       "path": "Bible/Berean Bible verse numbers.md"
     },
     {
-      "basename": "The Gospel MOC",
-      "path": "content/notes/statement of faith/The Gospel MOC.md"
-    },
-    {
-      "basename": "Salvation and Justification MOC",
-      "path": "content/notes/statement of faith/Salvation and Justification MOC.md"
-    },
-    {
-      "basename": "Resurrection and Appearances MOC",
-      "path": "content/notes/statement of faith/Resurrection and Appearances MOC.md"
-    },
-    {
-      "basename": "Christ's Work and Reconciliation MOC",
-      "path": "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md"
-    },
-    {
-      "basename": "The Gospel Message",
-      "path": "content/notes/statement of faith/The Gospel Message.md"
-    },
-    {
-      "basename": "Belief that Saves",
-      "path": "content/notes/statement of faith/Belief that Saves.md"
-    },
-    {
       "basename": "Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation",
       "path": "drafts/Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation.md"
-    },
-    {
-      "basename": "Christ Died for Our Sins",
-      "path": "content/notes/statement of faith/Christ Died for Our Sins.md"
     },
     {
       "basename": "Doctrinal systems - history",
@@ -79,66 +139,6 @@
     {
       "basename": "Doctrinal systems",
       "path": "drafts/Doctrinal systems.md"
-    },
-    {
-      "basename": "The Gospel and Salvation",
-      "path": "content/notes/statement of faith/The Gospel and Salvation.md"
-    },
-    {
-      "basename": "Justified by His Grace",
-      "path": "content/notes/statement of faith/Justified by His Grace.md"
-    },
-    {
-      "basename": "Washed and Renewed by the Spirit",
-      "path": "content/notes/statement of faith/Washed and Renewed by the Spirit.md"
-    },
-    {
-      "basename": "Hold Firmly to the Gospel",
-      "path": "content/notes/statement of faith/Hold Firmly to the Gospel.md"
-    },
-    {
-      "basename": "Jesus Appeared After His Resurrection",
-      "path": "content/notes/statement of faith/Jesus Appeared After His Resurrection.md"
-    },
-    {
-      "basename": "Not by Righteous Deeds",
-      "path": "content/notes/statement of faith/Not by Righteous Deeds.md"
-    },
-    {
-      "basename": "Disobedient and Enslaved to Sin",
-      "path": "content/notes/statement of faith/Disobedient and Enslaved to Sin.md"
-    },
-    {
-      "basename": "Transformed by the Gospel",
-      "path": "content/notes/statement of faith/Transformed by the Gospel.md"
-    },
-    {
-      "basename": "The Gospel Demands a Response",
-      "path": "content/notes/statement of faith/The Gospel Demands a Response.md"
-    },
-    {
-      "basename": "Salvation through Confession",
-      "path": "content/notes/statement of faith/Salvation through Confession.md"
-    },
-    {
-      "basename": "Saved by the Gospel",
-      "path": "content/notes/statement of faith/Saved by the Gospel.md"
-    },
-    {
-      "basename": "Paul Preached the Gospel",
-      "path": "content/notes/statement of faith/Paul Preached the Gospel.md"
-    },
-    {
-      "basename": "Christ Was Raised on the Third Day",
-      "path": "content/notes/statement of faith/Christ Was Raised on the Third Day.md"
-    },
-    {
-      "basename": "According to the Scriptures",
-      "path": "content/notes/statement of faith/According to the Scriptures.md"
-    },
-    {
-      "basename": "Christ Reconciles All Things to God Through His Blood",
-      "path": "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md"
     },
     {
       "basename": "2 Peter 1",
@@ -195,10 +195,6 @@
     {
       "basename": "Whoever believes in Jesus has eternal life",
       "path": "drafts/next/the gospel/Whoever believes in Jesus has eternal life.md"
-    },
-    {
-      "basename": "We believe and are saved",
-      "path": "drafts/next/the gospel/We believe and are saved.md"
     }
   ],
   "omittedPaths": [

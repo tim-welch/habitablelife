@@ -2,6 +2,7 @@
 tags:
   - type/structure
   - status/discovery
+  - ring/theological-pillars
 ---
 
 This MOC explores the theological concepts of salvation and justification, emphasizing the role of faith, grace, and the Holy Spirit in the believer's life.

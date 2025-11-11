@@ -4,169 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "6775990b2ab68e04",
-        "type": "split",
+        "id": "049cd44ff082fc34",
+        "type": "tabs",
         "children": [
           {
-            "id": "39d40dfb510c14ec",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c1b50b10b86236aa",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "prompts/api/verse-linker.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "verse-linker"
+            "id": "6b7295704e204643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/The Gospel and Salvation.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              {
-                "id": "cc53b49e2e934b40",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "prompts/api/backlinker.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "backlinker"
-                }
-              },
-              {
-                "id": "99936bd466684cc7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "prompts/api/structure.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "structure"
-                }
-              },
-              {
-                "id": "f1ff7349394a05ed",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "prompts/api/missing.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "missing"
-                }
-              }
-            ],
-            "currentTab": 3
+              "icon": "lucide-file",
+              "title": "The Gospel and Salvation"
+            }
           },
           {
-            "id": "45493501b9b2162d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b33cddb2623f9265",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "prompts/api/expander.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "expander"
+            "id": "b14b9458e1a90cbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/api/ring.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              {
-                "id": "0eb54c0888f3bb7b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "prompts/api/ring.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "ring"
-                }
-              }
-            ],
-            "currentTab": 1
+              "icon": "lucide-file",
+              "title": "ring"
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 1
+      },
+      {
+        "id": "45493501b9b2162d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0eb54c0888f3bb7b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Suggestions.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Suggestions"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -403,17 +325,36 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "dbbc13162e881098",
+  "active": "b14b9458e1a90cbc",
   "lastOpenFiles": [
+    "content/notes/statement of faith/The Gospel and Salvation.md",
+    "Suggestions.md",
+    "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
+    "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
+    "prompts/api/ring.md",
+    "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
+    "content/notes/statement of faith/Transformed by the Gospel.md",
+    "content/notes/statement of faith/The Gospel MOC.md",
+    "content/notes/statement of faith/The Gospel Message.md",
+    "content/notes/statement of faith/The Gospel Demands a Response.md",
+    "content/notes/statement of faith/Saved by the Gospel.md",
+    "drafts/The Gospel and Salvation MOC.md",
+    "content/notes/statement of faith/Salvation through Confession.md",
+    "content/notes/statement of faith/Salvation and Justification MOC.md",
+    "content/notes/statement of faith/Resurrection and Appearances MOC.md",
+    "content/notes/statement of faith/Paul Preached the Gospel.md",
+    "content/notes/statement of faith/Not by Righteous Deeds.md",
+    "content/notes/statement of faith/Justified by His Grace.md",
+    "content/notes/statement of faith/Jesus Appeared After His Resurrection.md",
+    "content/notes/statement of faith/Hold Firmly to the Gospel.md",
+    "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
+    "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
+    "content/notes/statement of faith/Christ Was Raised on the Third Day.md",
+    "content/notes/statement of faith/Christ Died for Our Sins.md",
+    "content/notes/statement of faith/Belief that Saves.md",
+    "content/notes/statement of faith/According to the Scriptures.md",
     "tools/ring.bat",
     "tools/missing copy.bat",
-    "prompts/api/missing.md",
-    "prompts/api/ring.md",
-    "prompts/api/expander.md",
-    "prompts/api/verse-linker.md",
-    "prompts/api/backlinker.md",
-    "prompts/api/structure.md",
-    "content/notes/Philosophy of Theological Triage.md",
     "tools/expander.bat",
     "tools/backlinker.bat",
     "tools/review.bat",
@@ -422,25 +363,6 @@
     "tools/structure.bat",
     "tools/verse-linker.bat",
     "tools/connections.bat",
-    "prompts/api/expand.md",
-    "prompts/api",
-    "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
-    "Suggestions.md",
-    "Bible/Berean Bible verse numbers.md",
-    "content/notes/statement of faith/The Gospel MOC.md",
-    "content/notes/statement of faith/Salvation and Justification MOC.md",
-    "content/notes/statement of faith/Resurrection and Appearances MOC.md",
-    "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
-    "content/notes/statement of faith/The Gospel Message.md",
-    "content/notes/statement of faith/Belief that Saves.md",
-    "drafts/Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation.md",
-    "content/notes/statement of faith/Christ Died for Our Sins.md",
-    "drafts/Doctrinal systems - history.md",
-    "drafts/Doctrinal systems.md",
-    "content/notes/statement of faith/The Gospel and Salvation.md",
-    "content/notes/statement of faith/Justified by His Grace.md",
-    "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
-    "content/notes/statement of faith/Hold Firmly to the Gospel.md",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/note-taking/Verse-Headings-Inside-Chapters-og-image.webp",
     "public/notes/note-taking/Understanding-presuppositions-in-Bible-study-og-image.webp",

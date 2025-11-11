@@ -2,6 +2,7 @@
 tags:
   - type/structure
   - status/discovery
+  - ring/theological-pillars
 ---
 
 The core of the gospel message is Christ's death, burial, and resurrection. This message is central to Christian faith and is supported by numerous biblical references.

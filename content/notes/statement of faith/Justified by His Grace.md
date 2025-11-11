@@ -2,6 +2,7 @@
 tags:
   - type/atomic
   - status/discovery
+  - ring/salvations-effects
 ---
 
 ## Summary
