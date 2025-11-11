@@ -1,48 +1,19 @@
-## Ring Tag Review
+## Suggested Missing Notes
 
-### [[Christ Reconciles All Things to God Through His Blood]]
-- **Current Tag:** `#ring/theological-pillars`
-- **Recommended Tag:** `#ring/salvations-effects`
-- **Reason:** This note discusses the reconciliation achieved through Christ's blood, which is an effect of salvation in the believer and creation, rather than a supporting doctrine.
+### [[The Necessity of Faith]]
+**Ring:** Core Gospel
+**Fits into:** [[The Gospel and Salvation]]
+**Description:** This note would clarify the essential role of faith in the gospel message, emphasizing that without faith, the gospel cannot be effective in bringing salvation.
+**Biblical Support:** Hebrews 11:6
 
----
+### [[The Role of Repentance in Salvation]]
+**Ring:** Core Gospel
+**Fits into:** [[The Gospel Demands a Response]]
+**Description:** This note would address the necessity of repentance as a response to the gospel, highlighting its importance alongside belief and confession.
+**Biblical Support:** Acts 3:19
 
-### [[The Prophecy of the Gospel Message]]
-- **Current Tag:** `#ring/foundational-truths`
-- **Recommended Tag:** `#ring/core-gospel`
-- **Reason:** This note outlines the prophecy of Christ's death, burial, and resurrection, which are core elements of the gospel message necessary for salvation.
-
----
-
-### [[The Gospel and Salvation]]
-- **Current Tag:** `#ring/theological-pillars`
-- **Recommended Tag:** `#ring/core-gospel`
-- **Reason:** This note emphasizes the core gospel message and its role in salvation, which are central to the gospel and necessary for salvation.
-
----
-
-### [[The Gospel MOC]]
-- **Current Tag:** `#ring/theological-pillars`
-- **Recommended Tag:** `#ring/core-gospel`
-- **Reason:** This note focuses on the core elements of the gospel message, which are essential for salvation and thus belong in the core gospel ring.
-
----
-
-### [[Resurrection and Appearances MOC]]
-- **Current Tag:** `#ring/theological-pillars`
-- **Recommended Tag:** `#ring/core-gospel`
-- **Reason:** The resurrection and appearances of Jesus are central to the gospel message and necessary for salvation, thus belonging in the core gospel ring.
-
----
-
-### [[Salvation and Justification MOC]]
-- **Current Tag:** `#ring/theological-pillars`
-- **Recommended Tag:** `#ring/core-gospel`
-- **Reason:** This note discusses salvation and justification, which are core aspects of the gospel necessary for salvation.
-
----
-
-### [[Christ's Work and Reconciliation MOC]]
-- **Current Tag:** `#ring/theological-pillars`
-- **Recommended Tag:** `#ring/salvations-effects`
-- **Reason:** The note focuses on reconciliation and transformation, which are effects of salvation in the believer's life.
+### [[The Exclusivity of Christ for Salvation]]
+**Ring:** Core Gospel
+**Fits into:** [[The Gospel Message]]
+**Description:** This note would emphasize that salvation is found in no one else but Christ, reinforcing the exclusivity of the gospel message.
+**Biblical Support:** John 14:6

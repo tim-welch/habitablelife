@@ -70,7 +70,7 @@
               "type": "markdown",
               "state": {
                 "file": "Suggestions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -325,13 +325,13 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "b14b9458e1a90cbc",
+  "active": "0eb54c0888f3bb7b",
   "lastOpenFiles": [
+    "prompts/api/ring.md",
     "content/notes/statement of faith/The Gospel and Salvation.md",
     "Suggestions.md",
     "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
     "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
-    "prompts/api/ring.md",
     "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
     "content/notes/statement of faith/Transformed by the Gospel.md",
     "content/notes/statement of faith/The Gospel MOC.md",
