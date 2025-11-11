@@ -1,10 +1,6 @@
 ## Suggested Missing Notes
 
-### [[The Necessity of Faith]]
-**Ring:** Core Gospel
-**Fits into:** [[The Gospel and Salvation]]
-**Description:** This note would clarify the essential role of faith in the gospel message, emphasizing that without faith, the gospel cannot be effective in bringing salvation.
-**Biblical Support:** Hebrews 11:6
+
 
 ### [[The Role of Repentance in Salvation]]
 **Ring:** Core Gospel

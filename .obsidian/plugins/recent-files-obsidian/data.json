@@ -5,6 +5,22 @@
       "path": "Suggestions.md"
     },
     {
+      "basename": "The Necessity of Faith",
+      "path": "content/notes/statement of faith/The Necessity of Faith.md"
+    },
+    {
+      "basename": "Berean Bible verse numbers",
+      "path": "Bible/Berean Bible verse numbers.md"
+    },
+    {
+      "basename": "Ephesians 2",
+      "path": "content/Bible/BSB/49-Ephesians/Ephesians 2.md"
+    },
+    {
+      "basename": "John 6",
+      "path": "content/Bible/BSB/43-John/John 6.md"
+    },
+    {
       "basename": "ring",
       "path": "prompts/api/ring.md"
     },
@@ -125,10 +141,6 @@
       "path": "content/notes/Philosophy of Theological Triage.md"
     },
     {
-      "basename": "Berean Bible verse numbers",
-      "path": "Bible/Berean Bible verse numbers.md"
-    },
-    {
       "basename": "Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation",
       "path": "drafts/Comparison of Major Theological Systems on Divine Knowledge, Freedom, and Salvation.md"
     },
@@ -143,10 +155,6 @@
     {
       "basename": "2 Peter 1",
       "path": "content/Bible/BSB/61-2 Peter/2 Peter 1.md"
-    },
-    {
-      "basename": "Ephesians 2",
-      "path": "content/Bible/BSB/49-Ephesians/Ephesians 2.md"
     },
     {
       "basename": "Acts 2",
@@ -191,10 +199,6 @@
     {
       "basename": "0000 - Statement of Faith",
       "path": "drafts/0000 - Statement of Faith.md"
-    },
-    {
-      "basename": "Whoever believes in Jesus has eternal life",
-      "path": "drafts/next/the gospel/Whoever believes in Jesus has eternal life.md"
     }
   ],
   "omittedPaths": [
