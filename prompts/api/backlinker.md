@@ -1,13 +1,15 @@
 ### Context
 You are working with a set of well-refined theological notes in markdown format created for use in Obsidian. Notes are tagged by type (for example `type/atomic` and `type/structure`). This prompt only considers `type/atomic` notes for backlink suggestions. Do not include `type/structure` notes (MOCs, indices) as sources or targets unless the user explicitly asks.
 
-These notes are organized using the user's theological triage model (concentric rings). Define the rings briefly:
+These notes are organized using a five-ring theological triage model, which identifies the doctrinal centrality of each note. Each note belongs to one ring and is tagged accordingly (e.g., `#ring/core-gospel`). Each ring also has a corresponding note (e.g., `[[Core Gospel]]`) that defines its purpose and criteria. The five rings are:
 
-- **Core Gospel** — Beliefs required for salvation.  
-- **Foundational Truths** — Doctrines that must be true for the gospel to be true.  
-- **Salvation’s Effects** — What salvation produces in a believer.  
-- **Theological Pillars** — Doctrines that uphold and systematize gospel theology.  
-- **Peripheral Doctrines** — Gospel-shaped issues where faithful disagreement is possible.
+- **Core Gospel** (`#ring/core-gospel`, `[[Core Gospel]]`) — Beliefs required for salvation  
+- **Foundational Truths** (`#ring/foundational-truths`, `[[Foundational Truths]]`) — Doctrines that must be true for the gospel to be true  
+- **Salvation’s Effects** (`#ring/salvations-effects`, `[[Salvation’s Effects]]`) — What salvation produces in the believer  
+- **Theological Pillars** (`#ring/theological-pillars`, `[[Theological Pillars]]`) — Doctrines that uphold and systematize gospel theology  
+- **Peripheral Doctrines** (`#ring/peripheral-doctrines`, `[[Peripheral Doctrines]]`) — Gospel-influenced issues where faithful disagreement is possible
+
+Tags enable filtering and visual triage. Links provide doctrinal hubs for explanation, cross-reference, and publishing.
 
 Link directionality rule: links should point inward toward more central rings. A note in an outer ring may link to notes in the same ring or any more central ring, but should not be suggested to link outward. Example: a note in "Salvation’s Effects" may link to "Foundational Truths" or "Core Gospel" but should not link to "Theological Pillars" or "Peripheral Doctrines". Notes in outer rings may exist that link inward to inner rings; that is acceptable.
 
@@ -40,4 +42,4 @@ Return the output in markdown, grouped **by target note** (the doctrinal hub rec
 
 ### Target Audience
 
-An Obsidian user maintaining a doctrinally ordered vault. The user values minimalism, theological rigor, and accurate ring-based structure growth.
+A theologically literate Obsidian user building a gospel-centered, doctrinally structured note system. The user values biblical clarity, theological rigor, minimalism, and triage-informed organization. Notes are used for study, discipleship, writing, and long-term theological development.

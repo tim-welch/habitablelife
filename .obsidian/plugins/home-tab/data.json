@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "prompts/api/expander.md",
-      "timestamp": 1762823938443
+      "filepath": "prompts/api/verse-linker.md",
+      "timestamp": 1762825328811
     },
     {
       "filepath": "prompts/api/backlinker.md",
-      "timestamp": 1762823913824
+      "timestamp": 1762825312753
     },
     {
       "filepath": "prompts/api/structure.md",
-      "timestamp": 1762823910840
+      "timestamp": 1762825294979
     },
     {
       "filepath": "prompts/api/missing.md",
-      "timestamp": 1762823786907
+      "timestamp": 1762825287396
     },
     {
-      "filepath": "prompts/api/verse-linker.md",
-      "timestamp": 1762823329768
+      "filepath": "prompts/api/expander.md",
+      "timestamp": 1762825282234
     }
   ],
   "bookmarkedFileStore": [],
