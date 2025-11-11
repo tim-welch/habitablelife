@@ -1,1 +1,1 @@
-.\review.bat structure %*
+call "%~dp0review.bat"  structure %*

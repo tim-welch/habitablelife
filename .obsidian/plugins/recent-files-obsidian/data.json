@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ring",
+      "path": "prompts/api/ring.md"
+    },
+    {
+      "basename": "missing",
+      "path": "prompts/api/missing.md"
+    },
+    {
+      "basename": "expander",
+      "path": "prompts/api/expander.md"
+    },
+    {
       "basename": "verse-linker",
       "path": "prompts/api/verse-linker.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "structure",
       "path": "prompts/api/structure.md"
-    },
-    {
-      "basename": "missing",
-      "path": "prompts/api/missing.md"
-    },
-    {
-      "basename": "expander",
-      "path": "prompts/api/expander.md"
     },
     {
       "basename": "Philosophy of Theological Triage",
@@ -195,10 +199,6 @@
     {
       "basename": "We believe and are saved",
       "path": "drafts/next/the gospel/We believe and are saved.md"
-    },
-    {
-      "basename": "Doctrine Category MOC template",
-      "path": "drafts/Doctrine Category MOC template.md"
     }
   ],
   "omittedPaths": [

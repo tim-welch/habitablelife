@@ -1,1 +1,1 @@
-.\review.bat backlinker %*
+call "%~dp0review.bat"  backlinker %*

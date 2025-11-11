@@ -1,1 +1,1 @@
-.\review.bat verse-linker %*
+call "%~dp0review.bat"  verse-linker %*
