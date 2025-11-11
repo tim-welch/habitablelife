@@ -24,8 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "drafts/Philosophy of Theological Triage.md",
-      "timestamp": 1762774121182
+      "filepath": "prompts/api/backlinker.md",
+      "timestamp": 1762820773347
+    },
+    {
+      "filepath": "prompts/api/verse-linker.md",
+      "timestamp": 1762820669231
+    },
+    {
+      "filepath": "prompts/api/structure.md",
+      "timestamp": 1762820668675
+    },
+    {
+      "filepath": "prompts/api/missing.md",
+      "timestamp": 1762820668099
+    },
+    {
+      "filepath": "prompts/api/expander.md",
+      "timestamp": 1762820667550
     }
   ],
   "bookmarkedFileStore": [],
