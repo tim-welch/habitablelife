@@ -36,3 +36,8 @@ Return the output in markdown, grouped **by target note** (the doctrinal hub rec
   - Notes requiring classification or with uncertainty:
     - [[Source Note C]] — classified as "Salvation’s Effects" (uncertain)
 - Rationale: One short sentence explaining why these backlinks strengthen coherence.
+```
+
+### Target Audience
+
+An Obsidian user maintaining a doctrinally ordered vault. The user values minimalism, theological rigor, and accurate ring-based structure growth.

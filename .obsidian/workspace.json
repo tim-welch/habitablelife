@@ -48,7 +48,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "prompts/api/backlinker.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -78,7 +78,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "prompts/api/structure.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -108,7 +108,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "prompts/api/missing.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -396,13 +396,13 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "f1ff7349394a05ed",
+  "active": "b33cddb2623f9265",
   "lastOpenFiles": [
     "prompts/api/backlinker.md",
-    "prompts/api/verse-linker.md",
     "prompts/api/structure.md",
-    "prompts/api/missing.md",
     "prompts/api/expander.md",
+    "prompts/api/missing.md",
+    "prompts/api/verse-linker.md",
     "content/notes/Philosophy of Theological Triage.md",
     "tools/expander.bat",
     "tools/backlinker.bat",

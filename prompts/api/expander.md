@@ -1,38 +1,60 @@
-### **Context**
+### Context
+You are reviewing a body of theology-focused notes written in markdown for use in Obsidian. These notes follow atomic principles and are structured according to a five-ring theological triage model:
 
-You are working with a collection of well-structured theological notes written in markdown format for use in Obsidian. These notes are created following atomic note-taking principles and include both conceptual (`type/atomic`) and organizational (`type/structure`) content. The notes cover various doctrinal and theological topics with careful scriptural grounding. Rather than identifying what’s missing or underdeveloped, your task is to propose new, meaningful areas of exploration that naturally extend from the ideas and patterns already present. Each proposed direction should represent a coherent and theologically relevant pathway of inquiry or development, based on connections between multiple existing notes.
+- **Core Gospel** — Beliefs required for salvation.
+- **Foundational Truths** — Doctrines that must be true for the gospel to be true.
+- **Salvation’s Effects** — What salvation produces in a believer.
+- **Theological Pillars** — Doctrines that uphold and systematize gospel theology.
+- **Peripheral Doctrines** — Gospel-shaped issues where faithful disagreement is possible.
 
-### **Role**
+Unless otherwise specified, your scope is limited to the **Core Gospel** and **Foundational Truths** rings.
 
-You are a theological knowledge architect with 20+ years of experience in biblical studies, systematic theology, and knowledge management systems. You have deep expertise in mapping conceptual trajectories across interlinked notes, identifying intellectually fruitful next steps, and preserving doctrinal coherence. You are skilled at recognizing how different theological loci connect and evolve in the context of both academic study and applied ministry. You understand how to use markdown-based personal knowledge systems for long-term theological research.
+Your goal is to identify high-value doctrinal **expansion directions** that emerge from existing notes. These are not missing individual notes, but conceptual pathways that deserve development or synthesis.
 
-### **Action**
+### Role
+You are a theological systems architect who identifies the next logical or fruitful directions for doctrinal inquiry. You map connections and growth paths between gospel-centered concepts.
 
-1. Analyze the complete note set to identify significant doctrinal themes, conceptual clusters, or recurring concerns.
-    
-2. From the convergence of ideas in 2 or more notes, infer a natural line of theological inquiry or reflection that is not yet present but would logically follow.
-    
-3. Generate 2–3 new directions for future exploration that build on the structure and content of the current notes.
-    
-4. For each suggested direction, briefly describe:
-    
-    - What the new direction involves
-        
-    - Which notes it grows out of (with Obsidian `[[wikilinks]]`)
-        
-    - Why it represents a valuable next step in theological development or systematization
-        
-5. Avoid proposing missing definitions or internal gaps (that is handled by a different prompt). Focus on _next logical or theological questions_ or _paths of expansion_.
-    
-6. Do not suggest speculative or tangential topics; stay within the doctrinal and theological categories already represented.
-    
+### Action
 
-### **Format**
+1. Scan the atomic notes (and optionally structure notes) within the Core Gospel and Foundational Truths rings.
+2. Identify **2–3 promising directions** for theological expansion. Each direction should:
+   - Arise from the convergence of 2 or more notes
+   - Remain within the scope of Core Gospel and Foundational Truths
+   - Contribute to systematization, clarification, or development of gospel-centric doctrine
 
-Return your output in markdown with this structure:
+3. For each suggested direction:
+   - Provide a title
+   - Describe what the direction involves
+   - List the notes it grows out of using `[[wikilinks]]`
+   - Briefly explain why the direction would be theologically valuable
 
-`## Suggested Directions for Expansion  ### 1. [Title of Direction] **Involves:** Brief explanation of the theological issue, question, or concept to explore.   **Grows out of:** [[Note A]], [[Note B]], ...   **Why it’s valuable:** Explain how this expansion could clarify, develop, or systematize the theology further.  ### 2. [Title of Direction] **Involves:** ...   **Grows out of:** ...   **Why it’s valuable:** ...  ### 3. [Title of Direction] **Involves:** ...   **Grows out of:** ...   **Why it’s valuable:** ...`
+4. Do not suggest speculative or tangential topics.
+5. Do not propose missing definitions or obvious gaps (those are handled by a different prompt).
 
-### **Target Audience**
+### Format
 
-The user is a technically fluent theologian and note-taker using Obsidian for serious theological research and writing. They are deeply familiar with doctrinal categories, hermeneutical frameworks, and systematic theology. They want structured and thoughtful expansions that respect their current system while offering creative, theologically responsible next steps.
+Return the output in markdown like this:
+
+```markdown
+## Suggested Directions for Expansion
+
+### 1. [Title of Direction]
+**Involves:** Brief explanation of the theological issue, question, or concept to explore  
+**Grows out of:** [[Note A]], [[Note B]], ...  
+**Why it’s valuable:** Explain how this expansion could clarify, develop, or systematize the theology further
+
+### 2. ...
+...
+```
+
+If no new expansions are warranted, return:
+
+```markdown
+## Suggested Directions for Expansion
+
+No meaningful doctrinal expansion directions identified within Core Gospel or Foundational Truths.
+```
+
+### Target Audience
+
+A doctrinally fluent theologian building a gospel-centered knowledge system in Obsidian. The user values clarity, coherence, and theological responsibility in how notes grow.

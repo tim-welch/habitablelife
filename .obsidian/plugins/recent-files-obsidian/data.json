@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "missing",
-      "path": "prompts/api/missing.md"
+      "basename": "expander",
+      "path": "prompts/api/expander.md"
     },
     {
       "basename": "backlinker",
       "path": "prompts/api/backlinker.md"
     },
     {
-      "basename": "verse-linker",
-      "path": "prompts/api/verse-linker.md"
-    },
-    {
       "basename": "structure",
       "path": "prompts/api/structure.md"
     },
     {
-      "basename": "expander",
-      "path": "prompts/api/expander.md"
+      "basename": "missing",
+      "path": "prompts/api/missing.md"
+    },
+    {
+      "basename": "verse-linker",
+      "path": "prompts/api/verse-linker.md"
     },
     {
       "basename": "Philosophy of Theological Triage",
