@@ -23,3 +23,4 @@ By the mercy of God, the Holy Spirit renews our hearts and gives new life. Throu
 ## Connections
 
 - [[Belief that Saves]]
+- [[Justified by His Grace]]

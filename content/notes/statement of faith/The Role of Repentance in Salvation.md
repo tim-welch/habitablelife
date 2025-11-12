@@ -35,3 +35,7 @@ Just as John 1:12 speaks of believing and receiving, Acts 3:19 speaks of repenti
 
 Repentance and turning to God describe faith that results in wiping away sin and new life.
 
+## Connections
+
+- [[Belief that Saves]]
+

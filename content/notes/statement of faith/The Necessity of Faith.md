@@ -21,3 +21,7 @@ There is no other way to please God except by trusting Him, earnestly believing 
 ## Explanation
 
 Faith is the foundation of a relationship with God. Faith means believing that He exists and that He rewards those who seek Him. Without faith, even the most righteous deeds cannot please God.
+
+## Connections
+
+- [[The Role of Repentance in Salvation]]

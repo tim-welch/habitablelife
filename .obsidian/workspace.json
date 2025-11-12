@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/The Role of Repentance in Salvation.md",
+                "file": "content/notes/statement of faith/Transformed by the Gospel.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,48 +52,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Role of Repentance in Salvation"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "45493501b9b2162d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b14b9458e1a90cbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/The Necessity of Faith.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Necessity of Faith"
+              "title": "Transformed by the Gospel"
             }
           },
           {
             "id": "0eb54c0888f3bb7b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Suggestions.md",
+                "file": "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Resurrection Validates Jesus as Christ"
+            }
+          },
+          {
+            "id": "5ae8632a366d0b57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/The Necessity of the Resurrection.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -107,23 +99,17 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Suggestions"
+              "title": "The Necessity of the Resurrection"
             }
-          },
-          {
-            "id": "fb4d14ccd20caa17",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "45493501b9b2162d",
+        "type": "tabs",
+        "children": [
           {
             "id": "1efd01e3e92c734a",
             "type": "leaf",
@@ -149,9 +135,35 @@
               "icon": "lucide-file",
               "title": "Berean Bible verse numbers"
             }
+          },
+          {
+            "id": "7a93728b45fd7002",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Suggestions.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Suggestions"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -384,37 +396,38 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "fb4d14ccd20caa17",
+  "active": "0eb54c0888f3bb7b",
   "lastOpenFiles": [
-    "content/notes/statement of faith/The Role of Repentance in Salvation.md",
-    "Bible/Berean Bible verse numbers.md",
     "Suggestions.md",
+    "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md",
+    "content/notes/statement of faith/The Necessity of the Resurrection.md",
+    "content/notes/statement of faith/Transformed by the Gospel.md",
+    "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/The Necessity of Faith.md",
+    "content/notes/statement of faith/Jesus Appeared After His Resurrection.md",
+    "content/notes/statement of faith/Not by Righteous Deeds.md",
+    "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
+    "content/notes/statement of faith/The Role of Repentance in Salvation.md",
+    "content/notes/statement of faith/Salvation through Confession.md",
+    "content/notes/statement of faith/The Gospel Demands a Response.md",
+    "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
+    "content/notes/statement of faith/Saved by the Gospel.md",
+    "content/notes/statement of faith/Christ Was Raised on the Third Day.md",
+    "content/notes/statement of faith/Christ Died for Our Sins.md",
+    "content/notes/statement of faith/According to the Scriptures.md",
+    "prompts/api/backlinker.md",
+    "content/notes/statement of faith/The Gospel and Salvation.md",
+    "content/notes/statement of faith/The Exclusivity of Christ for Salvation.md",
+    "drafts/next/the gospel/There is no other name by which we can be saved.md",
     "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
     "content/Bible/BSB/43-John/John 6.md",
     "prompts/api/ring.md",
-    "content/notes/statement of faith/The Gospel and Salvation.md",
     "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
-    "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
     "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
-    "content/notes/statement of faith/Transformed by the Gospel.md",
-    "content/notes/statement of faith/The Gospel MOC.md",
-    "content/notes/statement of faith/The Gospel Message.md",
-    "content/notes/statement of faith/The Gospel Demands a Response.md",
-    "content/notes/statement of faith/Saved by the Gospel.md",
-    "drafts/The Gospel and Salvation MOC.md",
-    "content/notes/statement of faith/Salvation through Confession.md",
-    "content/notes/statement of faith/Salvation and Justification MOC.md",
-    "content/notes/statement of faith/Resurrection and Appearances MOC.md",
-    "content/notes/statement of faith/Paul Preached the Gospel.md",
-    "content/notes/statement of faith/Not by Righteous Deeds.md",
-    "content/notes/statement of faith/Justified by His Grace.md",
-    "content/notes/statement of faith/Jesus Appeared After His Resurrection.md",
-    "content/notes/statement of faith/Hold Firmly to the Gospel.md",
-    "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
     "tools/ring.bat",
     "tools/missing copy.bat",
     "tools/expander.bat",
