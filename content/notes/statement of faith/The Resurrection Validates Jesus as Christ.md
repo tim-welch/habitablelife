@@ -23,6 +23,8 @@ After Jesus died, He was raised from the dead.
 
 The resurrection demonstrates God’s acceptance of Jesus’ sacrifice, validating His claim to be the Christ.
 
+The resurrection is God’s public declaration that Jesus is His approved and anointed Son.
+
 ## Connections
 
 - [[The Necessity of the Resurrection]]

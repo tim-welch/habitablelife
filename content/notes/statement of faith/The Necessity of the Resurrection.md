@@ -18,7 +18,7 @@ If Christ was not raised, then there is no basis for our faith and it is useless
 
 ## Explanation
 
-The resurrection is the confirmation that Jesus’ sacrifice accomplished its purpose. Without it, faith would be empty, and sin would still enslave us. His resurrection both proves His authority as the Christ and secures our justification.
+The resurrection is the confirmation that Jesus’ sacrifice accomplished its purpose. Without it, faith would be empty, and sin would still enslave us. His resurrection secures our justification and confirms the completion of His saving work.
 
 The resurrection is necessary for our salvation.
 

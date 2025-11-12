@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b7295704e204643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/The Gospel and Salvation.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Gospel and Salvation"
-            }
-          },
-          {
-            "id": "125de73ad9990d6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/Transformed by the Gospel.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Transformed by the Gospel"
-            }
-          },
-          {
             "id": "0eb54c0888f3bb7b",
             "type": "leaf",
             "state": {
@@ -78,33 +30,8 @@
               "icon": "lucide-file",
               "title": "The Resurrection Validates Jesus as Christ"
             }
-          },
-          {
-            "id": "5ae8632a366d0b57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/The Necessity of the Resurrection.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Necessity of the Resurrection"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "45493501b9b2162d",
@@ -400,11 +327,11 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "0eb54c0888f3bb7b",
+  "active": "7a93728b45fd7002",
   "lastOpenFiles": [
-    "Suggestions.md",
     "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md",
     "content/notes/statement of faith/The Necessity of the Resurrection.md",
+    "Suggestions.md",
     "content/notes/statement of faith/Transformed by the Gospel.md",
     "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/The Necessity of Faith.md",
