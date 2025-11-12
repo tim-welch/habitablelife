@@ -1,13 +1,6 @@
 ## Suggested Missing Notes
 
 
-
-### [[The Role of Repentance in Salvation]]
-**Ring:** Core Gospel
-**Fits into:** [[The Gospel Demands a Response]]
-**Description:** This note would address the necessity of repentance as a response to the gospel, highlighting its importance alongside belief and confession.
-**Biblical Support:** Acts 3:19
-
 ### [[The Exclusivity of Christ for Salvation]]
 **Ring:** Core Gospel
 **Fits into:** [[The Gospel Message]]

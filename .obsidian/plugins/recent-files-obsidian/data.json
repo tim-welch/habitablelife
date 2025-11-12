@@ -5,12 +5,16 @@
       "path": "Suggestions.md"
     },
     {
-      "basename": "The Necessity of Faith",
-      "path": "content/notes/statement of faith/The Necessity of Faith.md"
+      "basename": "The Role of Repentance in Salvation",
+      "path": "content/notes/statement of faith/The Role of Repentance in Salvation.md"
     },
     {
       "basename": "Berean Bible verse numbers",
       "path": "Bible/Berean Bible verse numbers.md"
+    },
+    {
+      "basename": "The Necessity of Faith",
+      "path": "content/notes/statement of faith/The Necessity of Faith.md"
     },
     {
       "basename": "Ephesians 2",
@@ -195,10 +199,6 @@
     {
       "basename": "0230 – Faith and Repentance",
       "path": "drafts/0230 – Faith and Repentance.md"
-    },
-    {
-      "basename": "0000 - Statement of Faith",
-      "path": "drafts/0000 - Statement of Faith.md"
     }
   ],
   "omittedPaths": [
