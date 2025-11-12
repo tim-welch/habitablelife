@@ -113,6 +113,18 @@
             }
           },
           {
+            "id": "fb4d14ccd20caa17",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "1efd01e3e92c734a",
             "type": "leaf",
             "pinned": true,
@@ -139,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -372,11 +384,10 @@
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
-      "workspaces-plus:Manage workspaces": false
+      "periodic-notes:Open today": false
     }
   },
-  "active": "0eb54c0888f3bb7b",
+  "active": "fb4d14ccd20caa17",
   "lastOpenFiles": [
     "content/notes/statement of faith/The Role of Repentance in Salvation.md",
     "Bible/Berean Bible verse numbers.md",
