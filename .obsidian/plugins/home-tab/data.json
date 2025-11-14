@@ -24,12 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md",
-      "timestamp": 1763078371784
+      "filepath": "prompts/api/essay-outliner.md",
+      "timestamp": 1763079725981
+    },
+    {
+      "filepath": "prompts/api/gap-detector.md",
+      "timestamp": 1763079465893
+    },
+    {
+      "filepath": "prompts/api/ring.md",
+      "timestamp": 1763079452300
     },
     {
       "filepath": "Suggestions.md",
-      "timestamp": 1762987219334
+      "timestamp": 1763079310346
+    },
+    {
+      "filepath": "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md",
+      "timestamp": 1763078371784
     }
   ],
   "bookmarkedFileStore": [],

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "The Resurrection Validates Jesus as Christ",
-      "path": "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md"
+      "basename": "essay-outliner",
+      "path": "prompts/api/essay-outliner.md"
+    },
+    {
+      "basename": "gap-detector",
+      "path": "prompts/api/gap-detector.md"
+    },
+    {
+      "basename": "ring",
+      "path": "prompts/api/ring.md"
     },
     {
       "basename": "Suggestions",
       "path": "Suggestions.md"
+    },
+    {
+      "basename": "The Resurrection Validates Jesus as Christ",
+      "path": "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md"
     },
     {
       "basename": "The Necessity of the Resurrection",
@@ -91,10 +103,6 @@
     {
       "basename": "John 6",
       "path": "content/Bible/BSB/43-John/John 6.md"
-    },
-    {
-      "basename": "ring",
-      "path": "prompts/api/ring.md"
     },
     {
       "basename": "Christ Reconciles All Things to God Through His Blood",
@@ -191,14 +199,6 @@
     {
       "basename": "Doctrine atomic note template",
       "path": "Templates/Doctrine atomic note template.md"
-    },
-    {
-      "basename": "Revelation 1",
-      "path": "content/Bible/BSB/66-Revelation/Revelation 1.md"
-    },
-    {
-      "basename": "1 Peter 3",
-      "path": "content/Bible/BSB/60-1 Peter/1 Peter 3.md"
     }
   ],
   "omittedPaths": [

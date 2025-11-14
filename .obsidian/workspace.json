@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md",
+                "file": "prompts/api/essay-outliner.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Resurrection Validates Jesus as Christ"
+              "title": "essay-outliner"
             }
           }
         ]
@@ -88,9 +88,33 @@
               "icon": "lucide-file",
               "title": "Suggestions"
             }
+          },
+          {
+            "id": "0c615c3bfeb4662c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/api/ring.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ring"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -329,6 +353,9 @@
   },
   "active": "0eb54c0888f3bb7b",
   "lastOpenFiles": [
+    "prompts/api/gap-detector.md",
+    "prompts/api/ring.md",
+    "prompts/api/essay-outliner.md",
     "Suggestions.md",
     "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md",
     "content/notes/statement of faith/The Necessity of the Resurrection.md",
@@ -352,9 +379,6 @@
     "drafts/next/the gospel/There is no other name by which we can be saved.md",
     "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
     "content/Bible/BSB/43-John/John 6.md",
-    "prompts/api/ring.md",
-    "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
-    "content/notes/statement of faith/Washed and Renewed by the Spirit.md",
     "tools/ring.bat",
     "tools/missing copy.bat",
     "tools/expander.bat",
