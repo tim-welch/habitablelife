@@ -24,24 +24,20 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
-      "filepath": "prompts/api/essay-outliner.md",
-      "timestamp": 1763079725981
+      "filepath": "Suggestions.md",
+      "timestamp": 1763082117748
+    },
+    {
+      "filepath": "content/essays/The Gospel.md",
+      "timestamp": 1763081908011
+    },
+    {
+      "filepath": "content/notes/statement of faith/Salvation through Confession.md",
+      "timestamp": 1763081709055
     },
     {
       "filepath": "prompts/api/gap-detector.md",
-      "timestamp": 1763079465893
-    },
-    {
-      "filepath": "prompts/api/ring.md",
-      "timestamp": 1763079452300
-    },
-    {
-      "filepath": "Suggestions.md",
-      "timestamp": 1763079310346
-    },
-    {
-      "filepath": "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md",
-      "timestamp": 1763078371784
+      "timestamp": 1763081356484
     }
   ],
   "bookmarkedFileStore": [],

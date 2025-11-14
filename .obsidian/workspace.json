@@ -10,11 +10,37 @@
           {
             "id": "0eb54c0888f3bb7b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "prompts/api/essay-outliner.md",
-                "mode": "source",
+                "file": "content/essays/The Gospel.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "The Gospel"
+            }
+          },
+          {
+            "id": "f731c24707efbbd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/api/gap-detector.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +54,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "essay-outliner"
+              "title": "gap-detector"
+            }
+          },
+          {
+            "id": "0259aa0d385295d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/Salvation through Confession.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Salvation through Confession"
             }
           }
         ]
@@ -114,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -351,22 +401,25 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "0eb54c0888f3bb7b",
+  "active": "7a93728b45fd7002",
   "lastOpenFiles": [
-    "prompts/api/gap-detector.md",
-    "prompts/api/ring.md",
-    "prompts/api/essay-outliner.md",
+    "content/essays/The Gospel.md",
+    "content/notes/essays.md",
+    "content/essays",
+    "content/notes/statement of faith/Salvation through Confession.md",
     "Suggestions.md",
+    "prompts/api/gap-detector.md",
+    "content/notes/statement of faith/Jesus Appeared After His Resurrection.md",
+    "prompts/api/essay-outliner.md",
+    "prompts/api/ring.md",
     "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md",
     "content/notes/statement of faith/The Necessity of the Resurrection.md",
     "content/notes/statement of faith/Transformed by the Gospel.md",
     "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/The Necessity of Faith.md",
-    "content/notes/statement of faith/Jesus Appeared After His Resurrection.md",
     "content/notes/statement of faith/Not by Righteous Deeds.md",
     "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
     "content/notes/statement of faith/The Role of Repentance in Salvation.md",
-    "content/notes/statement of faith/Salvation through Confession.md",
     "content/notes/statement of faith/The Gospel Demands a Response.md",
     "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
     "content/notes/statement of faith/Saved by the Gospel.md",
@@ -376,9 +429,6 @@
     "prompts/api/backlinker.md",
     "content/notes/statement of faith/The Gospel and Salvation.md",
     "content/notes/statement of faith/The Exclusivity of Christ for Salvation.md",
-    "drafts/next/the gospel/There is no other name by which we can be saved.md",
-    "content/Bible/BSB/49-Ephesians/Ephesians 2.md",
-    "content/Bible/BSB/43-John/John 6.md",
     "tools/ring.bat",
     "tools/missing copy.bat",
     "tools/expander.bat",
@@ -388,7 +438,6 @@
     "tools/missing.bat",
     "tools/structure.bat",
     "tools/verse-linker.bat",
-    "tools/connections.bat",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/note-taking/Verse-Headings-Inside-Chapters-og-image.webp",
     "public/notes/note-taking/Understanding-presuppositions-in-Bible-study-og-image.webp",

@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "essay-outliner",
-      "path": "prompts/api/essay-outliner.md"
+      "basename": "Suggestions",
+      "path": "Suggestions.md"
+    },
+    {
+      "basename": "The Gospel",
+      "path": "content/essays/The Gospel.md"
+    },
+    {
+      "basename": "Salvation through Confession",
+      "path": "content/notes/statement of faith/Salvation through Confession.md"
     },
     {
       "basename": "gap-detector",
       "path": "prompts/api/gap-detector.md"
     },
     {
-      "basename": "ring",
-      "path": "prompts/api/ring.md"
+      "basename": "Jesus Appeared After His Resurrection",
+      "path": "content/notes/statement of faith/Jesus Appeared After His Resurrection.md"
     },
     {
-      "basename": "Suggestions",
-      "path": "Suggestions.md"
+      "basename": "essay-outliner",
+      "path": "prompts/api/essay-outliner.md"
+    },
+    {
+      "basename": "ring",
+      "path": "prompts/api/ring.md"
     },
     {
       "basename": "The Resurrection Validates Jesus as Christ",
@@ -37,10 +49,6 @@
       "path": "content/notes/statement of faith/The Necessity of Faith.md"
     },
     {
-      "basename": "Jesus Appeared After His Resurrection",
-      "path": "content/notes/statement of faith/Jesus Appeared After His Resurrection.md"
-    },
-    {
       "basename": "Not by Righteous Deeds",
       "path": "content/notes/statement of faith/Not by Righteous Deeds.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "The Role of Repentance in Salvation",
       "path": "content/notes/statement of faith/The Role of Repentance in Salvation.md"
-    },
-    {
-      "basename": "Salvation through Confession",
-      "path": "content/notes/statement of faith/Salvation through Confession.md"
     },
     {
       "basename": "The Gospel Demands a Response",
@@ -191,14 +195,6 @@
     {
       "basename": "Psalm 2",
       "path": "content/Bible/BSB/19-Psalm/Psalm 2.md"
-    },
-    {
-      "basename": "Titus 3",
-      "path": "content/Bible/BSB/56-Titus/Titus 3.md"
-    },
-    {
-      "basename": "Doctrine atomic note template",
-      "path": "Templates/Doctrine atomic note template.md"
     }
   ],
   "omittedPaths": [

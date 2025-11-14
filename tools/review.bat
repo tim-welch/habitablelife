@@ -31,4 +31,4 @@ if not "%first%"=="" (
 echo %EXTRA%
 echo %*
 
-python tools\smartnotes\sm.py --print-context-summary --keep-front-matter --include-file-names --max-tokens=2000 "%EXTRA%" %1 %2 %3 %4 %5 %6 %7 %8 %9
+python tools\smartnotes\sm.py --print-context-summary --keep-front-matter --include-file-names --max-tokens=3000 --max-context-tokens=50000 "%EXTRA%" %1 %2 %3 %4 %5 %6 %7 %8 %9
