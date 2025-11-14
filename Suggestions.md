@@ -1,5 +1,3 @@
-## Introduction
-**Thesis statement:** The gospel is the good news that Jesus Christ died for our sins, was buried, and rose again on the third day. Anyone who believes in Him and trusts His finished work for forgiveness and new life is saved, apart from any effort or merit of their own.
 
 ## I. The Core of the Gospel
 - [[The Gospel Message]]

@@ -9,8 +9,40 @@
       "path": "content/essays/The Gospel.md"
     },
     {
+      "basename": "Saved by the Gospel",
+      "path": "content/notes/statement of faith/Saved by the Gospel.md"
+    },
+    {
+      "basename": "The wages of sin is death",
+      "path": "drafts/next/the gospel/The wages of sin is death.md"
+    },
+    {
+      "basename": "The Necessity of Faith",
+      "path": "content/notes/statement of faith/The Necessity of Faith.md"
+    },
+    {
       "basename": "Salvation through Confession",
       "path": "content/notes/statement of faith/Salvation through Confession.md"
+    },
+    {
+      "basename": "The Exclusivity of Christ for Salvation",
+      "path": "content/notes/statement of faith/The Exclusivity of Christ for Salvation.md"
+    },
+    {
+      "basename": "Christ Died for Our Sins",
+      "path": "content/notes/statement of faith/Christ Died for Our Sins.md"
+    },
+    {
+      "basename": "The Lamb of God",
+      "path": "content/Literature Notes/John/The Lamb of God.md"
+    },
+    {
+      "basename": "Christ Reconciles All Things to God Through His Blood",
+      "path": "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md"
+    },
+    {
+      "basename": "Christ's Work and Reconciliation MOC",
+      "path": "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md"
     },
     {
       "basename": "gap-detector",
@@ -45,10 +77,6 @@
       "path": "Bible/Berean Bible verse numbers.md"
     },
     {
-      "basename": "The Necessity of Faith",
-      "path": "content/notes/statement of faith/The Necessity of Faith.md"
-    },
-    {
       "basename": "Not by Righteous Deeds",
       "path": "content/notes/statement of faith/Not by Righteous Deeds.md"
     },
@@ -69,16 +97,8 @@
       "path": "content/notes/statement of faith/The Prophecy of the Gospel Message.md"
     },
     {
-      "basename": "Saved by the Gospel",
-      "path": "content/notes/statement of faith/Saved by the Gospel.md"
-    },
-    {
       "basename": "Christ Was Raised on the Third Day",
       "path": "content/notes/statement of faith/Christ Was Raised on the Third Day.md"
-    },
-    {
-      "basename": "Christ Died for Our Sins",
-      "path": "content/notes/statement of faith/Christ Died for Our Sins.md"
     },
     {
       "basename": "According to the Scriptures",
@@ -93,10 +113,6 @@
       "path": "content/notes/statement of faith/The Gospel and Salvation.md"
     },
     {
-      "basename": "The Exclusivity of Christ for Salvation",
-      "path": "content/notes/statement of faith/The Exclusivity of Christ for Salvation.md"
-    },
-    {
       "basename": "There is no other name by which we can be saved",
       "path": "drafts/next/the gospel/There is no other name by which we can be saved.md"
     },
@@ -107,10 +123,6 @@
     {
       "basename": "John 6",
       "path": "content/Bible/BSB/43-John/John 6.md"
-    },
-    {
-      "basename": "Christ Reconciles All Things to God Through His Blood",
-      "path": "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md"
     },
     {
       "basename": "Washed and Renewed by the Spirit",
@@ -143,10 +155,6 @@
     {
       "basename": "Hold Firmly to the Gospel",
       "path": "content/notes/statement of faith/Hold Firmly to the Gospel.md"
-    },
-    {
-      "basename": "Christ's Work and Reconciliation MOC",
-      "path": "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md"
     },
     {
       "basename": "Belief that Saves",
@@ -191,10 +199,6 @@
     {
       "basename": "Acts 2",
       "path": "content/Bible/BSB/44-Acts/Acts 2.md"
-    },
-    {
-      "basename": "Psalm 2",
-      "path": "content/Bible/BSB/19-Psalm/Psalm 2.md"
     }
   ],
   "omittedPaths": [

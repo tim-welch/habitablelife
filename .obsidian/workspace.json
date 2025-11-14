@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/essays/The Gospel.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -161,6 +161,78 @@
               },
               "icon": "lucide-file",
               "title": "ring"
+            }
+          },
+          {
+            "id": "26831ed1fc1a23e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/Saved by the Gospel.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Saved by the Gospel"
+            }
+          },
+          {
+            "id": "400ad663aa7b4653",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/The Exclusivity of Christ for Salvation.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Exclusivity of Christ for Salvation"
+            }
+          },
+          {
+            "id": "2a1b66668ab07a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/The Necessity of Faith.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Necessity of Faith"
             }
           }
         ],
@@ -404,10 +476,18 @@
   "active": "7a93728b45fd7002",
   "lastOpenFiles": [
     "content/essays/The Gospel.md",
+    "Suggestions.md",
+    "content/notes/statement of faith/Saved by the Gospel.md",
+    "drafts/next/the gospel/The wages of sin is death.md",
+    "content/notes/statement of faith/The Necessity of Faith.md",
+    "content/notes/statement of faith/Salvation through Confession.md",
+    "content/notes/statement of faith/The Exclusivity of Christ for Salvation.md",
+    "content/notes/statement of faith/Christ Died for Our Sins.md",
+    "content/Literature Notes/John/The Lamb of God.md",
+    "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
+    "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
     "content/notes/essays.md",
     "content/essays",
-    "content/notes/statement of faith/Salvation through Confession.md",
-    "Suggestions.md",
     "prompts/api/gap-detector.md",
     "content/notes/statement of faith/Jesus Appeared After His Resurrection.md",
     "prompts/api/essay-outliner.md",
@@ -416,19 +496,12 @@
     "content/notes/statement of faith/The Necessity of the Resurrection.md",
     "content/notes/statement of faith/Transformed by the Gospel.md",
     "Bible/Berean Bible verse numbers.md",
-    "content/notes/statement of faith/The Necessity of Faith.md",
     "content/notes/statement of faith/Not by Righteous Deeds.md",
     "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
     "content/notes/statement of faith/The Role of Repentance in Salvation.md",
     "content/notes/statement of faith/The Gospel Demands a Response.md",
     "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
-    "content/notes/statement of faith/Saved by the Gospel.md",
     "content/notes/statement of faith/Christ Was Raised on the Third Day.md",
-    "content/notes/statement of faith/Christ Died for Our Sins.md",
-    "content/notes/statement of faith/According to the Scriptures.md",
-    "prompts/api/backlinker.md",
-    "content/notes/statement of faith/The Gospel and Salvation.md",
-    "content/notes/statement of faith/The Exclusivity of Christ for Salvation.md",
     "tools/ring.bat",
     "tools/missing copy.bat",
     "tools/expander.bat",
