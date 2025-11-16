@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "content/essays/The Gospel.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -153,8 +153,7 @@
               "title": "God’s Justice Demonstrated at the Cross"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "45493501b9b2162d",
@@ -189,7 +188,6 @@
           {
             "id": "7a93728b45fd7002",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -207,7 +205,6 @@
                   "unlinkedCollapsed": true
                 }
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Suggestions"
             }
@@ -285,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 378.5,
+    "collapsed": true
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -452,10 +450,10 @@
   },
   "active": "7a93728b45fd7002",
   "lastOpenFiles": [
-    "content/notes/statement of faith/God’s Justice Demonstrated at the Cross.md",
-    "Suggestions.md",
-    "content/Bible/BSB/23-Isaiah/Isaiah 53.md",
     "content/essays/The Gospel.md",
+    "Suggestions.md",
+    "content/notes/statement of faith/God’s Justice Demonstrated at the Cross.md",
+    "content/Bible/BSB/23-Isaiah/Isaiah 53.md",
     "Bible/Berean Bible verse numbers.md",
     "drafts/Untitled.md",
     "content/Bible/BSB/45-Romans/Romans 3.md",
