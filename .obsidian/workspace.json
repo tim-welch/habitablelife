@@ -80,8 +80,81 @@
               "icon": "lucide-file",
               "title": "Salvation through Confession"
             }
+          },
+          {
+            "id": "28e4258585e8c36b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/Belief that Saves.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Belief that Saves"
+            }
+          },
+          {
+            "id": "572fd8a50bfc43bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/Bible/BSB/45-Romans/Romans 3.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Romans 3"
+            }
+          },
+          {
+            "id": "d883a880d09e1b78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/God’s Justice Demonstrated at the Cross.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "God’s Justice Demonstrated at the Cross"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "45493501b9b2162d",
@@ -121,7 +194,7 @@
               "type": "markdown",
               "state": {
                 "file": "Suggestions.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -137,102 +210,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Suggestions"
-            }
-          },
-          {
-            "id": "0c615c3bfeb4662c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "prompts/api/ring.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ring"
-            }
-          },
-          {
-            "id": "26831ed1fc1a23e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/Saved by the Gospel.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Saved by the Gospel"
-            }
-          },
-          {
-            "id": "400ad663aa7b4653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/The Exclusivity of Christ for Salvation.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Exclusivity of Christ for Salvation"
-            }
-          },
-          {
-            "id": "2a1b66668ab07a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/The Necessity of Faith.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "The Necessity of Faith"
             }
           }
         ],
@@ -268,7 +245,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:MOC.",
+                "query": "path:content/notes \"John 3\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -475,14 +452,21 @@
   },
   "active": "7a93728b45fd7002",
   "lastOpenFiles": [
-    "content/essays/The Gospel.md",
+    "content/notes/statement of faith/God’s Justice Demonstrated at the Cross.md",
     "Suggestions.md",
+    "content/Bible/BSB/23-Isaiah/Isaiah 53.md",
+    "content/essays/The Gospel.md",
+    "Bible/Berean Bible verse numbers.md",
+    "drafts/Untitled.md",
+    "content/Bible/BSB/45-Romans/Romans 3.md",
+    "content/notes/statement of faith/Belief that Saves.md",
+    "content/Bible/BSB/43-John/John 3.md",
+    "content/notes/statement of faith/Christ Died for Our Sins.md",
     "content/notes/statement of faith/Saved by the Gospel.md",
     "drafts/next/the gospel/The wages of sin is death.md",
     "content/notes/statement of faith/The Necessity of Faith.md",
     "content/notes/statement of faith/Salvation through Confession.md",
     "content/notes/statement of faith/The Exclusivity of Christ for Salvation.md",
-    "content/notes/statement of faith/Christ Died for Our Sins.md",
     "content/Literature Notes/John/The Lamb of God.md",
     "content/notes/statement of faith/Christ Reconciles All Things to God Through His Blood.md",
     "content/notes/statement of faith/Christ's Work and Reconciliation MOC.md",
@@ -495,13 +479,6 @@
     "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md",
     "content/notes/statement of faith/The Necessity of the Resurrection.md",
     "content/notes/statement of faith/Transformed by the Gospel.md",
-    "Bible/Berean Bible verse numbers.md",
-    "content/notes/statement of faith/Not by Righteous Deeds.md",
-    "content/notes/statement of faith/Disobedient and Enslaved to Sin.md",
-    "content/notes/statement of faith/The Role of Repentance in Salvation.md",
-    "content/notes/statement of faith/The Gospel Demands a Response.md",
-    "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
-    "content/notes/statement of faith/Christ Was Raised on the Third Day.md",
     "tools/ring.bat",
     "tools/missing copy.bat",
     "tools/expander.bat",

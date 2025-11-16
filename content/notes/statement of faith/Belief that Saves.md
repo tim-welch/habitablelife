@@ -6,13 +6,11 @@ tags:
 ---
 
 ## Summary
-> For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not perish but have eternal life.  
-> — [[John 3#John 3 16|John 3:16]]
+> For God so loved the world that He gave His one and only Son, that whoever believes in Him shall not perish but have eternal life.  - [[John 3#John 3 16|John 3:16]]
 
 Salvation comes through believing in Jesus (the Christ, the Son of God) who died for our sins and was raised from the dead. This belief unites the truths revealed in the Bible about who Jesus is and what He has done.
 
 ## Biblical Support
-- [[John 3#John 3 16|John 3:16]]
 - [[John 3#John 3 36|John 3:36]]
 - [[John 20#John 20 31|John 20:31]]
 - [[Acts 16#Acts 16 31|Acts 16:31]]

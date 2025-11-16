@@ -1,149 +1,36 @@
+## 2. Notes Covering Unlinked Bullet Points
 
-## 1. Overall Evaluation
+Here’s a check of your unlinked bullets against the project files. I reviewed the notes for whether they **teach the point you’re making**, not merely mention the verse.
 
-Your outline already follows a strong **redemptive flow**:  
-**Sin → Death → God’s Love → Christ’s Atonement → Resurrection → Faith → Exclusivity → Response.**
-
-It’s doctrinally consistent with the **Core Gospel ring**—focused on what must be believed and done to be saved. The notes you’ve linked cover nearly all the key gospel atoms. The structure mirrors Romans 1–10 and 1 Cor 15:3–4, which makes it sound and biblical.
-
-However, a few **organizational and argumentative adjustments** would make the progression more cogent and the conclusion more persuasive.
-
----
-
-## 2. Theological and Logical Review by Section
-
-### **Introduction**
-
-✅ _Strong thesis._  
-→ Clear articulation of the gospel’s essence (1 Cor 15:3–4).
-
-🔸 **Possible refinement:** Add one framing sentence that defines _why_ the gospel matters—e.g., “It reveals God’s solution to humanity’s greatest problem: sin and death.” This will connect naturally into section 1.
-
----
-
-### **We All Sin**
-
-- Supported well by [[Disobedient and Enslaved to Sin]] .
-    
-- “If we say we don’t sin we lie” echoes 1 John 1:8 (already linked in [[Christ Died for Our Sins]] ).
-    
-
-⚠️ **Gap:** No explicit mention that sin separates us from God.  
-→ Add a short bridge or note like _“Sin breaks our relationship with God, leaving us condemned and powerless to save ourselves”_ (Isa 59:2; Rom 3:23).
+|Section|Bullet Point|Matching Note|Does It Make the Same Point?|Comment|
+|---|---|---|---|---|
+|**We all sin**|Romans 3:23|[[Disobedient and Enslaved to Sin]] ✅|Yes — explicitly teaches universal sin and moral inability.||
+||1 John 1:8|[[Christ Died for Our Sins]] ✅|Yes — uses this verse to emphasize our personal guilt.||
+|**Sin’s Aftermath**|Isaiah 59:2|None|❌ No note yet connecting sin to _separation_ from God. Could warrant a new atomic note, e.g. “Sin Separates Us from God.”||
+||Romans 6:23a; James 1:15; Ezek 18:4|None|⚠️ Several notes on sin’s consequence (death) exist only indirectly in [[Christ Died for Our Sins]] and [[Disobedient and Enslaved to Sin]]. These verses would justify a short atomic note like “The Wages of Sin Is Death.”||
+||Romans 2:5–6|None|⚠️ No dedicated note on divine _wrath_ or _righteous judgment_. “Wrath of God” might merit a foundational-truths note because it explains why salvation is needed.||
+|**God’s love**|John 3:16|[[Belief that Saves]] ✅|Yes — interprets this as God’s motive in offering salvation.||
+||John 1:14–17|None|⚠️ No atomic note connecting incarnation to gospel love; could fit in “Foundational Truths” ring (“God Became Flesh to Save Us”).||
+||Titus 3:4|[[Transformed by the Gospel]] ✅|Yes — uses this verse directly to show love appearing in Christ.||
+||Ephesians 2:4|[[Transformed by the Gospel]] ✅|Yes — same theological purpose.||
+|**Christ Died for Our Sins**|John 1:29; 1 John 2:2|[[Christ Died for Our Sins]] ✅|Yes — both are already used in that note’s support.||
+|**And rose again**|Romans 4:25|[[The Necessity of the Resurrection]] ✅|Yes — interprets this verse as proof that resurrection secures justification.||
+||Luke 24:5|[[Jesus Appeared After His Resurrection]] ✅|Yes — ties the “living among the dead” to resurrection reality.||
+|**Saved through faith**|John 20:31|[[Belief that Saves]] ✅|Yes — this verse is core to that note.||
+||John 3:36|[[Belief that Saves]] ✅|Yes — that note expounds on belief vs. rejection.||
+||John 1:12|[[The Role of Repentance in Salvation]] (partial) ⚠️|Partially — that note parallels “believing and receiving” but focuses on repentance. A brief new note “Receiving Jesus as the Christ” could complete the connection.||
+|**Therefore, there is no other way**|Acts 4:12|[[The Exclusivity of Christ for Salvation]] ✅|Yes — central verse in that note.||
 
 ---
 
-### **Sin Deserves Death**
+### Summary of Uncovered Concepts
 
-- Good logical progression: consequence of sin.
-    
-- You might connect Romans 6:23 with James 1:15 for the moral sequence (sin → death).
-    
+You have **four unlinked ideas** worth atomic coverage:
 
-⚠️ **Gap:** The link between “death” and “God’s justice” is implied but not stated.  
-→ Consider adding a sentence or atomic note clarifying that death is the just penalty for sin, not arbitrary punishment (cf. Rom 2:5–6).
-
----
-
-### **God’s Love**
-
-- Excellent next step; aligns with [[Belief that Saves]] and John 3:16.
-    
-- “Saved by grace” could connect to [[Not by Righteous Deeds]] and [[The Necessity of Faith]] .
-    
-
-⚠️ **Gap:** The movement from God’s love to sending Christ could be tightened by referencing _mercy overcoming justice through the cross_ (Rom 5:8).  
-→ Add or link [[Justified by His Grace]] for cohesion.
-
----
-
-### **Christ Died for Our Sins**
-
-- Anchored in 1 Cor 15:3–4 and [[Christ Died for Our Sins]] .
-    
-- You might connect [[The Prophecy of the Gospel Message]] here for “according to the Scriptures.”
-    
-
-✅ Strong theological content; no major gap.
-
----
-
-### **And Rose Again**
-
-- Solid group of supporting notes: [[Christ Was Raised on the Third Day]], [[The Necessity of the Resurrection]], [[Jesus Appeared After His Resurrection]].
-    
-- You already have the right emphasis: the resurrection validates and completes salvation .
-    
-
-⚠️ **Gap:** Make the transition explicit—why resurrection matters _for us_.  
-→ Add a line summarizing: “His resurrection secures our justification and guarantees our future life” (Rom 4:25).
-
----
-
-### **Saved through Faith**
-
-- Strong cluster of linked notes: [[The Gospel Demands a Response]], [[Saved by the Gospel]], [[Salvation through Confession]], [[The Necessity of Faith]], [[Belief that Saves]], [[Hold Firmly to the Gospel]].
-    
-- Covers repentance implicitly via faith.
-    
-
-⚠️ **Gap 1:** Repentance isn’t explicitly linked, though Acts 3:19 belongs here.  
-→ Add [[The Role of Repentance in Salvation]] as a parallel to belief.
-
-⚠️ **Gap 2:** Faith’s object could be made explicit—“faith in Jesus as the Christ, the Son of God” (John 20:31). This ties the belief to the person, not just the facts.
-
----
-
-### **No Other Way**
-
-- Supported by [[The Exclusivity of Christ for Salvation]] and [[Not by Righteous Deeds]] .
-    
-- Logical conclusion: the exclusivity of Christ flows from His unique atonement and resurrection.
-    
-
-✅ No theological gap, but a rhetorical one—this section could act as your **“Therefore”** bridge into the conclusion.
-
----
-
-### **Conclusion**
-
-- Linking to [[The Gospel Message]] and [[According to the Scriptures]] is ideal.
-    
-- You could close with a clear appeal: “Therefore, believe and receive Jesus so that you may be saved from wrath and death and receive eternal life” (John 3:36 ).
-    
-
----
-
-## 3. Missing or Underused Core-Gospel Notes
-
-These notes could strengthen the essay’s argument:
-
-|Concept|Note|Placement Suggestion|
+|Proposed Note Title|Ring|Purpose|
 |---|---|---|
-|Repentance as part of faith’s response|[[The Role of Repentance in Salvation]]|Under “Saved through Faith”|
-|Validation of the resurrection|[[The Resurrection Validates Jesus as Christ]]|In “And Rose Again”|
-|Prophecy fulfillment|[[The Prophecy of the Gospel Message]]|After “Christ Died for Our Sins” or “Conclusion”|
-|Faith’s necessity and exclusivity synthesis|[[The Necessity of Faith]]|Reinforce in “Saved through Faith”|
+|**Sin Separates Us from God**|Foundational Truths|Explains relational consequence of sin (Isa 59:2).|
+|**The Wages of Sin Is Death**|Core Gospel|Establishes death as sin’s penalty and the reason Christ had to die (Rom 6:23).|
+|**The Wrath of God Against Sin**|Foundational Truths|Shows divine justice behind judgment (Rom 2:5–6).|
+|**Receiving Jesus as the Christ**|Core Gospel|Clarifies the “receiving” aspect of faith (John 1:12).|
 
----
-
-## 4. Gaps and Suggested Bridges
-
-|Type|Location|Needed Bridge|
-|---|---|---|
-|**Logical**|Between “Sin Deserves Death” and “God’s Love”|Explain how justice and love meet in the cross (Rom 3:25–26).|
-|**Doctrinal**|Within “Saved through Faith”|Explicitly connect repentance, faith, and confession as one response.|
-|**Rhetorical**|Before “Conclusion”|Add a “therefore” transition emphasizing that Jesus’ exclusive saving power demands belief and reception.|
-
----
-
-## 5. Summary Recommendation
-
-Your outline already forms a **biblically grounded, theologically coherent gospel argument** within the Core Gospel ring.  
-To finalize it for drafting:
-
-1. Add bridges for **justice–love**, **faith–repentance**, and **resurrection–application** transitions.
-    
-2. Incorporate [[The Role of Repentance in Salvation]] and [[The Prophecy of the Gospel Message]].
-    
-3. Recast the conclusion into a clear evangelistic appeal built on exclusivity and promise.
