@@ -10,10 +10,15 @@ tags:
 
 ## Biblical Support
 
+- [[Genesis 18#Genesis 18 25|Genesis 18:25]]
 - [[Psalm 85#Psalm 85 10|Psalm 85:10]]
+- [[Isaiah 30#Isaiah 30 18|Isaiah 30:18]]
 - [[Isaiah 53#Isaiah 53 5|Isaiah 53:5–6]]
+- [[Habakkuk 1#Habakkuk 1 13|Habakkuk 1:13]]
+- [[Romans 1#Romans 1 17|Romans 1:17]]
 - [[Romans 5#Romans 5 9|Romans 5:9]]
 - [[2 Corinthians 5#2 Corinthians 5 21|2 Corinthians 5:21]]
+- [[Hebrews 9#Hebrews 9 22|Hebrews 9:22]]
 - [[1 John 2#1 John 2 2|1 John 2:2]]
 
 ## Explanation
