@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "The Gospel",
-      "path": "content/essays/The Gospel.md"
+      "basename": "The wages of sin is death",
+      "path": "content/notes/statement of faith/The wages of sin is death.md"
     },
     {
-      "basename": "All Have Sinned",
-      "path": "content/notes/statement of faith/All Have Sinned.md"
+      "basename": "The Gospel",
+      "path": "content/essays/The Gospel.md"
     },
     {
       "basename": "Berean Bible verse numbers",
       "path": "Bible/Berean Bible verse numbers.md"
     },
     {
+      "basename": "The Prophecy of the Gospel Message",
+      "path": "content/notes/statement of faith/The Prophecy of the Gospel Message.md"
+    },
+    {
+      "basename": "God sent His Son as a man to die in our place",
+      "path": "drafts/next/the gospel/God sent His Son as a man to die in our place.md"
+    },
+    {
+      "basename": "Jesus' death was atonement for sin",
+      "path": "drafts/next/the gospel/Jesus' death was atonement for sin.md"
+    },
+    {
+      "basename": "Christ Died for Our Sins",
+      "path": "content/notes/statement of faith/Christ Died for Our Sins.md"
+    },
+    {
       "basename": "Suggestions",
       "path": "Suggestions.md"
+    },
+    {
+      "basename": "All Have Sinned",
+      "path": "content/notes/statement of faith/All Have Sinned.md"
     },
     {
       "basename": "🎓 Christian Theology Professor Persona",
@@ -45,16 +65,8 @@
       "path": "content/Bible/BSB/43-John/John 3.md"
     },
     {
-      "basename": "Christ Died for Our Sins",
-      "path": "content/notes/statement of faith/Christ Died for Our Sins.md"
-    },
-    {
       "basename": "Saved by the Gospel",
       "path": "content/notes/statement of faith/Saved by the Gospel.md"
-    },
-    {
-      "basename": "The wages of sin is death",
-      "path": "drafts/next/the gospel/The wages of sin is death.md"
     },
     {
       "basename": "The Necessity of Faith",
@@ -125,10 +137,6 @@
       "path": "content/notes/statement of faith/The Gospel Demands a Response.md"
     },
     {
-      "basename": "The Prophecy of the Gospel Message",
-      "path": "content/notes/statement of faith/The Prophecy of the Gospel Message.md"
-    },
-    {
       "basename": "Christ Was Raised on the Third Day",
       "path": "content/notes/statement of faith/Christ Was Raised on the Third Day.md"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "Hold Firmly to the Gospel",
       "path": "content/notes/statement of faith/Hold Firmly to the Gospel.md"
-    },
-    {
-      "basename": "missing",
-      "path": "prompts/api/missing.md"
-    },
-    {
-      "basename": "expander",
-      "path": "prompts/api/expander.md"
-    },
-    {
-      "basename": "verse-linker",
-      "path": "prompts/api/verse-linker.md"
     }
   ],
   "omittedPaths": [

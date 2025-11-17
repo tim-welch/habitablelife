@@ -16,7 +16,7 @@ tags:
 
 ## Sin's Aftermath
 - Separation from God [[Isaiah 59#Isaiah 59 2|Isaiah 59:2]]
-- The wages of sin is death [[Romans 6#Romans 6 23|Romans 6:23a]]
+- [[The wages of sin is death]]
 - Sin, when full grown, gives birth to death [[James 1#James 1 15|James 1:15]]
 - Wrath, judgement, and repayment [[Romans 2#Romans 2 5|Romans 2:5-6]]
     - Note this is followed by eternal life for those who persevere in doing good. But the previous section explains that no one does good. [[#We all sin]]

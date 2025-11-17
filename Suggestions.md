@@ -5,7 +5,6 @@ Below are **only** the matches where the notes _explicitly make the same point y
 
 |Section|Bullet Point|Matching Note|Alignment|
 |---|---|---|---|
-|**We all sin**|“All have sinned…”; “If we say we don’t sin…”|[[Disobedient and Enslaved to Sin]]|✅ Explicitly teaches universal sin and moral inability.|
 |**Sin’s Aftermath**|“Separation from God”|❌ None|No existing note makes the relational point of separation (Isa 59:2).|
 ||“Wages of sin is death”; “Sin gives birth to death”; “The soul who sins will die”|❌ None|None directly define death as the penalty for sin. [[Christ Died for Our Sins]] implies it indirectly but focuses on substitution, not penalty explanation.|
 ||“Wrath, judgment, and repayment”|❌ None|No atomic note explains God’s righteous wrath or judgment as consequences of sin.|
