@@ -10,7 +10,7 @@ tags:
 **Thesis statement:** The gospel is the good news that Jesus Christ died for our sins, was buried, and rose again on the third day. Anyone who believes in Him and trusts His finished work for forgiveness and new life is saved, apart from any effort or merit of their own. This good news reveals God's solution to our greatest problem: sin and death.
 
 ## We all sin
-- All have sinned and fall short of the glory of God [[Romans 3#Romans 3 23|Romans 3:23]]
+- [[All Have Sinned]]
 - [[Disobedient and Enslaved to Sin]]
 - if we say we don't sin we lie [[1 John 1#1 John 1 8|1 John 1:8]]
 
