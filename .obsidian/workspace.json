@@ -8,32 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0eb54c0888f3bb7b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/essays/The Gospel.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "The Gospel"
-            }
-          },
-          {
             "id": "345dbc98d45c8d39",
             "type": "leaf",
             "state": {
@@ -57,66 +31,106 @@
               "title": "The wages of sin is death"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "45493501b9b2162d",
-        "type": "tabs",
+        "id": "aaa72fa47bfec975",
+        "type": "split",
         "children": [
           {
-            "id": "1efd01e3e92c734a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/Berean Bible verse numbers.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "45493501b9b2162d",
+            "type": "tabs",
+            "dimension": 59.2891760904685,
+            "children": [
+              {
+                "id": "1efd01e3e92c734a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible/Berean Bible verse numbers.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Berean Bible verse numbers"
                 }
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Berean Bible verse numbers"
-            }
+              {
+                "id": "7a93728b45fd7002",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Suggestions.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Suggestions"
+                }
+              }
+            ]
           },
           {
-            "id": "7a93728b45fd7002",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Suggestions.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "a3ac60e745df06ce",
+            "type": "tabs",
+            "dimension": 40.7108239095315,
+            "children": [
+              {
+                "id": "0eb54c0888f3bb7b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "content/essays/The Gospel.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "The Gospel"
                 }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Suggestions"
-            }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -355,9 +369,9 @@
   },
   "active": "345dbc98d45c8d39",
   "lastOpenFiles": [
-    "content/essays/The Gospel.md",
-    "content/notes/statement of faith/The wages of sin is death.md",
     "Bible/Berean Bible verse numbers.md",
+    "content/notes/statement of faith/The wages of sin is death.md",
+    "content/essays/The Gospel.md",
     "drafts/next/the gospel/The atonement was prophesied.md",
     "content/notes/statement of faith/The Prophecy of the Gospel Message.md",
     "drafts/next/the gospel/God sent His Son as a man to die in our place.md",
