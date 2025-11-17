@@ -19,10 +19,11 @@ Everyone has sinned. No one lives up to the glory of God.
 
 ## Explanation
 
-Any sin, no matter how large or how small, prevents us from living up to the glory of God. 
+Any sin, no matter how large or how small, prevents us from living up to the glory of God. Paul has already established in Romans 1 and 2 that both Jew and Greek are without excuse. We all know that God exists ([[Romans 1#Romans 1 19|Romans 1:19-21]]), but we suppress that truth ([[Romans 1#Romans 1 25|Romans 1:25]]). We all have God's moral standards written on the conscience ([[Romans 2#Romans 2 15|Romans 2:15]]). None of us live up to God's standard of righteousness.
 
-Paul has already established in Romans 1 and 2 that both Jew and Greek are without excuse. To some extent we all know God's expectation. None of us live up to the standard God has established.
+God created us in His image to reflect His glory. By sinning, we fall short of that glory. We do not live up to the purpose God created us for.
 
 ## Connections
 
 - [[Disobedient and Enslaved to Sin]]
+- [[Christ Died for Our Sins]]

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "The Gospel",
+      "path": "content/essays/The Gospel.md"
+    },
+    {
       "basename": "All Have Sinned",
       "path": "content/notes/statement of faith/All Have Sinned.md"
     },
@@ -9,8 +13,8 @@
       "path": "Bible/Berean Bible verse numbers.md"
     },
     {
-      "basename": "The Gospel",
-      "path": "content/essays/The Gospel.md"
+      "basename": "Suggestions",
+      "path": "Suggestions.md"
     },
     {
       "basename": "🎓 Christian Theology Professor Persona",
@@ -23,10 +27,6 @@
     {
       "basename": "God’s Justice Demonstrated at the Cross",
       "path": "content/notes/statement of faith/God’s Justice Demonstrated at the Cross.md"
-    },
-    {
-      "basename": "Suggestions",
-      "path": "Suggestions.md"
     },
     {
       "basename": "Isaiah 53",

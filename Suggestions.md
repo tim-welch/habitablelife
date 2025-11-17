@@ -1,3 +1,4 @@
+
 ## Verified Alignment Between Essay Points and Notes
 
 Below are **only** the matches where the notes _explicitly make the same point you are making in your outline_.

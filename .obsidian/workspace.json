@@ -32,6 +32,30 @@
               "icon": "lucide-file",
               "title": "The Gospel"
             }
+          },
+          {
+            "id": "16d41c9d25b83f57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/notes/statement of faith/All Have Sinned.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "All Have Sinned"
+            }
           }
         ]
       },
@@ -72,30 +96,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16d41c9d25b83f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/notes/statement of faith/All Have Sinned.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "All Have Sinned"
-            }
-          },
-          {
             "id": "7a93728b45fd7002",
             "type": "leaf",
             "pinned": true,
@@ -103,7 +103,7 @@
               "type": "markdown",
               "state": {
                 "file": "Suggestions.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -359,15 +359,15 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "16d41c9d25b83f57",
+  "active": "0eb54c0888f3bb7b",
   "lastOpenFiles": [
-    "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/All Have Sinned.md",
+    "Bible/Berean Bible verse numbers.md",
+    "Suggestions.md",
     "content/essays/The Gospel.md",
     "prompts/🎓 Christian Theology Professor Persona.md",
     "prompts/🎓 Persona - Calvinist Professor.md",
     "content/notes/statement of faith/God’s Justice Demonstrated at the Cross.md",
-    "Suggestions.md",
     "content/Bible/BSB/23-Isaiah/Isaiah 53.md",
     "drafts/Untitled.md",
     "content/Bible/BSB/45-Romans/Romans 3.md",

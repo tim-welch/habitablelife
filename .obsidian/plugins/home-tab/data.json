@@ -24,24 +24,24 @@
   "unresolvedLinks": false,
   "recentFilesStore": [
     {
+      "filepath": "content/essays/The Gospel.md",
+      "timestamp": 1763341404726
+    },
+    {
       "filepath": "content/notes/statement of faith/All Have Sinned.md",
-      "timestamp": 1763339183236
+      "timestamp": 1763341185492
     },
     {
       "filepath": "Bible/Berean Bible verse numbers.md",
-      "timestamp": 1763339064421
+      "timestamp": 1763341163806
     },
     {
-      "filepath": "content/essays/The Gospel.md",
-      "timestamp": 1763338704750
+      "filepath": "Suggestions.md",
+      "timestamp": 1763340790582
     },
     {
       "filepath": "prompts/🎓 Christian Theology Professor Persona.md",
       "timestamp": 1763309749577
-    },
-    {
-      "filepath": "prompts/🎓 Persona - Calvinist Professor.md",
-      "timestamp": 1763309739226
     }
   ],
   "bookmarkedFileStore": [],
