@@ -15,10 +15,10 @@ tags:
 - if we say we don't sin we lie [[1 John 1#1 John 1 8|1 John 1:8]]
 
 ## Sin's Aftermath
-- Separation from God [[Isaiah 59#Isaiah 59 2|Isaiah 59:2]]
+- Sin Separates Us from God [[Isaiah 59#Isaiah 59 2|Isaiah 59:2]]
 - [[The wages of sin is death]]
 - Sin, when full grown, gives birth to death [[James 1#James 1 15|James 1:15]]
-- Wrath, judgement, and repayment [[Romans 2#Romans 2 5|Romans 2:5-6]]
+- The Wrath of God Against Sin [[Romans 2#Romans 2 5|Romans 2:5-6]]
     - Note this is followed by eternal life for those who persevere in doing good. But the previous section explains that no one does good. [[#We all sin]]
 - the soul who sins will die [[Ezekiel 18#Ezekiel 18 4|Ezekiel 18:4]]
 
@@ -27,7 +27,7 @@ tags:
 
 ## God's love
 - for god so loved the world he sent his son [[John 3#John 3 16|John 3:16]]
-- God made flesh to dwell with us [[John 1#John 1 14|John 1:14]]
+- God Became Flesh to Save Us [[John 1#John 1 14|John 1:14]]
 - Grace and truth from Jesus [[John 1#John 1 17|John 1:17]]
 - God's love for mankind appeared [[Titus 3#Titus 3 4|Titus 3:4]]
 - God has great love for us [[Ephesians 2#Ephesians 2 4|Ephesians 2:4]]
@@ -57,7 +57,7 @@ tags:
 - faith in Jesus as the Christ, the Son of God [[John 20#John 20 31|John 20:31]]
 - whoever believes has eternal life [[John 3#John 3 36|John 3:36]]
 - whoever rejects does not have life instead the wrath of god remains on him [[John 3#John 3 36|John 3:36]]
-- to those who received he gave the right to become children of god [[John 1#John 1 12|John 1:12]]
+- Receiving Jesus as the Christ [[John 1#John 1 12|John 1:12]]
 
 ## Therefore, there is no other way
 - [[The Exclusivity of Christ for Salvation]]
