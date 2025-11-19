@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/notes/statement of faith/According to the Scriptures.md",
-                "mode": "preview",
+                "file": "prompts/low-carb and ketogenic lifestyle coach.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "According to the Scriptures"
+              "title": "low-carb and ketogenic lifestyle coach"
             }
           }
         ]
@@ -353,11 +353,12 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "7a93728b45fd7002",
+  "active": "345dbc98d45c8d39",
   "lastOpenFiles": [
     "content/essays/The Gospel.md",
-    "Suggestions.md",
+    "prompts/low-carb and ketogenic lifestyle coach.md",
     "content/notes/statement of faith/According to the Scriptures.md",
+    "Suggestions.md",
     "Bible/Berean Bible verse numbers.md",
     "content/notes/statement of faith/The wages of sin is death.md",
     "drafts/next/the gospel/The atonement was prophesied.md",
@@ -380,7 +381,6 @@
     "content/notes/statement of faith/Saved by the Gospel.md",
     "content/notes/statement of faith/The Necessity of Faith.md",
     "content/notes/statement of faith/Salvation through Confession.md",
-    "content/notes/statement of faith/The Exclusivity of Christ for Salvation.md",
     "content/essays",
     "tools/ring.bat",
     "tools/missing copy.bat",
