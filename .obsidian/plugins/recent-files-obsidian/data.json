@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "📚 Phase 0 — Week 1 Assignments",
+      "path": "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md"
+    },
+    {
+      "basename": "Phase 0 — Week 1 Evaluation Rubric",
+      "path": "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Evaluation Rubric.md"
+    },
+    {
+      "basename": "📘Phase 0 — Syllabus",
+      "path": "NT_Apprenticeship/Phase0_Gospel/📘Phase 0 — Syllabus.md"
+    },
+    {
+      "basename": "Assignment Template",
+      "path": "NT_Apprenticeship/Assignment Template.md"
+    },
+    {
+      "basename": "Exegetical Notebook Template",
+      "path": "NT_Apprenticeship/Exegetical Notebook Template.md"
+    },
+    {
+      "basename": "📘 New Testament Apprenticeship Structure",
+      "path": "NT_Apprenticeship/📘 New Testament Apprenticeship Structure.md"
+    },
+    {
       "basename": "Gospel Synthesis Template",
       "path": "NT_Apprenticeship/Gospel Synthesis Template.md"
     },
@@ -27,18 +51,6 @@
     {
       "basename": "Greek Study Tracker",
       "path": "NT_Apprenticeship/Greek Study Tracker.md"
-    },
-    {
-      "basename": "Exegetical Notebook Template",
-      "path": "NT_Apprenticeship/Exegetical Notebook Template.md"
-    },
-    {
-      "basename": "Assignment Template",
-      "path": "NT_Apprenticeship/Assignment Template.md"
-    },
-    {
-      "basename": "New Testament Apprenticeship Structure",
-      "path": "NT_Apprenticeship/New Testament Apprenticeship Structure.md"
     },
     {
       "basename": "chronological_bible_reading_plan_corrected",
@@ -187,18 +199,6 @@
     {
       "basename": "The Gospel Demands a Response",
       "path": "content/notes/statement of faith/The Gospel Demands a Response.md"
-    },
-    {
-      "basename": "Christ Was Raised on the Third Day",
-      "path": "content/notes/statement of faith/Christ Was Raised on the Third Day.md"
-    },
-    {
-      "basename": "backlinker",
-      "path": "prompts/api/backlinker.md"
-    },
-    {
-      "basename": "The Gospel and Salvation",
-      "path": "content/notes/statement of faith/The Gospel and Salvation.md"
     }
   ],
   "omittedPaths": [
