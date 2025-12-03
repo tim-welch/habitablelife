@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "drafts/later/chronological_bible_reading_plan_corrected.md",
+                "file": "NT_Apprenticeship/New Testament Apprenticeship Structure.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "chronological_bible_reading_plan_corrected"
+              "title": "New Testament Apprenticeship Structure"
             }
           }
         ]
@@ -355,6 +355,10 @@
   },
   "active": "345dbc98d45c8d39",
   "lastOpenFiles": [
+    "drafts/later/chronological_bible_reading_plan_corrected.md",
+    "NT_Apprenticeship/New Testament Apprenticeship Structure.md",
+    "NT_Apprenticeship",
+    "content/Untitled.md",
     "prompts/low-carb and ketogenic lifestyle coach.md",
     "drafts/Markup your Bible.md",
     "content/essays/The Gospel.md",
@@ -378,9 +382,6 @@
     "drafts/Untitled.md",
     "content/Bible/BSB/45-Romans/Romans 3.md",
     "content/notes/statement of faith/Belief that Saves.md",
-    "content/Bible/BSB/43-John/John 3.md",
-    "content/notes/statement of faith/Saved by the Gospel.md",
-    "content/notes/statement of faith/The Necessity of Faith.md",
     "content/essays",
     "tools/ring.bat",
     "tools/missing copy.bat",
@@ -390,7 +391,6 @@
     "tools/expand.bat",
     "tools/missing.bat",
     "tools/structure.bat",
-    "tools/verse-linker.bat",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/note-taking/Verse-Headings-Inside-Chapters-og-image.webp",
     "public/notes/note-taking/Understanding-presuppositions-in-Bible-study-og-image.webp",
