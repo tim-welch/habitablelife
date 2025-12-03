@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NT_Apprenticeship/New Testament Apprenticeship Structure.md",
+                "file": "NT_Apprenticeship/Gospel Synthesis Template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "New Testament Apprenticeship Structure"
+              "title": "Gospel Synthesis Template"
             }
           }
         ]
@@ -355,8 +355,17 @@
   },
   "active": "345dbc98d45c8d39",
   "lastOpenFiles": [
-    "drafts/later/chronological_bible_reading_plan_corrected.md",
+    "NT_Apprenticeship/Assignment Submission Cover Sheet.md",
+    "NT_Apprenticeship/Gospel Synthesis Template.md",
+    "NT_Apprenticeship/Syllabus Template.md",
+    "NT_Apprenticeship/OT Study Tracker.md",
+    "NT_Apprenticeship/Book Overview Template.md",
+    "NT_Apprenticeship/Weekly Study Workflow Template.md",
+    "NT_Apprenticeship/Greek Study Tracker.md",
+    "NT_Apprenticeship/Exegetical Notebook Template.md",
+    "NT_Apprenticeship/Assignment Template.md",
     "NT_Apprenticeship/New Testament Apprenticeship Structure.md",
+    "drafts/later/chronological_bible_reading_plan_corrected.md",
     "NT_Apprenticeship",
     "content/Untitled.md",
     "prompts/low-carb and ketogenic lifestyle coach.md",
@@ -373,15 +382,6 @@
     "drafts/next/the gospel/Jesus' death was atonement for sin.md",
     "content/notes/statement of faith/Christ Died for Our Sins.md",
     "drafts/next/the gospel/Jesus rose again on the third day.md",
-    "drafts/next/the gospel/Jesus died and was buried.md",
-    "content/notes/statement of faith/All Have Sinned.md",
-    "prompts/🎓 Christian Theology Professor Persona.md",
-    "prompts/🎓 Persona - Calvinist Professor.md",
-    "content/notes/statement of faith/God’s Justice Demonstrated at the Cross.md",
-    "content/Bible/BSB/23-Isaiah/Isaiah 53.md",
-    "drafts/Untitled.md",
-    "content/Bible/BSB/45-Romans/Romans 3.md",
-    "content/notes/statement of faith/Belief that Saves.md",
     "content/essays",
     "tools/ring.bat",
     "tools/missing copy.bat",
