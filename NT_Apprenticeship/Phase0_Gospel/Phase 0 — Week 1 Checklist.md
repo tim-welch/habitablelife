@@ -3,7 +3,7 @@
 ## 📍 Mark 1:14–15 (~30 min)
 
 ### A. Context (~5 min)
-- [ ] Read surrounding context  
+- [x] Read surrounding context  
 - [ ] Note Mark’s framing of Jesus’ early ministry  
 
 ### B. Observations (~15 min)

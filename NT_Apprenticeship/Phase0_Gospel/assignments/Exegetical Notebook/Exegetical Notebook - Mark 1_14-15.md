@@ -107,16 +107,22 @@ Avoid speculation; anchor in historical evidence.
 
 # 6. 🧩 Literary Context Within the Book
 
-Describe how this passage fits into the flow of the entire book.
-
-Questions to guide you:
-
 - What came before that sets this up?
+    - As predicted, a messenger (John) came before God's Messenger (Jesus) started His ministry to prepare the way for Him
+    - John baptized Jesus
+    - God called Jesus His Son and said He was pleased with Him
+    - The Holy Spirit came upon Jesus and drove Him into the wilderness for 40 days and tempted by Satan
     
 - What comes immediately after?
+    - Jesus called Simon, Andrew, James, and John to follow Him.
+    - Jesus teaches in the synagogue in Capernaum and performing miracles
+    - News about Jesus spread quickly
     
 - How does this contribute to the author’s larger message?
-    
+    - Prior to Jesus starting His ministry, He was identified as the Messiah, proven worthy, and pleasing to God
+    - Jesus began His ministry by proclaiming the gospel (good news) that the time is fulfilled and the kingdom of God is near. He called on people to repent (change their minds) and believe in this good news
+    - Mark is establishing Jesus as the Messenger sent from God to proclaim the good news
+
 
 ---
 
