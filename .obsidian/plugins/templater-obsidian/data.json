@@ -57,6 +57,10 @@
     {
       "folder": "content/notes/statement of faith",
       "template": "Templates/Doctrine atomic note template.md"
+    },
+    {
+      "folder": "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook",
+      "template": "Templates/Exegetical Notebook Template.md"
     }
   ],
   "enable_file_templates": false,
