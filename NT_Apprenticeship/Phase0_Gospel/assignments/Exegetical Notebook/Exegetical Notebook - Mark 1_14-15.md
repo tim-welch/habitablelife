@@ -49,7 +49,7 @@
 
 Mark uses a lot of temporal language in his writing: "In those days", "as soon as", "at once", "after", "the time is fulfilled", "immediately", "right away", "quickly", etc. These add structure to Mark's writing. They also demonstrate an urgency and fast pacing to the narrative.
 
-Mark 1:14-15 are a summary of Jesus' ministry as narrated by Mark. Prior to this Mark authenticates Jesus through God's and John's message. Then, after John's ministry identifying Jesus ends, Jesus' ministry begins. Jesus' ministry is two-fold. First to proclaim the good news that the kingdom of God is near. Second to call people to repent and believe in the good news. Jesus begins His ministry by calling His first disciples, teaching with authority in the Jewish synagogue, and demonstrating His authority to command the unclean spirits.
+Mark 1:14-15 are a summary of Jesus' ministry as narrated by Mark. Prior to this Mark authenticates Jesus through God's and John's message. Then, after John's ministry identifying Jesus ends, Jesus' ministry begins. Jesus' ministry is two-fold. First to proclaim the good news that the kingdom of God is near. Second to call people to repent and believe in the good news. Jesus begins His ministry by calling His first disciples, teaching with authority in the Jewish synagogue, and demonstrating His authority to command the unclean spirits. From the very beginning Jesus proclaims the arrival of the kingdom and begins to establish the kingdom of God. At the same time, Mark shows that the kingdom will be resisted by mentioning that John was arrested as the starting point of Jesus' ministry.
 
 ---
 
