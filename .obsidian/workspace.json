@@ -12,6 +12,32 @@
             "type": "tabs",
             "children": [
               {
+                "id": "1a58d98f77f0c58e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible/Berean Bible verse numbers.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Berean Bible verse numbers"
+                }
+              },
+              {
                 "id": "345dbc98d45c8d39",
                 "type": "leaf",
                 "pinned": true,
@@ -64,32 +90,6 @@
                 }
               },
               {
-                "id": "1a58d98f77f0c58e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Bible/Berean Bible verse numbers.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Berean Bible verse numbers"
-                }
-              },
-              {
                 "id": "3654f9fcfa3b7c2d",
                 "type": "leaf",
                 "state": {
@@ -113,8 +113,7 @@
                   "title": "🎓 Christian Theology Professor Persona"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "1b5f17febd6d09f7",
@@ -387,14 +386,14 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "1b885ed40821c80b",
+  "active": "de9039b1cba30c6e",
   "lastOpenFiles": [
-    "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
-    "prompts/🎓 Christian Theology Professor Persona.md",
     "Bible/Berean Bible verse numbers.md",
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md",
-    "Templates/Exegetical Notebook Template.md",
     "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
+    "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
+    "prompts/🎓 Christian Theology Professor Persona.md",
+    "Templates/Exegetical Notebook Template.md",
     "NT_Apprenticeship/Greek Study Tracker.md",
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook",
     "NT_Apprenticeship/Phase0_Gospel/🇬🇷 Greek Helps Sheet — _εὐαγγέλιον_.md",
