@@ -28,7 +28,22 @@ Keep it visible at the top for continual reference.
 
 ---
 
-# 2. 📝 Observations (Inductive)
+# 2. 🧩 Literary Context Within the Book
+
+Describe how this passage fits into the flow of the entire book.
+
+Questions to guide you:
+
+- What came before that sets this up?
+    
+- What comes immediately after?
+    
+- How does this contribute to the author’s larger message?
+    
+
+---
+
+# 3. 📝 Observations (Inductive)
 
 List everything you see in the text.
 
@@ -51,7 +66,7 @@ Focus on **what the text says**, not interpretation yet.
 
 ---
 
-# 3. 🇬🇷 Greek Notes
+# 4. 🇬🇷 Greek Notes
 
 Include Greek insights that help clarify meaning.
 
@@ -75,7 +90,7 @@ Optional table format (Markdown-friendly):
 
 ---
 
-# 4. 🔗 OT Quotations & Allusions
+# 5. 🔗 OT Quotations & Allusions
 
 Record connections that are actually present in the text.
 
@@ -92,7 +107,7 @@ Include:
 
 ---
 
-# 5. 📚 Historical & Cultural Background
+# 6. 📚 Historical & Cultural Background
 
 Brief and relevant notes only.
 
@@ -107,20 +122,6 @@ Brief and relevant notes only.
 
 Avoid speculation; anchor in historical evidence.
 
----
-
-# 6. 🧩 Literary Context Within the Book
-
-Describe how this passage fits into the flow of the entire book.
-
-Questions to guide you:
-
-- What came before that sets this up?
-    
-- What comes immediately after?
-    
-- How does this contribute to the author’s larger message?
-    
 
 ---
 

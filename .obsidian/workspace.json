@@ -4,121 +4,152 @@
     "type": "split",
     "children": [
       {
-        "id": "049cd44ff082fc34",
-        "type": "tabs",
+        "id": "02db053f68adc593",
+        "type": "split",
         "children": [
           {
-            "id": "345dbc98d45c8d39",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "049cd44ff082fc34",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "345dbc98d45c8d39",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "📚 Phase 0 — Week 1 Assignments"
                 }
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "📚 Phase 0 — Week 1 Assignments"
-            }
+              {
+                "id": "1b885ed40821c80b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Phase 0 — Week 1 Checklist"
+                }
+              },
+              {
+                "id": "1a58d98f77f0c58e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible/Berean Bible verse numbers.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Berean Bible verse numbers"
+                }
+              },
+              {
+                "id": "3654f9fcfa3b7c2d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "prompts/🎓 Christian Theology Professor Persona.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "🎓 Christian Theology Professor Persona"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "1b885ed40821c80b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
-                "mode": "preview",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "1b5f17febd6d09f7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "de9039b1cba30c6e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Exegetical Notebook - Mark 1_14-15"
                 }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Phase 0 — Week 1 Checklist"
-            }
-          },
-          {
-            "id": "1a58d98f77f0c58e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bible/Berean Bible verse numbers.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Berean Bible verse numbers"
-            }
+              }
+            ]
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "4e0c44231520a5aa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "de9039b1cba30c6e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Exegetical Notebook - Mark 1_14-15"
-            }
-          }
-        ]
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -190,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 378.5,
+    "collapsed": true
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -357,12 +389,13 @@
   },
   "active": "1b885ed40821c80b",
   "lastOpenFiles": [
-    "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md",
+    "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
+    "prompts/🎓 Christian Theology Professor Persona.md",
     "Bible/Berean Bible verse numbers.md",
+    "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md",
+    "Templates/Exegetical Notebook Template.md",
     "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
     "NT_Apprenticeship/Greek Study Tracker.md",
-    "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
-    "Templates/Exegetical Notebook Template.md",
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook",
     "NT_Apprenticeship/Phase0_Gospel/🇬🇷 Greek Helps Sheet — _εὐαγγέλιον_.md",
     "NT_Apprenticeship/Using BDAG on easy mode.md",
@@ -386,7 +419,6 @@
     "content/essays/The Gospel.md",
     "content/notes/statement of faith/According to the Scriptures.md",
     "Suggestions.md",
-    "content/notes/statement of faith/The wages of sin is death.md",
     "content/essays",
     "tools/ring.bat",
     "tools/missing copy.bat",

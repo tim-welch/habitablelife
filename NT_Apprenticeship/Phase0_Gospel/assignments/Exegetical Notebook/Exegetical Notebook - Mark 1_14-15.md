@@ -21,10 +21,35 @@
 > Mark 1:14	After the arrest of John, Jesus went into Galilee and proclaimed the gospel of God.
 > Mark 1:15	“The time is fulfilled,” He said, “and the kingdom of God is near. Repent and believe in the gospel!”
 
+---
+
+# 2. 🧩 Literary Context Within the Book
+
+- What came before that sets this up?
+    - As predicted, John was sent as a messenger before Jesus started His ministry
+    - John's ministry was to prepare the way for Jesus
+    - John baptized Jesus
+    - God called Jesus His Son and said He was pleased with Him
+    - The Holy Spirit came upon Jesus and drove Him into the wilderness for 40 days and tempted by Satan
+    
+- What comes immediately after?
+    - Jesus called Simon, Andrew, James, and John to follow Him.
+    - Jesus teaches in the synagogue in Capernaum with authority
+    - Jesus commands the unclean spirits and they obey Him
+    - News about Jesus spread quickly
+    - In verse 15 Jesus proclaimed "the kingdom of God is near", immediately afterwards He demonstrated it in words and action
+    
+- How does this contribute to the author’s larger message?
+    - Prior to Jesus starting His ministry, He was:
+        - identified as Lord and God's Son, pleasing to God
+        - tempted by Satan
+    - Jesus began His ministry after the arrest of John
+    - Jesus proclaimed the gospel (good news) that the time is fulfilled and the kingdom of God is near, calling on people to repent (change their minds) and believe in this good news
+    - Mark is identifying and authenticating Jesus in preparation the story of Jesus' proclamation of the gospel of God
 
 ---
 
-# 2. 📝 Observations (Inductive)
+# 3. 📝 Observations (Inductive)
 
 List everything you see in the text.
 
@@ -47,7 +72,7 @@ Focus on **what the text says**, not interpretation yet.
 
 ---
 
-# 3. 🇬🇷 Greek Notes
+# 4. 🇬🇷 Greek Notes
 
 Include Greek insights that help clarify meaning.
 
@@ -71,7 +96,7 @@ Optional table format (Markdown-friendly):
 
 ---
 
-# 4. 🔗 OT Quotations & Allusions
+# 5. 🔗 OT Quotations & Allusions
 
 Record connections that are actually present in the text.
 
@@ -88,7 +113,7 @@ Include:
 
 ---
 
-# 5. 📚 Historical & Cultural Background
+# 6. 📚 Historical & Cultural Background
 
 Brief and relevant notes only.
 
@@ -105,23 +130,6 @@ Avoid speculation; anchor in historical evidence.
 
 ---
 
-# 6. 🧩 Literary Context Within the Book
-
-- What came before that sets this up?
-    - As predicted, a messenger (John) came before God's Messenger (Jesus) started His ministry to prepare the way for Him
-    - John baptized Jesus
-    - God called Jesus His Son and said He was pleased with Him
-    - The Holy Spirit came upon Jesus and drove Him into the wilderness for 40 days and tempted by Satan
-    
-- What comes immediately after?
-    - Jesus called Simon, Andrew, James, and John to follow Him.
-    - Jesus teaches in the synagogue in Capernaum and performing miracles
-    - News about Jesus spread quickly
-    
-- How does this contribute to the author’s larger message?
-    - Prior to Jesus starting His ministry, He was identified as the Messiah, proven worthy, and pleasing to God
-    - Jesus began His ministry by proclaiming the gospel (good news) that the time is fulfilled and the kingdom of God is near. He called on people to repent (change their minds) and believe in this good news
-    - Mark is establishing Jesus as the Messenger sent from God to proclaim the good news
 
 
 ---
