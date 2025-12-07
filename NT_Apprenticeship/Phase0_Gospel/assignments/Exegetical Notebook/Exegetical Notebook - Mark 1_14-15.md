@@ -25,7 +25,7 @@
 
 # 2. 🧩 Literary Context Within the Book
 
-- What came before that sets this up?
+- Before Mark 1:14-15
     - As predicted, John was sent as a messenger before Jesus started His ministry
     - John's ministry was to prepare the way for Jesus
     - John baptized Jesus

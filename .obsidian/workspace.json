@@ -10,6 +10,7 @@
           {
             "id": "049cd44ff082fc34",
             "type": "tabs",
+            "dimension": 40.38772213247172,
             "children": [
               {
                 "id": "1a58d98f77f0c58e",
@@ -88,37 +89,13 @@
                   "icon": "lucide-file",
                   "title": "Phase 0 — Week 1 Checklist"
                 }
-              },
-              {
-                "id": "3654f9fcfa3b7c2d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "prompts/🎓 Christian  NT Theology Professor Persona.md",
-                    "mode": "source",
-                    "source": true,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "🎓 Christian  NT Theology Professor Persona"
-                }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "1b5f17febd6d09f7",
             "type": "tabs",
+            "dimension": 59.61227786752828,
             "children": [
               {
                 "id": "de9039b1cba30c6e",
@@ -387,13 +364,13 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "3654f9fcfa3b7c2d",
+  "active": "1a58d98f77f0c58e",
   "lastOpenFiles": [
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md",
-    "Bible/Berean Bible verse numbers.md",
     "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
-    "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
     "prompts/🎓 Christian  NT Theology Professor Persona.md",
+    "Bible/Berean Bible verse numbers.md",
+    "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
     "Templates/Exegetical Notebook Template.md",
     "NT_Apprenticeship/Greek Study Tracker.md",
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook",
