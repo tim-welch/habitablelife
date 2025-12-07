@@ -113,7 +113,8 @@
                   "title": "🎓 Christian Theology Professor Persona"
                 }
               }
-            ]
+            ],
+            "currentTab": 3
           },
           {
             "id": "1b5f17febd6d09f7",
@@ -386,10 +387,10 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "de9039b1cba30c6e",
+  "active": "3654f9fcfa3b7c2d",
   "lastOpenFiles": [
-    "Bible/Berean Bible verse numbers.md",
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md",
+    "Bible/Berean Bible verse numbers.md",
     "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
     "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
     "prompts/🎓 Christian Theology Professor Persona.md",
