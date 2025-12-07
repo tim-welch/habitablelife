@@ -95,8 +95,8 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "prompts/🎓 Christian Theology Professor Persona.md",
-                    "mode": "preview",
+                    "file": "prompts/🎓 Christian  NT Theology Professor Persona.md",
+                    "mode": "source",
                     "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -110,7 +110,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "🎓 Christian Theology Professor Persona"
+                  "title": "🎓 Christian  NT Theology Professor Persona"
                 }
               }
             ],
@@ -393,7 +393,7 @@
     "Bible/Berean Bible verse numbers.md",
     "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
     "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
-    "prompts/🎓 Christian Theology Professor Persona.md",
+    "prompts/🎓 Christian  NT Theology Professor Persona.md",
     "Templates/Exegetical Notebook Template.md",
     "NT_Apprenticeship/Greek Study Tracker.md",
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook",
