@@ -26,31 +26,61 @@
 # 2. 🧩 Literary Context Within the Book
 
 - Before Mark 1:14-15
-    - As predicted, John was sent as a messenger before Jesus started His ministry
-    - John's ministry was to prepare the way for Jesus
-    - John baptized Jesus
-    - God called Jesus His Son and said He was pleased with Him
-    - The Holy Spirit came upon Jesus and drove Him into the wilderness for 40 days and tempted by Satan
+    - John was sent as a messenger before Jesus started His ministry
+        - John preach baptism and repentance for the forgiveness of sin
+        - John's ministry was to prepare the way for Jesus
+        - John baptized Jesus
+    - After Jesus was baptized
+        - God called Jesus His Son and said He was pleased with Him
+        - The Holy Spirit came upon Jesus and drove Him into the wilderness for 40 days and tempted by Satan
 
-    
-- What comes immediately after?
+- Mark 1:14-15
+    - After John is arrested, Jesus started His ministry
+    - He went into Galilee
+    - He proclaimed the gospel of God
+    - He said the kingdom of God is near
+    - He called on people to repent and believe in the gospel
+
+- After Mark 1:14-15
     - Jesus called Simon, Andrew, James, and John to follow Him.
+        - They immediately started following Him
     - Jesus teaches in the synagogue in Capernaum with authority
     - Jesus commands the unclean spirits and they obey Him
+    - Jesus heals people
     - News about Jesus spread quickly
-    - In verse 15 Jesus proclaimed "the kingdom of God is near", immediately afterwards He demonstrated it in words and action
-    
+    - Jesus was met with resistance
+    - Jesus appointed and sent others to preach
+
+- Mark uses time to structure his book
+    - This is the "beginning"...
+    - I will send my Messenger "ahead"...
+    - "after" me will come...
+    - "As soon as" Jesus came up...
+    - "At once" the Spirit drove...
+    - He was there "for forty days"...
+    - "After" the arrest of John...
+    - "The time is fulfilled"...
+    - "As" Jesus was walking...
+    - "at once" they left their nets...
+    - "Immediately" Jesus called them..
+    - "right away" Jesus entered the synagogue..
+    - "Suddenly" a man...
+    - "At this", the unclean spirit...
+
+- John's ministry vs Jesus' ministry
+    - Both John and Jesus preached repentance
+    - John's ministry was to prepare the way for Jesus'
+    - Jesus' ministry was to proclaim the the good news that the kingdom of God is near
+    - Jesus' ministry began when John's ministry ended
+
 - How does this contribute to the author’s larger message?
-    - Prior to Jesus starting His ministry, He was:
-        - identified as Lord and God's Son, pleasing to God
-        - tempted by Satan
-    - Jesus began His ministry after the arrest of John
-    - Jesus proclaimed the gospel (good news) that the time is fulfilled and the kingdom of God is near, calling on people to repent (change their minds) and believe in this good news
-    - Mark is identifying and authenticating Jesus in preparation the story of Jesus' proclamation of the gospel of God
+    - Mark 1:14-15 is a summary of Jesus' ministry as narrated by Mark. 
+    - Mark starts with John's testimony, God's testimony, and the wilderness temptation
+    - Then in Mark 1:14-15, after John's ministry ends with his arrest, Jesus' ministry beings
+    - Jesus proclaimed the good news, stated that the kingdom is near, and called on people to change their minds and believe the good news.
+    - After Jesus' initial proclamation, Mark shows Jesus teaching, healing, commanding, and meeting resistence
+    - Like he does in Mark 1:14-15, Mark uses temporal language and short summaries throughout his narrative
 
-Mark uses a lot of temporal language in his writing: "In those days", "as soon as", "at once", "after", "the time is fulfilled", "immediately", "right away", "quickly", etc. These add structure to Mark's writing. They also demonstrate an urgency and fast pacing to the narrative.
-
-Mark 1:14-15 are a summary of Jesus' ministry as narrated by Mark. Prior to this Mark authenticates Jesus through God's and John's message. Mark places the wilderness temptation by Satan between God stating His pleasure with Jesus after His baptism and the beginning of Jesus' ministry. After John's ministry identifying Jesus ends with John's arrest, Jesus' ministry begins. Jesus' ministry is two-fold. First to proclaim the good news that the kingdom of God is near. Second to call people to repent and believe in the good news. Jesus begins His ministry by proclaiming the kingdom of God is near, calling His first disciples, teaching with authority in the Jewish synagogue, and demonstrating His authority to command the unclean spirits. From the very beginning Jesus proclaims the arrival of the kingdom and begins to establish the kingdom of God. At the same time, Mark shows that the kingdom will be resisted by mentioning that John was arrested as the starting point of Jesus' ministry.
 
 ---
 
