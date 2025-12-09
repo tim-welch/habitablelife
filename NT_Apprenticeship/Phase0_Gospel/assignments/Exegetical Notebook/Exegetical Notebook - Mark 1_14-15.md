@@ -27,7 +27,7 @@
 
 - Before Mark 1:14-15
     - John was sent as a messenger before Jesus started His ministry
-        - John preach baptism and repentance for the forgiveness of sin
+        - John preached baptism and repentance for the forgiveness of sin
         - John's ministry was to prepare the way for Jesus
         - John baptized Jesus
     - After Jesus was baptized
@@ -48,8 +48,7 @@
     - Jesus commands the unclean spirits and they obey Him
     - Jesus heals people
     - News about Jesus spread quickly
-    - Jesus was met with resistance
-    - Jesus appointed and sent others to preach
+    - Some of the scribes who heard Jesus accused Him of blaspheming
 
 - Mark uses time to structure his book
     - This is the "beginning"...
@@ -68,17 +67,14 @@
     - "At this", the unclean spirit...
 
 - John's ministry vs Jesus' ministry
-    - Both John and Jesus preached repentance
-    - John's ministry was to prepare the way for Jesus'
-    - Jesus' ministry was to proclaim the the good news that the kingdom of God is near
+    - Mark introduces John by quoting Isaiah
+    - Both John and Jesus came proclaiming
+    - Both John and Jesus called for repentance
     - Jesus' ministry began when John's ministry ended
 
 - How does this contribute to the author’s larger message?
     - Mark 1:14-15 is a summary of Jesus' ministry as narrated by Mark. 
-    - Mark starts with John's testimony, God's testimony, and the wilderness temptation
-    - Then in Mark 1:14-15, after John's ministry ends with his arrest, Jesus' ministry beings
-    - Jesus proclaimed the good news, stated that the kingdom is near, and called on people to change their minds and believe the good news.
-    - After Jesus' initial proclamation, Mark shows Jesus teaching, healing, commanding, and meeting resistence
+    - Mark transitions from John to Jesus when John is arrested
     - Like he does in Mark 1:14-15, Mark uses temporal language and short summaries throughout his narrative
 
 
@@ -86,24 +82,18 @@
 
 # 3. 📝 Observations (Inductive)
 
-List everything you see in the text.
-
-- Immediate literary context (before/after)
-    
-- Structure and movement within the passage
-    
-- Repeated words or key terms
-    
-- Notable actions, contrasts, or patterns
-    
-- Conjunctions and logical connectors
-    
-- Surprises or tensions
-    
-- Questions that arise naturally
+- Mark uses the temporal word "After" to signify a transition in his narrative
+- After John was arrested, Mark transitions to Jesus
+- 
+- Jesus started His ministry by going to Galilee
+- Jesus proclaimed the gospel of God
+- The first thing Jesus says is that "the time is fulfilled"
+- Jesus said that the kingdom of God is near
+- Jesus tells people to repent
+- Jesus tells people to believe in the gospel
     
 
-Focus on **what the text says**, not interpretation yet.
+
 
 ---
 

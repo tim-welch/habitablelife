@@ -4,7 +4,7 @@
 
 ### A. Context (~5 min)
 - [x] Read surrounding context  
-- [ ] Note Mark’s framing of Jesus’ early ministry  
+- [x] Note Mark’s framing of Jesus’ early ministry  
 
 ### B. Observations (~15 min)
 - [ ] Repeated words  
