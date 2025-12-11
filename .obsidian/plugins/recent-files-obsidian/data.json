@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Integrated Bible Reading Order",
+      "path": "Bible Reading Plans/Integrated Bible Reading Order.md"
+    },
+    {
       "basename": "Exegetical Notebook - Mark 1_14-15",
       "path": "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Necessity of the Resurrection",
       "path": "content/notes/statement of faith/The Necessity of the Resurrection.md"
-    },
-    {
-      "basename": "Transformed by the Gospel",
-      "path": "content/notes/statement of faith/Transformed by the Gospel.md"
     }
   ],
   "omittedPaths": [
