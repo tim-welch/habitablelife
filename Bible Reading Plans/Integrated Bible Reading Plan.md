@@ -217,7 +217,7 @@ Each section contains:
 **Theme:** God rules history and will renew creation.
 
 ### Old Testament  
-- Zechariah: Presents sweeping apocalyptic visions and messianic hope that anticipate God’s final kingdom and resonate strongly with Revelation.
+- Zechariah: Presents sweeping apocalyptic visions and messianic hope that anticipate God’s final kingdom.
 - Daniel: Reveals God’s sovereignty over kingdoms and His promise of ultimate renewal.
 
 ### Psalms  
