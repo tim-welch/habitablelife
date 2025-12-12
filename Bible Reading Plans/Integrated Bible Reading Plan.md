@@ -179,7 +179,6 @@ Each section contains:
 - Nehemiah: Rebuilds Jerusalem’s walls and restores community life.  
 - Esther: Shows God’s hidden protection of His people in foreign lands.  
 - Haggai: Calls the people to rebuild the temple faithfully.  
-- Zechariah: Offers visions of restoration, cleansing, and the coming King.  
 - Malachi: Confronts spiritual apathy and promises a coming messenger.
 
 ### Psalms  
@@ -218,6 +217,7 @@ Each section contains:
 **Theme:** God rules history and will renew creation.
 
 ### Old Testament  
+- Zechariah: Presents sweeping apocalyptic visions and messianic hope that anticipate God’s final kingdom and resonate strongly with Revelation.
 - Daniel: Reveals God’s sovereignty over kingdoms and His promise of ultimate renewal.
 
 ### Psalms  

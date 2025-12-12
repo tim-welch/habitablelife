@@ -129,7 +129,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Bible Reading Plans/1 year reading plan - 5 days per week.md",
+                    "file": "Bible Reading Plans/Integrated Bible Reading Plan.md",
                     "mode": "source",
                     "source": true,
                     "backlinks": true,
@@ -144,7 +144,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "1 year reading plan - 5 days per week"
+                  "title": "Integrated Bible Reading Plan"
                 }
               }
             ],
@@ -391,9 +391,9 @@
   },
   "active": "93be448fcf1201dc",
   "lastOpenFiles": [
+    "Bible Reading Plans/1 year reading plan - 5 days per week.md",
     "Bible Reading Plans/Integrated Bible Reading Plan.md",
     "Bible Reading Plans/Integrated Bible Reading Order.md",
-    "Bible Reading Plans/1 year reading plan - 5 days per week.md",
     "Bible Reading Plans",
     "Bible/Berean Bible verse numbers.md",
     "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
