@@ -1,267 +1,228 @@
-# Integrated Bible Reading Plan  
+# Integrated Bible Reading Sections
+
+Below are twelve tightly defined sections organizing the Old Testament narrative, associated Psalms, and aligned New Testament books. Each section includes a one-sentence theme description, grouped Psalms with justification, and one-sentence NT book justifications.
 
 ---
 
-# Creation, Covenant, and the Story of Israel
+## 1. Creation & Patriarchs  
+**Theme:** God establishes the world, humanity, and the covenant family through whom He will bless the nations.
 
-## Genesis
-- **Psalms 1–2**  
-  These psalms introduce the blessed life, human thriving, rebellion of nations, and God’s sovereign rule. They parallel themes in Creation, Eden, and the early patriarchs.  
-- **Psalms 3–4**  
-  Psalms of trust in distress, fitting the repeated Genesis pattern of God’s people depending on Him while facing relational conflict and uncertainty.
+### Old Testament  
+- **Genesis**
 
-## John  
+### Psalms  
+- **Psalms 1–4**  
+  These psalms introduce the blessed life, human rebellion, and trust amid conflict, matching Genesis’s themes of creation, sin, and early covenant testing.
 
-## Exodus
-- **Psalm 18**  
-  Celebrates God as divine warrior delivering His people, echoing the Red Sea deliverance.  
-- **Psalms 66–68**  
-  Recount God’s mighty acts for Israel, worship tied to His interventions, and His leadership through wilderness—strongly resonating with Exodus events.  
-- **Psalm 77**  
-  Explicitly recalls the Exodus and God’s wonders at the sea, making it one of the clearest thematic links.
-
-## Matthew  
-
-## Leviticus
-- **Psalm 15**  
-  Describes who may dwell with God, emphasizing holiness and purity.  
-- **Psalm 24**  
-  Focuses on entering God’s presence with clean hands and pure heart, resonating with Levitical purity laws.  
-- **Psalm 50**  
-  Addresses sacrifices, covenant faithfulness, and authentic worship—core themes in Leviticus.
-
-## Hebrews  
-
-## Numbers
-- **Psalms 5–6**  
-  Laments rooted in dependence on God amid trial, matching Israel’s struggles in the wilderness.  
-- **Psalm 13**  
-  Expresses the emotional weight of wandering and waiting for God to act.  
-- **Psalm 90**  
-  Attributed to Moses; reflects on human frailty and divine mercy, ideal for Israel’s wilderness experience.
-
-## Galatians  
-
-## Deuteronomy
-- **Psalm 19**  
-  Praise of God’s law aligns with Deuteronomy’s covenant renewal.  
-- **Psalms 25, 32, 33**  
-  Emphasize covenant faithfulness, confession, forgiveness, and trust—matching Deuteronomy’s call to choose life and walk in God’s ways.
-
-## Romans  
-
-## Joshua
-- **Psalms 20–21**  
-  Victory psalms celebrating God’s help in battle, fitting the conquest of the land.  
-- **Psalm 44**  
-  Reflects on past victories and the need for God to fight for His people.  
-- **Psalm 60**  
-  National lament and plea for victory, paralleling military campaigns in Joshua.
-
-## Ephesians  
-
-## Judges
-- **Psalms 7, 12, 14, 17**  
-  Laments and appeals for justice in a morally chaotic world—consistent with the era of the Judges.  
-- **Psalm 22**  
-  The righteous sufferer crying out for deliverance mirrors the repeated cycles of oppression and rescue.
-
-## Jude  
-
-## Ruth
-- **Psalm 23**  
-  Themes of God’s guidance, provision, and loyal care mirror His kindness to Naomi and Ruth.  
-- **Psalm 36**  
-  Celebrates God’s steadfast love (hesed), central to the book of Ruth.
-
-## 1 Peter  
+### New Testament  
+- **John** — John echoes Genesis through its creation prologue and themes of new creation, light, and God’s Word entering the world.
 
 ---
 
-# Kingship, Temple, and Messiah
+## 2. Exodus & Wilderness  
+**Theme:** God redeems His people, forms them into a holy nation, and teaches them to trust Him in the wilderness.
 
-## 1 Samuel
+### Old Testament  
+- **Exodus**  
+- **Leviticus**  
+- **Numbers**  
+- **Deuteronomy**
+
+### Psalms  
+- **Psalm 18; Psalms 66–68; 77**  
+  These psalms recall God’s mighty acts and deliverance, directly paralleling Israel’s escape from Egypt and wilderness journey.  
+- **Psalms 15; 24; 50**  
+  These psalms emphasize holiness and true worship, aligning with Leviticus’s purity and sacrificial themes.  
+- **Psalms 5–6; 13; 90**  
+  Laments and reflections on human frailty resonate with Numbers’s challenges and Deuteronomy’s covenant warnings and calls to trust.
+
+### New Testament  
+- **Hebrews** — Hebrews interprets Israel’s wilderness experience, priesthood, and covenant signs as anticipations of Christ’s greater mediation.  
+- **Galatians** — Galatians reflects on the purpose of the Law and the freedom found in Christ, echoing Deuteronomy’s covenant teaching.
+
+---
+
+## 3. Conquest  
+**Theme:** God fulfills His promise by giving Israel the land and demonstrating that victory comes through His presence.
+
+### Old Testament  
+- **Joshua**
+
+### Psalms  
+- **Psalms 20–21; 44; 60**  
+  These psalms celebrate God’s help in battle and dependence on His strength, perfectly aligned with Israel’s conquest narratives.
+
+### New Testament  
+- **Ephesians** — Ephesians emphasizes spiritual inheritance and God’s power for His people, paralleling Joshua’s themes of God-given land and identity.
+
+---
+
+## 4. Judges Era  
+**Theme:** Israel’s moral and spiritual decline highlights the need for faithful leadership and God’s consistent mercy.
+
+### Old Testament  
+- **Judges**  
+- **Ruth**
+
+### Psalms  
+- **Psalms 7, 12, 14, 17; 22**  
+  Laments over injustice and cries for deliverance reflect the chaotic, oppression-filled period of the Judges.  
+- **Psalms 23, 36**  
+  These psalms highlight God’s loyal love and gentle guidance, resonating with God’s providential care in Ruth.
+
+### New Testament  
+- **Jude** — Jude warns against false teachers and moral collapse, echoing the moral disorder of the Judges era.
+
+---
+
+## 5. United Monarchy  
+**Theme:** God raises up a king after His own heart and establishes a model of faithful leadership.
+
+### Old Testament  
+- **1 Samuel**  
+- **2 Samuel**
+
+### Psalms  
 - **Psalms 16, 34, 52–54, 56–57, 59, 142**  
-  These psalms arise from or reflect David’s experiences fleeing Saul. They are historically tied to this period and thematically fit the formation of David’s kingship.
+  These psalms arise from David’s experiences during 1 Samuel.  
+- **Psalms 3, 30, 51, 60, 63**  
+  These psalms correspond with events in 2 Samuel, reflecting David’s repentance, victories, and trials.
 
-## Mark  
+### New Testament  
+- **Mark** — Mark presents Jesus as the suffering and victorious Son of David, fulfilling the hopes shaped in the United Monarchy.
 
-## 2 Samuel
-- **Psalm 3**  
-  Reflects David’s flight from Absalom, a key event in 2 Samuel.  
-- **Psalm 30**  
-  Thanksgiving for deliverance, matching David’s restoration moments.  
-- **Psalm 51**  
-  David’s confession after sin with Bathsheba—direct historical link.  
-- **Psalm 60**  
-  A national lament connected with David’s military leadership.  
-- **Psalm 63**  
-  Trust in God in the wilderness, mirroring David’s late struggles.
+---
 
-## 1 Timothy  
+## 6. Early Divided Monarchy  
+**Theme:** After Solomon, Israel splits, and early prophetic voices call the people back to covenant faithfulness.
 
-## 1 Kings
+### Old Testament  
+- **1 Kings**  
+- **1 Chronicles**
+
+### Psalms  
 - **Psalms 45, 47–48, 72**  
-  Royal psalms celebrating God’s king, Jerusalem, and righteous reign—perfect matches for Solomon’s rule, wisdom, and temple establishment.
-
-## 1 Corinthians  
-
-## 2 Kings
-- **Psalms 74, 79, 80, 89**  
-  Laments over national ruin, covenant crisis, and the downfall of the monarchy—ideal for Israel’s decline and exile trajectory in 2 Kings.
-
-## 2 Corinthians  
-
-## 1 Chronicles
+  Royal and Zion psalms echo the themes of kingship and temple centrality found in Solomon’s era.  
 - **Psalms 96–98, 100**  
-  Enthronement psalms and worship-focused texts match the Chronicler’s emphasis on proper worship, praise, and temple-centered life.
+  Enthronement psalms correspond to Chronicles’ temple and worship focus.
 
-## James  
-
-## 2 Chronicles
-- **Psalms 24, 84, 122, 132**  
-  Zion and temple psalms expressing longing for God’s house and celebrating His dwelling in Jerusalem—aligned with the Chronicler’s themes.
-
-## Philemon  
+### New Testament  
+- **1 Corinthians** — 1 Corinthians addresses divisions and calls for unity and proper worship, paralleling Israel’s early fractures and temple-centered identity.
 
 ---
 
-# Wisdom and the Righteous Life
+## 7. Late Divided Monarchy & Fall  
+**Theme:** Prophets confront widespread injustice and idolatry as Israel and Judah move toward judgment and exile.
 
-## Job
-- **Psalms 6, 38–39, 42–43, 88**  
-  Deep lament, despair, and longing for God in suffering mirror Job’s emotional and spiritual agony.
+### Old Testament  
+- **2 Kings**  
+- **2 Chronicles**  
+- **Amos**  
+- **Hosea**  
+- **Micah**  
+- **Jonah**  
+- **Nahum**  
+- **Zephaniah**  
+- **Obadiah**
 
-## 2 Peter  
+### Psalms  
+- **Psalms 74, 79, 80, 89**  
+  National laments match the kingdom’s decline and covenant crisis, reflecting Israel’s impending fall.
 
-## Proverbs
-- **Psalms 1, 37, 49, 73**  
-  Wisdom psalms focused on righteous vs. wicked, justice, envy, and the prosperity of the wicked—matching Proverbs’ moral instruction.
-
-## Titus  
-
-## Ecclesiastes
-- **Psalms 39, 62, 90**  
-  Reflections on human limitation, the shortness of life, and quiet trust fit Ecclesiastes’ contemplative tone.
-
-## 1 Thessalonians  
-
-## Song of Songs
-- **Psalm 45**  
-  A wedding psalm celebrating love and beauty fits the poetic nature of Song of Songs.  
-- **Psalm 85**  
-  Imagery of peace, restoration, and divine favor complements the book’s vision of idealized love.
-
-## 2 Thessalonians  
+### New Testament  
+- **2 Corinthians** — 2 Corinthians emphasizes God’s power in weakness and suffering, resonating with Judah’s unraveling and prophetic warnings.
 
 ---
 
-# Covenant Faithfulness and the Twelve Prophets
+## 8. Exile  
+**Theme:** God purifies His people through judgment and preserves hope through prophetic voices during captivity.
 
-## Hosea
-- **Psalms 13, 103, 130**  
-  Focus on steadfast love, repentance, and God’s compassion—central to Hosea’s message.
+### Old Testament  
+- **Jeremiah**  
+- **Lamentations**  
+- **Ezekiel**
 
-## Luke  
-
-## Joel
-- **Psalms 76, 99**  
-  Emphasis on God’s holiness, kingship, and judgment aligns with Joel’s Day of the Lord themes.
-
-## Acts  
-
-## Amos
-- **Psalms 82, 94**  
-  Strong justice themes targeting corrupt rulers and defending the oppressed—parallel to Amos’ prophetic focus.
-
-## Obadiah
-- **Psalms 137, 83**  
-  National enemies, divine vengeance, and calls for judgment fit Obadiah’s oracle against Edom.
-
-## Jonah
-- **Psalms 107, 116**  
-  Thanksgiving for deliverance and God’s mercy toward distressed individuals—matching Jonah’s rescue and God’s compassion.
-
-## Micah
-- **Psalms 85, 86**  
-  Themes of mercy, restoration, and God’s faithfulness echo Micah’s emphasis on justice and compassion.
-
-## Nahum
-- **Psalm 75**  
-  A judgment psalm celebrating God’s overthrow of the wicked fits Nahum’s message against Nineveh.
-
-## Habakkuk
-- **Psalms 77, 105–106**  
-  Remembering God’s mighty acts and wrestling with injustice mirrors Habakkuk’s response to national crisis.
-
-## Zephaniah
-- **Psalms 96–97**  
-  Universal judgment and the Lord’s kingship complement Zephaniah’s global Day of the Lord.
-
-## Haggai
-- **Psalms 126, 127**  
-  Themes of rebuilding, blessing, and God’s provision align with temple reconstruction.
-
-## Malachi
-- **Psalms 50, 112**  
-  Covenant accountability and righteous living resonate with Malachi’s call to renewed faithfulness.
-
----
-
-# Exile, Return, and Restoration
-
-## Isaiah
-- **Psalms 46, 91, 113–118**  
-  Trust, salvation, and renewed hope reflect Isaiah’s vision of redemption and restoration.
-
-## Philippians  
-
-## 1 John  
-
-## Jeremiah
-- **Psalms 22, 31, 64, 69**  
-  Deep lament, persecution, and prophetic suffering align with Jeremiah’s ministry and message.
-
-## 2 Timothy  
-
-## Lamentations
-- **Psalms 74, 79, 102**  
-  National distress, grief, and appeal for mercy correspond directly with the themes of Lamentations.
-
-## Ezekiel
+### Psalms  
+- **Psalm 102**  
+  A lament expressing the anguish of exile and pleading for God’s mercy.  
 - **Psalms 135–136**  
-  Celebrations of God’s sovereignty and covenant history parallel Ezekiel’s message of judgment and restoration.
+  These psalms recount God’s mighty works and covenant faithfulness, sustaining hope during exile.
 
-## Colossians  
-
-## Ezra
-- **Psalms 126, 129**  
-  Reflect return from exile, rebuilding, and perseverance—matching Ezra’s narrative.
-
-## 2 John  
-
-## Nehemiah
-- **Psalms 120–121, 123–124, 129**  
-  Pilgrimage psalms expressing struggle, hope, and dependence during opposition align with Nehemiah’s rebuilding efforts.
-
-## 3 John  
-
-## Esther
-- **Psalms 140–143**  
-  Themes of plots, enemies, oppression, and deliverance resonate with the story of Esther.
+### New Testament  
+- **Colossians** — Colossians proclaims Christ’s supremacy over rulers and powers, paralleling exilic questions about God’s sovereignty in foreign lands.  
+- **2 Timothy** — Paul’s suffering and perseverance mirror Jeremiah’s faithful endurance under pressure.
 
 ---
 
-# Prophetic Visions and New Creation
+## 9. Isaiah Bridging Section  
+**Theme:** Isaiah spans judgment, comfort, restoration, and new creation, preparing the way for both return from exile and the coming Messiah.
 
-## Daniel
-- **Psalms 93, 97, 145**  
-  Strong kingship and sovereignty themes align with Daniel’s portrayal of God ruling over all kingdoms.
+### Old Testament  
+- **Isaiah**
 
-## Revelation  
+### Psalms  
+- **Psalms 46, 91**  
+  Trust psalms that echo Isaiah’s assurance of God’s protection and presence.  
+- **Psalms 113–118**  
+  Praise psalms celebrating salvation and future hope, echoing Isaiah’s restoration and messianic themes.
 
-## Zechariah
+### New Testament  
+- **Matthew** — Matthew presents Jesus as the fulfillment of Isaiah’s messianic prophecies.  
+- **Romans** — Romans unfolds Isaiah’s themes of remnant, Gentile inclusion, and righteousness by faith.  
+- **1 Peter** — 1 Peter draws heavily on Isaiah’s suffering servant and restored-people identity themes.
+
+---
+
+## 10. Return & Restoration  
+**Theme:** God brings His people home, rebuilds their community, and calls them to renewed faithfulness and hope.
+
+### Old Testament  
+- **Ezra**  
+- **Nehemiah**  
+- **Esther**  
+- **Haggai**  
+- **Zechariah**  
+- **Malachi**
+
+### Psalms  
+- **Psalms 120–121, 123–124, 126–127, 129**  
+  Pilgrimage and restoration psalms reflect the return from exile, rebuilding efforts, and renewed trust in God's blessing.
+
+### New Testament  
+- **Philippians** — Philippians emphasizes joyful perseverance and shared mission, paralleling the unified community rebuilding in Ezra–Nehemiah.  
+- **2 John; 3 John** — These letters stress faithfulness and hospitality within a restored community, echoing the covenant renewal emphasis of the return era.
+
+---
+
+## 11. Wisdom/Worship  
+**Theme:** God forms His people through worship and wise living rooted in reverence, honesty, and covenant faithfulness.
+
+### Old Testament  
+- **Job**  
+- **Proverbs**  
+- **Ecclesiastes**  
+- **Song of Songs**
+
+### Psalms  
+*(All Psalms assigned to earlier sections; no new Psalms added here.)*
+
+### New Testament  
+- **1 John** — 1 John emphasizes walking in light, love, and truth, resonating with the moral and relational wisdom found in Proverbs and Ecclesiastes.
+
+---
+
+## 12. Prophetic Visions & New Creation  
+**Theme:** God reveals His sovereignty over world powers and His ultimate plan to renew creation and dwell with His people forever.
+
+### Old Testament  
+- **Daniel**  
+- **Zechariah**
+
+### Psalms  
 - **Psalms 146–150**  
-  Praise for God’s salvation, future hope, and ultimate restoration correspond to Zechariah’s visions of the coming age.
+  Final hallelujah psalms praising God's kingship and future restoration, echoing the eschatological hope of Daniel and Zechariah.
+
+### New Testament  
+- **Revelation** — Revelation brings Daniel’s and Zechariah’s visions to fulfillment in the final victory of God and the new creation.
 
 ---
