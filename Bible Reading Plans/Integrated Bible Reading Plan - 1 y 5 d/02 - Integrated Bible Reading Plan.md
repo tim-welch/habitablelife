@@ -10,7 +10,7 @@ Each section contains:
 
 ---
 
-## 1. Creation & Patriarchs (Genesis)  
+## 1. Creation & Patriarchs
 **Theme:** God forms the world and initiates His covenant family.
 
 ### Old Testament  
@@ -25,7 +25,7 @@ Each section contains:
 
 ---
 
-## 2. Exodus & Wilderness (Exodus–Deuteronomy)  
+## 2. Exodus & Wilderness
 **Theme:** God rescues His people, forms them into a holy nation, and prepares them for the land.
 
 ### Old Testament  
@@ -44,7 +44,7 @@ Each section contains:
 
 ---
 
-## 3. Conquest (Joshua)  
+## 3. Conquest
 **Theme:** God gives His people the promised inheritance.
 
 ### Old Testament  
@@ -59,7 +59,7 @@ Each section contains:
 
 ---
 
-## 4. Judges Era (Judges & Ruth)  
+## 4. Judges Era
 **Theme:** Israel’s disorder highlights the need for faithful deliverance and covenant loyalty.
 
 ### Old Testament  
@@ -76,7 +76,7 @@ Each section contains:
 
 ---
 
-## 5. United Monarchy (1–2 Samuel)  
+## 5. United Monarchy
 **Theme:** God establishes David’s kingship and models faithful leadership.
 
 ### Old Testament  
@@ -94,7 +94,7 @@ Each section contains:
 
 ---
 
-## 6. Early Divided Monarchy (1 Kings & 1 Chronicles)  
+## 6. Early Divided Monarchy
 **Theme:** Kingdom division and the centrality of temple worship.
 
 ### Old Testament  
@@ -110,7 +110,7 @@ Each section contains:
 
 ---
 
-## 7. Late Divided Monarchy & Fall (2 Kings, 2 Chronicles, Pre-Exilic Prophets)  
+## 7. Late Divided Monarchy & Fall
 **Theme:** Prophets warn a corrupt nation approaching judgment.
 
 ### Old Testament  
@@ -136,7 +136,7 @@ Each section contains:
 
 ---
 
-## 8. Exile (Jeremiah, Lamentations, Ezekiel)  
+## 8. Exile
 **Theme:** God purifies His people through judgment while preserving hope.
 
 ### Old Testament  
@@ -154,7 +154,7 @@ Each section contains:
 
 ---
 
-## 9. Isaiah (Bridge Section)  
+## 9. Isaiah (Bridge Section)
 **Theme:** Judgment, comfort, restoration, and the coming Messiah.
 
 ### Old Testament  
@@ -171,7 +171,7 @@ Each section contains:
 
 ---
 
-## 10. Return & Restoration (Ezra–Malachi)  
+## 10. Return & Restoration
 **Theme:** God restores His people after exile and rebuilds their covenant community.
 
 ### Old Testament  
@@ -194,7 +194,7 @@ Each section contains:
 
 ---
 
-## 11. Wisdom & Worship (Job, Proverbs, Ecclesiastes, Song of Songs)  
+## 11. Wisdom & Worship
 **Theme:** God shapes His people through wisdom, reverence, love, and honest worship.
 
 ### Old Testament  
@@ -213,7 +213,7 @@ Each section contains:
 
 ---
 
-## 12. Prophetic Visions & New Creation (Daniel)  
+## 12. Prophetic Visions & New Creation
 **Theme:** God rules history and will renew creation.
 
 ### Old Testament  

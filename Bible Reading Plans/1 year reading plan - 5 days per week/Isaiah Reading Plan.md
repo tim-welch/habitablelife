@@ -1,0 +1,15 @@
+# Isaiah Reading Plan
+
+- [ ] Day 1: Isaiah 1–5 (~4,050 words, ~20 min)
+- [ ] Day 2: Isaiah 6–10 (~4,150 words, ~21 min)
+- [ ] Day 3: Isaiah 11–15 (~4,000 words, ~20 min)
+- [ ] Day 4: Isaiah 16–20 (~4,100 words, ~21 min)
+- [ ] Day 5: Isaiah 21–25 (~4,050 words, ~20 min)
+- [ ] Day 6: Isaiah 26–30 (~4,100 words, ~21 min)
+- [ ] Day 7: Isaiah 31–35 (~4,000 words, ~20 min)
+- [ ] Day 8: Isaiah 36–40 (~4,050 words, ~20 min)
+- [ ] Day 9: Isaiah 41–45 (~4,150 words, ~21 min)
+- [ ] Day 10: Isaiah 46–50 (~4,000 words, ~20 min)
+- [ ] Day 11: Isaiah 51–55 (~4,050 words, ~20 min)
+- [ ] Day 12: Isaiah 56–60 (~4,100 words, ~21 min)
+- [ ] Day 13: Isaiah 61–66 (~4,150 words, ~21 min)
