@@ -82,15 +82,24 @@
 
 # 3. 📝 Observations (Inductive)
 
-- Mark uses the temporal word "After" to signify a transition in his narrative
-- After John was arrested, Mark transitions to Jesus
-- 
-- Jesus started His ministry by going to Galilee
+Repeated words:
+- Gospel
+- God
+
+Verbs of proclamation:
+- proclaimed
+- said
+
+Kingdom / repentance / good news
 - Jesus proclaimed the gospel of God
-- The first thing Jesus says is that "the time is fulfilled"
-- Jesus said that the kingdom of God is near
-- Jesus tells people to repent
-- Jesus tells people to believe in the gospel
+- kingdom of God is near
+- Jesus told people to repent and believe in the gospel
+
+Location / audience / timing cues
+- After John was arrested, Mark transitions to Jesus
+- After John was arrested, Jesus went into Galilee
+- The audience is the people in Galilee
+- "The time is fulfilled" was the first thing Jesus said
     
 
 
