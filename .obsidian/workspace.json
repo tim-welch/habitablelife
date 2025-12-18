@@ -135,8 +135,33 @@
                   "icon": "lucide-file",
                   "title": "Exegetical Notebook - Mark 1_14-15"
                 }
+              },
+              {
+                "id": "a1f638abcfc4ffaa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/03 - IBRP - Section 1.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "03 - IBRP - Section 1"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "horizontal"
@@ -211,7 +236,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 378.5,
+    "collapsed": true
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -376,26 +402,32 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "de9039b1cba30c6e",
+  "active": "a1f638abcfc4ffaa",
   "lastOpenFiles": [
-    "Bible/Berean Bible verse numbers.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/09 - IBRP - Section 7.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/08 - IBRP - Section 6.md",
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/~$ily Reading Questions.docx",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/Daily Reading Questions.docx",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/New Microsoft Word Document.docx",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/02 - Integrated Bible Reading Plan.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/01 - 1 year reading plan - 5 days per week.md",
+    "Bible Reading Plans/Bible Word Count by Chapter.csv",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/Integrated_Bible_Reading_Plan.docx",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/Integrated_Bible_Reading_Plan - Checklist.docx",
+    "Bible/Berean Bible verse numbers.md",
     "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
     "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/03 - IBRP - Section 1.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/02 - Integrated Bible Reading Plan.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/04 - IBRP - Section 2.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/05 - IBRP - Section 3.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/06 - IBRP - Section 4.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/07 - IBRP - Section 5.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/08 - IBRP - Section 6.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/09 - IBRP - Section 7.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/10 - IBRP - Section 8.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/11 - IBRP - Section 9.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/12 - IBRP - Section 10.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/14 - IBRP - Section 12.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/13 - IBRP - Section 11.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/01 - 1 year reading plan - 5 days per week.md",
     "Bible Reading Plans/Integrated Bible Reading Plan.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d",
     "Bible Reading Plans/1 year reading plan - 5 days per week/Psalms Reading Plan.md",
@@ -404,16 +436,9 @@
     "Bible Reading Plans/1 year reading plan - 5 days per week/Genesis Reading Plan.md",
     "Bible Reading Plans/1 year reading plan - 5 days per week/Ezekiel Reading Plan.md",
     "Bible Reading Plans/1 year reading plan - 5 days per week/Numbers Reading Plan.md",
-    "Bible Reading Plans/1 year reading plan - 5 days per week/Exodus Reading Plan.md",
     "Bible Reading Plans/1 year reading plan - 5 days per week",
     "Bible Reading Plans",
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook",
-    "NT_Apprenticeship/Phase0_Gospel/assignments",
-    "NT_Apprenticeship/Phase0_Gospel",
-    "NT_Apprenticeship",
-    "content/essays",
-    "tools/ring.bat",
-    "tools/missing copy.bat",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/note-taking/Verse-Headings-Inside-Chapters-og-image.webp",
     "public/notes/note-taking/Understanding-presuppositions-in-Bible-study-og-image.webp",

@@ -1,1 +1,1 @@
-call "%~dp0review.bat"  missing %*
+.\review.bat missing %*

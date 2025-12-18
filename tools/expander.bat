@@ -1,1 +1,1 @@
-call "%~dp0review.bat"  expander %*
+.\review.bat expander %*

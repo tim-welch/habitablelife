@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "03 - IBRP - Section 1",
+      "path": "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/03 - IBRP - Section 1.md"
+    },
+    {
+      "basename": "09 - IBRP - Section 7",
+      "path": "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/09 - IBRP - Section 7.md"
+    },
+    {
+      "basename": "08 - IBRP - Section 6",
+      "path": "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/08 - IBRP - Section 6.md"
+    },
+    {
       "basename": "Exegetical Notebook - Mark 1_14-15",
       "path": "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md"
+    },
+    {
+      "basename": "02 - Integrated Bible Reading Plan",
+      "path": "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/02 - Integrated Bible Reading Plan.md"
+    },
+    {
+      "basename": "01 - 1 year reading plan - 5 days per week",
+      "path": "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/01 - 1 year reading plan - 5 days per week.md"
     },
     {
       "basename": "Berean Bible verse numbers",
@@ -179,18 +199,6 @@
     {
       "basename": "Jesus Appeared After His Resurrection",
       "path": "content/notes/statement of faith/Jesus Appeared After His Resurrection.md"
-    },
-    {
-      "basename": "essay-outliner",
-      "path": "prompts/api/essay-outliner.md"
-    },
-    {
-      "basename": "ring",
-      "path": "prompts/api/ring.md"
-    },
-    {
-      "basename": "The Resurrection Validates Jesus as Christ",
-      "path": "content/notes/statement of faith/The Resurrection Validates Jesus as Christ.md"
     }
   ],
   "omittedPaths": [
