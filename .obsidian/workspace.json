@@ -8,102 +8,63 @@
         "type": "split",
         "children": [
           {
-            "id": "c932b75082859702",
-            "type": "split",
+            "id": "049cd44ff082fc34",
+            "type": "tabs",
             "dimension": 40.38772213247172,
             "children": [
               {
-                "id": "049cd44ff082fc34",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "1a58d98f77f0c58e",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Bible/Berean Bible verse numbers.md",
-                        "mode": "source",
-                        "source": true,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "Berean Bible verse numbers"
+                "id": "1a58d98f77f0c58e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bible/Berean Bible verse numbers.md",
+                    "mode": "source",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
                     }
                   },
-                  {
-                    "id": "345dbc98d45c8d39",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
-                        "mode": "preview",
-                        "source": true,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "📚 Phase 0 — Week 1 Assignments"
-                    }
-                  }
-                ]
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Berean Bible verse numbers"
+                }
               },
               {
-                "id": "10c63d9e99f185df",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "1b885ed40821c80b",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
-                        "mode": "preview",
-                        "source": true,
-                        "backlinks": true,
-                        "backlinkOpts": {
-                          "collapseAll": false,
-                          "extraContext": false,
-                          "sortOrder": "alphabetical",
-                          "showSearch": false,
-                          "searchQuery": "",
-                          "backlinkCollapsed": false,
-                          "unlinkedCollapsed": true
-                        }
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "Phase 0 — Week 1 Checklist"
+                "id": "345dbc98d45c8d39",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
+                    "mode": "preview",
+                    "source": true,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
                     }
-                  }
-                ]
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "📚 Phase 0 — Week 1 Assignments"
+                }
               }
-            ],
-            "direction": "vertical"
+            ]
           },
           {
             "id": "1b5f17febd6d09f7",
@@ -402,8 +363,22 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "a1f638abcfc4ffaa",
+  "active": "1a58d98f77f0c58e",
   "lastOpenFiles": [
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/26 - Section 12 Questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/25 - Section 11 Questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/24 - Section 10 Questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/23 - Section 9 Questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/22 - Section 8 Questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/21 - Section 7 Questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/20 - Section 6 Questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/19 - Section 5 Questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/18 - Section 4 Questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/17 - Section 3 questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/16 - Section 2 Questions.md",
+    "prompts/Bible reading chat.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/15 - Section 1 Questions.md",
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/03 - IBRP - Section 1.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/09 - IBRP - Section 7.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/08 - IBRP - Section 6.md",
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook/Exegetical Notebook - Mark 1_14-15.md",
@@ -418,24 +393,11 @@
     "Bible/Berean Bible verse numbers.md",
     "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
     "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/03 - IBRP - Section 1.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/04 - IBRP - Section 2.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/05 - IBRP - Section 3.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/06 - IBRP - Section 4.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/07 - IBRP - Section 5.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/10 - IBRP - Section 8.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/11 - IBRP - Section 9.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/12 - IBRP - Section 10.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/14 - IBRP - Section 12.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/13 - IBRP - Section 11.md",
-    "Bible Reading Plans/Integrated Bible Reading Plan.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d",
-    "Bible Reading Plans/1 year reading plan - 5 days per week/Psalms Reading Plan.md",
-    "Bible Reading Plans/1 year reading plan - 5 days per week/Isaiah Reading Plan.md",
-    "Bible Reading Plans/1 year reading plan - 5 days per week/Jeremiah Reading Plan.md",
-    "Bible Reading Plans/1 year reading plan - 5 days per week/Genesis Reading Plan.md",
-    "Bible Reading Plans/1 year reading plan - 5 days per week/Ezekiel Reading Plan.md",
-    "Bible Reading Plans/1 year reading plan - 5 days per week/Numbers Reading Plan.md",
     "Bible Reading Plans/1 year reading plan - 5 days per week",
     "Bible Reading Plans",
     "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook",
