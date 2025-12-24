@@ -197,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5,
-    "collapsed": true
+    "width": 378.5
   },
   "right": {
     "id": "d9e1cf50b3c65170",
@@ -363,8 +362,10 @@
       "workspaces-plus:Manage workspaces": false
     }
   },
-  "active": "1a58d98f77f0c58e",
+  "active": "a1f638abcfc4ffaa",
   "lastOpenFiles": [
+    "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/~$estions.docx",
+    "Bible/Berean Bible verse numbers.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/questions.docx",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/26 - Section 12 Questions.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/25 - Section 11 Questions.md",
@@ -391,7 +392,6 @@
     "Bible Reading Plans/Bible Word Count by Chapter.csv",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/Integrated_Bible_Reading_Plan.docx",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/Integrated_Bible_Reading_Plan - Checklist.docx",
-    "Bible/Berean Bible verse numbers.md",
     "NT_Apprenticeship/Phase0_Gospel/📚 Phase 0 — Week 1 Assignments.md",
     "NT_Apprenticeship/Phase0_Gospel/Phase 0 — Week 1 Checklist.md",
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d/04 - IBRP - Section 2.md",
@@ -400,7 +400,6 @@
     "Bible Reading Plans/Integrated Bible Reading Plan - 1 y 5 d",
     "Bible Reading Plans/1 year reading plan - 5 days per week",
     "Bible Reading Plans",
-    "NT_Apprenticeship/Phase0_Gospel/assignments/Exegetical Notebook",
     "public/notes/note-taking/Zettelkasten-and-Inductive-Bible-Study-og-image.webp",
     "public/notes/note-taking/Verse-Headings-Inside-Chapters-og-image.webp",
     "public/notes/note-taking/Understanding-presuppositions-in-Bible-study-og-image.webp",
